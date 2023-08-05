@@ -1,128 +1,128 @@
 {
-    "Christian_Haitian": {
-        "name": "Christian_Haitian",
-        "social": "",
-        "support": "",
-        "webpage": "",
-        "image": ""
-    },
-    "Cebion": {
-        "name": "Cebion",
-        "social": "",
-        "support": "",
-        "webpage": "",
-        "image": ""
-    },
-    "romadu": {
-        "name": "romadu",
-        "social": "",
-        "support": "",
-        "webpage": "",
-        "image": ""
-    },
-    "Johnny on Flame": {
-        "name": "Johnny on Flame",
-        "social": "",
-        "support": "",
-        "webpage": "",
-        "image": ""
-    },
-    "Bamboozler": {
-        "name": "Bamboozler",
-        "social": "",
-        "support": "",
-        "webpage": "",
-        "image": ""
-    },
-    "kloptops": {
-        "name": "kloptops",
-        "social": "@kloptops@mastodon.social",
-        "support": "https://ko-fi.com/kloptops",
-        "webpage": "https://github.com/kloptops",
-        "image": "https://www.gravatar.com/avatar/47296811c3494d8d444562e7015a1bcd.jpg"
-    },
-    "Overflask": {
-        "name": "Overflask",
-        "social": "",
-        "support": "",
-        "webpage": "",
-        "image": ""
-    },
-    "Nuxx": {
-        "name": "Nuxx",
-        "social": "",
-        "support": "",
-        "webpage": "",
-        "image": ""
-    },
-    "Jetup": {
-        "name": "Jetup",
-        "social": "",
-        "support": "",
-        "webpage": "",
-        "image": ""
-    },
-    "Tekkenfede": {
-        "name": "Tekkenfede",
-        "social": "",
-        "support": "",
-        "webpage": "",
-        "image": ""
-    },
-    "nl255": {
-        "name": "nl255",
-        "social": "",
-        "support": "",
-        "webpage": "",
-        "image": ""
-    },
-    "Orson": {
-        "name": "Orson",
-        "social": "",
-        "support": "",
-        "webpage": "",
-        "image": ""
-    },
-    "Slayer366": {
-        "name": "Slayer366",
-        "social": "",
-        "support": "",
-        "webpage": "",
-        "image": ""
-    },
-    "krishenriksen": {
-        "name": "krishenriksen",
-        "social": "",
-        "support": "",
-        "webpage": "",
-        "image": ""
-    },
-    "brooksytech": {
-        "name": "brooksytech",
-        "social": "",
-        "support": "",
-        "webpage": "",
-        "image": ""
-    },
-    "jtothebell": {
-        "name": "jtothebell",
-        "social": "",
-        "support": "",
-        "webpage": "",
-        "image": ""
-    },
-    "TheGammaSqueeze": {
-        "name": "TheGammaSqueeze",
-        "social": "",
-        "support": "",
-        "webpage": "",
-        "image": ""
-    },
-    "Snoopy": {
-        "name": "Snoopy",
-        "social": "",
-        "support": "",
-        "webpage": "",
-        "image": ""
-    }
+  "Christian_Haitian": {
+    "name": "Christian_Haitian",
+    "social": "",
+    "support": "",
+    "webpage": "",
+    "image": ""
+  },
+  "Cebion": {
+    "name": "Cebion",
+    "social": "",
+    "support": "",
+    "webpage": "",
+    "image": ""
+  },
+  "romadu": {
+    "name": "romadu",
+    "social": "",
+    "support": "",
+    "webpage": "",
+    "image": ""
+  },
+  "Johnny on Flame": {
+    "name": "Johnny on Flame",
+    "social": "",
+    "support": "",
+    "webpage": "",
+    "image": ""
+  },
+  "Bamboozler": {
+    "name": "Bamboozler",
+    "social": "",
+    "support": "",
+    "webpage": "https://github.com/christopher-roelofs",
+    "image": "https://campussafetyconference.com/wp-content/uploads/2020/08/iStock-476085198.jpg"
+  },
+  "kloptops": {
+    "name": "kloptops",
+    "social": "@kloptops@mastodon.social",
+    "support": "https://ko-fi.com/kloptops",
+    "webpage": "https://github.com/kloptops",
+    "image": "https://www.gravatar.com/avatar/47296811c3494d8d444562e7015a1bcd.jpg"
+  },
+  "Overflask": {
+    "name": "Overflask",
+    "social": "",
+    "support": "",
+    "webpage": "",
+    "image": ""
+  },
+  "Nuxx": {
+    "name": "Nuxx",
+    "social": "",
+    "support": "",
+    "webpage": "",
+    "image": ""
+  },
+  "Jetup": {
+    "name": "Jetup",
+    "social": "",
+    "support": "",
+    "webpage": "",
+    "image": ""
+  },
+  "Tekkenfede": {
+    "name": "Tekkenfede",
+    "social": "",
+    "support": "",
+    "webpage": "",
+    "image": ""
+  },
+  "nl255": {
+    "name": "nl255",
+    "social": "",
+    "support": "",
+    "webpage": "",
+    "image": ""
+  },
+  "Orson": {
+    "name": "Orson",
+    "social": "",
+    "support": "",
+    "webpage": "",
+    "image": ""
+  },
+  "Slayer366": {
+    "name": "Slayer366",
+    "social": "",
+    "support": "",
+    "webpage": "",
+    "image": ""
+  },
+  "krishenriksen": {
+    "name": "krishenriksen",
+    "social": "",
+    "support": "",
+    "webpage": "",
+    "image": ""
+  },
+  "brooksytech": {
+    "name": "brooksytech",
+    "social": "",
+    "support": "",
+    "webpage": "",
+    "image": ""
+  },
+  "jtothebell": {
+    "name": "jtothebell",
+    "social": "",
+    "support": "",
+    "webpage": "",
+    "image": ""
+  },
+  "TheGammaSqueeze": {
+    "name": "TheGammaSqueeze",
+    "social": "",
+    "support": "",
+    "webpage": "",
+    "image": ""
+  },
+  "Snoopy": {
+    "name": "Snoopy",
+    "social": "",
+    "support": "",
+    "webpage": "",
+    "image": ""
+  }
 }
