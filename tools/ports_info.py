@@ -496,9 +496,9 @@ def main():
     ## Special ports.
     known_ports = Path('known-ports/').absolute()
 
-    info_file   = Path('port_info.json').absolute()
+    info_file   = Path('ports_info.json').absolute()
 
-    state_file   = Path('port_info_state.json').absolute()
+    state_file   = Path('ports_info_state.json').absolute()
 
     if not root_path.is_dir() or not host_path.is_dir():
         print("You must have the PortMaster git repo and PortMaster-Hosting downloads to scan port_info")
