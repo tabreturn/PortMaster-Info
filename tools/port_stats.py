@@ -3,6 +3,7 @@
 import functools
 import json
 import pathlib
+import re
 
 from pathlib import Path
 
