@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Ready to Run Bangers",
+        "image": "images/sausage.jpg",
+        "description": "Ports which are ready to run and are absolute bangers.",
+        "ports": [
+            "rota.zip",
+            "echo_chamber.zip"
+        ]
+    }
+]
