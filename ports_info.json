@@ -93,6 +93,8 @@
     "Duke Nukem 3D.sh": "duke.nukem.3d.zip",
     "DungeonRush.sh": "dungeonrush.zip",
     "dungeonrush/": "dungeonrush.zip",
+    "Echo Chamber.sh": "echo_chamber.zip",
+    "echo_chamber/": "echo_chamber.zip",
     "Eity.sh": "eity.zip",
     "eity/": "eity.zip",
     "Enigma.sh": "enigma.zip",
@@ -387,6 +389,8 @@
     "VVVVVV/": "vvvvvv.zip",
     "Wetspot2.sh": "wetspot2.zip",
     "wetspot2/": "wetspot2.zip",
+    "Wizardchase.sh": "wizardchase.zip",
+    "wizardchase/": "wizardchase.zip",
     "Wizznic.sh": "wizznic.zip",
     "wizznic/": "wizznic.zip",
     "Wordle SDL.sh": "wordlesdl.zip",
@@ -922,6 +926,7 @@
     "e1eba2f4e26f59e4c71acfba653ed708": "Anarch.sh",
     "e2263658c232b1dc294c9e48bbf51d32": "Quake.sh",
     "e277354e2983c7f3aa8daf8a1329326f": "Star Wars Jedi Knight II - Jedi Outcast.sh",
+    "e28b85c7dfb1f4594f21466f6d181fc1": "Echo Chamber.sh",
     "e3388bbc0b001886921b8c46bbc760b2": "VanillaRA.sh",
     "e39be0dfe33e8be952e88229ed9f26b8": "Simple Sokoban.sh",
     "e3bf00b46655efbd95ca2a4e67cf90e1": "SDL Sopwith.sh",
@@ -988,6 +993,7 @@
     "fc894484525bd9a8e148566381cadfdb": "Celeste Classic.sh",
     "fd0c734a99b9378a35b0387d3c39f732": "Freedom Planet.sh",
     "fd1f4f809f4652528b52a85ed6eed4c6": "GemRB.sh",
+    "fd349617de31325ad8565a10ad427222": "Wizardchase.sh",
     "fdc2f43f9b270c427302fe43b23801ec": "VanillaRA.sh",
     "fdf995ebbcd1fcdbeda02003f96a8164": "Cannonball.sh",
     "fdfaa1963fee9b735bca7a10e2f235d9": "Falling Time.sh",
@@ -1280,6 +1286,12 @@
       "file": "dungeonrush/dungeonrush.port.json",
       "items": ["dungeonrush/", "DungeonRush.sh"],
       "name": "dungeonrush.zip"
+    },
+    "echo_chamber.zip": {
+      "date": ["2023-08-04", "2023-08-04"],
+      "file": "echo_chamber/echo_chamber.port.json",
+      "items": ["Echo Chamber.sh", "echo_chamber/"],
+      "name": "echo_chamber.zip"
     },
     "eity.zip": {
       "date": ["2023-04-30", "2023-04-30"],
@@ -2118,6 +2130,12 @@
       "file": "wetspot2/wetspot2.port.json",
       "items": ["Wetspot2.sh", "wetspot2/"],
       "name": "wetspot2.zip"
+    },
+    "wizardchase.zip": {
+      "date": ["2023-08-04", "2023-08-04"],
+      "file": "wizardchase/wizardchase.port.json",
+      "items": ["Wizardchase.sh", "wizardchase/"],
+      "name": "wizardchase.zip"
     },
     "wizznic.zip": {
       "date": ["2023-07-13", "2023-07-13"],
