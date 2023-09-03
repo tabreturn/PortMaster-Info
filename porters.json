@@ -1,6 +1,7 @@
 {
   "Christian_Haitian": {
     "name": "Christian_Haitian",
+    "bio":"",
     "social": "",
     "support": "",
     "webpage": "",
@@ -8,13 +9,15 @@
   },
   "Cebion": {
     "name": "Cebion",
+    "bio":"Look behind you, a three headed Monkey!",
     "social": "",
-    "support": "",
-    "webpage": "",
-    "image": ""
+    "support": "https://ko-fi.com/cebion",
+    "webpage": "https://github.com/Cebion/",
+    "image": "https://media.discordapp.net/attachments/1122863349739290676/1147887144619233340/avatar.jpg"
   },
   "romadu": {
     "name": "romadu",
+    "bio":"",
     "social": "",
     "support": "",
     "webpage": "",
@@ -22,6 +25,7 @@
   },
   "Johnny on Flame": {
     "name": "Johnny on Flame",
+    "bio":"",
     "social": "",
     "support": "",
     "webpage": "",
@@ -29,6 +33,7 @@
   },
   "Bamboozler": {
     "name": "Bamboozler",
+    "bio":"",
     "social": "",
     "support": "",
     "webpage": "https://github.com/christopher-roelofs",
@@ -36,6 +41,7 @@
   },
   "kloptops": {
     "name": "kloptops",
+    "bio":"",
     "social": "@kloptops@mastodon.social",
     "support": "https://ko-fi.com/kloptops",
     "webpage": "https://github.com/kloptops",
@@ -43,6 +49,7 @@
   },
   "Overflask": {
     "name": "Overflask",
+    "bio":"",
     "social": "",
     "support": "",
     "webpage": "",
@@ -50,6 +57,7 @@
   },
   "Nuxx": {
     "name": "Nuxx",
+    "bio":"",
     "social": "",
     "support": "",
     "webpage": "",
@@ -57,6 +65,7 @@
   },
   "Jetup": {
     "name": "Jetup",
+    "bio":"",
     "social": "",
     "support": "",
     "webpage": "",
@@ -64,6 +73,7 @@
   },
   "Tekkenfede": {
     "name": "Tekkenfede",
+    "bio":"",
     "social": "",
     "support": "",
     "webpage": "",
@@ -71,6 +81,7 @@
   },
   "nl255": {
     "name": "nl255",
+    "bio":"",
     "social": "",
     "support": "",
     "webpage": "",
@@ -78,6 +89,7 @@
   },
   "Orson": {
     "name": "Orson",
+    "bio":"",
     "social": "",
     "support": "",
     "webpage": "",
@@ -85,6 +97,7 @@
   },
   "Slayer366": {
     "name": "Slayer366",
+    "bio":"",
     "social": "",
     "support": "",
     "webpage": "",
@@ -92,6 +105,7 @@
   },
   "krishenriksen": {
     "name": "krishenriksen",
+    "bio":"",
     "social": "",
     "support": "",
     "webpage": "",
@@ -99,6 +113,7 @@
   },
   "brooksytech": {
     "name": "brooksytech",
+    "bio":"",
     "social": "",
     "support": "",
     "webpage": "",
@@ -106,6 +121,7 @@
   },
   "jtothebell": {
     "name": "jtothebell",
+    "bio":"",
     "social": "",
     "support": "",
     "webpage": "",
@@ -113,6 +129,7 @@
   },
   "TheGammaSqueeze": {
     "name": "TheGammaSqueeze",
+    "bio":"",
     "social": "",
     "support": "",
     "webpage": "",
@@ -120,6 +137,7 @@
   },
   "Snoopy": {
     "name": "Snoopy",
+    "bio":"",
     "social": "",
     "support": "",
     "webpage": "",
