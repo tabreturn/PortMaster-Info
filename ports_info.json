@@ -154,6 +154,7 @@
     "hawkthorne/": "hawkthorne.zip",
     "hcl/": "hydra.castle.labyrinth.zip",
     "Heart of Darkness.sh": "heart.of.darkness.zip",
+    "Heart Of The Alien Redux.sh": "hota.zip",
     "Hex-A-Hop.sh": "hex-a-hop.zip",
     "hex-a-hop/": "hex-a-hop.zip",
     "Hexen 2 - Portal of Praevus.sh": "hexen2.zip",
@@ -164,6 +165,7 @@
     "Hocoslamfy.sh": "hocoslamfy.zip",
     "hocoslamfy/": "hocoslamfy.zip",
     "hode/": "heart.of.darkness.zip",
+    "hota/": "hota.zip",
     "Hurrican.sh": "hurrican.zip",
     "hurrican/": "hurrican.zip",
     "Hydra Castle Labyrinth.sh": "hydra.castle.labyrinth.zip",
@@ -819,6 +821,7 @@
     "ad7c83fd3bb67f73de331d09280c6de2": "Devilutionx.sh",
     "ae45e3c2d873c9ba25e0c3f3e62e4930": "Half-Life.sh",
     "afb506b256fff3860a8b66f429aa32d6": "Sonic 2.sh",
+    "afe1a4f7f503c14b7f8e257e20b96c3e": "Heart Of The Alien Redux.sh",
     "b0929fb8dfbc24131b8f1265cbd927a6": "Quake.sh",
     "b1a14590079e7b01969fb8e345730144": "Heart of Darkness.sh",
     "b1f86bdd0b900fa3daaa7621403dc118": "Freedom Planet.sh",
@@ -1477,6 +1480,12 @@
       "file": "hocoslamfy/hocoslamfy.port.json",
       "items": ["Hocoslamfy.sh", "hocoslamfy/"],
       "name": "hocoslamfy.zip"
+    },
+    "hota.zip": {
+      "date": ["2023-09-03", "2023-09-03"],
+      "file": "hota/hota.port.json",
+      "items": ["Heart Of The Alien Redux.sh", "hota/"],
+      "name": "hota.zip"
     },
     "hoverboard.zip": {
       "date": ["2023-06-11", "2023-06-11"],
