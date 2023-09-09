@@ -65,6 +65,10 @@
     "chasm/": "chasm.zip",
     "Cliff Hanger.sh": "cliff_hanger.zip",
     "cliff_hanger/": "cliff_hanger.zip",
+    "Clockwind.sh": "clockwind.zip",
+    "clockwind/": "clockwind.zip",
+    "Coi.sh": "thecurseofissyos.zip",
+    "coi/": "thecurseofissyos.zip",
     "Commander Genius.sh": "commander.genius.zip",
     "CorsixTH.sh": "corsixth.zip",
     "CorsixTH/": "corsixth.zip",
@@ -385,6 +389,9 @@
     "upo/": "upo.zip",
     "UQM.sh": "uqm.zip",
     "UQM/": "uqm.zip",
+    "Valhalla.sh": "valhalla.zip",
+    "valhalla/": "valhalla.zip",
+    "Valhalla/": "valhalla.zip",
     "VanillaRA.sh": "vanillara.zip",
     "vanillara/": "vanillara.zip",
     "VanillaTD.sh": "vanillatd.zip",
@@ -411,6 +418,8 @@
     "yatka/": "yatka.zip",
     "zelda3.sh": "zelda3.zip",
     "zelda3/": "zelda3.zip",
+    "Zeroranger.sh": "zeroranger.zip",
+    "zeroranger/": "zeroranger.zip",
     "zgloom/": "zgloom.zip",
     "Znax.sh": "znax.zip",
     "znax/": "znax.zip"
@@ -486,6 +495,7 @@
     "1c60f9c8685647c382addb18bd6d79ea": "Me and My Shadow.sh",
     "1d381372de108c31593d4e11c638841f": "Cannonball.sh",
     "1dcb7d44931d6fa0dc9e83d307156601": "Laser Kombat.sh",
+    "1e3b13df859c3f3ee98cd30ad361bf3a": "Valhalla.sh",
     "1e4479b941ed109f300a32f112330f75": "VCMI.sh",
     "1f8e07c76f1dd47f2dadfb17c74b34fe": "Star Wars Jedi Knight - Jedi Academy.sh",
     "1faa5ecd40450ba21a480b0c043daf67": "Space Cadet Pinball.sh",
@@ -646,6 +656,7 @@
     "5f8de08363b407e0bea82c85547fdd95": "Openomf.sh",
     "5feed190d48ef66c97c0c6c093f27228": "Openclaw.sh",
     "60831f62519d9395abb50e43aa8a96b5": "Blues Brothers Jukebox Adventure.sh",
+    "609d199fab17b2c7345f06bc251d089d": "Zeroranger.sh",
     "61aa7de58863fe29c9d10678791127a4": "Tile World (Natural Theme Mod).sh",
     "620738361b32fe6abf1337690b715332": "Commander Genius.sh",
     "62666ecc4a45eb55d0ec09bc0d23043b": "Sonic CD.sh",
@@ -830,6 +841,7 @@
     "b29b634dc82a5b655d9d2a254b33668e": "C-Dogs.sh",
     "b2eb4a40716f357a30ccf0ab0d9a4e51": "Exult-keyring.sh",
     "b328c48b7c58adb4ae5726fa606c12d3": "VanillaRA.sh",
+    "b47cd0a655bed3c08f5dde6f8d3e8b08": "Clockwind.sh",
     "b54f37551a62d2320f441ba392050017": "Quake.sh",
     "b625cd1669073737183b1a3b33c4bd95": "AM2R.sh",
     "b66362d80d8b780fa423aa0326dc2cd2": "Marathon 2.sh",
@@ -929,6 +941,7 @@
     "dfba2d3e16e12dac94e5ad793be59cde": "Openclaw.sh",
     "dfe6d0234822dc8cec0cb0fcb031d893": "Timespinner.sh",
     "e0876ad40b9a7268c65bd06342032920": "OpenJazz.sh",
+    "e0e02ef54063bf6a2b5d42662f785c7b": "PlanetWaves.sh",
     "e0e42dea164ebaeedbd7f748c2ead1e8": "Worship Vector.sh",
     "e1a3e3fc911166181b14a53b4e4528bb": "Duke Nukem 3D.sh",
     "e1acb77332005a5eb4494927a87bb3b4": "OpenJazz.sh",
@@ -970,6 +983,7 @@
     "ee24495628c5ea972e767f2b02f2eae7": "SorR.sh",
     "ee529136ceda74b39be164172a5935a4": "Dave Gnukem.sh",
     "ee9d6e5fe5ba5c5c24ca35ef612580ac": "nKaruga.sh",
+    "eed9e5a12a2ff051ae72609dda4a0117": "Coi.sh",
     "f005524ddc201856679b4ffb0fea0100": "Maldita Castilla.sh",
     "f04f47c0596789fe2f05ce0a367942e9": "Shovel Knight.sh",
     "f04fa6a4c2b507488aa8bc1f9867e921": "Hurrican.sh",
@@ -991,6 +1005,7 @@
     "f884923caf1a5722670e09c15f3aee53": "Blake Stone - Aliens of Gold.sh",
     "f90a498dba8397dc35ddac91c0ddb067": "Rick Dangerous.sh",
     "f91b1e7528c9d97d85a785575cfdd2b3": "OpenTyrian.sh",
+    "f9341b9199e20d2b2ecd7ca30542784a": "Zeroranger.sh",
     "fa7a1273650800a9973e8891f96c4c60": "NAM.sh",
     "faf6ca06438d8661f96a58c6fac463c5": "Marathon.sh",
     "fb3e93fa2c8f1ca27836f2ebed9ae889": "ROTT.sh",
@@ -1205,6 +1220,12 @@
       "file": "cliff_hanger/cliff_hanger.port.json",
       "items": ["Cliff Hanger.sh", "cliff_hanger/"],
       "name": "cliff_hanger.zip"
+    },
+    "clockwind.zip": {
+      "date": ["2023-09-07", "2023-09-07"],
+      "file": "clockwind/clockwind.port.json",
+      "items": ["Clockwind.sh", "clockwind/"],
+      "name": "clockwind.zip"
     },
     "commander.genius.zip": {
       "date": ["2021-09-10", "2023-01-07"],
@@ -1428,7 +1449,7 @@
       "name": "gmu.music.player.zip"
     },
     "gnurobbo.zip": {
-      "date": ["2023-09-02", "2023-09-02"],
+      "date": ["2023-09-02", "2023-09-07"],
       "file": "gnurobbo/gnurobbo.port.json",
       "items": ["GNU Robbo.sh", "gnurobbo/"],
       "name": "gnurobbo.zip"
@@ -1769,7 +1790,7 @@
       "name": "pigeon.zip"
     },
     "planetwaves.zip": {
-      "date": ["2023-06-09", "2023-06-09"],
+      "date": ["2023-06-09", "2023-09-05"],
       "file": "PlanetWaves/PlanetWaves.port.json",
       "items": ["PlanetWaves/", "PlanetWaves.sh"],
       "name": "planetwaves.zip"
@@ -2049,6 +2070,12 @@
       "items": ["tamatool/", "Tamatool.sh"],
       "name": "tamatool.zip"
     },
+    "thecurseofissyos.zip": {
+      "date": ["2023-09-06", "2023-09-06"],
+      "file": "coi/coi.port.json",
+      "items": ["Coi.sh", "coi/"],
+      "name": "thecurseofissyos.zip"
+    },
     "thermomorph.zip": {
       "date": ["2023-05-03", "2023-05-03"],
       "file": "thermomorph/thermomorph.port.json",
@@ -2128,6 +2155,12 @@
       "items": ["UQM/", "UQM.sh"],
       "name": "uqm.zip"
     },
+    "valhalla.zip": {
+      "date": ["2023-09-06", "2023-09-06"],
+      "file": "Valhalla/Valhalla.port.json",
+      "items": ["valhalla/", "Valhalla.sh", "Valhalla/"],
+      "name": "valhalla.zip"
+    },
     "vanillara.zip": {
       "date": ["2023-03-21", "2023-04-10"],
       "file": "vanillara/vanillara.port.json",
@@ -2198,6 +2231,12 @@
       "file": "zelda3/zelda3.port.json",
       "items": ["zelda3.sh", "zelda3/"],
       "name": "zelda3.zip"
+    },
+    "zeroranger.zip": {
+      "date": ["2023-09-06", "2023-09-07"],
+      "file": "zeroranger/zeroranger.port.json",
+      "items": ["zeroranger/", "Zeroranger.sh"],
+      "name": "zeroranger.zip"
     },
     "zgloom.zip": {
       "date": ["2023-05-09", "2023-06-13"],
