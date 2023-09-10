@@ -142,5 +142,13 @@
     "support": "",
     "webpage": "",
     "image": ""
+  },
+  "tabreturn": {
+    "name": "tabreturn",
+    "bio":"",
+    "social": "https://twitter.com/tabreturn",
+    "support": "",
+    "webpage": "https://tabreturn.com",
+    "image": "https://avatars.githubusercontent.com/u/9858145"
   }
 }
