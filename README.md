@@ -14,3 +14,4 @@ This is **not** a database.
 | `port_stats.json`         | The number of downloads for ports and total downloads so far from github.      |
 | `port_stats_raw.json`     | Cache so we don't have to hammer github to update the `ports_stats.json` file. |
 | `porters.json`            | Information about porters                                                      |
+| `sources.json`            | Sources for ports.                                                             |

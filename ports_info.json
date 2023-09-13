@@ -24,6 +24,8 @@
     "avp/": "avp.zip",
     "Axiom Verge.sh": "axiom.verge.zip",
     "axiom-verge/": "axiom.verge.zip",
+    "Banana Duck.sh": "banana.duck.zip",
+    "bananaduck/": "banana.duck.zip",
     "Beat2x.sh": "beat2x.zip",
     "beat2x/": "beat2x.zip",
     "Bermuda Syndrome.sh": "bermuda_syndrome.zip",
@@ -94,8 +96,12 @@
     "diverdown/": "diverdown.zip",
     "DomeRomantik.sh": "domeromantik.zip",
     "DomeRomantik/": "domeromantik.zip",
+    "Donut Dodo.sh": "donut.dodo.zip",
+    "donutdodo/": "donut.dodo.zip",
     "Doom 3.sh": "doom3.zip",
     "doom3/": "doom3.zip",
+    "DROID7.sh": "droid7.zip",
+    "droid7/": "droid7.zip",
     "Duke Nukem 3D.sh": "duke.nukem.3d.zip",
     "DungeonRush.sh": "dungeonrush.zip",
     "dungeonrush/": "dungeonrush.zip",
@@ -212,6 +218,8 @@
     "mrboom/": "mr.boom.zip",
     "Multris.sh": "multris.zip",
     "multris/": "multris.zip",
+    "Murtop.sh": "murtop.zip",
+    "murtop/": "murtop.zip",
     "NAM.sh": "nam.zip",
     "Nanosaur.sh": "nanosaur.zip",
     "nanosaur/": "nanosaur.zip",
@@ -259,6 +267,8 @@
     "ottomatic/": "ottomatic.zip",
     "Owlboy.sh": "owlboy.zip",
     "owlboy/": "owlboy.zip",
+    "PAUSED.sh": "paused.zip",
+    "paused/": "paused.zip",
     "Pekka Kana 2.sh": "pekka-kana-2.zip",
     "pekka-kana-2/": "pekka-kana-2.zip",
     "PigeonAscent.sh": "pigeon.zip",
@@ -349,6 +359,8 @@
     "srb2kart/": "srb2kart.zip",
     "Star Wars Jedi Knight - Jedi Academy.sh": "jediacademy.zip",
     "Star Wars Jedi Knight II - Jedi Outcast.sh": "jedioutcast.zip",
+    "StarBoy.sh": "starboy.zip",
+    "starboy/": "starboy.zip",
     "Starcatcher.sh": "starcatcher.zip",
     "starcatcher/": "starcatcher.zip",
     "StardewValley.sh": "stardewvalley.zip",
@@ -364,6 +376,8 @@
     "tamatool/": "tamatool.zip",
     "Thermomorph.sh": "thermomorph.zip",
     "thermomorph/": "thermomorph.zip",
+    "Thwack.sh": "thwack.zip",
+    "thwack/": "thwack.zip",
     "Tile World (Chip's Challenge).sh": "tileworld.zip",
     "Tile World (Natural Theme Mod).sh": "tileworld.zip",
     "tileworld/": "tileworld.zip",
@@ -436,6 +450,7 @@
     "048530e24c19dee31587960b08a574f4": "Blake Stone - Aliens of Gold.sh",
     "049eee25455ed3636996087cbcfafbb0": "Blobby Volley 2.sh",
     "04a7771da9bb9003f866695e1b38fcfe": "World War II GI.sh",
+    "059e0f3b2d478b4391aa66e485b39863": "Donut Dodo.sh",
     "05a3571b35bb87732d83a660051470bf": "Redneck Rampage Rides Again.sh",
     "05db2626ad7800603f64ec4874c075dc": "Dinothawr.sh",
     "06aa277496b0abb6c9ee19426b415885": "Cave Story.sh",
@@ -470,6 +485,7 @@
     "12d755de17496ccdcf9857b36eccd869": "Invaders.sh",
     "12fb1cb8ccc54d06f23bade0ffb06424": "Space Cadet Pinball.sh",
     "13877253638d1241e077cdbb4934bd15": "Cave Story.sh",
+    "13b58dbac7d05a9375675fe644f1161b": "StarBoy.sh",
     "1458a82898ab99bcfd845f39a635035b": "Meritous.sh",
     "150c3150d991e9504c26eb949bea2e70": "RVGL.sh",
     "1597834fdd1803e3310ef314cb02af5c": "Redneck Rampage.sh",
@@ -681,6 +697,7 @@
     "6cf7c549672931f4d67adf7097b5ad74": "Moonlight.sh",
     "6d1aeb2df90aa8f2cf0fcc5c14c0bcf5": "Blake Stone - Aliens of Gold.sh",
     "6d4ab072d061656c5b6f91638af86317": "Flare Engine.sh",
+    "6dc3ab0aa921e866b23b2e052b3cda6d": "DROID7.sh",
     "6ea1903017f054d207aa10ae0e8e097e": "Rick Dangerous.sh",
     "6ee5b23091a51d97bd2d59298f416c7b": "Quake 2.sh",
     "6f1e9d1f6cb9ddae8b1fb338f4bb5140": "Redneck Rampage Rides Again.sh",
@@ -689,6 +706,7 @@
     "701879ac1866bdc59da46b669d70f3ca": "Quake 2.sh",
     "7057b555341b20c23c895d6c1c8cd841": "Shovel Knight.sh",
     "70b5b8f03dac75305f77c90210f0ab34": "NAM.sh",
+    "70bce5bd890b306453eb6998413baf46": "Thwack.sh",
     "717c57f9067a87cd63922dc25f1b9363": "Commander Genius.sh",
     "722e3a646736044a16b7d336b2c6299c": "Marathon.sh",
     "72526b4b6b00767e3a23e19c21127626": "Marathon 2.sh",
@@ -805,6 +823,7 @@
     "a142586766d22c288f7b2ca29434424b": "VanillaRA.sh",
     "a182c80a2dc2ab6c8769fbcfc1c753c4": "ROTA.sh",
     "a1c14221ab8b2b951b30804cb73277e0": "RVGL.sh",
+    "a1c78ea84dfe84b0285e5c68facda61a": "Murtop.sh",
     "a21185b88b97fc549f3f64a0f268ac2f": "Alien vs Predator.sh",
     "a2449344f36b772dd16edeba74e01a56": "Rick Dangerous.sh",
     "a263e558201087849e875c8ce9cabd5b": "nKaruga.sh",
@@ -851,6 +870,7 @@
     "ba3386cf5481eb216f28611ba6763dc9": "Tile World (Chip's Challenge).sh",
     "bb0dde94c579cf9e1d1471d3ef00039e": "OpenTyrian.sh",
     "bbc865ad69fa0d03b7623719c9443276": "Prehistorik 2.sh",
+    "bc5f457d985d6d3bcffeaec10280f342": "Banana Duck.sh",
     "bcbb9b52dc8410dd34f51a31dd69d808": "Shadow Warrior.sh",
     "bd272d1afe58ac13896ed347aefd1171": "SorR.sh",
     "bdcb67eaa4ec846cd0431230cb9849d2": "Daikatana.sh",
@@ -946,6 +966,7 @@
     "e1a3e3fc911166181b14a53b4e4528bb": "Duke Nukem 3D.sh",
     "e1acb77332005a5eb4494927a87bb3b4": "OpenJazz.sh",
     "e1eba2f4e26f59e4c71acfba653ed708": "Anarch.sh",
+    "e20ad0f025d35763e136f275c67461bc": "PAUSED.sh",
     "e2263658c232b1dc294c9e48bbf51d32": "Quake.sh",
     "e277354e2983c7f3aa8daf8a1329326f": "Star Wars Jedi Knight II - Jedi Outcast.sh",
     "e28b85c7dfb1f4594f21466f6d181fc1": "Echo Chamber.sh",
@@ -1019,6 +1040,7 @@
     "fd1f4f809f4652528b52a85ed6eed4c6": "GemRB.sh",
     "fd349617de31325ad8565a10ad427222": "Wizardchase.sh",
     "fdc2f43f9b270c427302fe43b23801ec": "VanillaRA.sh",
+    "fdf92ff8e19b9fdb17e3c7f11096af1c": "GemRB.sh",
     "fdf995ebbcd1fcdbeda02003f96a8164": "Cannonball.sh",
     "fdfaa1963fee9b735bca7a10e2f235d9": "Falling Time.sh",
     "ff55a19c97ca1b36cdd98443714c6c34": "DomeRomantik.sh"
@@ -1095,6 +1117,12 @@
       "file": "axiom-verge/axiom.verge.port.json",
       "items": ["axiom-verge/", "Axiom Verge.sh"],
       "name": "axiom.verge.zip"
+    },
+    "banana.duck.zip": {
+      "date": ["2023-09-12", "2023-09-12"],
+      "file": "bananaduck/bananaduck.port.json",
+      "items": ["Banana Duck.sh", "bananaduck/"],
+      "name": "banana.duck.zip"
     },
     "bbja.zip": {
       "date": ["2021-12-02", "2022-07-10"],
@@ -1305,11 +1333,23 @@
       "items": ["DomeRomantik/", "DomeRomantik.sh"],
       "name": "domeromantik.zip"
     },
+    "donut.dodo.zip": {
+      "date": ["2023-09-10", "2023-09-10"],
+      "file": "donutdodo/donutdodo.port.json",
+      "items": ["Donut Dodo.sh", "donutdodo/"],
+      "name": "donut.dodo.zip"
+    },
     "doom3.zip": {
       "date": ["2022-02-19", "2022-04-28"],
       "file": "doom3/doom3.port.json",
       "items": ["Doom 3.sh", "doom3/"],
       "name": "doom3.zip"
+    },
+    "droid7.zip": {
+      "date": ["2023-09-11", "2023-09-11"],
+      "file": "droid7/droid7.port.json",
+      "items": ["DROID7.sh", "droid7/"],
+      "name": "droid7.zip"
     },
     "duke.nukem.3d.zip": {
       "date": ["2021-09-10", "2022-04-28"],
@@ -1431,7 +1471,7 @@
       "name": "freeserf.zip"
     },
     "gemrb.zip": {
-      "date": ["2023-02-12", "2023-02-12"],
+      "date": ["2023-02-12", "2023-09-09"],
       "file": "gemrb/gemrb.port.json",
       "items": ["GemRB.sh", "gemrb/"],
       "name": "gemrb.zip"
@@ -1640,6 +1680,12 @@
       "items": ["multris/", "Multris.sh"],
       "name": "multris.zip"
     },
+    "murtop.zip": {
+      "date": ["2023-09-10", "2023-09-10"],
+      "file": "murtop/murtop.port.json",
+      "items": ["Murtop.sh", "murtop/"],
+      "name": "murtop.zip"
+    },
     "nam.zip": {
       "date": ["2021-09-10", "2022-04-28"],
       "file": "rednukem-NAM/nam.port.json",
@@ -1776,6 +1822,12 @@
       "file": "owlboy/owlboy.port.json",
       "items": ["owlboy/", "Owlboy.sh"],
       "name": "owlboy.zip"
+    },
+    "paused.zip": {
+      "date": ["2023-09-10", "2023-09-10"],
+      "file": "paused/paused.port.json",
+      "items": ["PAUSED.sh", "paused/"],
+      "name": "paused.zip"
     },
     "pekka-kana-2.zip": {
       "date": ["2023-04-18", "2023-04-18"],
@@ -2028,6 +2080,12 @@
       "items": ["Sonic Robo Blast 2 Kart.sh", "srb2kart/"],
       "name": "srb2kart.zip"
     },
+    "starboy.zip": {
+      "date": ["2023-09-10", "2023-09-10"],
+      "file": "starboy/starboy.port.json",
+      "items": ["StarBoy.sh", "starboy/"],
+      "name": "starboy.zip"
+    },
     "starcatcher.zip": {
       "date": ["2023-04-03", "2023-04-03"],
       "file": "starcatcher/starcatcher.port.json",
@@ -2071,7 +2129,7 @@
       "name": "tamatool.zip"
     },
     "thecurseofissyos.zip": {
-      "date": ["2023-09-06", "2023-09-06"],
+      "date": ["2023-09-06", "2023-09-11"],
       "file": "coi/coi.port.json",
       "items": ["Coi.sh", "coi/"],
       "name": "thecurseofissyos.zip"
@@ -2081,6 +2139,12 @@
       "file": "thermomorph/thermomorph.port.json",
       "items": ["Thermomorph.sh", "thermomorph/"],
       "name": "thermomorph.zip"
+    },
+    "thwack.zip": {
+      "date": ["2023-09-10", "2023-09-10"],
+      "file": "thwack/thwack.port.json",
+      "items": ["Thwack.sh", "thwack/"],
+      "name": "thwack.zip"
     },
     "tileworld.zip": {
       "date": ["2022-06-03", "2023-07-10"],
@@ -2273,13 +2337,13 @@
     "kloptops and cebion": ["kloptops", "Cebion"],
     "kloptops and snoopy": ["kloptops", "Snoopy"],
     "krishenriksen (kreal)": ["krishenriksen"],
-    "tabreturn": ["tabreturn"],
     "nl255": ["nl255"],
     "orson": ["Orson"],
     "romadu": ["romadu"],
     "slayer366": ["Slayer366"],
+    "tabreturn": ["tabreturn"],
     "tekkenfede": ["Tekkenfede"],
-    "Tekkenfede and Johnny on Flame": ["Tekkenfede","Johnny on Flame"],
+    "Tekkenfede and Johnny on Flame": ["Tekkenfede", "Johnny on Flame"],
     "thegammasqueeze": ["TheGammaSqueeze"]
   }
 }
