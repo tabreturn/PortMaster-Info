@@ -4,10 +4,10 @@ import functools
 import json
 import pathlib
 import re
+import urllib
+import urllib.request
 
 from pathlib import Path
-
-import requests
 
 
 @functools.lru_cache(maxsize=512)
@@ -16,25 +16,33 @@ def name_cleaner(text):
     return re.sub(r'[ \.]+', '.', temp)
 
 
-def fetch(url):
-    r = requests.get(url)
-    if r.status_code != 200:
-        print(f"Failed to download {r.status_code}")
+def fetch_text(url):
+    try:
+        # Open the URL
+        with urllib.request.urlopen(url) as response:
+            # Read the content of the file
+            file_content = response.read()
+
+        # Decode the bytes to a string (assuming the file is in UTF-8 encoding)
+        return file_content.decode('utf-8')
+
+    except urllib.error.URLError as err:
+        print(f"Unable to download {url}: {err}")
         return None
 
-    return r
+    except UnicodeDecodeError as err:
+        return None
 
 
 def fetch_json(url):
-    r = fetch(url)
-    if r is None:
+    text = fetch_text(url)
+    if text is None:
         return None
 
-    return r.json()
+    return json.loads(text)
 
 
 def fetch_recent_data(raw_data, latest=10):
-
     for i in range(1, 300):
         print(f"Fetching releases page {i}.")
         temp_data = fetch_json(f'https://api.github.com/repos/PortsMaster/PortMaster-Releases/releases?page={i}')
@@ -61,6 +69,9 @@ def fetch_recent_data(raw_data, latest=10):
 
                 if asset_name not in raw_data['ports']:
                     raw_data['ports'].append(asset_name)
+
+                if asset['download_count'] == 0:
+                    continue
 
                 release_data[asset_name] = asset['download_count']
 
@@ -103,7 +114,7 @@ def main():
             port_stats['total_downloads'] += raw_data['release_data'][release].get(port_name, 0)
 
     with open(stats_json, 'w') as fh:
-        json.dump(port_stats, fh, indent=4)
+        json.dump(port_stats, fh, sort_keys=True, indent=4)
 
 
 if __name__ == '__main__':
