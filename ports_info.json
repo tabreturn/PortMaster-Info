@@ -51,6 +51,8 @@
     "bstone-ps/": "bstone-ps.zip",
     "Bugdom.sh": "bugdom.zip",
     "bugdom/": "bugdom.zip",
+    "Burst.sh": "burst.zip",
+    "burst/": "burst.zip",
     "C-Dogs.sh": "c-dogs.zip",
     "Cannonball.sh": "cannonball.zip",
     "cannonball/": "cannonball.zip",
@@ -71,6 +73,8 @@
     "clockwind/": "clockwind.zip",
     "Coi.sh": "thecurseofissyos.zip",
     "coi/": "thecurseofissyos.zip",
+    "ColorLines.sh": "colorlines.zip",
+    "colorlines/": "colorlines.zip",
     "Commander Genius.sh": "commander.genius.zip",
     "CorsixTH.sh": "corsixth.zip",
     "CorsixTH/": "corsixth.zip",
@@ -165,6 +169,8 @@
     "hcl/": "hydra.castle.labyrinth.zip",
     "Heart of Darkness.sh": "heart.of.darkness.zip",
     "Heart Of The Alien Redux.sh": "hota.zip",
+    "HELP! NO BRAKE.sh": "help.no.brake.zip",
+    "helpnobrake/": "help.no.brake.zip",
     "Hex-A-Hop.sh": "hex-a-hop.zip",
     "hex-a-hop/": "hex-a-hop.zip",
     "Hexen 2 - Portal of Praevus.sh": "hexen2.zip",
@@ -179,8 +185,10 @@
     "Hurrican.sh": "hurrican.zip",
     "hurrican/": "hurrican.zip",
     "Hydra Castle Labyrinth.sh": "hydra.castle.labyrinth.zip",
+    "hyper JUMP.sh": "hyper.jump.zip",
     "Hyperfight.sh": "hyperfight.zip",
     "hyperfight/": "hyperfight.zip",
+    "hyperjump/": "hyper.jump.zip",
     "Iconoclasts.sh": "iconoclasts.zip",
     "iconoclasts/": "iconoclasts.zip",
     "IIChantra P.E.A.R.sh": "iichantra_pear.zip",
@@ -273,6 +281,8 @@
     "pekka-kana-2/": "pekka-kana-2.zip",
     "PigeonAscent.sh": "pigeon.zip",
     "PigeonAscent/": "pigeon.zip",
+    "Pinball Disc Room.sh": "pinball_disc_room.zip",
+    "pinball_disc_room/": "pinball_disc_room.zip",
     "PlanetWaves.sh": "planetwaves.zip",
     "PlanetWaves/": "planetwaves.zip",
     "PlaqueAttackRemake.sh": "plaqueattackremake.zip",
@@ -619,6 +629,7 @@
     "4d242b59d741026abea9a54f7cfec248": "Oddworld Abes Oddysee.sh",
     "4d92e518b95f24518ea57d1efd20369f": "2048.sh",
     "4e0a3449cd13412cb1d0f0916623479a": "Heart of Darkness.sh",
+    "4e37aa19767d430d370924e8b98177b3": "Burst.sh",
     "4e3a0e496c3cec915ac61413a93c2a79": "Rick Dangerous.sh",
     "4ebeb0ed5f9f0d8ba2cbbf1dc4eb8feb": "Cave Story-evo.sh",
     "4f1a04a3a65ea03e2e146035e7f51333": "Prehistorik 2.sh",
@@ -651,6 +662,7 @@
     "5825d1dac0885e900c25fc6c5314e5f9": "Gloom - Zombie Massacre.sh",
     "58286dc591f8b493e6ffb8b860972845": "Pocket Tactics.sh",
     "59090022deb00eae7e8a4d86dc627611": "Super Mario War.sh",
+    "597728fca40ffecd29ebb2e4e282efd0": "hyper JUMP.sh",
     "59e5b79937bb6304661b3dc7cb7cee9e": "Blues Brothers.sh",
     "5bc6c7690a0b4a3dee14c759c6888476": "Cave Story-evo.sh",
     "5becc0d9139e6b41e1e4844da673dd71": "World War II GI.sh",
@@ -670,6 +682,7 @@
     "5f6168a0d00581ec68ba371d5b2e84b5": "Bermuda Syndrome.sh",
     "5f6ef993231f7b0ab1f616715b8f261c": "AM2R.sh",
     "5f8de08363b407e0bea82c85547fdd95": "Openomf.sh",
+    "5fb7d58aa3a522e23411e4e8344dbe37": "Pinball Disc Room.sh",
     "5feed190d48ef66c97c0c6c093f27228": "Openclaw.sh",
     "60831f62519d9395abb50e43aa8a96b5": "Blues Brothers Jukebox Adventure.sh",
     "609d199fab17b2c7345f06bc251d089d": "Zeroranger.sh",
@@ -709,6 +722,7 @@
     "70bce5bd890b306453eb6998413baf46": "Thwack.sh",
     "717c57f9067a87cd63922dc25f1b9363": "Commander Genius.sh",
     "722e3a646736044a16b7d336b2c6299c": "Marathon.sh",
+    "723201f53cb825234747c9167337bb58": "HELP! NO BRAKE.sh",
     "72526b4b6b00767e3a23e19c21127626": "Marathon 2.sh",
     "72a3c5207e7824e354e899ec274d4cde": "C-Dogs.sh",
     "72b7e3d65d501da5393873cc3bc7ae02": "LBreakoutHD.sh",
@@ -769,6 +783,7 @@
     "894ca37c8203f26ef517fca3f9392863": "Exult-nokeyring.sh",
     "896be085d7205b3f8ea66bafc864d8a8": "REminiscence.sh",
     "897c937938e39e75618188faade5bf32": "Block Attack.sh",
+    "89f0660b148fb8b2f36a4eef5a55132b": "ColorLines.sh",
     "8a14d47ff2af769b3d872df8c56510e4": "CorsixTH.sh",
     "8a5eaeef96b1f8691640cc40e3b19d48": "AM2R.sh",
     "8aab07bdd7c58a630edd90e51e69d6ef": "OpenJazz.sh",
@@ -1202,6 +1217,12 @@
       "items": ["Bugdom.sh", "bugdom/"],
       "name": "bugdom.zip"
     },
+    "burst.zip": {
+      "date": ["2023-09-14", "2023-09-14"],
+      "file": "burst/burst.port.json",
+      "items": ["Burst.sh", "burst/"],
+      "name": "burst.zip"
+    },
     "c-dogs.zip": {
       "date": ["2021-09-10", "2022-09-03"],
       "file": "cdogs/c-dogs.port.json",
@@ -1254,6 +1275,12 @@
       "file": "clockwind/clockwind.port.json",
       "items": ["Clockwind.sh", "clockwind/"],
       "name": "clockwind.zip"
+    },
+    "colorlines.zip": {
+      "date": ["2023-09-14", "2023-09-14"],
+      "file": "colorlines/colorlines.port.json",
+      "items": ["colorlines/", "ColorLines.sh"],
+      "name": "colorlines.zip"
     },
     "commander.genius.zip": {
       "date": ["2021-09-10", "2023-01-07"],
@@ -1518,6 +1545,12 @@
       "items": ["Heart of Darkness.sh", "hode/"],
       "name": "heart.of.darkness.zip"
     },
+    "help.no.brake.zip": {
+      "date": ["2023-09-14", "2023-09-14"],
+      "file": "helpnobrake/helpnobrake.port.json",
+      "items": ["HELP! NO BRAKE.sh", "helpnobrake/"],
+      "name": "help.no.brake.zip"
+    },
     "hex-a-hop.zip": {
       "date": ["2022-10-24", "2022-10-24"],
       "file": "hex-a-hop/hex-a-hop.port.json",
@@ -1565,6 +1598,12 @@
       "file": "hcl/hydra.castle.labyrinth.port.json",
       "items": ["hcl/", "Hydra Castle Labyrinth.sh"],
       "name": "hydra.castle.labyrinth.zip"
+    },
+    "hyper.jump.zip": {
+      "date": ["2023-09-14", "2023-09-14"],
+      "file": "hyperjump/hyperjump.port.json",
+      "items": ["hyper JUMP.sh", "hyperjump/"],
+      "name": "hyper.jump.zip"
     },
     "hyperfight.zip": {
       "date": ["2023-07-30", "2023-07-30"],
@@ -1840,6 +1879,12 @@
       "file": "PigeonAscent/pigeon.port.json",
       "items": ["PigeonAscent/", "PigeonAscent.sh"],
       "name": "pigeon.zip"
+    },
+    "pinball_disc_room.zip": {
+      "date": ["2023-09-14", "2023-09-14"],
+      "file": "pinball_disc_room/pinball_disc_room.port.json",
+      "items": ["Pinball Disc Room.sh", "pinball_disc_room/"],
+      "name": "pinball_disc_room.zip"
     },
     "planetwaves.zip": {
       "date": ["2023-06-09", "2023-09-05"],
