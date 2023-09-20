@@ -8,5 +8,25 @@
             "echo_chamber.zip",
             "help.no.brake.zip"
         ]
+    },
+    {
+        "name": "Puzzling Puzzles",
+        "image": "",
+        "description": "Ponder, Probe, and Prowl through Puzzling Ports!",
+        "ports": [
+            "rota.zip",
+            "echo_chamber.zip",
+            "help.no.brake.zip"
+        ]
+    },
+    {
+        "name": "PortMaster Picks",
+        "image": "",
+        "description": "A selection of ports by the Masters of Ports",
+        "ports": [
+            "rota.zip",
+            "echo_chamber.zip",
+            "help.no.brake.zip"
+        ]
     }
 ]

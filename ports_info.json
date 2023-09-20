@@ -158,6 +158,8 @@
     "gmu-music-player/": "gmu.music.player.zip",
     "GNU Robbo.sh": "gnurobbo.zip",
     "gnurobbo/": "gnurobbo.zip",
+    "Gumgem.sh": "gumgem.zip",
+    "Gumgem/": "gumgem.zip",
     "Half-Life 2.sh": "half-life.2.zip",
     "Half-Life Blue Shift.sh": "half-life.zip",
     "Half-Life Opposing Forces.sh": "half-life.zip",
@@ -238,6 +240,8 @@
     "nkaruga/": "nkaruga.zip",
     "Nonny.sh": "nonny.zip",
     "nonny/": "nonny.zip",
+    "Nothing.sh": "nothing.zip",
+    "nothing/": "nothing.zip",
     "Nova Pinball.sh": "nova_pinball.zip",
     "nova_pinball/": "nova_pinball.zip",
     "NPuzzle.sh": "npuzzle.zip",
@@ -485,6 +489,7 @@
     "0c9c70b432625bb88a667273e95e152f": "Oddworld Abes Exoddus.sh",
     "0d067fed9e8d1f228b9f03048e0a9f02": "AM2R.sh",
     "0d4e65f5f9c29969d50220eafe88f181": "Titan Tactics.sh",
+    "0e753fdf7e04f39ab061202ee868497e": "Nothing.sh",
     "0ecffc8f920e10cc8f6b43a9b85ce679": "VVVVVV.sh",
     "1050dd4df1e60a42efc3ea509308351b": "SDLPoP.sh",
     "1068cff3f8c926a85f649dc895b681c0": "Mr. Boom.sh",
@@ -513,6 +518,7 @@
     "182ab337b7e4c16265e3b59b842bdfa1": "Fallout 1.sh",
     "18ef1627436565c28c8a92e38a0541f2": "Sonic Mania.sh",
     "1914abf44427b7d2e016adf5aca21d97": "Return to Castle Wolfenstein.sh",
+    "198642c61fe551e59b18b93c645a4b62": "VCMI.sh",
     "198af361e9e73da7ba54d94a9e158fce": "Moonlight.sh",
     "1a1077bdf87251701326ff90cfc70e5c": "SteelAssault.sh",
     "1a74a0b1d4328952861814cac186a5a6": "NAM.sh",
@@ -557,6 +563,7 @@
     "296a21c21d8eeb4720ec3d4ed140d739": "Super Mario War.sh",
     "29dde6014c638b2c0051198424043bb7": "Pekka Kana 2.sh",
     "2aa6980e9c3fa108a02cc41d02231c20": "2048.sh",
+    "2b0be8168061fe8cce18f6ddbe4c5aae": "Gumgem.sh",
     "2c279780841eef4b2b17dfa054a07105": "OpenSupaplex.sh",
     "2d94f7606358431d5f6e93a34ee33a33": "Space Cadet Pinball.sh",
     "2da5346ff2fa079ca9de37d6a08dd989": "Blobby Volley 2.sh",
@@ -1521,6 +1528,12 @@
       "items": ["GNU Robbo.sh", "gnurobbo/"],
       "name": "gnurobbo.zip"
     },
+    "gumgem.zip": {
+      "date": ["2023-09-19", "2023-09-19"],
+      "file": "Gumgem/gumgem.port.json",
+      "items": ["Gumgem/", "Gumgem.sh"],
+      "name": "gumgem.zip"
+    },
     "half-life.2.zip": {
       "file": "halflife2/half-life.2.port.json",
       "items": ["Half-Life 2.sh", "halflife2/"],
@@ -1754,6 +1767,12 @@
       "file": "nonny/nonny.port.json",
       "items": ["nonny/", "Nonny.sh"],
       "name": "nonny.zip"
+    },
+    "nothing.zip": {
+      "date": ["2023-09-17", "2023-09-17"],
+      "file": "nothing/nothing.port.json",
+      "items": ["nothing/", "Nothing.sh"],
+      "name": "nothing.zip"
     },
     "nova_pinball.zip": {
       "date": ["2023-05-23", "2023-05-23"],
@@ -2283,7 +2302,7 @@
       "name": "vanillatd.zip"
     },
     "vcmi.zip": {
-      "date": ["2023-04-01", "2023-04-01"],
+      "date": ["2023-04-01", "2023-09-18"],
       "file": "vcmi/vcmi.port.json",
       "items": ["VCMI.sh", "vcmi/"],
       "name": "vcmi.zip"
