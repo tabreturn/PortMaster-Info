@@ -130,6 +130,8 @@
     "Fallout 2.sh": "fallout2.zip",
     "fallout1/": "fallout1.zip",
     "fallout2/": "fallout2.zip",
+    "Farmner.sh": "farmner.zip",
+    "Farmner/": "farmner.zip",
     "Fheroes2.sh": "fheroes2.zip",
     "fheroes2/": "fheroes2.zip",
     "Final Quest.sh": "final_quest.zip",
@@ -1035,6 +1037,7 @@
     "f37acd0f8aab4cdff9987d5b6e26d8f6": "Shadow Warrior.sh",
     "f4cd279ba5a13efbaa568ce6370c3cdf": "Quake 2.sh",
     "f4e8149f632623fb46fcf5eb508e29d3": "Maximilien Adventure.sh",
+    "f42d1c8d83cae1091ed12284ecc79439": "Farmner.sh",
     "f5bdb9c56d71ae123496335a02a3f5cd": "Devilutionx.sh",
     "f5e3a7d31a86db3049cd608f26dfae78": "Enigma.sh",
     "f623c8fe65fac323269f20a95efc48eb": "Sonic 1.sh",
@@ -1456,7 +1459,13 @@
       "file": "fallout2/fallout2.port.json",
       "items": ["Fallout 2.sh", "fallout2/"],
       "name": "fallout2.zip"
-    },
+    },,
+    "farmner.zip": {
+      "date": ["2023-08-10", "2023-08-10"],
+      "file": "fallout2/fallout2.port.json",
+      "items": ["Fallout 2.sh", "fallout2/"],
+      "name": "fallout2.zip"
+    }
     "fheroes2.zip": {
       "date": ["2021-10-24", "2022-04-27"],
       "file": "fheroes2/fheroes2.port.json",
@@ -1488,6 +1497,7 @@
       "name": "freedom.planet.zip"
     },
     "freedroid.zip": {
+      "date": ["2021-09-10", "2022-04-28"],
       "file": "freedroid/freedroid.port.json",
       "items": ["Freedroid.sh", "freedroid/"],
       "name": "freedroid.zip"
