@@ -1,7 +1,7 @@
 {
   "Christian_Haitian": {
     "name": "Christian_Haitian",
-    "bio":"",
+    "bio": "",
     "social": "",
     "support": "",
     "webpage": "",
@@ -9,7 +9,7 @@
   },
   "Cebion": {
     "name": "Cebion",
-    "bio":"Look behind you, a three headed Monkey!",
+    "bio": "Look behind you, a three headed Monkey!",
     "social": "",
     "support": "https://ko-fi.com/cebion",
     "webpage": "https://github.com/Cebion/",
@@ -17,7 +17,7 @@
   },
   "romadu": {
     "name": "romadu",
-    "bio":"",
+    "bio": "",
     "social": "",
     "support": "",
     "webpage": "",
@@ -25,7 +25,7 @@
   },
   "Johnny on Flame": {
     "name": "Johnny on Flame",
-    "bio":"",
+    "bio": "",
     "social": "",
     "support": "",
     "webpage": "",
@@ -33,7 +33,7 @@
   },
   "Bamboozler": {
     "name": "Bamboozler",
-    "bio":"Any sufficiently advanced bug is indistinguishable from a feature.",
+    "bio": "Any sufficiently advanced bug is indistinguishable from a feature.",
     "social": "",
     "support": "",
     "webpage": "https://github.com/christopher-roelofs",
@@ -41,7 +41,7 @@
   },
   "kloptops": {
     "name": "kloptops",
-    "bio":"",
+    "bio": "",
     "social": "https://mastodon.social/@kloptops",
     "support": "https://ko-fi.com/kloptops",
     "webpage": "https://github.com/kloptops",
@@ -49,7 +49,7 @@
   },
   "Overflask": {
     "name": "Overflask",
-    "bio":"",
+    "bio": "",
     "social": "",
     "support": "",
     "webpage": "",
@@ -57,7 +57,7 @@
   },
   "Nuxx": {
     "name": "Nuxx",
-    "bio":"",
+    "bio": "",
     "social": "",
     "support": "",
     "webpage": "",
@@ -65,7 +65,7 @@
   },
   "Jetup": {
     "name": "Jetup",
-    "bio":"",
+    "bio": "",
     "social": "",
     "support": "",
     "webpage": "",
@@ -73,15 +73,14 @@
   },
   "Tekkenfede": {
     "name": "Tekkenfede",
-    "bio":"",
     "social": "",
-    "support": "",
-    "webpage": "",
+    "support": "https://ko-fi.com/tekkenfede",
+    "webpage": "https://github.com/Tekkenfede",
     "image": ""
   },
   "nl255": {
     "name": "nl255",
-    "bio":"",
+    "bio": "",
     "social": "",
     "support": "",
     "webpage": "",
@@ -89,7 +88,7 @@
   },
   "Orson": {
     "name": "Orson",
-    "bio":"",
+    "bio": "",
     "social": "",
     "support": "",
     "webpage": "",
@@ -97,7 +96,7 @@
   },
   "Slayer366": {
     "name": "Slayer366",
-    "bio":"",
+    "bio": "",
     "social": "",
     "support": "",
     "webpage": "",
@@ -105,7 +104,7 @@
   },
   "krishenriksen": {
     "name": "krishenriksen",
-    "bio":"",
+    "bio": "",
     "social": "",
     "support": "",
     "webpage": "",
@@ -113,7 +112,7 @@
   },
   "brooksytech": {
     "name": "brooksytech",
-    "bio":"",
+    "bio": "",
     "social": "",
     "support": "",
     "webpage": "",
@@ -121,7 +120,7 @@
   },
   "jtothebell": {
     "name": "jtothebell",
-    "bio":"",
+    "bio": "",
     "social": "",
     "support": "",
     "webpage": "",
@@ -129,7 +128,7 @@
   },
   "TheGammaSqueeze": {
     "name": "TheGammaSqueeze",
-    "bio":"",
+    "bio": "",
     "social": "",
     "support": "",
     "webpage": "",
@@ -137,7 +136,7 @@
   },
   "Snoopy": {
     "name": "Snoopy",
-    "bio":"",
+    "bio": "",
     "social": "",
     "support": "",
     "webpage": "",
@@ -145,7 +144,7 @@
   },
   "tabreturn": {
     "name": "tabreturn",
-    "bio":"",
+    "bio": "",
     "social": "https://twitter.com/tabreturn",
     "support": "",
     "webpage": "https://tabreturn.com",
