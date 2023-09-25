@@ -310,6 +310,7 @@ def analyse_port(file_name, all_data, state):
 
     zip_name = clean_name(file_name)
 
+    print(f"Checking {file_name.name}")
     with zipfile.ZipFile(file_name, 'r') as zf:
         for file_info in zf.infolist():
             if file_info.filename.startswith('/'):
@@ -360,15 +361,27 @@ def analyse_port(file_name, all_data, state):
                     print(f"- extra file at root level thats not a script: {file_info.filename!r}")
 
         for script in scripts:
-            with zf.open(script, "r") as fh:
-                md5sum = hash_text(fh.read())
-                # print(script, md5sum)
-                if md5sum not in all_data['md5']:
-                    all_data['md5'][md5sum] = script
+            try:
+                with zf.open(script, "r") as fh:
+                    md5sum = hash_text(fh.read())
+                    # print(script, md5sum)
+                    if md5sum not in all_data['md5']:
+                        all_data['md5'][md5sum] = script
+            except NotImplementedError as err:
+               print(f"- unable to extract {script}: {err}")
 
         if port_info_file is not None:
-            with zf.open(port_info_file, "r") as fh:
-                port_info = PortInfo(json.loads(fh.read()))
+            try:
+                with zf.open(port_info_file, "r") as fh:
+                    port_info = PortInfo(json.loads(fh.read()))
+
+            except json.JSONDecodeError as err:
+               print(f"- unable to parse {port_info_file}: {err}")
+               port_info = PortInfo({})
+            except NotImplementedError as err:
+               print(f"- unable to extract {port_info_file}: {err}")
+               port_info = PortInfo({})
+
         else:
             port_info = PortInfo({})
 

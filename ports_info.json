@@ -26,6 +26,7 @@
     "axiom-verge/": "axiom.verge.zip",
     "Banana Duck.sh": "banana.duck.zip",
     "bananaduck/": "banana.duck.zip",
+    "beat/": "pixelheat.zip",
     "Beat2x.sh": "beat2x.zip",
     "beat2x/": "beat2x.zip",
     "Bermuda Syndrome.sh": "bermuda_syndrome.zip",
@@ -67,6 +68,8 @@
     "cgenius/": "commander.genius.zip",
     "Chasm.sh": "chasm.zip",
     "chasm/": "chasm.zip",
+    "CHIPNDALE.sh": "chip.zip",
+    "CHIPNDALE/": "chip.zip",
     "Cliff Hanger.sh": "cliff_hanger.zip",
     "cliff_hanger/": "cliff_hanger.zip",
     "Clockwind.sh": "clockwind.zip",
@@ -138,6 +141,8 @@
     "final_quest/": "final_quest.zip",
     "Fire and Fondness 2.sh": "fire_and_fondness2.zip",
     "fire_and_fondness2/": "fire_and_fondness2.zip",
+    "Firearrow.sh": "firearrow.zip",
+    "firearrow/": "firearrow.zip",
     "Flare Engine.sh": "flare.zip",
     "flare/": "flare.zip",
     "Freedom Planet.sh": "freedom.planet.zip",
@@ -180,14 +185,18 @@
     "Hexen 2 - Portal of Praevus.sh": "hexen2.zip",
     "Hexen 2.sh": "hexen2.zip",
     "hexen2/": "hexen2.zip",
+    "HFTSR/": "hftsr.zip",
     "Hijinx.sh": "hijinx.zip",
     "hijinx/": "hijinx.zip",
     "Hocoslamfy.sh": "hocoslamfy.zip",
     "hocoslamfy/": "hocoslamfy.zip",
     "hode/": "heart.of.darkness.zip",
     "hota/": "hota.zip",
+    "Hunt.sh": "hftsr.zip",
     "Hurrican.sh": "hurrican.zip",
     "hurrican/": "hurrican.zip",
+    "Hydorah.sh": "hydorah.zip",
+    "Hydorah/": "hydorah.zip",
     "Hydra Castle Labyrinth.sh": "hydra.castle.labyrinth.zip",
     "hyper JUMP.sh": "hyper.jump.zip",
     "Hyperfight.sh": "hyperfight.zip",
@@ -218,6 +227,8 @@
     "maximilien_adventure/": "maximilien_adventure.zip",
     "Me and My Shadow.sh": "meandmyshadow.zip",
     "meandmyshadow/": "meandmyshadow.zip",
+    "Megaman.sh": "megaman.zip",
+    "Megaman/": "megaman.zip",
     "Meritous.sh": "meritous.zip",
     "meritous/": "meritous.zip",
     "MightyMike.sh": "mightymike.zip",
@@ -289,6 +300,7 @@
     "PigeonAscent/": "pigeon.zip",
     "Pinball Disc Room.sh": "pinball_disc_room.zip",
     "pinball_disc_room/": "pinball_disc_room.zip",
+    "PixelHeat.sh": "pixelheat.zip",
     "PlanetWaves.sh": "planetwaves.zip",
     "PlanetWaves/": "planetwaves.zip",
     "PlaqueAttackRemake.sh": "plaqueattackremake.zip",
@@ -300,6 +312,8 @@
     "Prehistorik 2.sh": "prehistorik.2.zip",
     "prehistorik2/": "prehistorik.2.zip",
     "profadeluxe/": "profadeluxe.zip",
+    "Puremetal.sh": "puremetal.zip",
+    "puremetal/": "puremetal.zip",
     "Quake 2.sh": "quake.2.zip",
     "Quake 3.sh": "quake3.zip",
     "Quake.sh": "quake.zip",
@@ -370,6 +384,8 @@
     "spacecadetpinball/": "space.cadet.pinball.zip",
     "Spelunky.sh": "spelunky.zip",
     "spelunky/": "spelunky.zip",
+    "Spooky.sh": "spooky.zip",
+    "Spooky/": "spooky.zip",
     "SRB2.sh": "srb2.zip",
     "SRB2/": "srb2.zip",
     "srb2kart/": "srb2kart.zip",
@@ -388,6 +404,8 @@
     "supertux/": "supertux.zip",
     "SuperTuxKart.sh": "supertuxkart.zip",
     "supertuxkart/": "supertuxkart.zip",
+    "SuperXYX.sh": "superxyx.zip",
+    "SuperXYX/": "superxyx.zip",
     "Tamatool.sh": "tamatool.zip",
     "tamatool/": "tamatool.zip",
     "Thermomorph.sh": "thermomorph.zip",
@@ -411,6 +429,8 @@
     "tombraider1/": "tomb.raider.1.zip",
     "tombraider2/": "tomb.raider.2.zip",
     "tombraider3/": "tomb.raider.3.zip",
+    "Uber/": "ubermoshcollection.zip",
+    "UbermoshCollection.sh": "ubermoshcollection.zip",
     "Ultimatetapankaikki.sh": "ultimatetapankaikki.zip",
     "ultimatetapankaikki/": "ultimatetapankaikki.zip",
     "Undertale.sh": "undertale.zip",
@@ -491,6 +511,7 @@
     "0c9c70b432625bb88a667273e95e152f": "Oddworld Abes Exoddus.sh",
     "0d067fed9e8d1f228b9f03048e0a9f02": "AM2R.sh",
     "0d4e65f5f9c29969d50220eafe88f181": "Titan Tactics.sh",
+    "0d6954f62b8f25248a0846370d43f3c7": "Hydorah.sh",
     "0e753fdf7e04f39ab061202ee868497e": "Nothing.sh",
     "0ecffc8f920e10cc8f6b43a9b85ce679": "VVVVVV.sh",
     "1050dd4df1e60a42efc3ea509308351b": "SDLPoP.sh",
@@ -499,6 +520,7 @@
     "116ad6856e1cdf9d8d4c8c87fd6bef66": "Space Cadet Pinball.sh",
     "120bddd6ea7ee6f0d92879ae8a452542": "Iconoclasts.sh",
     "121e68ff5b417d8d900e20b414a78507": "Moonlight.sh",
+    "12ce2a145d9ed036700490a8f1503e8b": "PixelHeat.sh",
     "12d755de17496ccdcf9857b36eccd869": "Invaders.sh",
     "12fb1cb8ccc54d06f23bade0ffb06424": "Space Cadet Pinball.sh",
     "13877253638d1241e077cdbb4934bd15": "Cave Story.sh",
@@ -576,6 +598,7 @@
     "2f2d175c154e85e200a1290bc1d29a35": "Exhumed.sh",
     "2fd463f8346edfec16bea5f9c0367823": "Fheroes2.sh",
     "2ffa040b9e0fbcad96a7d04a52768d5c": "Timespinner.sh",
+    "30139da0487d0ad7002f3c6473584bd1": "SuperXYX.sh",
     "306435a7f91f503203c08f4c0b0d7fc6": "Moonlight.sh",
     "3077ff590283ca43e502493bf8caceb1": "Sonic 1.sh",
     "3187a21c18655925a9d9bad1b738ff09": "Freedom Planet.sh",
@@ -598,6 +621,7 @@
     "3a2d99baa4c37f84a05f0895e133662d": "Maldita Castilla.sh",
     "3a80ae6235eceb41c11541ab743f94fe": "Moonlight.sh",
     "3a8af7d0f26e892247faabcdff86dd73": "SDLPoP.sh",
+    "3ab127589447fb80bd0d5d8c6ea24dde": "Spooky.sh",
     "3abfdc093e4cc86ed7e5f8947c7373a0": "Doom 3.sh",
     "3b245e807db88a9a1de3046bf5cc6770": "Blues Brothers.sh",
     "3b7f6328af7796cd7cb6742e97d1895e": "Openclaw.sh",
@@ -610,6 +634,7 @@
     "4068cf0a3f0e498e100a2eaf215afce2": "Gigalomania.sh",
     "40fe75e4f7a4cda241732f116b92ec4a": "Blake Stone - Planet Strike.sh",
     "4105cedeb4d3d7523682207acbc307b8": "Blues Brothers.sh",
+    "4116f243c8e3e07901acffae22541193": "Megaman.sh",
     "41427ffaef59dee0c51ee910fc420630": "Owlboy.sh",
     "4156e0378cc7b1d3413dc1c318835550": "AM2R.sh",
     "41dab8ebce4fd24d9712e69f88bd6041": "Sonic Robo Blast 2 Kart.sh",
@@ -647,6 +672,7 @@
     "509959f4860079e37c566a603444a3ae": "Shovel Knight.sh",
     "50b5151f6ad3a4f56ef029c3dd050c0c": "Hurrican.sh",
     "50fdff16f49cd829d449d6d748a5ec1e": "Moonlight.sh",
+    "50ffed243813044a535df48380aec9bf": "CHIPNDALE.sh",
     "51d2942e2fb4d307109ce05813594a82": "Cave Story.sh",
     "526bd880bc2799f9a4ee6be57519883c": "Invaders.sh",
     "52e693cbc35f0748f426a1a0a727a056": "Moonlight.sh",
@@ -673,6 +699,7 @@
     "59090022deb00eae7e8a4d86dc627611": "Super Mario War.sh",
     "597728fca40ffecd29ebb2e4e282efd0": "hyper JUMP.sh",
     "59e5b79937bb6304661b3dc7cb7cee9e": "Blues Brothers.sh",
+    "5ac80086df9da561dc9a011f404eca35": "Puremetal.sh",
     "5bc6c7690a0b4a3dee14c759c6888476": "Cave Story-evo.sh",
     "5becc0d9139e6b41e1e4844da673dd71": "World War II GI.sh",
     "5cef57b412c391c9f7d4839bacd43fa6": "Wetspot2.sh",
@@ -719,6 +746,7 @@
     "6cf7c549672931f4d67adf7097b5ad74": "Moonlight.sh",
     "6d1aeb2df90aa8f2cf0fcc5c14c0bcf5": "Blake Stone - Aliens of Gold.sh",
     "6d4ab072d061656c5b6f91638af86317": "Flare Engine.sh",
+    "6d64f640e44aacfa1dad70c2a48b5d25": "Firearrow.sh",
     "6dc3ab0aa921e866b23b2e052b3cda6d": "DROID7.sh",
     "6ea1903017f054d207aa10ae0e8e097e": "Rick Dangerous.sh",
     "6ee5b23091a51d97bd2d59298f416c7b": "Quake 2.sh",
@@ -729,6 +757,7 @@
     "7057b555341b20c23c895d6c1c8cd841": "Shovel Knight.sh",
     "70b5b8f03dac75305f77c90210f0ab34": "NAM.sh",
     "70bce5bd890b306453eb6998413baf46": "Thwack.sh",
+    "71615c1a1f038d238e8505254a19f565": "Coi.sh",
     "717c57f9067a87cd63922dc25f1b9363": "Commander Genius.sh",
     "722e3a646736044a16b7d336b2c6299c": "Marathon.sh",
     "723201f53cb825234747c9167337bb58": "HELP! NO BRAKE.sh",
@@ -784,6 +813,7 @@
     "865e54c91a35087f8de6f3176fa0ced9": "Fheroes2.sh",
     "86b7099e1882ac1ff2f63d3df015e4ff": "Rocks n Diamonds.sh",
     "86fd1fd5a83c47ac728c66e118c3727d": "Shovel Knight.sh",
+    "8786b5bbadd8576521ba9711fb2f2cd6": "Valhalla.sh",
     "87872f13aa7a8de51d981780bb92b0f9": "Abuse.sh",
     "87f75805099c373f921a1a47d217a67a": "OpenBlok.sh",
     "88b4157e9f74ddf0b0deb973f3459e75": "PlaqueAttackRemake.sh",
@@ -821,6 +851,7 @@
     "932a26cc4e4fe491d064b31a8b9d64f6": "Marathon Infinity.sh",
     "9431aa9475db987eb1b1db85e0f5aedd": "Blood.sh",
     "94e5512b8af0aade054a0bbef561a561": "Undertale.sh",
+    "95c4842231e490d0587c7eece4bf575a": "Zeroranger.sh",
     "95caeb116ddc00851629dcd289569f1a": "Duke Nukem 3D.sh",
     "9634bb24bb9ba889fe347ab4247cc538": "OpenTyrian.sh",
     "974a511c92843373cbb08cdeb7d1e52c": "Abu Simbel Profanation Deluxe.sh",
@@ -949,6 +980,7 @@
     "d1e915793c11ac4748f87d72b5923e99": "Abuse.sh",
     "d232b3172ecd6825d7ca7eb299912f03": "Blake Stone - Planet Strike.sh",
     "d239df815ca1ca1b25633b2e4ccf1954": "Blobwars.sh",
+    "d2b5c05f94a448ed1f80b0211d1e91ec": "Hunt.sh",
     "d36bda4aeec1c1f22caf0a20366dc201": "Hexen 2.sh",
     "d3d685e2c223464d7830f90fb7319bc0": "Shadow Warrior.sh",
     "d43c7c00b59dec7b116bfd2cb53419a2": "Blake Stone - Planet Strike.sh",
@@ -1274,6 +1306,12 @@
       "items": ["chasm/", "Chasm.sh"],
       "name": "chasm.zip"
     },
+    "chip.zip": {
+      "date": ["2023-09-22", "2023-09-22"],
+      "file": "CHIPNDALE/CHIPNDALE.port.json",
+      "items": ["CHIPNDALE/", "CHIPNDALE.sh"],
+      "name": "chip.zip"
+    },
     "cliff_hanger.zip": {
       "date": ["2023-07-27", "2023-07-27"],
       "file": "cliff_hanger/cliff_hanger.port.json",
@@ -1484,6 +1522,12 @@
       "items": ["Fire and Fondness 2.sh", "fire_and_fondness2/"],
       "name": "fire_and_fondness2.zip"
     },
+    "firearrow.zip": {
+      "date": ["2023-09-22", "2023-09-22"],
+      "file": "firearrow/firearrow.port.json",
+      "items": ["Firearrow.sh", "firearrow/"],
+      "name": "firearrow.zip"
+    },
     "flare.zip": {
       "date": ["2023-03-23", "2023-03-23"],
       "file": "flare/flare.port.json",
@@ -1586,6 +1630,12 @@
       "items": ["Hexen 2 - Portal of Praevus.sh", "Hexen 2.sh", "hexen2/"],
       "name": "hexen2.zip"
     },
+    "hftsr.zip": {
+      "date": ["2023-09-22", "2023-09-22"],
+      "file": "HFTSR/HFTSR.port.json",
+      "items": ["HFTSR/", "Hunt.sh"],
+      "name": "hftsr.zip"
+    },
     "hijinx.zip": {
       "date": ["2023-04-21", "2023-04-21"],
       "file": "hijinx/hijinx.port.json",
@@ -1615,6 +1665,12 @@
       "file": "hurrican/hurrican.port.json",
       "items": ["hurrican/", "Hurrican.sh"],
       "name": "hurrican.zip"
+    },
+    "hydorah.zip": {
+      "date": ["2023-09-22", "2023-09-22"],
+      "file": "Hydorah/Hydorah.port.json",
+      "items": ["Hydorah/", "Hydorah.sh"],
+      "name": "hydorah.zip"
     },
     "hydra.castle.labyrinth.zip": {
       "date": ["2021-09-10", "2022-06-26"],
@@ -1705,6 +1761,12 @@
       "file": "meandmyshadow/meandmyshadow.port.json",
       "items": ["Me and My Shadow.sh", "meandmyshadow/"],
       "name": "meandmyshadow.zip"
+    },
+    "megaman.zip": {
+      "date": ["2023-09-22", "2023-09-22"],
+      "file": "Megaman/Megaman.port.json",
+      "items": ["Megaman/", "Megaman.sh"],
+      "name": "megaman.zip"
     },
     "meritous.zip": {
       "date": ["2022-10-15", "2022-10-15"],
@@ -1915,6 +1977,12 @@
       "items": ["Pinball Disc Room.sh", "pinball_disc_room/"],
       "name": "pinball_disc_room.zip"
     },
+    "pixelheat.zip": {
+      "date": ["2023-09-22", "2023-09-22"],
+      "file": "beat/beat.port.json",
+      "items": ["beat/", "PixelHeat.sh"],
+      "name": "pixelheat.zip"
+    },
     "planetwaves.zip": {
       "date": ["2023-06-09", "2023-09-05"],
       "file": "PlanetWaves/PlanetWaves.port.json",
@@ -1950,6 +2018,12 @@
       "file": "profadeluxe/profadeluxe.port.json",
       "items": ["Abu Simbel Profanation Deluxe.sh", "profadeluxe/"],
       "name": "profadeluxe.zip"
+    },
+    "puremetal.zip": {
+      "date": ["2023-09-22", "2023-09-22"],
+      "file": "puremetal/puremetal.port.json",
+      "items": ["puremetal/", "Puremetal.sh"],
+      "name": "puremetal.zip"
     },
     "quake.2.zip": {
       "date": ["2021-09-14", "2022-04-28"],
@@ -2142,6 +2216,12 @@
       "items": ["spelunky/", "Spelunky.sh"],
       "name": "spelunky.zip"
     },
+    "spooky.zip": {
+      "date": ["2023-09-22", "2023-09-22"],
+      "file": "Spooky/Spooky.port.json",
+      "items": ["Spooky/", "Spooky.sh"],
+      "name": "spooky.zip"
+    },
     "srb2.zip": {
       "date": ["2021-12-02", "2021-12-02"],
       "file": "SRB2/srb2.port.json",
@@ -2196,6 +2276,12 @@
       "items": ["supertuxkart/", "SuperTuxKart.sh"],
       "name": "supertuxkart.zip"
     },
+    "superxyx.zip": {
+      "date": ["2023-09-22", "2023-09-22"],
+      "file": "SuperXYX/SuperXYX.port.json",
+      "items": ["SuperXYX.sh", "SuperXYX/"],
+      "name": "superxyx.zip"
+    },
     "tamatool.zip": {
       "date": ["2023-03-21", "2023-03-21"],
       "file": "tamatool/tamatool.port.json",
@@ -2203,7 +2289,7 @@
       "name": "tamatool.zip"
     },
     "thecurseofissyos.zip": {
-      "date": ["2023-09-06", "2023-09-11"],
+      "date": ["2023-09-06", "2023-09-21"],
       "file": "coi/coi.port.json",
       "items": ["Coi.sh", "coi/"],
       "name": "thecurseofissyos.zip"
@@ -2269,6 +2355,12 @@
       "items": ["Tomb Raider 3.sh", "tombraider3/"],
       "name": "tomb.raider.3.zip"
     },
+    "ubermoshcollection.zip": {
+      "date": ["2023-09-22", "2023-09-22"],
+      "file": "Uber/Uber.port.json",
+      "items": ["Uber/", "UbermoshCollection.sh"],
+      "name": "ubermoshcollection.zip"
+    },
     "ultimatetapankaikki.zip": {
       "date": ["2023-02-15", "2023-02-15"],
       "file": "ultimatetapankaikki/ultimatetapankaikki.port.json",
@@ -2294,7 +2386,7 @@
       "name": "uqm.zip"
     },
     "valhalla.zip": {
-      "date": ["2023-09-06", "2023-09-06"],
+      "date": ["2023-09-06", "2023-09-21"],
       "file": "Valhalla/Valhalla.port.json",
       "items": ["valhalla/", "Valhalla.sh", "Valhalla/"],
       "name": "valhalla.zip"
@@ -2371,7 +2463,7 @@
       "name": "zelda3.zip"
     },
     "zeroranger.zip": {
-      "date": ["2023-09-06", "2023-09-07"],
+      "date": ["2023-09-06", "2023-09-21"],
       "file": "zeroranger/zeroranger.port.json",
       "items": ["zeroranger/", "Zeroranger.sh"],
       "name": "zeroranger.zip"
