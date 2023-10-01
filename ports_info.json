@@ -118,6 +118,8 @@
     "eity/": "eity.zip",
     "Enigma.sh": "enigma.zip",
     "enigma/": "enigma.zip",
+    "Escape.sh": "escape.zip",
+    "escape/": "escape.zip",
     "Exhumed.sh": "exhumed.zip",
     "Exhumed/": "exhumed.zip",
     "Exult-keyring.sh": "exult.zip",
@@ -816,6 +818,7 @@
     "8786b5bbadd8576521ba9711fb2f2cd6": "Valhalla.sh",
     "87872f13aa7a8de51d981780bb92b0f9": "Abuse.sh",
     "87f75805099c373f921a1a47d217a67a": "OpenBlok.sh",
+    "8894e2d4c8067de5283ba368bc9f66cb": "UbermoshCollection.sh",
     "88b4157e9f74ddf0b0deb973f3459e75": "PlaqueAttackRemake.sh",
     "88dfb0c2a995598c64b5c60b1e740594": "Blobby Volley 2.sh",
     "88e23e69464597e324f96ee44b1b0fb4": "Block Attack.sh",
@@ -929,8 +932,10 @@
     "bcbb9b52dc8410dd34f51a31dd69d808": "Shadow Warrior.sh",
     "bd272d1afe58ac13896ed347aefd1171": "SorR.sh",
     "bdcb67eaa4ec846cd0431230cb9849d2": "Daikatana.sh",
+    "be49e931ee583001ef0082e357feca14": "Escape.sh",
     "bed1cb9976ba161141bfbb93fad53d38": "yatka.sh",
     "bed4ae7412680ed85ccd90f7a2dd061b": "DiverDown.sh",
+    "bef1407a4e4de28101efef5f839268be": "FreeSerf.sh",
     "bf145c87baccdd275d90ad029f579119": "Exult-keyring.sh",
     "bf64520eaae95439a0d237ed9624b7f9": "Hex-A-Hop.sh",
     "bfaf4aa6fe38a7db7e33eaaf3fdfe9ff": "Cave Story-evo.sh",
@@ -1067,9 +1072,9 @@
     "f06675518bcb1f65667aa45bf307ba76": "Fheroes2.sh",
     "f2880b043abbb39897d8f1d3bccb2994": "Hurrican.sh",
     "f37acd0f8aab4cdff9987d5b6e26d8f6": "Shadow Warrior.sh",
+    "f42d1c8d83cae1091ed12284ecc79439": "Farmner.sh",
     "f4cd279ba5a13efbaa568ce6370c3cdf": "Quake 2.sh",
     "f4e8149f632623fb46fcf5eb508e29d3": "Maximilien Adventure.sh",
-    "f42d1c8d83cae1091ed12284ecc79439": "Farmner.sh",
     "f5bdb9c56d71ae123496335a02a3f5cd": "Devilutionx.sh",
     "f5e3a7d31a86db3049cd608f26dfae78": "Enigma.sh",
     "f623c8fe65fac323269f20a95efc48eb": "Sonic 1.sh",
@@ -1373,7 +1378,7 @@
       "name": "deep_sleep.zip"
     },
     "defshot.zip": {
-      "date": ["2023-07-27", "2023-07-27"],
+      "date": ["2023-07-27", "2023-09-26"],
       "file": "defshot/defshot.port.json",
       "items": ["Defshot.sh", "defshot/"],
       "name": "defshot.zip"
@@ -1456,6 +1461,12 @@
       "items": ["enigma/", "Enigma.sh"],
       "name": "enigma.zip"
     },
+    "escape.zip": {
+      "date": ["2023-09-27", "2023-09-27"],
+      "file": "escape/escape.port.json",
+      "items": ["Escape.sh", "escape/"],
+      "name": "escape.zip"
+    },
     "exhumed.zip": {
       "date": ["2021-09-13", "2022-04-28"],
       "file": "Exhumed/exhumed.port.json",
@@ -1517,7 +1528,7 @@
       "name": "final_quest.zip"
     },
     "fire_and_fondness2.zip": {
-      "date": ["2023-07-30", "2023-07-30"],
+      "date": ["2023-07-30", "2023-09-26"],
       "file": "fire_and_fondness2/fire_and_fondness2.port.json",
       "items": ["Fire and Fondness 2.sh", "fire_and_fondness2/"],
       "name": "fire_and_fondness2.zip"
@@ -1553,7 +1564,7 @@
       "name": "freegemas.zip"
     },
     "freeserf.zip": {
-      "date": ["2023-03-07", "2023-03-07"],
+      "date": ["2023-03-07", "2023-09-26"],
       "file": "freeserf/freeserf.port.json",
       "items": ["FreeSerf.sh", "freeserf/"],
       "name": "freeserf.zip"
@@ -1601,7 +1612,7 @@
       "name": "half-life.zip"
     },
     "hawkthorne.zip": {
-      "date": ["2023-05-11", "2023-05-11"],
+      "date": ["2023-05-11", "2023-09-26"],
       "file": "hawkthorne/hawkthorne.port.json",
       "items": ["Hawkthorne.sh", "hawkthorne/"],
       "name": "hawkthorne.zip"
@@ -1697,7 +1708,7 @@
       "name": "iconoclasts.zip"
     },
     "iichantra_pear.zip": {
-      "date": ["2023-03-17", "2023-03-17"],
+      "date": ["2023-03-17", "2023-09-26"],
       "file": "iichantra_pear/iichantra_pear.port.json",
       "items": ["IIChantra P.E.A.R.sh", "iichantra_pear/"],
       "name": "iichantra_pear.zip"
@@ -2356,7 +2367,7 @@
       "name": "tomb.raider.3.zip"
     },
     "ubermoshcollection.zip": {
-      "date": ["2023-09-22", "2023-09-22"],
+      "date": ["2023-09-22", "2023-09-25"],
       "file": "Uber/Uber.port.json",
       "items": ["Uber/", "UbermoshCollection.sh"],
       "name": "ubermoshcollection.zip"
