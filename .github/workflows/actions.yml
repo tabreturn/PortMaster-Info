@@ -2,7 +2,7 @@ name: Update ports.json and port_stats.json
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 */6 * * *'
 
 jobs:
   build:
