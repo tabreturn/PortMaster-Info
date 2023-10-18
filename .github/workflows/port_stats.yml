@@ -30,7 +30,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "Update ports.json and port_stats.json" --allow-empty)
+          git diff-index --quiet HEAD || (git commit -a -m "Update port_stats.json" --allow-empty)
           
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
