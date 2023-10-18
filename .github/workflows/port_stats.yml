@@ -1,4 +1,4 @@
-name: Update ports.json and port_stats.json
+name: Update port_stats.json
 
 on:
   schedule:
