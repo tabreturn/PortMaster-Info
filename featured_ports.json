@@ -14,19 +14,24 @@
         "image": "",
         "description": "Ponder, Probe, and Prowl through Puzzling Ports!",
         "ports": [
-            "rota.zip",
-            "echo_chamber.zip",
-            "help.no.brake.zip"
+            "nonny.zip",
+            "tiny-crate.zip",
+            "simplesokoban.zip",
+            "yatka.zip"
         ]
     },
     {
         "name": "PortMaster Picks",
         "image": "",
-        "description": "A selection of ports by the Masters of Ports",
+        "description": "A selection of ports by the Masters of Ports. These quality ports are a great place to start with PortMaster.",
         "ports": [
-            "rota.zip",
-            "echo_chamber.zip",
-            "help.no.brake.zip"
+            "devilutionx.zip",
+            "half-life.zip",
+            "maldita.castilla.zip",
+            "rvgl.zip",
+            "rawgl.zip",
+            "shovel.knight.zip",
+            "stardewvalley.zip"
         ]
     }
 ]

@@ -7,7 +7,7 @@
         "data": {
             "prefix": "pm",
             "api": "PortMasterV2",
-            "name": "PortMaster",
+            "name": "PortMaster repository",
             "url": "https://api.github.com/repos/PortsMaster/PortMaster-Releases/releases/latest",
             "last_checked": null,
             "version": 4,
@@ -15,15 +15,15 @@
         }
     },
     {
-        "priority": 10,
-        "default": false,
+        "priority": 21,
+        "default": true,
         "fixed": false,
-        "file_name": "nosro",
+        "file_name": "portmaster.multiverse",
         "data": {
-            "prefix": "nsro",
+            "prefix": "pmmv",
             "api": "PortMasterV2",
-            "name": "nosro",
-            "url": "https://api.github.com/repos/nosro1/ports/releases/latest",
+            "name": "PortMaster Multiverse repository.",
+            "url": "https://api.github.com/repos/PortsMaster-MV/PortMaster-Multiverse/releases/latest",
             "last_checked": null,
             "version": 4,
             "data": {}
