@@ -1,7 +1,7 @@
 [
     {
         "name": "Ready to Run Bangers",
-        "image": "images/sausage.jpg",
+        "image": "images/banger-ports.png",
         "description": "Ports which are ready to run and are absolute bangers.",
         "ports": [
             "rota.zip",
@@ -11,7 +11,7 @@
     },
     {
         "name": "Puzzling Puzzles",
-        "image": "",
+        "image": "images/puzzling-ports.png",
         "description": "Ponder, Probe, and Prowl through Puzzling Ports!",
         "ports": [
             "nonny.zip",
@@ -22,7 +22,7 @@
     },
     {
         "name": "PortMaster Picks",
-        "image": "",
+        "image": "images/portmaster-ports.png",
         "description": "A selection of ports by the Masters of Ports. These quality ports are a great place to start with PortMaster.",
         "ports": [
             "devilutionx.zip",
