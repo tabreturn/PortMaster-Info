@@ -9982,14 +9982,15 @@
         },
         "rtr": false,
         "runtime": null,
-        "reqs": []
+        "reqs": [],
+        "exp": false
       },
       "source": {
         "date_added": "2023-10-28",
         "date_updated": "2023-10-28",
         "md5": "60fecd6b70015f8106426027065a0db5",
         "size": 4858737,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-10-31_0011/GTA3.zip",
+        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-11-05_0106/GTA3.zip",
         "repo": "multiverse"
       }
     },
@@ -10019,14 +10020,15 @@
         },
         "rtr": false,
         "runtime": null,
-        "reqs": []
+        "reqs": [],
+        "exp": false
       },
       "source": {
         "date_added": "2023-10-28",
         "date_updated": "2023-10-28",
         "md5": "05cef5bad6f5c7003b38bd4a3a0bec07",
         "size": 3931376,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-10-31_0011/GTAVC.zip",
+        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-11-05_0106/GTAVC.zip",
         "repo": "multiverse"
       }
     },
@@ -10058,14 +10060,15 @@
         },
         "rtr": false,
         "runtime": null,
-        "reqs": []
+        "reqs": [],
+        "exp": false
       },
       "source": {
-        "md5": "486fcb95084268130e8fef589dea418a",
         "date_added": "2023-10-31",
         "date_updated": "2023-10-31",
+        "md5": "486fcb95084268130e8fef589dea418a",
         "size": 1670311,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-10-31_0011/smw.zip",
+        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-11-05_0106/smw.zip",
         "repo": "multiverse"
       }
     },
@@ -10097,14 +10100,15 @@
         },
         "rtr": false,
         "runtime": null,
-        "reqs": []
+        "reqs": [],
+        "exp": false
       },
       "source": {
-        "md5": "8733846c204bcaa30d90e11656aad14d",
         "date_added": "2023-10-31",
         "date_updated": "2023-10-31",
+        "md5": "8733846c204bcaa30d90e11656aad14d",
         "size": 3775233,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-10-31_0011/sm.zip",
+        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-11-05_0106/sm.zip",
         "repo": "multiverse"
       }
     },
@@ -10134,14 +10138,15 @@
         },
         "rtr": false,
         "runtime": null,
-        "reqs": []
+        "reqs": [],
+        "exp": false
       },
       "source": {
         "date_added": "2023-10-29",
         "date_updated": "2023-10-29",
         "md5": "efb0df47a9f6dde33136158020f1e805",
         "size": 1010299,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-10-31_0011/Wipeout.zip",
+        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-11-05_0106/Wipeout.zip",
         "repo": "multiverse"
       }
     },
@@ -10172,14 +10177,15 @@
         },
         "rtr": true,
         "runtime": null,
-        "reqs": []
+        "reqs": [],
+        "exp": false
       },
       "source": {
         "date_added": "2023-10-29",
         "date_updated": "2023-10-29",
         "md5": "9f826fbb1c9822147e75bbaaeffd992e",
         "size": 916165,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-10-31_0011/zelda3.zip",
+        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-11-05_0106/zelda3.zip",
         "repo": "multiverse"
       }
     }
