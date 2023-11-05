@@ -19,5 +19,6 @@ for repo in repos:
                 portsJson[port]["source"]["repo"] = repo
                 ports["ports"][port] = portsJson[port]
 
+
 with open("ports.json", "w",encoding="utf8") as outfile:
-    outfile.write(json.dumps(ports,indent=2))
+    outfile.write(json.dumps(ports,indent=2,sort_keys=True))
