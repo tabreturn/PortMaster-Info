@@ -94,8 +94,8 @@
         "gigalomania.zip": 776,
         "gmu.music.player.zip": 168,
         "gnurobbo.zip": 76,
-        "gta3.zip": 24,
-        "gtavc.zip": 26,
+        "gta3.zip": 26,
+        "gtavc.zip": 30,
         "gumgem.zip": 49,
         "half-life.zip": 3257,
         "hawkthorne.zip": 350,
@@ -117,7 +117,7 @@
         "hyperfight.zip": 162,
         "iconoclasts.zip": 3166,
         "iichantra_pear.zip": 485,
-        "images.zip": 10280,
+        "images.zip": 10305,
         "infra_arcana.zip": 54,
         "invaders.zip": 1373,
         "iortcw.zip": 3027,
@@ -264,7 +264,7 @@
         "vcmi.zip": 357,
         "vvvvvv.zip": 5000,
         "wetspot2.zip": 455,
-        "wipeout.zip": 17,
+        "wipeout.zip": 19,
         "wizardchase.zip": 106,
         "wizznic.zip": 103,
         "wordlesdl.zip": 410,
@@ -272,10 +272,10 @@
         "worship_vector.zip": 664,
         "xenonvalkyrie.zip": 46,
         "yatka.zip": 160,
-        "zelda3.zip": 36,
+        "zelda3.zip": 37,
         "zeroranger.zip": 99,
         "zgloom.zip": 468,
         "znax.zip": 397
     },
-    "total_downloads": 378751
+    "total_downloads": 378785
 }
