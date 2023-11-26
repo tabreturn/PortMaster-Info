@@ -3900,7 +3900,7 @@
         "md5": "60fecd6b70015f8106426027065a0db5",
         "repo": "multiverse",
         "size": 4858737,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-11-08_0915/GTA3.zip"
+        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-11-26_0104/GTA3.zip"
       },
       "version": 2
     },
@@ -3938,7 +3938,7 @@
         "md5": "05cef5bad6f5c7003b38bd4a3a0bec07",
         "repo": "multiverse",
         "size": 3931376,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-11-08_0915/GTAVC.zip"
+        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-11-26_0104/GTAVC.zip"
       },
       "version": 2
     },
@@ -8940,7 +8940,7 @@
         "md5": "8733846c204bcaa30d90e11656aad14d",
         "repo": "multiverse",
         "size": 3775233,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-11-08_0915/sm.zip"
+        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-11-26_0104/sm.zip"
       },
       "version": 2
     },
@@ -8980,7 +8980,7 @@
         "md5": "85fc2c742ec60ad1eb4a7a4a391096a0",
         "repo": "multiverse",
         "size": 730240,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-11-08_0915/smworld.zip"
+        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-11-26_0104/smworld.zip"
       },
       "version": 2
     },
@@ -10709,11 +10709,11 @@
       "name": "wipeout.zip",
       "source": {
         "date_added": "2023-10-29",
-        "date_updated": "2023-10-29",
-        "md5": "efb0df47a9f6dde33136158020f1e805",
+        "date_updated": "2023-11-26",
+        "md5": "c074351bbbfd3b28de469ee3b021e738",
         "repo": "multiverse",
-        "size": 1010299,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-11-08_0915/Wipeout.zip"
+        "size": 1018340,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-11-26_0104/Wipeout.zip"
       },
       "version": 2
     },
@@ -11019,7 +11019,7 @@
         "md5": "f3cc8d96551923bdf3e5a495aef1982a",
         "repo": "multiverse",
         "size": 916169,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-11-08_0915/zelda3.zip"
+        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2023-11-26_0104/zelda3.zip"
       },
       "version": 2
     },
