@@ -105,8 +105,8 @@
         "gigalomania.zip": 986,
         "gmu.music.player.zip": 296,
         "gnurobbo.zip": 154,
-        "gta3.zip": 959,
-        "gtavc.zip": 1096,
+        "gta3.zip": 971,
+        "gtavc.zip": 1104,
         "gumgem.zip": 120,
         "half-life.zip": 4701,
         "hawkthorne.zip": 557,
@@ -130,7 +130,7 @@
         "hyperfight.zip": 302,
         "iconoclasts.zip": 3502,
         "iichantra_pear.zip": 757,
-        "images.zip": 27787,
+        "images.zip": 27841,
         "infra_arcana.zip": 142,
         "invaders.zip": 1459,
         "iortcw.zip": 3427,
@@ -244,7 +244,7 @@
         "skijump3.zip": 2298,
         "sm.zip": 324,
         "smw.zip": 29,
-        "smworld.zip": 469,
+        "smworld.zip": 472,
         "snaklipse.zip": 104,
         "sonic.1.zip": 3098,
         "sonic.2.zip": 2693,
@@ -290,7 +290,7 @@
         "vvvvvv.zip": 5467,
         "wetspot2.zip": 498,
         "widelands.zip": 127,
-        "wipeout.zip": 400,
+        "wipeout.zip": 402,
         "wizardchase.zip": 255,
         "wizznic.zip": 154,
         "wordlesdl.zip": 572,
@@ -298,7 +298,7 @@
         "worship_vector.zip": 730,
         "xenonvalkyrie.zip": 171,
         "yatka.zip": 497,
-        "zelda3.zip": 396,
+        "zelda3.zip": 399,
         "zelda3t.zip": 61,
         "zelda_roth.zip": 58,
         "zeldansq.zip": 73,
@@ -307,5 +307,5 @@
         "zgloom.zip": 738,
         "znax.zip": 498
     },
-    "total_downloads": 476061
+    "total_downloads": 476143
 }
