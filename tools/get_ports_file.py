@@ -1,7 +1,7 @@
 import requests
 import json
 
-repos = {"main": "https://api.github.com/repos/PortsMaster/PortMaster-Releases/releases/latest",
+repos = {"main": "https://api.github.com/repos/PortsMaster/PortMaster-New/releases/latest",
          "multiverse":"https://api.github.com/repos/PortsMaster-MV/PortMaster-Multiverse/releases/latest"
          }
 
