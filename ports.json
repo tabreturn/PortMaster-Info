@@ -7848,7 +7848,7 @@
     },
     "paused.zip": {
       "attr": {
-        "desc": "What do ducks have to do with rabbits? Exactly, adventure and physics stuff are what you are looking for.\n\nLEFT/RIGHT = Horizontal movement\nDOWN = Fall\nA = Jump\nB or R1 = Switch\nL1 = Reload\nSTART = Pause",
+        "desc": "What do ducks have to do with rabbits? Exactly, adventure and physics stuff are what you are looking for.",
         "exp": false,
         "genres": [
           "puzzle"
@@ -7864,7 +7864,7 @@
           "tabreturn"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": null,
         "title": "PAUSED"
       },
@@ -7876,12 +7876,12 @@
       "name": "paused.zip",
       "source": {
         "date_added": "2023-09-10",
-        "date_updated": "2023-09-10",
-        "md5": "7ebc5060b32e2e071d967aa31b049a9e",
-        "release_id": "2024-01-26_1029",
+        "date_updated": "2024-02-03",
+        "md5": "951d805cea4b6255c14b0d85ebda3846",
+        "release_id": "2024-02-03_0956",
         "repo": "main",
-        "size": 9737707,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-26_1029/paused.zip"
+        "size": 9737744,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-03_0956/paused.zip"
       },
       "version": 2
     },
@@ -12030,6 +12030,45 @@
         "repo": "main",
         "size": 1148067,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-26_1029/world.war.ii.gi.zip"
+      },
+      "version": 2
+    },
+    "worldofgoo.zip": {
+      "attr": {
+        "desc": "World of Goo is a multiple award winning physics based puzzle / construction game made entirely by two guys. Drag and drop living, squirming, talking, globs of goo to build structures, bridges, cannonballs, zeppelins, and giant tongues. The millions of Goo Balls that live in the beautiful World of Goo are curious to explore - but they don't know that they are in a game, or that they are extremely delicious.",
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "worldofgoo.screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy your Linux Game files (WorldOfGoo.bin.x86, Data Folder) to the worldofgoo folder.",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "World of Goo"
+      },
+      "items": [
+        "World of Goo.sh",
+        "worldofgoo"
+      ],
+      "items_opt": null,
+      "name": "worldofgoo.zip",
+      "source": {
+        "date_added": "2024-02-03",
+        "date_updated": "2024-02-03",
+        "md5": "18e4908f9a9dacfe0151c6161c014ee6",
+        "release_id": "2024-02-03_0956",
+        "repo": "main",
+        "size": 4894240,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-03_0956/worldofgoo.zip"
       },
       "version": 2
     },
