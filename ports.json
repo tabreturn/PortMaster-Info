@@ -600,7 +600,7 @@
     },
     "banana.duck.zip": {
       "attr": {
-        "desc": "In Banana Duck, you'll experience the sweet taste of pursuing bananas and avoiding all the evil vegetables and saw blades that are there for absolutely no reason. Also, you're a duck that can't swim and dies when it touches the water.\n\nLEFT/RIGHT = Horizontal movement\nA/B = Jump\nR1 = Reload\nSTART = Pause",
+        "desc": "In Banana Duck, you'll experience the sweet taste of pursuing bananas and avoiding all the evil vegetables and saw blades that are there for absolutely no reason. Also, you're a duck that can't swim and dies when it touches the water.",
         "exp": false,
         "genres": [
           "platformer"
@@ -628,12 +628,12 @@
       "name": "banana.duck.zip",
       "source": {
         "date_added": "2023-09-12",
-        "date_updated": "2023-09-12",
-        "md5": "260cb2a620eadcac8affe3847c991320",
-        "release_id": "2024-01-26_1029",
+        "date_updated": "2024-02-03",
+        "md5": "7a4c59a2cf3e4af82cbbb193cff62e9e",
+        "release_id": "2024-02-03_1550",
         "repo": "main",
-        "size": 7568309,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-26_1029/banana.duck.zip"
+        "size": 7568334,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-03_1550/banana.duck.zip"
       },
       "version": 2
     },
@@ -1551,7 +1551,7 @@
     },
     "burst.zip": {
       "attr": {
-        "desc": "Your aura switches between red and blue every few seconds, hit balls the same color as your aura to gain points. The more balls there are on the screen, the more points you get. Game files are already included and ready to go.\n\nDPAD = Movement\nA / B = Dash\nR1 = Restart\nSTART = Pause\n",
+        "desc": "Your aura switches between red and blue every few seconds, hit balls the same color as your aura to gain points. The more balls there are on the screen, the more points you get. Game files are already included and ready to go.",
         "exp": false,
         "genres": [
           "action"
@@ -1579,12 +1579,12 @@
       "name": "burst.zip",
       "source": {
         "date_added": "2023-09-14",
-        "date_updated": "2023-09-14",
-        "md5": "3147b4e7a939e400dd4432b5ea07c162",
-        "release_id": "2024-01-26_1029",
+        "date_updated": "2024-02-03",
+        "md5": "51ce68d5d9023dd6ef094da54101e246",
+        "release_id": "2024-02-03_1550",
         "repo": "main",
-        "size": 860025,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-26_1029/burst.zip"
+        "size": 859981,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-03_1550/burst.zip"
       },
       "version": 2
     },
@@ -4568,7 +4568,7 @@
     },
     "help.no.brake.zip": {
       "attr": {
-        "desc": "Hey umm, your car won't brake anymore. So better clear all the levels to get it fixed I guess. Game files are already included and ready to go.\n\nLEFT/RIGHT = Steer\nB / A = Boost\nSTART = Pause\nR1 = Quick restart\n",
+        "desc": "Hey umm, your car won't brake anymore. So better clear all the levels to get it fixed I guess. Game files are already included and ready to go.",
         "exp": false,
         "genres": [
           "racing"
@@ -4596,12 +4596,12 @@
       "name": "help.no.brake.zip",
       "source": {
         "date_added": "2023-09-14",
-        "date_updated": "2023-09-14",
-        "md5": "365dce63fb1413d28ba27a581b696ce5",
-        "release_id": "2024-01-26_1029",
+        "date_updated": "2024-02-03",
+        "md5": "90ba91029aebaf42d7213cecb80f94ed",
+        "release_id": "2024-02-03_1550",
         "repo": "main",
-        "size": 10541965,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-26_1029/help.no.brake.zip"
+        "size": 10541996,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-03_1550/help.no.brake.zip"
       },
       "version": 2
     },
@@ -5121,7 +5121,7 @@
     },
     "hyper.jump.zip": {
       "attr": {
-        "desc": "Pick up the yellow orbs, dodge everything else. Game files are already included and ready to go.\n\nDPAD = Movement\nA / B = Jump\nSTART = Pause\n",
+        "desc": "Pick up the yellow orbs, dodge everything else. Game files are already included and ready to go.",
         "exp": false,
         "genres": [
           "action"
@@ -5149,12 +5149,12 @@
       "name": "hyper.jump.zip",
       "source": {
         "date_added": "2023-09-14",
-        "date_updated": "2023-09-14",
-        "md5": "5e1656d34bc117817358287b498b7165",
-        "release_id": "2024-01-26_1029",
+        "date_updated": "2024-02-03",
+        "md5": "395adf087c58abe8c0b79bee56001cd2",
+        "release_id": "2024-02-03_1550",
         "repo": "main",
-        "size": 1476398,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-26_1029/hyper.jump.zip"
+        "size": 1476424,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-03_1550/hyper.jump.zip"
       },
       "version": 2
     },
@@ -9035,7 +9035,7 @@
     },
     "road.invaders.zip": {
       "attr": {
-        "desc": "An action game that's part vertical-scrolling racer, part match-2 game. Move your car and punch cubes, matching cubes to shift gear on your way to achieving the highest score! \n\nLEFT/RIGHT = Horizontal movement\nSTART = Pause game\nSELECT = Exit game",
+        "desc": "An action game that's part vertical-scrolling racer, part match-2 game. Move your car and punch cubes, matching cubes to shift gear on your way to achieving the highest score!",
         "exp": false,
         "genres": [
           "action"
@@ -9063,12 +9063,12 @@
       "name": "road.invaders.zip",
       "source": {
         "date_added": "2023-12-06",
-        "date_updated": "2024-01-28",
-        "md5": "226e37b962d259469946a83b70ed8fcb",
-        "release_id": "2024-01-28_2242",
+        "date_updated": "2024-02-03",
+        "md5": "0795de845976f9eb88d571236dde47a0",
+        "release_id": "2024-02-03_1550",
         "repo": "main",
-        "size": 6743224,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-28_2242/road.invaders.zip"
+        "size": 6743164,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-03_1550/road.invaders.zip"
       },
       "version": 2
     },
@@ -10964,6 +10964,45 @@
       },
       "version": 2
     },
+    "threecoins.zip": {
+      "attr": {
+        "desc": "Welcome, rookie. Get your three coins and try your best shot to beat all the arcade machines. This arcade have a single rule: You beat a machine, you get your coin back.\n\nDo you have what it takes to be the arcade king?",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "threecoins.screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to play!",
+        "porter": [
+          "MegaStriker"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Insert Three Coins"
+      },
+      "items": [
+        "Insert Three Coins.sh",
+        "threecoins"
+      ],
+      "items_opt": null,
+      "name": "threecoins.zip",
+      "source": {
+        "date_added": "2024-02-03",
+        "date_updated": "2024-02-03",
+        "md5": "5ee33bcd282a60013107ec8f7edafaa7",
+        "release_id": "2024-02-03_1550",
+        "repo": "main",
+        "size": 5127943,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-03_1550/threecoins.zip"
+      },
+      "version": 2
+    },
     "thwack.zip": {
       "attr": {
         "desc": "Funky-legged tennis game. Thwack demo/jam files are already included and ready to go.",
@@ -12046,7 +12085,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Copy your Linux Game files (WorldOfGoo.bin.x86, Data Folder) to the worldofgoo folder.",
+        "inst": "Copy your GOG World of Goo .sh into the Port folder or copy your Linux Game files (WorldOfGoo.bin.x86_64, Data Folders) to the worldofgoo gamedata folder.",
         "porter": [
           "Cebion"
         ],
@@ -12064,11 +12103,11 @@
       "source": {
         "date_added": "2024-02-03",
         "date_updated": "2024-02-03",
-        "md5": "18e4908f9a9dacfe0151c6161c014ee6",
-        "release_id": "2024-02-03_0956",
+        "md5": "1f4a996ab5fd2aa84fa786935b28e8be",
+        "release_id": "2024-02-03_1550",
         "repo": "main",
-        "size": 4894240,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-03_0956/worldofgoo.zip"
+        "size": 4894272,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-03_1550/worldofgoo.zip"
       },
       "version": 2
     },
