@@ -12085,7 +12085,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Copy your GOG World of Goo .sh into the Port folder or copy your Linux Game files (WorldOfGoo.bin.x86_64, Data Folders) to the worldofgoo gamedata folder.",
+        "inst": "Copy your GOG World of Goo .sh into the Port folder or copy your Linux Game files (WorldOfGoo.bin.x86_64 renamed to WorldOfGoo.bin and GameFolder) to the worldofgoo gamedata folder.",
         "porter": [
           "Cebion"
         ],
@@ -12103,11 +12103,11 @@
       "source": {
         "date_added": "2024-02-03",
         "date_updated": "2024-02-03",
-        "md5": "1f4a996ab5fd2aa84fa786935b28e8be",
-        "release_id": "2024-02-03_1550",
+        "md5": "913c4bc7a67e840bc205baf021482d96",
+        "release_id": "2024-02-03_1757",
         "repo": "main",
-        "size": 4894272,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-03_1550/worldofgoo.zip"
+        "size": 4894413,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-03_1757/worldofgoo.zip"
       },
       "version": 2
     },
