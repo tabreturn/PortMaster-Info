@@ -9,9 +9,12 @@ import urllib.request
 
 from pathlib import Path
 
-repos = ["https://api.github.com/repos/PortsMaster/PortMaster-Releases",
-         "https://api.github.com/repos/PortsMaster-MV/PortMaster-Multiverse"
-         ]
+repos = [
+    ("https://api.github.com/repos/PortsMaster/PortMaster-Releases", 10),
+    ("https://api.github.com/repos/PortsMaster/PortMaster-New", 1000),
+    ("https://api.github.com/repos/PortsMaster-MV/PortMaster-Multiverse", 10),
+    # ("https://api.github.com/repos/PortsMaster-MV/PortMaster-MV-New", 1000),
+    ]
 
 
 @functools.lru_cache(maxsize=512)
@@ -91,7 +94,7 @@ def main():
         'ports': [],
         'releases': [],
         'release_data': {},
-    }
+        }
 
     if raw_stats_json.is_file():
         print("Loaded Data.")
@@ -100,8 +103,8 @@ def main():
     else:
         print("Starting Fresh.")
 
-    for repo in repos:
-        fetch_recent_data(raw_data, repo, latest=4)
+    for repo, latest in repos:
+        fetch_recent_data(raw_data, repo, latest=latest)
 
     with open(raw_stats_json, 'w') as fh:
         json.dump(raw_data, fh, indent=4)
@@ -111,7 +114,7 @@ def main():
             port_name: 0
             for port_name in raw_data['ports']},
         'total_downloads': 0,
-    }
+        }
 
     for release in raw_data['releases']:
         for port_name in raw_data['ports']:
