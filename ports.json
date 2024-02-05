@@ -519,11 +519,11 @@
       "source": {
         "date_added": "2024-02-05",
         "date_updated": "2024-02-05",
-        "md5": "67379f914c8befdd6ca565ebfcd838f1",
-        "release_id": "2024-02-05_1441",
+        "md5": "094483df7b393aa526add312a6a670f5",
+        "release_id": "2024-02-05_1626",
         "repo": "main",
-        "size": 4446439,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_1441/apotris.zip"
+        "size": 4446441,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_1626/apotris.zip"
       },
       "version": 2
     },
