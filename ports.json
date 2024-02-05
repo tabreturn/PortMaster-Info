@@ -486,6 +486,47 @@
       },
       "version": 2
     },
+    "apotris.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Apotris is a block stacking game in the style of Tetris!  It features satisfying graphics, responsive controls and a large amount of customization so that you can tailor the game to your preferences! There are 11 game-modes to explore, with various options to keep yourself entertained (or challenged).",
+        "exp": false,
+        "genres": [
+          "action",
+          "puzzle"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "apotris.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Apotris"
+      },
+      "items": [
+        "Apotris.sh",
+        "apotris"
+      ],
+      "items_opt": null,
+      "name": "apotris.zip",
+      "source": {
+        "date_added": "2024-02-05",
+        "date_updated": "2024-02-05",
+        "md5": "67379f914c8befdd6ca565ebfcd838f1",
+        "release_id": "2024-02-05_1441",
+        "repo": "main",
+        "size": 4446439,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_1441/apotris.zip"
+      },
+      "version": 2
+    },
     "augustus.zip": {
       "attr": {
         "arch": [],
@@ -5772,6 +5813,46 @@
       },
       "version": 2
     },
+    "kemonorogue.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Based on a Japanese Anime, KemonoRogue is a fun map adventure game! \n\nMove your character through each level of the map, attacking foes and collecting coins on the way.",
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "kemonorogue.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to play!",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Kemono Rogue"
+      },
+      "items": [
+        "Kemono Rogue.sh",
+        "kemonorogue"
+      ],
+      "items_opt": null,
+      "name": "kemonorogue.zip",
+      "source": {
+        "date_added": "2024-02-05",
+        "date_updated": "2024-02-05",
+        "md5": "acc66a29597bd93d65f5d3a785467bbd",
+        "release_id": "2024-02-05_1441",
+        "repo": "main",
+        "size": 91396,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_1441/kemonorogue.zip"
+      },
+      "version": 2
+    },
     "kenslabyrinth.zip": {
       "attr": {
         "arch": [],
@@ -10991,6 +11072,46 @@
         "repo": "main",
         "size": 3995320,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-26_1029/stardewvalley.zip"
+      },
+      "version": 2
+    },
+    "starvsthegame.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Star vs. the Game is a cross between top-down beat-em up action and 2D platforming. Play as both Star and Marco and fight against a threat from beyond reality! The game features 7 levels with four bosses, as well as some extra content once the game is beaten. ",
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "starvsthegame.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download game from https://rian-shinozaki.itch.io/star-vs-the-game , copy data.win, audiogroup1.dat and all .ogg files to /ports/starvsthegame/gamedata",
+        "porter": [
+          "mattyj513"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Star vs. the Game"
+      },
+      "items": [
+        "Star vs the Game.sh",
+        "starvsthegame"
+      ],
+      "items_opt": null,
+      "name": "starvsthegame.zip",
+      "source": {
+        "date_added": "2024-02-05",
+        "date_updated": "2024-02-05",
+        "md5": "36a1b3aaa1920fb50986ece740f30f36",
+        "release_id": "2024-02-05_1441",
+        "repo": "main",
+        "size": 7708167,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_1441/starvsthegame.zip"
       },
       "version": 2
     },
