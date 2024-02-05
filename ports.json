@@ -2,6 +2,7 @@
   "ports": {
     "2048.zip": {
       "attr": {
+        "arch": [],
         "desc": "The 2048 puzzle game",
         "exp": false,
         "genres": [
@@ -41,6 +42,7 @@
     },
     "abes_adventure.zip": {
       "attr": {
+        "arch": [],
         "desc": "A scrolling, platform-jumping, key-collecting, ancient pyramid exploring game, vaguely in the style of similar games for the Commodore+4.  Abe's Adventure files are already included and ready to go.",
         "exp": false,
         "genres": [
@@ -81,6 +83,7 @@
     },
     "abombniball.zip": {
       "attr": {
+        "arch": [],
         "desc": "The objective of Abombniball is to defuse all the explosives on each level.\nAs a ball, this would normally be a simple task,\nhowever each level is filled with traps and devious puzzles.",
         "exp": false,
         "genres": [
@@ -120,6 +123,7 @@
     },
     "abuse.zip": {
       "attr": {
+        "arch": [],
         "desc": "A fork of the original Abuse SDL port from http://abuse.zoy.org/.  An intense 2D shooter.  Plays best on dual analog stick devices.  Just download and play.",
         "exp": false,
         "genres": [
@@ -159,6 +163,7 @@
     },
     "alchemyquest.zip": {
       "attr": {
+        "arch": [],
         "desc": "Alchemy Quest is a simple puzzle game where players combine alchemic elements to create exotic combinations and score points. A launcher for Open Alchemist is included.",
         "exp": false,
         "genres": [
@@ -199,6 +204,7 @@
     },
     "alephone-marathon.zip": {
       "attr": {
+        "arch": [],
         "desc": "An open source version of Bungie's Marathon 1 first person shooter.",
         "exp": false,
         "genres": [
@@ -238,6 +244,7 @@
     },
     "alephone-marathon2.zip": {
       "attr": {
+        "arch": [],
         "desc": "An open source version of Bungie's Marathon 2 first person shooter.",
         "exp": false,
         "genres": [
@@ -277,6 +284,7 @@
     },
     "alephone-marathoninfinity.zip": {
       "attr": {
+        "arch": [],
         "desc": "An open source version of Bungie's Marathon Infinity first person shooter.",
         "exp": false,
         "genres": [
@@ -316,6 +324,7 @@
     },
     "am2r.zip": {
       "attr": {
+        "arch": [],
         "desc": "Another Metroid 2 Remake.  An action-adventure game developed by Argentinian programmer Milton Guasti (also known as DoctorM64).",
         "exp": false,
         "genres": [
@@ -357,6 +366,7 @@
     },
     "anarch.zip": {
       "attr": {
+        "arch": [],
         "desc": "Anarch is extremely small, completely public domain, no-dependency, no-file, portable suckless anarcho-pacifist from-scratch 90s-style Doom clone that runs everywhere, made for the benefit of all living beings",
         "exp": false,
         "genres": [
@@ -397,6 +407,7 @@
     },
     "anodyne.zip": {
       "attr": {
+        "arch": [],
         "desc": "In this unique Zelda-lite game, explore and fight your way through surreal and creepy, nature, urban and abstract themed areas in the human Young's subconscious, evoked by a 16-bit-era visual style and a moody, dream-like soundtrack.",
         "exp": false,
         "genres": [
@@ -437,6 +448,7 @@
     },
     "apocrunner.zip": {
       "attr": {
+        "arch": [],
         "desc": "As the world burns, as the streets crumble, you cling to one thing: Survival. An unstoppable alien blight has taken hold of the earth, and there's no fighting it. Escape is the only option. Run, jump, and slide your way through urban destruction in this intense runner!",
         "exp": false,
         "genres": [
@@ -476,6 +488,7 @@
     },
     "augustus.zip": {
       "attr": {
+        "arch": [],
         "desc": "A reimplemntation of the Caeser 3 engine.",
         "exp": false,
         "genres": [
@@ -517,6 +530,7 @@
     },
     "avp.zip": {
       "attr": {
+        "arch": [],
         "desc": "The three most ferocious species in the universe in a bloodthirsty battle for the ultimate prize: survival. Take your pick: be a Colonial Marine, a Predator or an Alien. Fight through suspense-filled environments: from starships and space stations to colonial bases and eerie planetscapes. One wrong move turns you from hunter to prey.",
         "exp": false,
         "genres": [
@@ -557,6 +571,7 @@
     },
     "axiom.verge.zip": {
       "attr": {
+        "arch": [],
         "desc": "A port of Axiom Verge, an awesome metroidvania 2D platformer.",
         "exp": false,
         "genres": [
@@ -600,6 +615,7 @@
     },
     "banana.duck.zip": {
       "attr": {
+        "arch": [],
         "desc": "In Banana Duck, you'll experience the sweet taste of pursuing bananas and avoiding all the evil vegetables and saw blades that are there for absolutely no reason. Also, you're a duck that can't swim and dies when it touches the water.",
         "exp": false,
         "genres": [
@@ -639,6 +655,7 @@
     },
     "bbja.zip": {
       "attr": {
+        "arch": [],
         "desc": "A rewrite of the Blues Brothers game engine developed by Titus Interactive.",
         "exp": false,
         "genres": [
@@ -678,6 +695,7 @@
     },
     "beat2x.zip": {
       "attr": {
+        "arch": [],
         "desc": "Beat2x is DDR-style rythm game where the goal is to time the button presses to line up with the music beat.\n",
         "exp": false,
         "genres": [
@@ -717,6 +735,7 @@
     },
     "bermuda_syndrome.zip": {
       "attr": {
+        "arch": [],
         "desc": "A reimplemntation of the Berumuda Syndrome engine.",
         "exp": false,
         "genres": [
@@ -756,6 +775,7 @@
     },
     "billyfrontier.zip": {
       "attr": {
+        "arch": [],
         "desc": "This is Pangea Software's Billy Frontier updated to run on modern operating systems. Use the touchscreen to navigate the UI and gameplay.",
         "exp": false,
         "genres": [
@@ -797,6 +817,7 @@
     },
     "bittriprunner2.zip": {
       "attr": {
+        "arch": [],
         "desc": "'Bit.Trip Runner2', also known as 'Runner2: Future Legend of Rhythm Alien', is a rhythm-based platformer video game developed by Gaijin Games. Released in 2013, it is the sequel to the original Bit.Trip Runner. The game features CommanderVideo, the main character, navigating through various levels filled with obstacles and challenges, all synchronized to an engaging electronic soundtrack. Players must execute precise jumps, slides, and kicks to the beat of the music, creating a dynamic and rhythmic gameplay experience. With its vibrant visuals, catchy music, and addictive gameplay, Bit.Trip Runner2 offers a unique and entertaining take on the platformer genre.",
         "exp": false,
         "genres": [
@@ -837,6 +858,7 @@
     },
     "blastius.zip": {
       "attr": {
+        "arch": [],
         "desc": "Blastius is a simple old-school space shooter with a twist: your ship's piloting system has been heavily damaged during a battle and now you can only move by boosting and drifting around. The result of this is a dash that can be both an offensive and a defensive manoeuvre.",
         "exp": false,
         "genres": [
@@ -876,6 +898,7 @@
     },
     "bleed.zip": {
       "attr": {
+        "arch": [],
         "desc": "Wryn is a girl with a big arsenal and big dreams -- she wants to be the ultimate videogame hero! Help her take down the Greatest Heroes of All Time in an action-packed bid to claim the title for herself and show the world what a true hero looks like!",
         "exp": false,
         "genres": [
@@ -916,6 +939,7 @@
     },
     "bleed2.zip": {
       "attr": {
+        "arch": [],
         "desc": "Bleed 2 is a relentless arcade action game featuring air-dodging, bullet-reflecting, and tons of bosses. Now with randomly-generated levels and daily challenges, too!",
         "exp": false,
         "genres": [
@@ -956,6 +980,7 @@
     },
     "blobby.volley2.zip": {
       "attr": {
+        "arch": [],
         "desc": "A head-to-head multiplayer ball game.",
         "exp": false,
         "genres": [
@@ -996,6 +1021,7 @@
     },
     "blobwars.zip": {
       "attr": {
+        "arch": [],
         "desc": "Metal Blob Solid is the first game in the Blob Wars series made by Parallel Realities. It is a 2D platform game, where you control Bob in an effort to save his world from an invasion of alien Blobs.",
         "exp": false,
         "genres": [
@@ -1036,6 +1062,7 @@
     },
     "block.attack.zip": {
       "attr": {
+        "arch": [],
         "desc": "A Tetris Attack Clone.",
         "exp": false,
         "genres": [
@@ -1075,6 +1102,7 @@
     },
     "blockout2.zip": {
       "attr": {
+        "arch": [],
         "desc": "BlockOut II is a free adaptation of the original BlockOut DOS game. BlockOut II has the same features than the original game with few graphic improvements.",
         "exp": false,
         "genres": [
@@ -1114,6 +1142,7 @@
     },
     "blood.zip": {
       "attr": {
+        "arch": [],
         "desc": "Blood port based on EDuke32.",
         "exp": false,
         "genres": [
@@ -1154,6 +1183,7 @@
     },
     "blues.brothers.zip": {
       "attr": {
+        "arch": [],
         "desc": "A rewrite of the Blues Brothers game engine developed by Titus Interactive.",
         "exp": false,
         "genres": [
@@ -1193,6 +1223,7 @@
     },
     "boni.zip": {
       "attr": {
+        "arch": [],
         "desc": "Boni the skeleton is traveling across the Mexican 'Dia de Muertos', however, he needs to go across the spooky Iztepetl Cemetery. Help him get his skeletal body to the other side!",
         "exp": false,
         "genres": [
@@ -1232,6 +1263,7 @@
     },
     "botbreak.zip": {
       "attr": {
+        "arch": [],
         "desc": "BOT-BREAK! is a Paddle Pinball arcade-y experience, made for MechJam III, and designed to somewhat resemble a physical electromechanical game - complete with a cute little dot matrix display. Destroy the enemy Giant Robot one part at a time, dodge Missiles, get a Shield, launch your MechBall from the Railgun, and activate Hyper Mode to button-mash to victory!",
         "exp": false,
         "genres": [
@@ -1271,6 +1303,7 @@
     },
     "bowlingcross.zip": {
       "attr": {
+        "arch": [],
         "desc": "BOWLING CROSS: DARK LEGACY OF THE DEVIL BOWLER (FINAL FRAME) is the complete version of BOWLING CROSS, a weird GBC-style Battle-Bowling Action RPG - play as a roaming adventurer, using Custom Battle-Bowling Balls to knock down your enemies!",
         "exp": false,
         "genres": [
@@ -1310,6 +1343,7 @@
     },
     "bravedogsroad.zip": {
       "attr": {
+        "arch": [],
         "desc": "Brave Dog's Road is a short platformer about a dog who dreams of adventure.",
         "exp": false,
         "genres": [
@@ -1349,6 +1383,7 @@
     },
     "brogue.zip": {
       "attr": {
+        "arch": [],
         "desc": "Brogue is a single-player strategy game set in the halls of a mysterious and randomly-generated dungeon. The objective is simple enough -- retrieve the fabled Amulet of Yendor from the 26th level -- but the dungeon is riddled with danger.",
         "exp": false,
         "genres": [
@@ -1389,6 +1424,7 @@
     },
     "bstone-aog.zip": {
       "attr": {
+        "arch": [],
         "desc": "The unofficial source port for Blake Stone Aliens of Gold.",
         "exp": false,
         "genres": [
@@ -1430,6 +1466,7 @@
     },
     "bstone-ps.zip": {
       "attr": {
+        "arch": [],
         "desc": "The unofficial source port for Blake Stone Planet Strike.",
         "exp": false,
         "genres": [
@@ -1470,6 +1507,7 @@
     },
     "bugdom.zip": {
       "attr": {
+        "arch": [],
         "desc": "This is Pangea Software's Bugdom updated to run on modern operating systems. Use the touchscreen to navigate the UI.",
         "exp": false,
         "genres": [
@@ -1512,6 +1550,7 @@
     },
     "bumpersbroadswords.zip": {
       "attr": {
+        "arch": [],
         "desc": "BUMPERS & BROADSWORDS GAIDEN is a Strategy RPG in a world of discs - with every disc (Bumper) possessing HP, ATK, SPD, and a special Ability! In other words, it's a bit Fire Emblem, a bit Lunar Pool, and a bit Yu-Gi-Oh!",
         "exp": false,
         "genres": [
@@ -1551,6 +1590,7 @@
     },
     "burst.zip": {
       "attr": {
+        "arch": [],
         "desc": "Your aura switches between red and blue every few seconds, hit balls the same color as your aura to gain points. The more balls there are on the screen, the more points you get. Game files are already included and ready to go.",
         "exp": false,
         "genres": [
@@ -1590,6 +1630,7 @@
     },
     "bzflag.zip": {
       "attr": {
+        "arch": [],
         "desc": "BZFlag is a 3D multi-player tank battle game that allows users to play against each  other\nin  a  networked  environment.   There are five teams:  red, green, blue, purple and rogue\n(rogue tanks are black).  Destroying a player on another team scores a  win,  while  being\ndestroyed  or  destroying  a  teammate  scores a loss.  Rogues have no teammates (not even\nother rogues), so they cannot shoot teammates and they do not have a team score.",
         "exp": false,
         "genres": [
@@ -1630,6 +1671,7 @@
     },
     "c-dogs.zip": {
       "attr": {
+        "arch": [],
         "desc": "C-Dogs is a classic overhead run-and-gun game",
         "exp": false,
         "genres": [
@@ -1669,6 +1711,7 @@
     },
     "cannonball-lr.zip": {
       "attr": {
+        "arch": [],
         "desc": "This is the libretro port of the OutRun game engine recreation written by Chris White in 2014.",
         "exp": false,
         "genres": [
@@ -1708,6 +1751,7 @@
     },
     "cannonball-st.zip": {
       "attr": {
+        "arch": [],
         "desc": "CannonBall is an souped up game engine for the OutRun arcade game. The original 68000 and Z80 assembler code has been rewritten in C++. This makes it possible to make improvements suitable for modern platforms, including a higher frame-rate and widescreen support. It requires the original ROMs, as these contain elements including the graphics and audio data. ",
         "exp": false,
         "genres": [
@@ -1747,6 +1791,7 @@
     },
     "carmageddon.zip": {
       "attr": {
+        "arch": [],
         "desc": "Carmageddon is the original freeform driving sensation, where pedestrians (and cows!) equal points, and your opponents are a bunch of crazies in a twisted mix of automotive killing machines.",
         "exp": false,
         "genres": [
@@ -1786,6 +1831,7 @@
     },
     "cataclysm-dda.zip": {
       "attr": {
+        "arch": [],
         "desc": "Cataclysm: Dark Days Ahead is a turn-based survival game set in a post-apocalyptic world. Struggle to survive in a harsh, persistent, procedurally generated world. Scavenge the remnants of a dead civilization for food, equipment, or, if you are lucky, a vehicle with a full tank of gas to get you the hell out of Dodge. Fight to defeat or escape from a wide variety of powerful monstrosities, from zombies to giant insects to killer robots and things far stranger and deadlier, and against the others like yourself, that want what you have\u2026",
         "exp": false,
         "genres": [
@@ -1824,8 +1870,49 @@
       },
       "version": 2
     },
+    "cattactics.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Assume the role of Sprinkles and Spyro, cats out for revenge in this Tactical Turn-Based Mini-RPG in 64x64! Jump fences, climb trees and scale rooftops as you adventure through the neighbourhood.",
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "cattactics.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "All game files are included",
+        "porter": [
+          "mattyj513"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Cat Tactics"
+      },
+      "items": [
+        "Cat Tactics.sh",
+        "cattactics"
+      ],
+      "items_opt": null,
+      "name": "cattactics.zip",
+      "source": {
+        "date_added": "2024-02-05",
+        "date_updated": "2024-02-05",
+        "md5": "7c01563a106fa1c27bb15781dad749e0",
+        "release_id": "2024-02-05_1148",
+        "repo": "main",
+        "size": 93956826,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_1148/cattactics.zip"
+      },
+      "version": 2
+    },
     "cave.story-evo.zip": {
       "attr": {
+        "arch": [],
         "desc": "Cave Story using the Nxengine-evo engine from https://github.com/nxengine/nxengine-evo",
         "exp": false,
         "genres": [
@@ -1867,6 +1954,7 @@
     },
     "cave.story.zip": {
       "attr": {
+        "arch": [],
         "desc": "Cave Story using the Libretro Retroarch Nxengine core.",
         "exp": false,
         "genres": [
@@ -1908,6 +1996,7 @@
     },
     "cceleste.zip": {
       "attr": {
+        "arch": [],
         "desc": "Celeste Classic is a C source port of the original celeste (Celeste classic).",
         "exp": false,
         "genres": [
@@ -1947,6 +2036,7 @@
     },
     "chasm.zip": {
       "attr": {
+        "arch": [],
         "desc": "Explore the depths below a remote mountain town in this procedurally-generated Adventure Platformer. Taking inspiration from hack 'n slash dungeon crawlers and Metroidvania-style platformers, Chasm will immerse you in a fantasy world full of exciting treasure, deadly enemies, and abundant secrets.",
         "exp": false,
         "genres": [
@@ -1988,6 +2078,7 @@
     },
     "chessisstupid.zip": {
       "attr": {
+        "arch": [],
         "desc": "A small, weird Smash TV style shooter made by a painfully mediocre chess player who wanted to shoot the pieces after badly losing. Features all types of official chess piece, plus some made-up ones, funny stage names, tile breaking, like Battle Network, cutscenes, references to chess culture, if anyone cares, and UFO 50 palette",
         "exp": false,
         "genres": [
@@ -2027,6 +2118,7 @@
     },
     "chipndale.zip": {
       "attr": {
+        "arch": [],
         "desc": "Nutcase was kidnapped by the cat Fatso, and Chip and Dale went to save her. As they begin the operation, they discover that the enemy has plotted more serious difficulties for the entire world. Not only will you need to help Gaika, but also destroy the antagonist's further plans. In the remaster, the developer completely changed the textures and character animations",
         "exp": false,
         "genres": [
@@ -2067,6 +2159,7 @@
     },
     "cliff_hanger.zip": {
       "attr": {
+        "arch": [],
         "desc": "Traverse the different levels of this huge cave, in less than 12 seconds, or else, you die!\n\nFor some reason tho, time doesnt seem to keep going when you grab on ledges and maybe some other things, idk.\n\nMake sure to collect all of those shiny diamond thingies, they surely are important for you, I assure you!",
         "exp": false,
         "genres": [
@@ -2106,6 +2199,7 @@
     },
     "climb.zip": {
       "attr": {
+        "arch": [],
         "desc": "Climb is a bullet-ridden 2D platformer in which you play a knight fighting and climbing out of a prison tower with the help of a magical sword that shoots bullets! Includes 5 levels of increasing difficulty! Various enemy types! Traps! A unique mechanic where you shoot at the floor to jump higher! Single life challenge!",
         "exp": false,
         "genres": [
@@ -2145,6 +2239,7 @@
     },
     "clockwind.zip": {
       "attr": {
+        "arch": [],
         "desc": "The mechanic of this game is time travel. Make your way through 4 levels utilizing the passage of time in different ways. This may involve making trees grow or turning a car in to a flying car.",
         "exp": false,
         "genres": [
@@ -2184,6 +2279,7 @@
     },
     "colorlines.zip": {
       "attr": {
+        "arch": [],
         "desc": "A forked and updated version of SDL re-implementation of classic Color Lines game, originally written by Nikita Zimin in 2010.",
         "exp": false,
         "genres": [
@@ -2223,6 +2319,7 @@
     },
     "commander.genius.zip": {
       "attr": {
+        "arch": [],
         "desc": "Commander Genius is an open-source clone of Commander Keen (Episodes 1-6, Dreams) which allows you to play these episodes and some of the mods and additional community content made for them. Developed by Gerstrong and originally ported by Christian Haitian.",
         "exp": false,
         "genres": [
@@ -2264,6 +2361,7 @@
     },
     "corsixth.zip": {
       "attr": {
+        "arch": [],
         "desc": "An opensource clone of Theme Hospital.",
         "exp": false,
         "genres": [
@@ -2305,6 +2403,7 @@
     },
     "cosmo-engine.zip": {
       "attr": {
+        "arch": [],
         "desc": "A new game engine to play the MS-DOS game Cosmo's Cosmic Adventure on modern systems.",
         "exp": false,
         "genres": [
@@ -2345,6 +2444,7 @@
     },
     "cromagrally.zip": {
       "attr": {
+        "arch": [],
         "desc": "This is a port of Pangea Software\u2019s racing game Cro-Mag Rally. Take control of the caveman Brog as you race through the  Stone, Bronze, and Iron Ages in primitive vehicles.",
         "exp": false,
         "genres": [
@@ -2386,6 +2486,7 @@
     },
     "cybarian.zip": {
       "attr": {
+        "arch": [],
         "desc": "Cybarian The Time Travelling Warrior is a classically inspired arcade action game, with a mixture of modern and retro gaming tropes. Designed to be played through in a single sitting, there are limited checkpoints and no saves.",
         "exp": false,
         "genres": [
@@ -2425,6 +2526,7 @@
     },
     "daikatana.zip": {
       "attr": {
+        "arch": [],
         "desc": "Travel through time to fight a corrupted dictatorship and right the wrongs inflicted on the world.",
         "exp": false,
         "genres": [
@@ -2465,6 +2567,7 @@
     },
     "davegnukem.zip": {
       "attr": {
+        "arch": [],
         "desc": "Dave Gnukem is a cross-platform 2D scrolling platform shooter inspired by Duke Nukem 1.",
         "exp": false,
         "genres": [
@@ -2505,6 +2608,7 @@
     },
     "deadicedeluxe.zip": {
       "attr": {
+        "arch": [],
         "desc": "A small and kinda silly 1-v-1 Player-Vs-CPU Ice Hockey game, but the rink is full of zombies, powerups, mines, and meat.",
         "exp": false,
         "genres": [
@@ -2544,6 +2648,7 @@
     },
     "deep_sleep.zip": {
       "attr": {
+        "arch": [],
         "desc": "It's morning and you gotta wake up for work, you hear the alarm clocks, but to wake up you need to collect all the clocks and escape the room before deep sleep ghosts catch you. They'll follow your every step and will eventually catch and make you fall into Deep Sleep if you're not careful. Use your Dream Pillow to traverse through 15 different and challenging levels! Good luck!",
         "exp": false,
         "genres": [
@@ -2583,6 +2688,7 @@
     },
     "defshot.zip": {
       "attr": {
+        "arch": [],
         "desc": "A 2D shooter made for the KoriJam",
         "exp": false,
         "genres": [
@@ -2622,6 +2728,7 @@
     },
     "derclou.zip": {
       "attr": {
+        "arch": [],
         "desc": "A burglary simulation game originally created by neo Software Produktions GmbH.",
         "exp": false,
         "genres": [
@@ -2662,6 +2769,7 @@
     },
     "descent.zip": {
       "attr": {
+        "arch": [],
         "desc": "Play as a mercenary sent into planetary mines to destroy them before a computer virus spreads! You'll fly through 3D mazes in search of keycards to gain access to each level's reactor--which, once destroyed, will begin a self-destruct! Make sure you know where the exit hatch is! It will only open when the reactor is destroyed. Oh, and watch out for those virus-infected robots. They'll shoot at you.\n\nIncludes shareware/demo files. See instructions to use full version.",
         "exp": false,
         "genres": [
@@ -2704,6 +2812,7 @@
     },
     "descent2.zip": {
       "attr": {
+        "arch": [],
         "desc": "Return as a mercenary sent into deep space mines to destroy them before a computer virus spreads! You'll fly through 3D mazes in search of keycards to gain access to each level's reactor--which, once destroyed, will begin a self-destruct! Make sure you know where the exit hatch is! It will only open when the reactor is destroyed. Oh, and watch out for those virus-infected robots. They'll shoot at you.\n\nIncludes shareware/demo files. See instructions to use full version.",
         "exp": false,
         "genres": [
@@ -2746,6 +2855,7 @@
     },
     "devilutionx.zip": {
       "attr": {
+        "arch": [],
         "desc": "DevilutionX is a source port of Diablo from https://github.com/diasurgical/devilutionX.",
         "exp": false,
         "genres": [
@@ -2786,6 +2896,7 @@
     },
     "dinothawr.zip": {
       "attr": {
+        "arch": [],
         "desc": "Dinothawr is a block pushing puzzle game on slippery surfaces.",
         "exp": false,
         "genres": [
@@ -2825,6 +2936,7 @@
     },
     "diverdown.zip": {
       "attr": {
+        "arch": [],
         "desc": "Diver Down is a stealth-platformer. Avoid the lights on 20 different stages using your mysterious Diver Down ability, that allows you to dive onto solids! .",
         "exp": false,
         "genres": [
@@ -2864,6 +2976,7 @@
     },
     "domeromantik.zip": {
       "attr": {
+        "arch": [],
         "desc": "Dig your way through to the core of the planet. Mine minerals, bring them back to your dome and install upgrades just in time to defend from hostile lifeforms.",
         "exp": false,
         "genres": [
@@ -2903,6 +3016,7 @@
     },
     "donut.dodo.zip": {
       "attr": {
+        "arch": [],
         "desc": "If a long lost arcade game from 1983 resurfaced today, it would be Donut Dodo -- a classic 2D platformer from the golden era, tough as nails and challenging for the whole family! Ready to top the high score table?",
         "exp": false,
         "genres": [
@@ -2942,6 +3056,7 @@
     },
     "doom3.zip": {
       "attr": {
+        "arch": [],
         "desc": "Doom 3 is a 2004 survival horror first-person shooter video game developed by id Software and published by Activision.",
         "exp": false,
         "genres": [
@@ -2973,17 +3088,18 @@
       "name": "doom3.zip",
       "source": {
         "date_added": "2022-02-19",
-        "date_updated": "2024-01-23",
-        "md5": "12d7a8903710c4611efb230c162ddf35",
-        "release_id": "2024-01-26_1029",
+        "date_updated": "2024-02-05",
+        "md5": "e491fa00e14da1b768c6d02d137db6e5",
+        "release_id": "2024-02-05_1148",
         "repo": "main",
-        "size": 46047695,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-26_1029/doom3.zip"
+        "size": 43649508,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_1148/doom3.zip"
       },
       "version": 2
     },
     "drally.zip": {
       "attr": {
+        "arch": [],
         "desc": "Death Rally is a vehicular combat racing video game developed by Remedy Entertainment, published by Apogee Software and distributed by GT Interactive.",
         "exp": false,
         "genres": [
@@ -3024,6 +3140,7 @@
     },
     "droid7.zip": {
       "attr": {
+        "arch": [],
         "desc": "Jump your way up on a generated tower while a laser beam chases you from below. The higher you go, the faster it gets, and it isn't long before disappearing (and reappearing) platforms and spikes are introduced to make your life harder.",
         "exp": false,
         "genres": [
@@ -3063,6 +3180,7 @@
     },
     "duke.nukem.3d.zip": {
       "attr": {
+        "arch": [],
         "desc": "Duke Nukem 3D using the rednukem build open source port by Alexey Khokholov.",
         "exp": false,
         "genres": [
@@ -3103,6 +3221,7 @@
     },
     "dungeonrush.zip": {
       "attr": {
+        "arch": [],
         "desc": "A opensource game inspired by Snake, written in pure C with SDL",
         "exp": false,
         "genres": [
@@ -3142,6 +3261,7 @@
     },
     "dungeonsouls.zip": {
       "attr": {
+        "arch": [],
         "desc": "Dungeon Souls is an action-adventure roguelike dungeon crawler which draws heavy inspiration from Nuclear Throne, Risk of Rain, and Overture. Explore vast procedurally generated dungeons, collect loot, and slay hordes of challenging enemies!",
         "exp": false,
         "genres": [
@@ -3181,6 +3301,7 @@
     },
     "echo_chamber.zip": {
       "attr": {
+        "arch": [],
         "desc": "Wizard roguelike\nTraverse a dungeon and add a new spell each time you clear a floor.\n\nYour spells cycle in a loop.",
         "exp": false,
         "genres": [
@@ -3218,8 +3339,49 @@
       },
       "version": 2
     },
+    "edna.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Play as Edna and make your way through a castle by possessing statues within your line of sight. Solve puzzles by manipulating doors, switches, and mirrors.",
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "edna.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download [windows] Edna - Out of sight, out of control.zip from https://kz.itch.io/edna and copy edna.pck to the gamedata folder.",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.2.3.squashfs",
+        "title": "Edna - Out of Sight"
+      },
+      "items": [
+        "Edna - Out of Sight.sh",
+        "edna"
+      ],
+      "items_opt": null,
+      "name": "edna.zip",
+      "source": {
+        "date_added": "2024-02-05",
+        "date_updated": "2024-02-05",
+        "md5": "2ddb5553c2b3d91197dff35915e8c1b6",
+        "release_id": "2024-02-05_1148",
+        "repo": "main",
+        "size": 99785,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_1148/edna.zip"
+      },
+      "version": 2
+    },
     "eity.zip": {
       "attr": {
+        "arch": [],
         "desc": "Eity is a rhythm game with cool music.",
         "exp": false,
         "genres": [
@@ -3262,6 +3424,7 @@
     },
     "enigma.zip": {
       "attr": {
+        "arch": [],
         "desc": "Enigma is a puzzle game inspired by Oxyd on the Atari ST and Rock'n'Roll on the Amiga",
         "exp": false,
         "genres": [
@@ -3301,6 +3464,7 @@
     },
     "escape.zip": {
       "attr": {
+        "arch": [],
         "desc": "Escape is a fun puzzle game in the tradition of Adventures of Lolo or Chip's Challenge \nUnlike either of those games, Escape doesn't rely at all on reflexes\u2014it's all about your brain.",
         "exp": false,
         "genres": [
@@ -3340,6 +3504,7 @@
     },
     "exhumed.zip": {
       "attr": {
+        "arch": [],
         "desc": "A port of the PC version of Exhumed based on EDuke32.",
         "exp": false,
         "genres": [
@@ -3380,6 +3545,7 @@
     },
     "exult.zip": {
       "attr": {
+        "arch": [],
         "desc": "A port of Ultima 7.",
         "exp": false,
         "genres": [
@@ -3420,6 +3586,7 @@
     },
     "f-zeropocket.zip": {
       "attr": {
+        "arch": [],
         "desc": "The call has echoed throughout the universe once again: the F-Zero Grand Prix is back! Select one of the 30 most skillful drivers of all-time and boost your way to the top in F-Zero Pocket, a racing fan-game made as a tribute to both the GameBoy Color and the F-Zero series. 20 tracks divided in 4 cups and 4 levels of difficulty: are you up to the task?",
         "exp": false,
         "genres": [
@@ -3461,6 +3628,7 @@
     },
     "f1race.zip": {
       "attr": {
+        "arch": [],
         "desc": "F1 Race is a port of the F1 Race game from MTK OS.",
         "exp": false,
         "genres": [
@@ -3502,6 +3670,7 @@
     },
     "fade_to_black.zip": {
       "attr": {
+        "arch": [],
         "desc": " A reimplementation of the Fade to Black game.",
         "exp": false,
         "genres": [
@@ -3542,6 +3711,7 @@
     },
     "falling_time.zip": {
       "attr": {
+        "arch": [],
         "desc": "Arcade game inspired by Fall Down.",
         "exp": false,
         "genres": [
@@ -3581,6 +3751,7 @@
     },
     "fallout1.zip": {
       "attr": {
+        "arch": [],
         "desc": "Fallout is a post nuclear RPG.",
         "exp": false,
         "genres": [
@@ -3621,6 +3792,7 @@
     },
     "fallout2.zip": {
       "attr": {
+        "arch": [],
         "desc": "Fallout 2 is a post nuclear RPG.",
         "exp": false,
         "genres": [
@@ -3661,6 +3833,7 @@
     },
     "farmner.zip": {
       "attr": {
+        "arch": [],
         "desc": "*single stick command included in the directory, rename and boot* Your daughter has gone missing. You have followed footsteps next to a path to what seems to be an abandoned farmland. There are torches still glowing hot, where is everyone? Find your daughter, quickly!.",
         "exp": false,
         "genres": [
@@ -3701,6 +3874,7 @@
     },
     "feather.park.zip": {
       "attr": {
+        "arch": [],
         "desc": "Explore an autumn park and play minigames. Make friends and enter the barn.\n\nDPAD = Directional movement\nA = Interact/action\nB = Back/escape\n",
         "exp": false,
         "genres": [
@@ -3740,6 +3914,7 @@
     },
     "fheroes2.zip": {
       "attr": {
+        "arch": [],
         "desc": "A a recreation of Heroes of Might and Magic 2 game engine by Ihar Hubchyk.",
         "exp": false,
         "genres": [
@@ -3780,6 +3955,7 @@
     },
     "final_quest.zip": {
       "attr": {
+        "arch": [],
         "desc": "Embark on an exciting journey in Final Quest: A Godot Research, a unique blend of a captivating 2D platform game and an in-depth research guide for the Godot game engine. ",
         "exp": false,
         "genres": [
@@ -3819,6 +3995,7 @@
     },
     "fire_and_fondness2.zip": {
       "attr": {
+        "arch": [],
         "desc": "A puzzle game about rescuing your loved one from hazardous situations! Also, a send-up of daytime television.\n\nDaytime television just got hot: in the hit gameshow, Fire & Fondness, \nyoung lovers put their relationships to the test in the ultimate courtship ritual:\n attempting to navigate a succession of convoluted, flamethrower-filled deathtraps.\n\nIt also has a dog.",
         "exp": false,
         "genres": [
@@ -3858,6 +4035,7 @@
     },
     "firearrow.zip": {
       "attr": {
+        "arch": [],
         "desc": " Fire Arrow is a time attack (or 'Caravan', what used to be an important tradition in Japanese STGs in 90s) style shooter with a heavy emphasis on scoring, also known as \"coffee break shmups\"",
         "exp": false,
         "genres": [
@@ -3897,6 +4075,7 @@
     },
     "flare.zip": {
       "attr": {
+        "arch": [],
         "desc": "Flare is an open source, 2D action RPG. Its game play can be likened to the games in the Diablo series.  The game files are already included and ready to go.",
         "exp": false,
         "genres": [
@@ -3937,6 +4116,7 @@
     },
     "freedom.planet.zip": {
       "attr": {
+        "arch": [],
         "desc": "A combat-based platform adventure.",
         "exp": false,
         "genres": [
@@ -3977,6 +4157,7 @@
     },
     "freedroid.zip": {
       "attr": {
+        "arch": [],
         "desc": "The game tells the story of a world destroyed by a conflict between robots and their human masters. Play as Tux in a quest to save the world from the murderous rebel bots who know no mercy. You get to choose which path you wish to follow, and freedom of choice is everywhere in the game.",
         "exp": false,
         "genres": [
@@ -4016,6 +4197,7 @@
     },
     "freegemas.zip": {
       "attr": {
+        "arch": [],
         "desc": "Freegemas is an open source version of the well known Bejeweled.",
         "exp": false,
         "genres": [
@@ -4055,6 +4237,7 @@
     },
     "freeserf.zip": {
       "attr": {
+        "arch": [],
         "desc": "FreeSerf is a faithful clone of the brilliant simulation game The Settlers 1 aka Serf City.",
         "exp": false,
         "genres": [
@@ -4095,6 +4278,7 @@
     },
     "freesynd.zip": {
       "attr": {
+        "arch": [],
         "desc": "Syndicate is a beloved classic DOS action / strategy game where you play a hit man for one of a handful of global corporations (syndicates) that have taken over the world. Reminiscent of the look of the X-Com games but in real-time, you move your squad of characters through the missions, earning money by successfully completing them to upgrade your team for the next mission.",
         "exp": false,
         "genres": [
@@ -4135,6 +4319,7 @@
     },
     "gemrb.zip": {
       "attr": {
+        "arch": [],
         "desc": "GemRB (Game Engine Made with preRendered Background) is a portable open-source reimplementation of the Infinity Engine that underpinned Baldur's Gate, Icewind Dale and Planescape: Torment.",
         "exp": false,
         "genres": [
@@ -4175,6 +4360,7 @@
     },
     "gigalomania.zip": {
       "attr": {
+        "arch": [],
         "desc": "Gigalomania is an open source 2D Real Time Strategy god game.",
         "exp": false,
         "genres": [
@@ -4214,6 +4400,7 @@
     },
     "gmu.music.player.zip": {
       "attr": {
+        "arch": [],
         "desc": "Gmu is an open source music player for portable gaming consoles and handhelds.",
         "exp": false,
         "genres": [
@@ -4253,6 +4440,7 @@
     },
     "gnurobbo.zip": {
       "attr": {
+        "arch": [],
         "desc": "GNU Robbo is a free open source reimplementation of game designed by Janusz Pelc and published by LK Avalon in 1989 for the Atari XL/XE computers.",
         "exp": false,
         "genres": [
@@ -4368,6 +4556,7 @@
     },
     "gumgem.zip": {
       "attr": {
+        "arch": [],
         "desc": "Venture into a procedurally generated castle, different every time you play. The evil gummy bear has taken the prince prisoner, and you're our only hope!",
         "exp": false,
         "genres": [
@@ -4407,6 +4596,7 @@
     },
     "half-life.zip": {
       "attr": {
+        "arch": [],
         "desc": "Half-Life is Valve's debut title which blends blends action and adventure with award-winning technology to create a frighteningly realistic world where players must think to survive.",
         "exp": false,
         "genres": [
@@ -4447,6 +4637,7 @@
     },
     "hallowseve.zip": {
       "attr": {
+        "arch": [],
         "desc": "On Halloween, the barrier between human world and the spirit world thins. The spirits play tricks, the dead can be seen, and monsters can run their human world errands.\n\nSet in the 90s, play as Ichabod, a pumpkin man who uses his chance to enter the human world to try and rent Jurassic Park from the video store. Unfortunately, the only copy has been rented by a teen who\u2019s brought a witch\u2019s curse upon the town.\n\nGameplay is inspired by the classics and the modern classics \u2014 a Zeldalike sense of exploration, with the tight, fast combat of Hyper Light Drifter. All soaked in a charming pixel art atmosphere and a dumb sense of humor. Playtime is around 1-2 hours.",
         "exp": false,
         "genres": [
@@ -4487,6 +4678,7 @@
     },
     "hawkthorne.zip": {
       "attr": {
+        "arch": [],
         "desc": "This 2d platformer is based on Community's Digital Estate Planning episode. \n\nA group of warriors are summoned to the kingdom of Hawkthorne\u2122 to take on a quest to recover the fabled \"White Diamond of Discipline\"\u2122 found in the depths of the dark pit of despair known as The Black Cave\u2122.",
         "exp": false,
         "genres": [
@@ -4527,6 +4719,7 @@
     },
     "heart.of.darkness.zip": {
       "attr": {
+        "arch": [],
         "desc": "Heart of Darkness using the hode reimplementation of the engine developed by Amazing Studio.",
         "exp": false,
         "genres": [
@@ -4567,6 +4760,7 @@
     },
     "heboris-sdl.zip": {
       "attr": {
+        "arch": [],
         "desc": "Heboris is a game developed in 2001 by Kenji Hosimoto, aka Hosiken. Many, but not all, of its behaviors bear a resemblance to Tetris The Absolute The Grand Master 2, the latest TGM series game at that point. The game was developed using YaneuraoGameScript 2000 (YGS2K), which is a scripting language and runtime environment created by Urao Yane. \n\n",
         "exp": false,
         "genres": [
@@ -4607,6 +4801,7 @@
     },
     "help.no.brake.zip": {
       "attr": {
+        "arch": [],
         "desc": "Hey umm, your car won't brake anymore. So better clear all the levels to get it fixed I guess. Game files are already included and ready to go.",
         "exp": false,
         "genres": [
@@ -4646,6 +4841,7 @@
     },
     "hex-a-hop.zip": {
       "attr": {
+        "arch": [],
         "desc": "Hex-a-hop is a puzzle game in which a girl has to destroy green hexagons by stepping on them.",
         "exp": false,
         "genres": [
@@ -4685,6 +4881,7 @@
     },
     "hexen2.zip": {
       "attr": {
+        "arch": [],
         "desc": "Hexen II is a dark fantasy 1st-person shooter developed by Raven Software and published by id software.  Portal of Praevus features new levels, new enemies and a new playable character class, The Demoness.",
         "exp": false,
         "genres": [
@@ -4726,6 +4923,7 @@
     },
     "hftsr.zip": {
       "attr": {
+        "arch": [],
         "desc": "A rogue Shadow Rider has escaped to the year 2078. You are the only Hunter left who can take him down",
         "exp": false,
         "genres": [
@@ -4766,6 +4964,7 @@
     },
     "hijinx.zip": {
       "attr": {
+        "arch": [],
         "desc": "Hijinx is a platformer that incorporates the theme of \"pick your poison\" by having players pick from a set of handicaps for each level, with help from Carl, the bumbling tortoise.",
         "exp": false,
         "genres": [
@@ -4805,6 +5004,7 @@
     },
     "hocoslamfy.zip": {
       "attr": {
+        "arch": [],
         "desc": "You are a small bee and you must fly to avoid the bamboo shoots.",
         "exp": false,
         "genres": [
@@ -4844,6 +5044,7 @@
     },
     "hota.zip": {
       "attr": {
+        "arch": [],
         "desc": "Heart of the Alien is a cinematic platform game developed by Interplay Productions and was released by Virgin Interactive Entertainment in 1994.",
         "exp": false,
         "genres": [
@@ -4885,6 +5086,7 @@
     },
     "hotlinesanzu.zip": {
       "attr": {
+        "arch": [],
         "desc": "An arcade shooter / immersive sim where you solve problems with guns, backstabs, and strategic use of vents. Perform hostile corporate takeovers, clean up criminal syndicates, and try to get out of your literal dead-end job at the japanese ministry of death and reincarnation.",
         "exp": false,
         "genres": [
@@ -4926,6 +5128,7 @@
     },
     "hoverboard.zip": {
       "attr": {
+        "arch": [],
         "desc": "Standalone version of xkcd 1608 Hoverboard game",
         "exp": false,
         "genres": [
@@ -4965,6 +5168,7 @@
     },
     "humming.out.zip": {
       "attr": {
+        "arch": [],
         "desc": "A casual 2D pixel platformer adventure game with puzzle elements. You find yourself in a dark cave surrounded by crystals and hostile creatures. As a small and fragile hummingbird, you need to avoid all obstacles and navigate your way out of mysterious places and through challenging puzzles.",
         "exp": false,
         "genres": [
@@ -5004,6 +5208,7 @@
     },
     "hunters.zip": {
       "attr": {
+        "arch": [],
         "desc": "Lead your down-on-their-luck salvage crew on your latest contract - the drifting derelict wreck of the Nirvana - and discover what secrets it might hold",
         "exp": false,
         "genres": [
@@ -5043,6 +5248,7 @@
     },
     "hurrican.zip": {
       "attr": {
+        "arch": [],
         "desc": "Turrican port by Thrimbor.",
         "exp": false,
         "genres": [
@@ -5082,6 +5288,7 @@
     },
     "hydorah.zip": {
       "attr": {
+        "arch": [],
         "desc": "Super Hydorah is a nonlinear horizontal shoot' em up designed to offer a challenging experience, sublimating the richness of traditional shmup classics.",
         "exp": false,
         "genres": [
@@ -5121,6 +5328,7 @@
     },
     "hydra.castle.labyrinth.zip": {
       "attr": {
+        "arch": [],
         "desc": "Hydra Castle Labyrinth is a platform game with some old school action. It's also reminiscent of games of the 16 bit era.",
         "exp": false,
         "genres": [
@@ -5160,6 +5368,7 @@
     },
     "hyper.jump.zip": {
       "attr": {
+        "arch": [],
         "desc": "Pick up the yellow orbs, dodge everything else. Game files are already included and ready to go.",
         "exp": false,
         "genres": [
@@ -5199,6 +5408,7 @@
     },
     "hyperfight.zip": {
       "attr": {
+        "arch": [],
         "desc": "HYPERFIGHT is a fighting game where every hit is lethal, and every win counts.\nYou'll have to risk your points to gain access to your character's special\nand super moves, which can turn the tide of the game in a heartbeat. \nDesigned to be easy to pick up and hard to master, so grab a friend, any friend!",
         "exp": false,
         "genres": [
@@ -5238,6 +5448,7 @@
     },
     "iconoclasts.zip": {
       "attr": {
+        "arch": [],
         "desc": "A platformer that offers fun and wacky gameplay.  Recommended only for 640x480 devices or better.",
         "exp": false,
         "genres": [
@@ -5278,6 +5489,7 @@
     },
     "iichantra_pear.zip": {
       "attr": {
+        "arch": [],
         "desc": "iiChantra is a cross-platform 2D-Action, \u00abretro\u00bb in style but modern in gameplay.",
         "exp": false,
         "genres": [
@@ -5317,6 +5529,7 @@
     },
     "infra_arcana.zip": {
       "attr": {
+        "arch": [],
         "desc": "Infra Arcana is a Roguelike set in the early 20th century. The goal is to explore the lair of a dreaded cult called The Church of Starry Wisdom. Buried deep beneath their hallowed grounds lies an artefact called The Shining Trapezohedron - a window to all secrets of the universe. Your ultimate goal is to unearth this artefact.",
         "exp": false,
         "genres": [
@@ -5357,6 +5570,7 @@
     },
     "invaders.zip": {
       "attr": {
+        "arch": [],
         "desc": "A memory accurate reimplementation of Space Invaders by loadzero.",
         "exp": false,
         "genres": [
@@ -5396,6 +5610,7 @@
     },
     "iortcw.zip": {
       "attr": {
+        "arch": [],
         "desc": "Return to Castle Wolfenstein using the iortcw project.  With porting work done by JohnnyonFlame.  Packaged by Romadu.",
         "exp": false,
         "genres": [
@@ -5435,6 +5650,7 @@
     },
     "jazz2.zip": {
       "attr": {
+        "arch": [],
         "desc": "Jazz2 Resurrection is a complete reimplementation of Jazz Jackrabbit 2, a superb 2D platformer, a sequel to Epic Megagames' earlier shareware classic Jazz Jackrabbit (also available in PortMaster).",
         "exp": false,
         "genres": [
@@ -5474,6 +5690,7 @@
     },
     "jediacademy.zip": {
       "attr": {
+        "arch": [],
         "desc": "An open source port of Jedi Academy using OpenJK by the JACoders team. Originally developed by Raven Software.",
         "exp": false,
         "genres": [
@@ -5515,6 +5732,7 @@
     },
     "jedioutcast.zip": {
       "attr": {
+        "arch": [],
         "desc": "An open source port of Jedi Outcast using OpenJK by the JACoders team. Originally developed by Raven Software.",
         "exp": false,
         "genres": [
@@ -5556,6 +5774,7 @@
     },
     "kenslabyrinth.zip": {
       "attr": {
+        "arch": [],
         "desc": "Ken's Labyrinth is a first-person shooter for MS-DOS published in 1993 by Epic MegaGames. It was programmed by Ken Silverman, who later designed the Build engine used for rendering in 3D Realms's Duke Nukem 3D (1996). \n Ken's Labyrinth is about an ordinary man, heavily implied to be Ken Silverman himself, who wakes up one night to discover that his dog has been kidnapped by aliens. He tags along on their ship and ends up on their homeworld, where he must defeat the murderous creatures and rescue his beloved pet.",
         "exp": false,
         "genres": [
@@ -5596,6 +5815,7 @@
     },
     "kingofmachines.zip": {
       "attr": {
+        "arch": [],
         "desc": "King of Machines is a mecha-themed side-scrolling beat 'em up, in a world where powered exo-suits are commonplace, and also the weapon of choice in a violent uprising. Inspired by classic beat 'em ups like TMNT and Armored Warriors, as well as modern character action games.",
         "exp": false,
         "genres": [
@@ -5635,6 +5855,7 @@
     },
     "klorets.zip": {
       "attr": {
+        "arch": [],
         "desc": "Simple bullet hell shooter from the creator of Magic Vigilante",
         "exp": false,
         "genres": [
@@ -5674,6 +5895,7 @@
     },
     "kobodeluxe.zip": {
       "attr": {
+        "arch": [],
         "desc": "Kobo Deluxe is an enhanced version of Akira Higuchi's game XKobo for Un*x systems with X11. Kobo Deluxe adds sound, smoother animation, high resolution support, OpenGL acceleration (optional), an intuitive menu driven user interface, joystick support and other features.",
         "exp": false,
         "genres": [
@@ -5713,6 +5935,7 @@
     },
     "laserkombat.zip": {
       "attr": {
+        "arch": [],
         "desc": "Laser Kombat is a classic puzzle game, now available for modern systems. Destroy all the tanks to beat the level. Stay out of line of sight, though, or you will get shot. Shoot your lasers at mirrors, blow up bomb or push your enemies into water with movable blocks to win.",
         "exp": false,
         "genres": [
@@ -5752,6 +5975,7 @@
     },
     "lbreakouthd.zip": {
       "attr": {
+        "arch": [],
         "desc": "LBreakoutHD is a scaleable 16:9 remake of LBreakout2. You try to clear levels full of different types of bricks and extras by using your paddle to aim balls at the bricks.",
         "exp": false,
         "genres": [
@@ -5791,6 +6015,7 @@
     },
     "littlerunmo.zip": {
       "attr": {
+        "arch": [],
         "desc": "Little Runmo - The Game, is a 2D platformer game originating from an animated Youtube film called \"Little Runmo\" made by the creator Gooseworx. The Story revolves around a fictional videogame character trying to survive with his last life.\n\nThe gameplay of Little Runmo - The Game, is based on the video but also takes inspiration from the Super Mario games. For fans that come from the animation, the game is not a 1 to 1 replica of the animated film. I am not trying to make this a hardcore Meatboy-type game, I want to introduce challenging moments but I will try to make the difficulty curve as smooth as possible.\n\nThe early game will be pretty chill, just imagine how the Mario games were designed, then newer harder mechanics get slowly introduced. Big inspirations again were Mario World and Super Mario Bros Wii and also a fan-game called Mario 63.",
         "exp": false,
         "genres": [
@@ -5830,6 +6055,7 @@
     },
     "lode.zip": {
       "attr": {
+        "arch": [],
         "desc": "Explore by using the strange technology scattered throughout the world to change the way gravity affects you and your surroundings. Traverse every surface within reach, or use the room's gravity to move objects around. Features 64 x 64 pixel resolution and original chip tune sounds and music.",
         "exp": false,
         "genres": [
@@ -5869,6 +6095,7 @@
     },
     "luck.be.a.landlord.zip": {
       "attr": {
+        "arch": [],
         "desc": "Your landlord is knocking on your door. You have one coin left to your name. You insert the coin into your slot machine...and...JACKPOT! Luck be a Landlord, tonight! Luck be a Landlord is a roguelike deck-builder about using a slot machine to earn rent money and defeat capitalism. This game does not contain any real-world currency gambling or microtransactions.",
         "exp": false,
         "genres": [
@@ -5909,6 +6136,7 @@
     },
     "magicvigilante.zip": {
       "attr": {
+        "arch": [],
         "desc": "This is a difficult bullet-hell shooter. There are 7+1 levels. Half of them are boss battles. Good luck!",
         "exp": false,
         "genres": [
@@ -5948,6 +6176,7 @@
     },
     "maldita.castilla.zip": {
       "attr": {
+        "arch": [],
         "desc": "An arcade action video game developed by Locomalito and released in December 2012.  The gameplay is inspired by the games Shinobi and Ghost and Goblins.",
         "exp": false,
         "genres": [
@@ -5988,6 +6217,7 @@
     },
     "margot_beatrice_adventure.zip": {
       "attr": {
+        "arch": [],
         "desc": "The courageous princess Margot-B\u00e9atrice try to re-take the forest gem \nbut she encounter a terrible (in every way) sorcerer that emprison her \nin a cristal prison. She now forced to call her animal friends\nto free her and save the forest.",
         "exp": false,
         "genres": [
@@ -6027,6 +6257,7 @@
     },
     "maximilien_adventure.zip": {
       "attr": {
+        "arch": [],
         "desc": "Maximilien, a young adventure, survive a terrible plane crash. \nWith the help of some locals, he will needs to get through the jungle and find his brother and sister.",
         "exp": false,
         "genres": [
@@ -6066,6 +6297,7 @@
     },
     "meandmyshadow.zip": {
       "attr": {
+        "arch": [],
         "desc": "Me and My Shadow is a puzzle/platform game in which you try to reach the exit by solving puzzles. Spikes, moving blocks, fragile blocks and much more stand between you and the exit. Record your moves and let your shadow mimic them to reach blocks you couldn't reach alone.",
         "exp": false,
         "genres": [
@@ -6106,6 +6338,7 @@
     },
     "megaman.zip": {
       "attr": {
+        "arch": [],
         "desc": "A mysterious robot force is invading the city and abducting Robot Masters. Protoman and Megaman both succumb to the terror leaving Roll alone and scared. Back at Dr. Light's lab Roll decides to go through the procedure her brother did to become a super fighting robot. ",
         "exp": false,
         "genres": [
@@ -6145,6 +6378,7 @@
     },
     "meritous.zip": {
       "attr": {
+        "arch": [],
         "desc": "Action-adventure dungeon crawl game.",
         "exp": false,
         "genres": [
@@ -6185,6 +6419,7 @@
     },
     "mightymike.zip": {
       "attr": {
+        "arch": [],
         "desc": "This is Pangea Software's Mighty Mike (also known as Power Pete). Set in a toy store, this top-down action game is a staple of 90's Macintosh games.",
         "exp": false,
         "genres": [
@@ -6224,8 +6459,53 @@
       },
       "version": 2
     },
+    "mimisdeliverydash.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Originally created in 10 days for Movie Game Jam 2018 as a tribute to Kiki's Delivery Service.\n\nMeet Mimi! A young witch in-training who has just recently decided what her special skill is: delivering mail - by broomstick!\n\nThe town is a bustling place so she'll need to be on the look out for potential customers, and they always tip well for a speedy delivery.\n\nBut watch out, Mimi! Angry crows are one thing, but flying a broom around town can be just as dangerous! ",
+        "exp": false,
+        "genres": [
+          "arcade",
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "cover": "mimisdeliverydash.cover.png",
+          "screenshot": "mimisdeliverydash.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download from https://caffinate.itch.io/mimis-delivery-dash and extract data.win and both .ogg files to /ports/mimisdeliverydash/gamedata/",
+        "porter": [
+          "MadShmupper",
+          "tekkenfede",
+          "Jeod"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Mimi's Delivery Dash"
+      },
+      "items": [
+        "Mimi's Delivery Dash.sh",
+        "mimisdeliverydash/"
+      ],
+      "items_opt": null,
+      "name": "mimisdeliverydash.zip",
+      "source": {
+        "date_added": "2024-02-05",
+        "date_updated": "2024-02-05",
+        "md5": "862c8a45654503e494c433d28b580f94",
+        "release_id": "2024-02-05_1148",
+        "repo": "main",
+        "size": 16913612,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_1148/mimisdeliverydash.zip"
+      },
+      "version": 2
+    },
     "minesector.zip": {
       "attr": {
+        "arch": [],
         "desc": "Snazzy Minesweeper-based game built with SDL2",
         "exp": false,
         "genres": [
@@ -6266,6 +6546,7 @@
     },
     "minit.zip": {
       "attr": {
+        "arch": [],
         "desc": "Minit is a peculiar little adventure played sixty seconds at a time. Journey outside the comfort of your home to help unusual folk, uncover countless secrets, and overcome dangerous foes, all in hopes of lifting a rather unfortunate curse that ends each day after just one minute.",
         "exp": false,
         "genres": [
@@ -6305,6 +6586,7 @@
     },
     "mirrormagic.zip": {
       "attr": {
+        "arch": [],
         "desc": "Arcade style game for in the tradition of Deflektor (C 64) and Mindbender (Amiga).",
         "exp": false,
         "genres": [
@@ -6344,6 +6626,7 @@
     },
     "missdriller.zip": {
       "attr": {
+        "arch": [],
         "desc": "Miss Driller is an open source game inspired by Mr. Driller. The objective of the game is to try to drill as deep as you can without losing all your oxygen or have blocks fall on you.",
         "exp": false,
         "genres": [
@@ -6383,6 +6666,7 @@
     },
     "moonlight.zip": {
       "attr": {
+        "arch": [],
         "desc": "A free, open-source NVIDIA Gamestream Client.  For more info on the setup needs at https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information#moonlight-nvidia-gamestreaming-app-available-through-portmaster.",
         "exp": false,
         "genres": [
@@ -6422,6 +6706,7 @@
     },
     "mr.boom.zip": {
       "attr": {
+        "arch": [],
         "desc": "A Bomberman clone.",
         "exp": false,
         "genres": [
@@ -6462,6 +6747,7 @@
     },
     "multris.zip": {
       "attr": {
+        "arch": [],
         "desc": "A version of Tetris with randomly generated polyominoes of varying sizes.",
         "exp": false,
         "genres": [
@@ -6501,6 +6787,7 @@
     },
     "murtop.zip": {
       "attr": {
+        "arch": [],
         "desc": "Fast-paced arcade game packed with action, as if it was taken out directly from the 80's, where Dig Dug meets Bomberman.",
         "exp": false,
         "genres": [
@@ -6540,6 +6827,7 @@
     },
     "mutant_tank_knights.zip": {
       "attr": {
+        "arch": [],
         "desc": "A wonderful game from the respected Russian game developer for portable game consoles GP2X and GP2X Wiz - quasist 'a. Stylized tank arcade game with retro graphics.",
         "exp": false,
         "genres": [
@@ -6579,6 +6867,7 @@
     },
     "mystikbelle.zip": {
       "attr": {
+        "arch": [],
         "desc": "A Metroidvania with Point and Click style elements like Psychonauts.\nHelp Belle fix the mystic Walpurgisnacht Brew by finding three rare magical ingredients in order to clear her name.",
         "exp": false,
         "genres": [
@@ -6622,6 +6911,7 @@
     },
     "nam.zip": {
       "attr": {
+        "arch": [],
         "desc": "NAM using the rednukem build open source port by Alexey Khokholov.",
         "exp": false,
         "genres": [
@@ -6661,6 +6951,7 @@
     },
     "nanobounce.zip": {
       "attr": {
+        "arch": [],
         "desc": "Guide the bouncing ball to the exit. On the way, you will rely on some blocks and try to avoid others.",
         "exp": false,
         "genres": [
@@ -6701,6 +6992,7 @@
     },
     "nanosaur.zip": {
       "attr": {
+        "arch": [],
         "desc": "This is Pangea Software\u2019s Nanosaur, which casts a cybernetic dinosaur from the future who\u2019s sent back in time 20 minutes before a giant asteroid hits the Earth.",
         "exp": false,
         "genres": [
@@ -6742,6 +7034,7 @@
     },
     "nanosaur2.zip": {
       "attr": {
+        "arch": [],
         "desc": "This is Pangea Software\u2019s Nanosaur II: Hatchling, a continuation of the original Nanosaur storyline, only this time you get to fly a pterodactyl.",
         "exp": false,
         "genres": [
@@ -6780,6 +7073,7 @@
     },
     "nebulus.zip": {
       "attr": {
+        "arch": [],
         "desc": "In this puzzle platformer where you have to help a cute little green dude switch off some kind of \"evil\" mechanism. The \"power off switch\" is hidden\nsomewhere in high towers. On your way to the target you need to avoid a lot of\nstrange robots that guard the tower.",
         "exp": false,
         "genres": [
@@ -6819,6 +7113,7 @@
     },
     "neogensokyo.zip": {
       "attr": {
+        "arch": [],
         "desc": "Slash and dash through robotic enemies, dodge through danmaku in bullet-time, rack up combos to increase your Power level, pinpoint a boss's openings and dance through their moves to counterattack with perfect timing.",
         "exp": false,
         "genres": [
@@ -6858,6 +7153,7 @@
     },
     "neoncityriders.zip": {
       "attr": {
+        "arch": [],
         "desc": "Explore a decaying futuristic city in search of items, superpowers and companions to free all the turfs of the evil gangs and unite their people again!",
         "exp": false,
         "genres": [
@@ -6899,6 +7195,7 @@
     },
     "neverball.zip": {
       "attr": {
+        "arch": [],
         "desc": "Tilt the floor to roll a ball through an obstacle course within the given time. If the ball falls or time expires, a ball is lost.\n\nCollect coins to unlock the exit and earn extra balls. Red coins are worth 5. Blue coins are worth 10. A ball is awarded for 100 coins.\n\nIncludes Neverputt. ",
         "exp": false,
         "genres": [
@@ -6939,6 +7236,7 @@
     },
     "nkaruga.zip": {
       "attr": {
+        "arch": [],
         "desc": "A cool 2D bullet hell shooter.",
         "exp": false,
         "genres": [
@@ -6978,6 +7276,7 @@
     },
     "nonny.zip": {
       "attr": {
+        "arch": [],
         "desc": "Nonny is a simple nonogram game that lets you play and create nonogram puzzles!",
         "exp": false,
         "genres": [
@@ -7018,6 +7317,7 @@
     },
     "nothing.zip": {
       "attr": {
+        "arch": [],
         "desc": "A simple platformer with a powerful editor.*\n\n*Use keyboard and mouse for the editor",
         "exp": false,
         "genres": [
@@ -7058,6 +7358,7 @@
     },
     "nova_pinball.zip": {
       "attr": {
+        "arch": [],
         "desc": "A pinball game created with the Love game framework.\n\nYour mission: Make the star go nova. There are in-game hints that point out the next target to achieve your goal.",
         "exp": false,
         "genres": [
@@ -7097,6 +7398,7 @@
     },
     "npuzzle.zip": {
       "attr": {
+        "arch": [],
         "desc": "NPuzzle is a 15 puzzle style sliding game where you have to rearrange the tiles in order.",
         "exp": false,
         "genres": [
@@ -7136,6 +7438,7 @@
     },
     "nuclearthronemobile.zip": {
       "attr": {
+        "arch": [],
         "desc": "This is an open source recreation and is based on Nuclear Throne u19, featuring everything from the final release of u9. Nuclear Throne is a post-apocalyptic roguelike-like top-down shooter. Fight your way through the wastelands with powerful weaponry, collecting radiation to mutate some new limbs and abilities. All these things and more you could do if only you were good at this game. Can you reach the Nuclear Throne?",
         "exp": false,
         "genres": [
@@ -7175,6 +7478,7 @@
     },
     "oceansheart.zip": {
       "attr": {
+        "arch": [],
         "desc": "When pirates attacked Limestone Island, it fell to Tilia\u2019s father to go after them and rescue the young woman they kidnapped. When he hasn\u2019t returned six months later, Tilia decides it\u2019s up to her to track down her dad and find out what went wrong.\n\nPlay as Tilia as she travels across an archipelago full of pirate forts, forgotten magic, abominable beasts, and a diverse cast of people trying to find their place in it all. As Tilia follows her dad\u2019s trail, she becomes entrangled in the pirates\u2019 plot to use an old magic to control the ocean. And maybe along the way, she\u2019ll play in a tick-tack-toe championship, prevent an art heist, or impresonate a piano tuner. It\u2019s a large world full of secrets, dangers, and quirky wierdos for you to explore.",
         "exp": false,
         "genres": [
@@ -7215,6 +7519,7 @@
     },
     "oddworld.zip": {
       "attr": {
+        "arch": [],
         "desc": "It is a platformer with puzzle-solving elements.",
         "exp": false,
         "genres": [
@@ -7256,6 +7561,7 @@
     },
     "openblok.zip": {
       "attr": {
+        "arch": [],
         "desc": "A customizable, cross platform, open-source falling block game, packed with a bunch of features.",
         "exp": false,
         "genres": [
@@ -7295,6 +7601,7 @@
     },
     "openclaw.zip": {
       "attr": {
+        "arch": [],
         "desc": "A Reimplementation of the 1997 Captain Claw platformer.",
         "exp": false,
         "genres": [
@@ -7334,6 +7641,7 @@
     },
     "openfodder.zip": {
       "attr": {
+        "arch": [],
         "desc": "Open Fodder is an open source version of the Cannon Fodder engine.",
         "exp": false,
         "genres": [
@@ -7373,6 +7681,7 @@
     },
     "openggs.zip": {
       "attr": {
+        "arch": [],
         "desc": "Open Great Giana Sisters is a Free Software/Open Source implementation/remake of The Great Giana Sisters.",
         "exp": false,
         "genres": [
@@ -7412,6 +7721,7 @@
     },
     "openjazz.zip": {
       "attr": {
+        "arch": [],
         "desc": "A free, open-source version of the classic Jazz Jackrabbit games by Alister Thomson.",
         "exp": false,
         "genres": [
@@ -7451,6 +7761,7 @@
     },
     "openmrac.zip": {
       "attr": {
+        "arch": [],
         "desc": "OpenMRac is a split-screen racing game. It is a tweaked source release of MultiRacer.",
         "exp": false,
         "genres": [
@@ -7490,6 +7801,7 @@
     },
     "openomf.zip": {
       "attr": {
+        "arch": [],
         "desc": "An Open Source remake of 'One Must Fall 2097' by Diversions Entertainment.",
         "exp": false,
         "genres": [
@@ -7529,6 +7841,7 @@
     },
     "openrct2.zip": {
       "attr": {
+        "arch": [],
         "desc": "OpenRCT2 is Open source re-implementation of RollerCoaster Tycoon 2.",
         "exp": false,
         "genres": [
@@ -7568,6 +7881,7 @@
     },
     "opensupaplex.zip": {
       "attr": {
+        "arch": [],
         "desc": "OpenSupaplex is a 1:1 reimplementation of the original game in C and SDL, with just a few changes to make it easy to use with game controllers, and also easy to port to any platform.",
         "exp": false,
         "genres": [
@@ -7608,6 +7922,7 @@
     },
     "opensyobon.zip": {
       "attr": {
+        "arch": [],
         "desc": "An SDL-based cross-platform port of Syobon Action",
         "exp": false,
         "genres": [
@@ -7647,6 +7962,7 @@
     },
     "opentyrian.zip": {
       "attr": {
+        "arch": [],
         "desc": "OpenTyrian is an open-source port of the DOS game Tyrian.  ",
         "exp": false,
         "genres": [
@@ -7686,6 +8002,7 @@
     },
     "openxcom.zip": {
       "attr": {
+        "arch": [],
         "desc": "OXCE is an open source engine for running XCOM:Ufo Defense and Terror From the Deep.",
         "exp": false,
         "genres": [
@@ -7725,6 +8042,7 @@
     },
     "oquonie.zip": {
       "attr": {
+        "arch": [],
         "desc": "Oquonie is a textless isometric puzzle game.\n\nYou must make your way through a seemingly endless succession of rooms. You will not be alone. Your incarnations will have the help of bizaroid characters that speak an obscure language.",
         "exp": false,
         "genres": [
@@ -7766,6 +8084,7 @@
     },
     "ottomatic.zip": {
       "attr": {
+        "arch": [],
         "desc": "This is Pangea Software\u2019s Otto Matic. Take control of the robot Otto Matic and save earth from aliens from Planet X",
         "exp": false,
         "genres": [
@@ -7808,6 +8127,7 @@
     },
     "outofammo.zip": {
       "attr": {
+        "arch": [],
         "desc": "A mix of retro shmup (think Judgement Silversword) and breakout, in the style of something like The Lost Shield or Wizorb, with aesthetics hugely inspired by ZeroRanger (because it's brilliant, and green+orange goes well with EVERYTHING).",
         "exp": false,
         "genres": [
@@ -7847,6 +8167,7 @@
     },
     "owlboy.zip": {
       "attr": {
+        "arch": [],
         "desc": "A story-driven platform adventure game, where you can fly and explore a brand new world in the clouds.  Text is not readable on devices with screens less than 5 inches.",
         "exp": false,
         "genres": [
@@ -7887,6 +8208,7 @@
     },
     "paused.zip": {
       "attr": {
+        "arch": [],
         "desc": "What do ducks have to do with rabbits? Exactly, adventure and physics stuff are what you are looking for.",
         "exp": false,
         "genres": [
@@ -7926,6 +8248,7 @@
     },
     "pekka-kana-2.zip": {
       "attr": {
+        "arch": [],
         "desc": "Pekka Kana 2 (Pekka the Rooster 2) is a jump 'n run game made in the spirit of old classic platformers such as Super Mario, Sonic the Hedgehog, Jazz Jackrabbit, Super Frog and so on.",
         "exp": false,
         "genres": [
@@ -7965,6 +8288,7 @@
     },
     "pigeon.zip": {
       "attr": {
+        "arch": [],
         "desc": "*Optimized for 4:3 640x480 and 5:3 1920x1152*. Take care of your own pigeon as they fight increasingly stronger foes, and then face the legendary Pigeon God at the end... can you keep death far from your bird?",
         "exp": false,
         "genres": [
@@ -8004,6 +8328,7 @@
     },
     "pinball_disc_room.zip": {
       "attr": {
+        "arch": [],
         "desc": "How did you end up in this pinball of death? The blades teleport in. Dodge the discs to survive. Knock down the popups to open the passage way but beware you can't control when you exit.",
         "exp": false,
         "genres": [
@@ -8043,6 +8368,7 @@
     },
     "pixelheat.zip": {
       "attr": {
+        "arch": [],
         "desc": "Beat of The Pixel Heat is a rhythm game in which you must control HEAT, an artificial intelligence responsible for defending cyberspace from a wave of viral elements that have invaded your home!",
         "exp": false,
         "genres": [
@@ -8082,6 +8408,7 @@
     },
     "planetwaves.zip": {
       "attr": {
+        "arch": [],
         "desc": "An arcade tower defense about protecting a small planet made for the gotm.io jam #3 by Escada Games\n",
         "exp": false,
         "genres": [
@@ -8121,6 +8448,7 @@
     },
     "plaqueattackremake.zip": {
       "attr": {
+        "arch": [],
         "desc": "*Optimized for 4:3 and 16:9 (or similar ex. rg552). Could scale weirdly on gameboy like aspect ratio.* Atari 2600's Plaque Attack game remake made for Highjam #1 by Escada Games.",
         "exp": false,
         "genres": [
@@ -8161,6 +8489,7 @@
     },
     "pockettactics.zip": {
       "attr": {
+        "arch": [],
         "desc": "A GameBoy themed reimplementation of Tiny Tactics\n\nAfter the collapse of human civilization, rogue warriors fight for scraps on the surface, fighting for what few remnants they can find from the old world, and sheltering in caves from the chemically modified rain that pours like thick soup onto the landscape below. ",
         "exp": false,
         "genres": [
@@ -8200,6 +8529,7 @@
     },
     "pocketwondersport.zip": {
       "attr": {
+        "arch": [],
         "desc": "10 totally not bootleg games in 1 cartridge file! Inspired by weird rom collections on pirate multicarts, but hopefully with a tiny bit more quality.",
         "exp": false,
         "genres": [
@@ -8239,6 +8569,7 @@
     },
     "powder.zip": {
       "attr": {
+        "arch": [],
         "desc": "A roguelike is a dungeon crawler where no two games are the same. The maps are different, the items are different, there are no guaranteed win paths.",
         "exp": false,
         "genres": [
@@ -8278,6 +8609,7 @@
     },
     "powerlevel.zip": {
       "attr": {
+        "arch": [],
         "desc": "You have 5 minutes to explore a randomly generated dungeon and gear up for a tough boss fight. Search for treasure, upgrades, and that glorious EXP in this quick-paced action game!",
         "exp": false,
         "genres": [
@@ -8317,6 +8649,7 @@
     },
     "prehistorik.2.zip": {
       "attr": {
+        "arch": [],
         "desc": "A caveman-era platform game using the Blues Brothers game engine developed by Titus Interactive.  ",
         "exp": false,
         "genres": [
@@ -8356,6 +8689,7 @@
     },
     "profadeluxe.zip": {
       "attr": {
+        "arch": [],
         "desc": "An open-source, freeware remake of the Spanish platform game from 1985 replaces the graphics and sounds with new enhanced assets, while maintaining the same unforgiving gameplay of the original.",
         "exp": false,
         "genres": [
@@ -8396,6 +8730,7 @@
     },
     "prototype.zip": {
       "attr": {
+        "arch": [],
         "desc": "This is ProtoType, an RType remake from Dark Castle Software. This version compile on OpenPandora, Linux, ODROID and AmigaOS4, has the FMOD dependancy removed (using SDL_mixer instead, but can be re-activated), and has a few fixes in the code. This game now use stb_image for Image Loading.",
         "exp": false,
         "genres": [
@@ -8436,6 +8771,7 @@
     },
     "psebay.zip": {
       "attr": {
+        "arch": [],
         "desc": "Psebay is an atmospheric adventure in moto trial genre. Features exciting gameplay with dynamic gravity, special atmosphere and unique sound, stunning scenery in silhouette style, and comfortable and easy controls.",
         "exp": false,
         "genres": [
@@ -8475,6 +8811,7 @@
     },
     "puremetal.zip": {
       "attr": {
+        "arch": [],
         "desc": "Base has been attacked and you are the last hope of saving Pure Metal. Shoot down hoards of enemies and unforgiving bosses in classic shooter style. Touch controls feature smooth analog from the onscreen D-pad. Use the arrow keys and the z and x buttons to shoot the enemy with the keyboard. You have one life to make it through each level, but don't worry your ship can take 3 consecutive hits before being destroyed. Also your ship will regenerate to full power if you can manage to avoid enemy fire long enough. Bob and weave your way through the enemy fire and kill every thing in site. This game is designed to brutally come after you but pay attention and look for the patterns and avoid the onslaught of bullets.",
         "exp": false,
         "genres": [
@@ -8514,6 +8851,7 @@
     },
     "quake.2.zip": {
       "attr": {
+        "arch": [],
         "desc": "Quake 2 is the sequel to Quake 1, one of the first fully 3D First-person shooter games released by id software.",
         "exp": false,
         "genres": [
@@ -8553,6 +8891,7 @@
     },
     "quake.zip": {
       "attr": {
+        "arch": [],
         "desc": "Quake 1 is one of the first fully 3D First-person shooter games released by id software.",
         "exp": false,
         "genres": [
@@ -8592,6 +8931,7 @@
     },
     "quake3.zip": {
       "attr": {
+        "arch": [],
         "desc": "Quake III Arena is a 1999 multiplayer-focused first-person shooter developed by id Software.",
         "exp": false,
         "genres": [
@@ -8631,6 +8971,7 @@
     },
     "quakespasm.zip": {
       "attr": {
+        "arch": [],
         "desc": "QuakeSpasm -- A modern, cross-platform Quake game engine by sezero (Ozkan Sezer) based on FitzQuake by John Fitzgibbons. This source port of quake supports many mods and Dimension of the Machine. GL video accelerated with GL4ES!\n\nGL4ES version used: https://github.com/Slayer366/quakespasm-for-GL4ES based on https://github.com/jfgomez21/quakespasm who first modified sezero's Quakespasm to work with GL4ES\n\nGL4ES by ptitseb (same dev who also does box86 and box64) can be found here: https://github.com/ptitSeb/gl4es",
         "exp": false,
         "genres": [
@@ -8679,6 +9020,7 @@
     },
     "raptor.zip": {
       "attr": {
+        "arch": [],
         "desc": "Reversed-engineered source port from Raptor Call Of The Shadows",
         "exp": false,
         "genres": [
@@ -8718,6 +9060,7 @@
     },
     "rawgl.zip": {
       "attr": {
+        "arch": [],
         "desc": "A re-implementation of the engine used in the game Another World aka Out of this World in the US.",
         "exp": false,
         "genres": [
@@ -8758,6 +9101,7 @@
     },
     "redneck.rampage.rides.again.zip": {
       "attr": {
+        "arch": [],
         "desc": "Redneck Rampage 2 using the rednukem build open source port by Alexey Khokholov.",
         "exp": false,
         "genres": [
@@ -8797,6 +9141,7 @@
     },
     "redneck.rampage.zip": {
       "attr": {
+        "arch": [],
         "desc": "Redneck Rampage 1 using the rednukem build open source port by Alexey Khokholov.",
         "exp": false,
         "genres": [
@@ -8836,6 +9181,7 @@
     },
     "reminiscence.zip": {
       "attr": {
+        "arch": [],
         "desc": "A reimplementation of the Flashback game using the reminiscence engine by Alex Chermenin.",
         "exp": false,
         "genres": [
@@ -8877,6 +9223,7 @@
     },
     "retrotime.zip": {
       "attr": {
+        "arch": [],
         "desc": "RetroTime is a game containing 8 retro based games playable in 3 game modes being Retro Carousel, Time Attack and Lives mode. ",
         "exp": false,
         "genres": [
@@ -8916,6 +9263,7 @@
     },
     "ri_li.zip": {
       "attr": {
+        "arch": [],
         "desc": "A simple and fun arcade-style game in which you control a wooden toy train and collect wooden letters while avoiding obstacles.",
         "exp": false,
         "genres": [
@@ -8955,6 +9303,7 @@
     },
     "rick.dangerous.zip": {
       "attr": {
+        "arch": [],
         "desc": "An open source implementation of the legendary game \"Rick Dangerous\" using the xrick libretro retroarch core.",
         "exp": false,
         "genres": [
@@ -8995,6 +9344,7 @@
     },
     "rigelengine.zip": {
       "attr": {
+        "arch": [],
         "desc": "A modern re-implementation of the classic DOS game Duke Nukem II.",
         "exp": false,
         "genres": [
@@ -9034,6 +9384,7 @@
     },
     "rlvm.zip": {
       "attr": {
+        "arch": [],
         "desc": "Rlvm is a Free Software reimplementation of the Key RealLive interpreter for Visual Novels. Notable games include CLANNAD, AIR, & KANON.",
         "exp": false,
         "genres": [
@@ -9074,6 +9425,7 @@
     },
     "road.invaders.zip": {
       "attr": {
+        "arch": [],
         "desc": "An action game that's part vertical-scrolling racer, part match-2 game. Move your car and punch cubes, matching cubes to shift gear on your way to achieving the highest score!",
         "exp": false,
         "genres": [
@@ -9113,6 +9465,7 @@
     },
     "rocksndiamonds.zip": {
       "attr": {
+        "arch": [],
         "desc": "A Boulderdash type game by Holger Schemel with many unique features, such as the ability to play remade levels from Boulderdash, Emerald Mine and Supaplex and many more levels.",
         "exp": false,
         "genres": [
@@ -9152,6 +9505,7 @@
     },
     "roguelight.zip": {
       "attr": {
+        "arch": [],
         "desc": "The deeper you travel the darker it gets, and you only have your arrows to light the way.",
         "exp": false,
         "genres": [
@@ -9191,6 +9545,7 @@
     },
     "rota.zip": {
       "attr": {
+        "arch": [],
         "desc": "Rotate gravity as you walk over the edge!\nPush, pull and rotate gravity-blocks to traverse the stage and solve puzzles.\nCollect all 50 gems to unlock doors and explore 8 vibrant worlds!\nListen to an original ambient soundtrack that will keep you relaxed while solving challenging puzzles. (:\nWatch out for spikes! 0:",
         "exp": false,
         "genres": [
@@ -9230,6 +9585,7 @@
     },
     "rotationalshift.zip": {
       "attr": {
+        "arch": [],
         "desc": "A team of workers are tasked with processing boxes and have to meet the quota in the time limit. The catch? Every time the wheel spins, a worker is selected at random to work the next shift. With such short margins, all workers must play a part in helping each other be as effective as possible, so that no second is wasted.",
         "exp": false,
         "genres": [
@@ -9269,6 +9625,7 @@
     },
     "rott.zip": {
       "attr": {
+        "arch": [],
         "desc": "An open source port of Rise of the Triad by icculus.",
         "exp": false,
         "genres": [
@@ -9308,6 +9665,7 @@
     },
     "russiansubwaydogs.zip": {
       "attr": {
+        "arch": [],
         "desc": "A fast-paced arcade game inspired by the real-life stray dogs of the Moscow metro. Juggle vodka, bark fire, cook bears, and more! Can you steal enough food to survive?",
         "exp": false,
         "genres": [
@@ -9347,6 +9705,7 @@
     },
     "rvgl.zip": {
       "attr": {
+        "arch": [],
         "desc": "An open source port of Re-Volt by the RV Team.",
         "exp": false,
         "genres": [
@@ -9386,6 +9745,7 @@
     },
     "satryn.zip": {
       "attr": {
+        "arch": [],
         "desc": "A chaotic, infinite twin stick shooty! 12 fearsome baddies (not cuddly), 9 power-ups that will make you smile and say \u201ci\u2019m having fun\u201d, 5 hazards that add to the chaotic nature of this strange place, a manual that reveals helpful hints and useless lore as you discover things, and the love of your friends makes you stronger",
         "exp": false,
         "genres": [
@@ -9425,6 +9785,7 @@
     },
     "sdlpop.zip": {
       "attr": {
+        "arch": [],
         "desc": "An open-source port of Prince of Persia, based on the disassembly of the DOS version, extended with new features by NagyD",
         "exp": false,
         "genres": [
@@ -9464,6 +9825,7 @@
     },
     "sdlsopwith.zip": {
       "attr": {
+        "arch": [],
         "desc": "SDL Sopwith is a port of the game Sopwith, which was originally by BMB CompuScience Canada.",
         "exp": false,
         "genres": [
@@ -9503,6 +9865,7 @@
     },
     "serioussam-tfe.zip": {
       "attr": {
+        "arch": [],
         "desc": "Serious Sam is a high-adrenaline arcade-action shooter heavily focused on frantic arcade-style single player action. Sam travels through the beautiful world of ancient Egypt and several diverse planets, confronting countless Mental\u2019s minions on his way to the Mental\u2019s base. This source port of Serious Sam was originally modded to work on the Dragonbox Pyra handheld. GL video accelerated with GL4ES by ptitseb (same dev who also does box86 and box64)!",
         "exp": false,
         "genres": [
@@ -9543,6 +9906,7 @@
     },
     "serioussam-tse.zip": {
       "attr": {
+        "arch": [],
         "desc": "Serious Sam is a high-adrenaline arcade-action shooter heavily focused on frantic arcade-style single player action. Sam travels through the beautiful world of ancient Egypt and several diverse planets, confronting countless Mental\u2019s minions on his way to the Mental\u2019s base. This source port of Serious Sam was originally modded to work on the Dragonbox Pyra handheld. GL video accelerated with GL4ES by ptitseb (same dev who also does box86 and box64)!",
         "exp": false,
         "genres": [
@@ -9583,6 +9947,7 @@
     },
     "shadow.warrior.zip": {
       "attr": {
+        "arch": [],
         "desc": "Shadow Warrior open source port by Jonathan Fowler.",
         "exp": false,
         "genres": [
@@ -9622,6 +9987,7 @@
     },
     "shipwreck.zip": {
       "attr": {
+        "arch": [],
         "desc": "Shipwreck is a top down adventure game in which you must travel the land, explore dungeons, and defeat monsters to earn safe passage off the island on which you are stranded.  Note there are several games called Shipwreck, this is the one by Brushfire Games.",
         "exp": false,
         "genres": [
@@ -9661,6 +10027,7 @@
     },
     "shovel.knight.zip": {
       "attr": {
+        "arch": [],
         "desc": "Shovel Knight Treasure Trove loader.",
         "exp": false,
         "genres": [
@@ -9701,6 +10068,7 @@
     },
     "siegeofosaka.zip": {
       "attr": {
+        "arch": [],
         "desc": "SIEGE OF OSAKA is a retro hybrid of Beat-em-up and Brick Breaker. Send enemy ninja rolling into walls and fortifications to bring down their castles. Localized/parodied for American audiences.",
         "exp": false,
         "genres": [
@@ -9740,6 +10108,7 @@
     },
     "simonsqrev.zip": {
       "attr": {
+        "arch": [],
         "desc": "Gameplay in Castlevania II: Simon's Quest departs from the platforming genre of the first Castlevania, and introduces nonlinear gameplay and role-playing elements inspired by The Maze of Galious (1987), including a world map which the player is free to explore and revisit.",
         "exp": false,
         "genres": [
@@ -9781,6 +10150,7 @@
     },
     "simplesokoban.zip": {
       "attr": {
+        "arch": [],
         "desc": "Simple Sokoban is a simple Sokoban game that supports animated movements,unlimited level solutions, unlimited undos and more. It does not have any sound",
         "exp": false,
         "genres": [
@@ -9820,6 +10190,7 @@
     },
     "skifree.zip": {
       "attr": {
+        "arch": [],
         "desc": "SkiFree is a single-player skiing computer game created by Chris Pirih and released with Microsoft Entertainment Pack 3 for Windows 3.0 in October 1991.  The SkiFree official site is https://ski.ihoc.net/",
         "exp": false,
         "genres": [
@@ -9860,6 +10231,7 @@
     },
     "skijump3.zip": {
       "attr": {
+        "arch": [],
         "desc": "Ski Jump International v3",
         "exp": false,
         "genres": [
@@ -9979,6 +10351,7 @@
     },
     "snaklipse.zip": {
       "attr": {
+        "arch": [],
         "desc": "Snake game, with the addition of jumping, traps, and the need for speed. Features: Wormholes and jumping, many colors to unlock, and many many stars to eat",
         "exp": false,
         "genres": [
@@ -10018,6 +10391,7 @@
     },
     "sneakr.zip": {
       "attr": {
+        "arch": [],
         "desc": "A short stealth game. Avoid sentries and learn their movements to complete your objective.",
         "exp": false,
         "genres": [
@@ -10057,6 +10431,7 @@
     },
     "sonic.1.zip": {
       "attr": {
+        "arch": [],
         "desc": "Sonic the Hedgehog 1 decompilation by Rubberduckycooly.",
         "exp": false,
         "genres": [
@@ -10096,6 +10471,7 @@
     },
     "sonic.2.zip": {
       "attr": {
+        "arch": [],
         "desc": "Sonic the Hedgehog 2 decompilation by Rubberduckycooly.",
         "exp": false,
         "genres": [
@@ -10135,6 +10511,7 @@
     },
     "sonic.cd.zip": {
       "attr": {
+        "arch": [],
         "desc": "Sonic the Hedgehog CD decompilation by Rubberduckycooly.",
         "exp": false,
         "genres": [
@@ -10174,6 +10551,7 @@
     },
     "sonic.mania.zip": {
       "attr": {
+        "arch": [],
         "desc": "Sonic the Hedgehog Mania decompilation by Rubberduckycooly.",
         "exp": false,
         "genres": [
@@ -10213,6 +10591,7 @@
     },
     "sorr.zip": {
       "attr": {
+        "arch": [],
         "desc": "Streets of Rage Remake.",
         "exp": false,
         "genres": [
@@ -10252,6 +10631,7 @@
     },
     "space.cadet.pinball.zip": {
       "attr": {
+        "arch": [],
         "desc": "A reversed engineered version Space Cadet Pinball.",
         "exp": false,
         "genres": [
@@ -10292,6 +10672,7 @@
     },
     "spelunky.zip": {
       "attr": {
+        "arch": [],
         "desc": "Spelunky Classic HD.  A modified version of Derek Yu's game Spelunky Classic. Based on the source code published in Humble Weekly Bundle: Play and Create with GameMaker (not original 1.1 release).",
         "exp": false,
         "genres": [
@@ -10331,6 +10712,7 @@
     },
     "spinch.zip": {
       "attr": {
+        "arch": [],
         "desc": "Transcend the material realm and assume your true form as Spinch, a hyper-agile organism consumed by the quest to rescue a litter of its missing offspring, in this side-scrolling, psychedelic platformer from the mind of award-winning Canadian cartoonist, Jesse Jacobs.",
         "exp": false,
         "genres": [
@@ -10372,6 +10754,7 @@
     },
     "spooky.zip": {
       "attr": {
+        "arch": [],
         "desc": "Spooky Ghosts Dot Com is a small metroidvania about a ghost hunter named Ruby. One Halloween night a ghost hunting job comes in, but it turns out to not be a regular gig!",
         "exp": false,
         "genres": [
@@ -10412,6 +10795,7 @@
     },
     "srb2.zip": {
       "attr": {
+        "arch": [],
         "desc": "Sonic Robo Blast 2 fangame by Sonic Team Junior.  All necessary files are already included.  !!!Warning!!! This is a 184MB package and will take a while to download and install.",
         "exp": false,
         "genres": [
@@ -10451,6 +10835,7 @@
     },
     "srb2kart.zip": {
       "attr": {
+        "arch": [],
         "desc": "Sonic Robo Blast 2 Kart fangame by Sonic Team Junior.  All necessary files are already included.  !!!Warning!!! This is a 184MB package and will take a while to download and install.",
         "exp": false,
         "genres": [
@@ -10490,6 +10875,7 @@
     },
     "starboy.zip": {
       "attr": {
+        "arch": [],
         "desc": "During its journey StarBoy crashed and got lost in an unknown planet, help him return back to its spaceship!",
         "exp": false,
         "genres": [
@@ -10529,6 +10915,7 @@
     },
     "starcatcher.zip": {
       "attr": {
+        "arch": [],
         "desc": "Starcatcher is a platformer inspired by Kirby, Metroid, Gravitron Experiment. Your goal: Collect stars in outer space.",
         "exp": false,
         "genres": [
@@ -10568,6 +10955,7 @@
     },
     "stardewvalley.zip": {
       "attr": {
+        "arch": [],
         "desc": "An open-ended country-life RPG!",
         "exp": false,
         "genres": [
@@ -10608,6 +10996,7 @@
     },
     "steelassault.zip": {
       "attr": {
+        "arch": [],
         "desc": "Punch, whip, and zipline your way through a post-apocalyptic America in this 16-bit retro-style action platformer!",
         "exp": false,
         "genres": [
@@ -10650,6 +11039,7 @@
     },
     "sulka.zip": {
       "attr": {
+        "arch": [],
         "desc": "A simple platformer. Help Sulka find a new home.",
         "exp": false,
         "genres": [
@@ -10689,6 +11079,7 @@
     },
     "super.mario.war.zip": {
       "attr": {
+        "arch": [],
         "desc": "Super Mario War is a fan-made multiplayer Super Mario Bros. style deathmatch game in which players try to beat one another in a variety of gameplay modes.  Great fun even in single player mode.",
         "exp": false,
         "genres": [
@@ -10728,6 +11119,7 @@
     },
     "superdrome.bugs.zip": {
       "attr": {
+        "arch": [],
         "desc": "One day, Simon Pray -- a pest extinguisher living in Mexico, where for some reason pests are nowhere to be found -- receives a call from a luxurious mansion offering him a job. Something doesn't seem right, but Simon doesn't have time to think about it, he needs the money!. Join S.Pray and help him get rid of the pests!",
         "exp": false,
         "genres": [
@@ -10767,6 +11159,7 @@
     },
     "superrobotninjagirl.zip": {
       "attr": {
+        "arch": [],
         "desc": "Set out on an epic quest to save Japan from an evil yakuza corporation! Fight your way out of the imperial palace and all the way into the heart of Tokyo's red light district where you will encounter the mafioso himself in an intense danmaku battle!",
         "exp": false,
         "genres": [
@@ -10806,6 +11199,7 @@
     },
     "supertux.zip": {
       "attr": {
+        "arch": [],
         "desc": "SuperTux is a jump'n'run game with strong inspiration from the Super Mario Bros. games for the various Nintendo platforms.  !!!Warning!!! This is a 169MB package and will take a while to download and install.",
         "exp": false,
         "genres": [
@@ -10845,6 +11239,7 @@
     },
     "supertuxkart.zip": {
       "attr": {
+        "arch": [],
         "desc": "SuperTuxKart is a 3D open-source arcade racer with a variety characters, tracks, and modes to play.",
         "exp": false,
         "genres": [
@@ -10884,6 +11279,7 @@
     },
     "superxyx.zip": {
       "attr": {
+        "arch": [],
         "desc": "The year is 3999, humanity has long colonized itself across the galaxy, devouring new worlds for their resources, enjoying the interstellar life of luxury, more or less friendly interactions with other alien races. That was until an ancient threat has awakened from it's slumber..",
         "exp": false,
         "genres": [
@@ -10923,6 +11319,7 @@
     },
     "tamatool.zip": {
       "attr": {
+        "arch": [],
         "desc": "Tamatool is a Tamagotchi P1 emulator.",
         "exp": false,
         "genres": [
@@ -10962,6 +11359,7 @@
     },
     "thecurseofissyos.zip": {
       "attr": {
+        "arch": [],
         "desc": "Defkalion was fishing on a quiet blue sea when he heard the voice of the Goddess Athena. Hurry up, she said, the isle of Issyos has been cursed by the Olympus. And so, fearing for his daughter Delia, his only family left, the fisherman sails back to his home, where the adventure is about to begin.",
         "exp": false,
         "genres": [
@@ -11003,6 +11401,7 @@
     },
     "thermomorph.zip": {
       "attr": {
+        "arch": [],
         "desc": "An Alien-inspired survive-the-night horror game, created in Love2D.\n\nYour crew is dead. Unidentified creatures stalk the halls of your mining ship. Armed with a motion sensor and a flamethrower, you must survive until the escape pod is repaired.",
         "exp": false,
         "genres": [
@@ -11044,6 +11443,7 @@
     },
     "threecoins.zip": {
       "attr": {
+        "arch": [],
         "desc": "Welcome, rookie. Get your three coins and try your best shot to beat all the arcade machines. This arcade have a single rule: You beat a machine, you get your coin back.\n\nDo you have what it takes to be the arcade king?",
         "exp": false,
         "genres": [
@@ -11083,6 +11483,7 @@
     },
     "thwack.zip": {
       "attr": {
+        "arch": [],
         "desc": "Funky-legged tennis game. Thwack demo/jam files are already included and ready to go.",
         "exp": false,
         "genres": [
@@ -11122,6 +11523,7 @@
     },
     "tileworld.zip": {
       "attr": {
+        "arch": [],
         "desc": "Tile World is a source port clone of Chip's Challenge.\n\nHandheld edition based on: https://github.com/senquack/tileworld-for-handhelds",
         "exp": false,
         "genres": [
@@ -11164,6 +11566,7 @@
     },
     "timespinner.zip": {
       "attr": {
+        "arch": [],
         "desc": "Travel back in time to change fate itself, in this beautifully crafted story-driven adventure, inspired by classic 90s action-platformers.",
         "exp": false,
         "genres": [
@@ -11204,6 +11607,7 @@
     },
     "tiny-crate.zip": {
       "attr": {
+        "arch": [],
         "desc": "Tiny Crate is a cute little precision platformer with puzzle elements! Lift and toss crates to traverse over spike pits and reach higher ground! Push yourself and make tight jumps! You got this!",
         "exp": false,
         "genres": [
@@ -11241,8 +11645,50 @@
       },
       "version": 2
     },
+    "tinystg.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "TinySTG is a vertical scrolling shooting game, reminiscent of titles such as 1942 \ufeffand the \ufeffRaiden\ufeff series. Maneuver enemy bullets, earn powerups, and defeat epic bosses!",
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "tinystg.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "TinySTG"
+      },
+      "items": [
+        "TinySTG.sh",
+        "tinystg"
+      ],
+      "items_opt": null,
+      "name": "tinystg.zip",
+      "source": {
+        "date_added": "2024-02-05",
+        "date_updated": "2024-02-05",
+        "md5": "6c286061fdd9c0b0b31b33b07f331ce8",
+        "release_id": "2024-02-05_1148",
+        "repo": "main",
+        "size": 89410,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_1148/tinystg.zip"
+      },
+      "version": 2
+    },
     "titan_tactics.zip": {
       "attr": {
+        "arch": [],
         "desc": "A follow up to Pocket Tactics, Titan Tactics is inspired by the awesome tactic games of the 90s. Fight with your allies and uncover the mysteries of the kingdoms of Tyrmyr and Skathi!",
         "exp": false,
         "genres": [
@@ -11282,6 +11728,7 @@
     },
     "tomb.raider.1.zip": {
       "attr": {
+        "arch": [],
         "desc": "An open source port of Tomb Raider 1 using OpenLara engine by xProger.",
         "exp": false,
         "genres": [
@@ -11322,6 +11769,7 @@
     },
     "trolley.delayma.zip": {
       "attr": {
+        "arch": [],
         "desc": "Trolley Delayma is a tiny puzzle game where you move around manipulating the tracks to save the victims and delay the inevitable fate forever. A combination of puzzle solving and fast reaction to save everyone, including you!",
         "exp": false,
         "genres": [
@@ -11361,6 +11809,7 @@
     },
     "tube64.zip": {
       "attr": {
+        "arch": [],
         "desc": "Tube is a little known game from Bullfrog developed for M$ DOS, released in 1994.\n",
         "exp": false,
         "genres": [
@@ -11401,6 +11850,7 @@
     },
     "tunics.zip": {
       "attr": {
+        "arch": [],
         "desc": "Tunics! is a Rogue-like Legend of Zelda quest. It means it\u2019s only dungeons, and they are randomly generated. Moreover, once you\u2019re dead, you\u2019ll have to restart from the beginning, losing all your improvements (weapons, health, etc). It should be considered a well-polished proof-of-concept.",
         "exp": false,
         "genres": [
@@ -11441,6 +11891,7 @@
     },
     "turbotabletennis.zip": {
       "attr": {
+        "arch": [],
         "desc": "Ping pong return challenge.",
         "exp": false,
         "genres": [
@@ -11480,6 +11931,7 @@
     },
     "ubermoshcollection.zip": {
       "attr": {
+        "arch": [],
         "desc": "Collection of all the 8 games of the saga.\nOmega and Vol7 suggested only with device with 2 gb or more of ram, but works also on lower specs devices, often with very long boot time (up to 3 min for these two for the first boot). Jelos could have weird visualization of some menu sometimes but the interaction works and the gameplay works as espected.",
         "exp": false,
         "genres": [
@@ -11520,6 +11972,7 @@
     },
     "ultimatetapankaikki.zip": {
       "attr": {
+        "arch": [],
         "desc": "A simple top-down shooter.",
         "exp": false,
         "genres": [
@@ -11559,6 +12012,7 @@
     },
     "undertale.zip": {
       "attr": {
+        "arch": [],
         "desc": "Undertale loader.",
         "exp": false,
         "genres": [
@@ -11598,6 +12052,7 @@
     },
     "upo.zip": {
       "attr": {
+        "arch": [],
         "desc": "Upo is a procedurally generated music game.\nYour goal is to avoid collision with flying objects in rhytm to the music.\n",
         "exp": false,
         "genres": [
@@ -11638,6 +12093,7 @@
     },
     "uqm.zip": {
       "attr": {
+        "arch": [],
         "desc": "The Ur-Quan Masters is a 2002 open source fangame modification, based on the action-adventure science fiction game Star Control II.\n\n!!!Warning!!! This is a 369MB package and will take a while to download and install.",
         "exp": false,
         "genres": [
@@ -11677,6 +12133,7 @@
     },
     "valhalla.zip": {
       "attr": {
+        "arch": [],
         "desc": "VA-11 HALL-A: Cyberpunk Bartender Action is a booze em' up about waifus, technology, and post-dystopia life. In this world, corporations reign supreme, all human life is infected with nanomachines designed to oppress them, and the terrifying White Knights ensure that everyone obeys the laws..",
         "exp": false,
         "genres": [
@@ -11717,6 +12174,7 @@
     },
     "vanillara.zip": {
       "attr": {
+        "arch": [],
         "desc": "Vanilla Conquer is a fully portable version Command and Conquer Red Alert.",
         "exp": false,
         "genres": [
@@ -11757,6 +12215,7 @@
     },
     "vanillatd.zip": {
       "attr": {
+        "arch": [],
         "desc": "Vanilla Conquer is a fully portable version Command and Conquer Tiberium Dawn.",
         "exp": false,
         "genres": [
@@ -11797,6 +12256,7 @@
     },
     "vcmi.zip": {
       "attr": {
+        "arch": [],
         "desc": "VCMI is a fully portable version of Heroes of Might and Magic III.",
         "exp": false,
         "genres": [
@@ -11837,6 +12297,7 @@
     },
     "vvvvvv.zip": {
       "attr": {
+        "arch": [],
         "desc": "VVVVVV is a 2010 puzzle-platform game created by Terry Cavanagh.  ",
         "exp": false,
         "genres": [
@@ -11876,6 +12337,7 @@
     },
     "wetspot2.zip": {
       "attr": {
+        "arch": [],
         "desc": "A port of QuickBasic 4.5 game Wetspot 2 by Angelo Mottola.",
         "exp": false,
         "genres": [
@@ -11915,6 +12377,7 @@
     },
     "widelands.zip": {
       "attr": {
+        "arch": [],
         "desc": "A real-time build-up strategy game\nYou are the regent of a small clan. Your task is to build an ever growing settlement. Every member of your clan will do his or her part to produce more resources to further this growth.\n\nWidelands offers a single-player mode with campaigns that tell stories of the tribes and their struggle in the Widelands universe. However, settling really starts when you unite with friends over the Internet or LAN to build up new empires together \u2013 or to crush each other in the dusts of war. Widelands also offers an artificial intelligence to challenge you.",
         "exp": false,
         "genres": [
@@ -11995,6 +12458,7 @@
     },
     "wizardchase.zip": {
       "attr": {
+        "arch": [],
         "desc": "2D retro pacman like arcade game\n\nCollect all the treasure in the dungeon!  Can you make it to the second level? \nLeave your highest score in the comments.  Good luck!",
         "exp": false,
         "genres": [
@@ -12034,6 +12498,7 @@
     },
     "wizznic.zip": {
       "attr": {
+        "arch": [],
         "desc": "Wizznic! is an open-source, freeware remake of Puzznic, recreating the original arcade levels, the NES ones and including fan-made puzzle packs with new custom levels. The gameplay remains exactly the same, where the player has to move individual tiles, arranging them inside a restricted space to create groups of identical blocks and make all disappear by touching each other. Elevators and other features gradually start to appear on later levels.",
         "exp": false,
         "genres": [
@@ -12073,6 +12538,7 @@
     },
     "wordlesdl.zip": {
       "attr": {
+        "arch": [],
         "desc": "Wordle SDL is a port of a clone of Wordle made with SDL.\n\nWordle is a web-based word game created and developed by Welsh software engineer Josh Wardle, and owned and published by The New York Times Company since 2022. Players have six attempts to guess a five-letter word, with feedback given for each guess in the form of colored tiles indicating when letters match or occupy the correct position.",
         "exp": false,
         "genres": [
@@ -12113,6 +12579,7 @@
     },
     "world.war.ii.gi.zip": {
       "attr": {
+        "arch": [],
         "desc": "World War 2 GI using the rednukem build open source port by Alexey Khokholov.",
         "exp": false,
         "genres": [
@@ -12152,6 +12619,7 @@
     },
     "worldofgoo.zip": {
       "attr": {
+        "arch": [],
         "desc": "World of Goo is a multiple award winning physics based puzzle / construction game made entirely by two guys. Drag and drop living, squirming, talking, globs of goo to build structures, bridges, cannonballs, zeppelins, and giant tongues. The millions of Goo Balls that live in the beautiful World of Goo are curious to explore - but they don't know that they are in a game, or that they are extremely delicious.",
         "exp": false,
         "genres": [
@@ -12191,6 +12659,7 @@
     },
     "worship_vector.zip": {
       "attr": {
+        "arch": [],
         "desc": "Worship Vector is a Tower Defense type game. The game is based upon a unique map, which extends automatically.",
         "exp": false,
         "genres": [
@@ -12230,6 +12699,7 @@
     },
     "xenonvalkyrie.zip": {
       "attr": {
+        "arch": [],
         "desc": "Xenon Valkyrie is a rogue-like with many RPG elements in which you will have to get to the deepest part of a moon and finish the plans of a wicked witch. You will be able to get many weapons randomly as you fight in a world that is created every time you play.",
         "exp": false,
         "genres": [
@@ -12269,6 +12739,7 @@
     },
     "yarntown.zip": {
       "attr": {
+        "arch": [],
         "desc": "You\u2019ve come on the night of the hunt. The streets of this cursed, gothic town are overrun with beasts, and what has become of the men who tried to hunt them before. Explore the twisting roads, go toe to toe with powerful foes, and uncover Yarntown\u2019s dark secrets.",
         "exp": false,
         "genres": [
@@ -12310,6 +12781,7 @@
     },
     "yatka.zip": {
       "attr": {
+        "arch": [],
         "desc": "YATKA is one of many Tetris implementations available. Motivation behind this one was, on the one hand, to create a game that would conform to modern rules of the game, while, on the other, to make possible running it on resource-limited platforms (e.g. Bittboy or JZ4760-based handheld consoles).\nTwo Classic themes by Tekkenfede included.",
         "exp": false,
         "genres": [
@@ -12349,6 +12821,7 @@
     },
     "zelda-bookofmudora.zip": {
       "attr": {
+        "arch": [],
         "desc": "Link\u2019s newest quest is set a few generations after Twilight Princess and spans two different continents of Hyrule. Explore eight unique temples and defeat enemies and bosses in order to gain powerful items to assist you in your goal. Explore many areas of Hyrule and assist different races in their conflicts.",
         "exp": false,
         "genres": [
@@ -12389,6 +12862,7 @@
     },
     "zelda-mysteryofsolarusdx.zip": {
       "attr": {
+        "arch": [],
         "desc": "The Legend of Zelda: Mystery of Solarus DX is set to be a direct sequel to The Legend of Zelda: A Link to the Past on SNES, using the same graphics and game mechanisms. Mystery of Solarus DX was the first game made with the Solarus engine and in fact, Solarus was primarily designed for this game.",
         "exp": false,
         "genres": [
@@ -12429,6 +12903,7 @@
     },
     "zelda-mysteryofsolarusxd.zip": {
       "attr": {
+        "arch": [],
         "desc": "The Legend of Zelda: Mystery of Solarus XD is a parodic game that we released on April 1st, 2011. Though it\u2019s a big April 1st joke, it\u2019s a real, full game with two huge dungeons and 5-10 hours of playing.\n\nIt was developed in a very short period of time, thanks to coffee, beer and pizzas. Though the development has been rushed to ship on time, the game is complete, with lots of jokes, references and quirky NPCs.",
         "exp": false,
         "genres": [
@@ -12469,6 +12944,7 @@
     },
     "zelda-roth-se.zip": {
       "attr": {
+        "arch": [],
         "desc": "After Link\u2019s victory over Ganon in A Link to the Past, no one knows what Link\u2019s wish to the Triforce was. But this wish reunified the Light World and the Dark World and brought the Seven Wise Men\u2019s descendants back to life. Peace was back in Hyrule. But unfortunately, this wish also ressurected Ganon and his henchmen. He was preparing his revenge, but he couldn\u2019t do anything without the Triforce.\n\nOne night, a familiar voice speaks to Link in his sleep\u2026",
         "exp": false,
         "genres": [
@@ -12548,6 +13024,7 @@
     },
     "zelda3t.zip": {
       "attr": {
+        "arch": [],
         "desc": "After the events that occured in Termina and the victory of the hero on his evil alter-ego, Zelda and Link knew that, from the bottom of hell, Ganon the immortal drawed his power from his wish to the Triforce, and rounded up his army with a view to invade Hyrule. Until the day when, after months spent watching out for an attack, an event came up and put an end to this endless waiting...\n\n",
         "exp": true,
         "genres": [
@@ -12588,6 +13065,7 @@
     },
     "zelda_roth.zip": {
       "attr": {
+        "arch": [],
         "desc": "After the events that occured in Termina and the victory of the hero on his evil alter-ego, Zelda and Link knew that, from the bottom of hell, Ganon the immortal drawed his power from his wish to the Triforce, and rounded up his army with a view to invade Hyrule. Until the day when, after months spent watching out for an attack, an event came up and put an end to this endless waiting...\n",
         "exp": true,
         "genres": [
@@ -12628,6 +13106,7 @@
     },
     "zeldansq.zip": {
       "attr": {
+        "arch": [],
         "desc": "At the end of the Time of Triumph, Link left Hyrule to take well-deserved holidays far from the kingdom's restlessness. Link set sail to discover distant lands and paradise islands where he gladly spent the many rupees he had borrowed from the princess.\n\nYet, his holiday took a decisive turn on a small island where he heard interesting rumours.\n\nThose rumours were about a very special island, the most fabulous beach resort, the marvellous Fairy Island. Link was very curious about it, and set sail again to see it by himself.\n\nBut what he found there wan't quite what he expected: a quick and painful death killed by a sea monster. His body was washed ashore on a beach... \n",
         "exp": true,
         "genres": [
@@ -12668,6 +13147,7 @@
     },
     "zeldaolb.zip": {
       "attr": {
+        "arch": [],
         "desc": "Brought down by a terrible curse since his recent victory on the Dark Lord, Link is changing, day by day, into a powerful creature with a destructive nature named Oni-Link. Bannished from Hyrule, the young hylian asks the princess Zelda some help. She shows him his last hope: a portal to a secret world.",
         "exp": false,
         "genres": [
@@ -12708,6 +13188,7 @@
     },
     "zeldaxd-mercurischess.zip": {
       "attr": {
+        "arch": [],
         "desc": "The sequel to Mystery of Solarus XD. While Link and Zelda were away, a rich businessman bought Hyrule! There begins your next adventure, in a world where everything has a price and where truth and lies become undistinguishable.",
         "exp": false,
         "genres": [
@@ -12748,6 +13229,7 @@
     },
     "zeldoschallenge.zip": {
       "attr": {
+        "arch": [],
         "desc": "This game is then the first entry in ZeldoRetro\u2019s series Le D\u00e9fi de Zeldo (Zeldo\u2019s Challenge). This first chapter is named La Revanche du Bingo (Bingo\u2019s Revenge), and is much less ambitious than its sequel. It contains only one dungeon, and no overworld to explore, which makes the game rather short. You may beat it under an hour.",
         "exp": false,
         "genres": [
@@ -12788,6 +13270,7 @@
     },
     "zeldoschallenge2.zip": {
       "attr": {
+        "arch": [],
         "desc": "After having touched the Trophy of Victory won at the end of the first chapter\u2019s dungeon, Link is teleported in High-rule, a parallel world where multiple video games universes are mixed up. Link must go to the Tower of Memories where Zeldo is waiting for him to get his revenge!",
         "exp": false,
         "genres": [
@@ -12828,6 +13311,7 @@
     },
     "zeroranger.zip": {
       "attr": {
+        "arch": [],
         "desc": "ZeroRanger is a vertically scrolling 2D shoot'em up with heavy emphasis on shooting, dodging and... mystery?",
         "exp": false,
         "genres": [
@@ -12868,6 +13352,7 @@
     },
     "zgloom.zip": {
       "attr": {
+        "arch": [],
         "desc": "ZGloom is a re-implementation of Amiga FPS Gloom, including support for Gloom 3, Gloom Deluxe and Zombie Massacre.",
         "exp": false,
         "genres": [
@@ -12907,6 +13392,7 @@
     },
     "znax.zip": {
       "attr": {
+        "arch": [],
         "desc": "Znax is a remake of a game by Nick Kouvaris. It is a sort of puzzle / arcade game where you as the player need to select 4 blocks of the same color and form rectangles as big as you can",
         "exp": false,
         "genres": [
