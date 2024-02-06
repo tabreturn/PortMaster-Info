@@ -2035,6 +2035,46 @@
       },
       "version": 2
     },
+    "cavebuster.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Play as a little alien guy who crash landed into the core of a dangerous planet.  Make your way through fiery caverns and alien fauna.  Find the super duper Burger and eat it!",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "cover": "cavebuster.cover.png",
+          "screenshot": "cavebuster.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "1.Download 1 of the zip files from https://jontopielski.itch.io/cave-buster\n2. Copy the \"**.pck\" file from your downloaded zip into the gamedata folder of the cavebuster folder in your ports. Then rename it to \"cavebuster.pck\".",
+        "porter": [
+          "Consumerism"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Cave Buster"
+      },
+      "items": [
+        "Cave Buster.sh",
+        "cavebuster"
+      ],
+      "items_opt": null,
+      "name": "cavebuster.zip",
+      "source": {
+        "date_added": "2024-02-06",
+        "date_updated": "2024-02-06",
+        "md5": "860ac3996d59672aaa0b2a3139095ab4",
+        "release_id": "2024-02-06_1048",
+        "repo": "main",
+        "size": 1914163,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-06_1048/cavebuster.zip"
+      },
+      "version": 2
+    },
     "cceleste.zip": {
       "attr": {
         "arch": [],
@@ -3129,12 +3169,12 @@
       "name": "doom3.zip",
       "source": {
         "date_added": "2022-02-19",
-        "date_updated": "2024-02-05",
-        "md5": "e491fa00e14da1b768c6d02d137db6e5",
-        "release_id": "2024-02-05_1148",
+        "date_updated": "2024-02-06",
+        "md5": "9abd1e2f2e1214c1a9f5eda8cb080745",
+        "release_id": "2024-02-06_1048",
         "repo": "main",
-        "size": 43649508,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_1148/doom3.zip"
+        "size": 41804383,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-06_1048/doom3.zip"
       },
       "version": 2
     },
@@ -11158,6 +11198,46 @@
       },
       "version": 2
     },
+    "stoptheeggspress.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "A simple remake of Stop the Express mashed up with Chuckie Egg graphics.  Yes, it's a game based around a simple pun.",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "stop_the_eggspress.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Button Mappings for the game\n\nD Pad, Left stick and right stick for movement\n\nStart,X, and Y Button to start game\n\nA and B buttons to shoot an egg",
+        "porter": [
+          "monkeyx.net"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Stop The Egg Eggspress"
+      },
+      "items": [
+        "Stop The Egg Eggspress.sh",
+        "stop_the_eggspress"
+      ],
+      "items_opt": null,
+      "name": "stoptheeggspress.zip",
+      "source": {
+        "date_added": "2024-02-06",
+        "date_updated": "2024-02-06",
+        "md5": "68b6c2e57a4a6d1b4fc41ede2ea52381",
+        "release_id": "2024-02-06_1048",
+        "repo": "main",
+        "size": 7967765,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-06_1048/stoptheeggspress.zip"
+      },
+      "version": 2
+    },
     "sulka.zip": {
       "attr": {
         "arch": [],
@@ -11844,6 +11924,46 @@
         "repo": "main",
         "size": 51079756,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-26_1029/titan_tactics.zip"
+      },
+      "version": 2
+    },
+    "to_the_moon.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "A unique & non-combat story-driven experience \u00b7 Innovative mix between adventure game elements and classic RPG aesthetics. A story-driven experience about two doctors traversing backwards through a dying man's memories to artificially fulfill his last wish.",
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "to_the_moon.screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "If using the GOG Version place the to_the_moon_*.sh installer in the root of the to_the_moon folder or extract the contents of the data/noarch/game/ folder into to_the_moon/gamedata/",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "To the Moon"
+      },
+      "items": [
+        "To the Moon.sh",
+        "to_the_moon"
+      ],
+      "items_opt": null,
+      "name": "to_the_moon.zip",
+      "source": {
+        "date_added": "2024-02-06",
+        "date_updated": "2024-02-06",
+        "md5": "d91c04efc87ac092973d48de2c50255a",
+        "release_id": "2024-02-06_1048",
+        "repo": "main",
+        "size": 5179186,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-06_1048/to_the_moon.zip"
       },
       "version": 2
     },
