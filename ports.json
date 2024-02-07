@@ -4074,6 +4074,46 @@
       },
       "version": 2
     },
+    "finding_paradise.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Finding Paradise is an adventure game developed and published by Freebird Games. Serving as a sequel to To the Moon and A Bird Story, the story continues with doctors Eva Rosalene and Neil Watts as they help to fulfill a wish for Colin Reeds, who is now a bedridden old man.",
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "finding_paradise.screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "If using the GOG Version place the to_the_moon_*.sh installer to the root of the finding_paradise folder or extract the contents of the data/noarch/game/ folder into finding_paradise/gamedata/",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Finding Paradise"
+      },
+      "items": [
+        "Finding Paradise.sh",
+        "finding_paradise"
+      ],
+      "items_opt": null,
+      "name": "finding_paradise.zip",
+      "source": {
+        "date_added": "2024-02-07",
+        "date_updated": "2024-02-07",
+        "md5": "0e27fd0b6a6a0550fa6cb9b009f5fd79",
+        "release_id": "2024-02-07_1128",
+        "repo": "main",
+        "size": 5180750,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-07_1128/finding_paradise.zip"
+      },
+      "version": 2
+    },
     "fire_and_fondness2.zip": {
       "attr": {
         "arch": [],
@@ -5853,6 +5893,86 @@
       },
       "version": 2
     },
+    "jetsetwilly.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Jet Set Willy is a flip-screen platform game in which the player moves the protagonist, Willy, from room to room in his mansion collecting objects. Unlike the screen-by-screen style of its prequel, the player can explore the mansion at will. Willy is controlled using only left, right and jump.",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "jetsetwilly.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to play",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Jet Set Willy"
+      },
+      "items": [
+        "Jet Set Willy.sh",
+        "jetsetwilly"
+      ],
+      "items_opt": null,
+      "name": "jetsetwilly.zip",
+      "source": {
+        "date_added": "2024-02-07",
+        "date_updated": "2024-02-07",
+        "md5": "33e312a34aa3cfbc9ecfe556d1967859",
+        "release_id": "2024-02-07_1128",
+        "repo": "main",
+        "size": 119962,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-07_1128/jetsetwilly.zip"
+      },
+      "version": 2
+    },
+    "jumpnbump.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "This is a game for the whole family. You play cute fluffy little bunnies and hop on each other's heads.\n\nAt the beginning you are in the menu, where you have to let each active player jump over the tree trunk to enter the play area, and then walk to the right. You will then enter the arena. The aim is to jump on the other bunnies' heads.\n\nhttps://github.com/fabiangreffrath/jumpnbump",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "jumpnbump.screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Up to Jump and left and right.\n\nSingle player use D PAD and Sticks.\n\nNetwork play see startup screen",
+        "porter": [
+          "monkeyx.net"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Jump n Bump"
+      },
+      "items": [
+        "Jump N Bump.sh",
+        "jumpnbump"
+      ],
+      "items_opt": null,
+      "name": "jumpnbump.zip",
+      "source": {
+        "date_added": "2024-02-07",
+        "date_updated": "2024-02-07",
+        "md5": "8dccf933284567cb736c3b64c6eb0938",
+        "release_id": "2024-02-07_1128",
+        "repo": "main",
+        "size": 1722085,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-07_1128/jumpnbump.zip"
+      },
+      "version": 2
+    },
     "kemonorogue.zip": {
       "attr": {
         "arch": [],
@@ -6333,6 +6453,46 @@
         "repo": "main",
         "size": 48080557,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-26_1029/maldita.castilla.zip"
+      },
+      "version": 2
+    },
+    "manicminer.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "You can't think of the ZX Spectrum without also thinking of Manic Miner written by Matt Smith. 20 wonderfuly crafted and memorable levels of a game which has deservingly achieved legend status",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "manicminer.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to play",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Manic Miner"
+      },
+      "items": [
+        "Manic Miner.sh",
+        "manicminer"
+      ],
+      "items_opt": null,
+      "name": "manicminer.zip",
+      "source": {
+        "date_added": "2024-02-07",
+        "date_updated": "2024-02-07",
+        "md5": "28ed976263ed8cdd04bedb754c05ec54",
+        "release_id": "2024-02-07_1128",
+        "repo": "main",
+        "size": 102142,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-07_1128/manicminer.zip"
       },
       "version": 2
     },
@@ -11198,7 +11358,7 @@
       },
       "version": 2
     },
-    "stoptheeggspress.zip": {
+    "stop_the_eggspress.zip": {
       "attr": {
         "arch": [],
         "desc": "A simple remake of Stop the Express mashed up with Chuckie Egg graphics.  Yes, it's a game based around a simple pun.",
@@ -11226,15 +11386,15 @@
         "stop_the_eggspress"
       ],
       "items_opt": null,
-      "name": "stoptheeggspress.zip",
+      "name": "stop_the_eggspress.zip",
       "source": {
-        "date_added": "2024-02-06",
-        "date_updated": "2024-02-06",
-        "md5": "68b6c2e57a4a6d1b4fc41ede2ea52381",
-        "release_id": "2024-02-06_1048",
+        "date_added": "2024-02-07",
+        "date_updated": "2024-02-07",
+        "md5": "1538e36349d91d055bc34aa016ed375d",
+        "release_id": "2024-02-07_1128",
         "repo": "main",
-        "size": 7967765,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-06_1048/stoptheeggspress.zip"
+        "size": 7967790,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-07_1128/stop_the_eggspress.zip"
       },
       "version": 2
     },
@@ -11639,6 +11799,46 @@
         "repo": "main",
         "size": 22764002,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-26_1029/thermomorph.zip"
+      },
+      "version": 2
+    },
+    "thestarlitescape.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "The Starlit Escape! A Game Boy style Metroidvania about exploring a haunted space station and meeting ghosts along the way! Made in the month of October for Halloween",
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "thestarlitescape.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download game (windows ver) from https://xjackfox.itch.io/the-starlit-escape,  copy all filles except the .exe to /ports/thestarlitescape/gamedata",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "The Starlit Escape"
+      },
+      "items": [
+        "The Starlit Escape.sh",
+        "thestarlitescape"
+      ],
+      "items_opt": null,
+      "name": "thestarlitescape.zip",
+      "source": {
+        "date_added": "2024-02-07",
+        "date_updated": "2024-02-07",
+        "md5": "52c291fc107c028a259f22af3b990231",
+        "release_id": "2024-02-07_1128",
+        "repo": "main",
+        "size": 10900181,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-07_1128/thestarlitescape.zip"
       },
       "version": 2
     },
@@ -12573,6 +12773,47 @@
         "repo": "main",
         "size": 62086976,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-26_1029/vvvvvv.zip"
+      },
+      "version": 2
+    },
+    "wakingmars.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Waking Mars is a one-of-a-kind adventure in which you jetpack through subterranean Mars encountering a host of extraordinary alien lifeforms that operate as a living, breathing ecosystem.",
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "wakingmars.screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Add your Linux (humble) game files to the gamedata folder\n\nFile structure:\n/roms/ports/gamedata/GameData\n/roms/ports/gamedata/wakingmars\n/roms/ports/gamedata/wakingmars.png",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Waking Mars"
+      },
+      "items": [
+        "Waking Mars.sh",
+        "wakingmars"
+      ],
+      "items_opt": null,
+      "name": "wakingmars.zip",
+      "source": {
+        "date_added": "2024-02-07",
+        "date_updated": "2024-02-07",
+        "md5": "e7e9e0a5cc505b65dec366dc8fc5ad8f",
+        "release_id": "2024-02-07_1128",
+        "repo": "main",
+        "size": 5328384,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-07_1128/wakingmars.zip"
       },
       "version": 2
     },
