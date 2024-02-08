@@ -9299,6 +9299,46 @@
       },
       "version": 2
     },
+    "rakuen.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Rakuen is an adventure game about a little Boy who lives in the hospital. One day, the Boy asks his Mom to escort him to the fantasy world from his favorite storybook, so that he can ask the Guardian of the Forest to grant him one wish. In order to receive his wish, the Boy must complete a set of challenges that revolve around helping his neighbors in the hospital by interacting with their alter-egos in the fantasy world...",
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "rakuen.screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Add the contents of your rakuen copy into the rakuen/gamedata/ folder. ",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Rakuen"
+      },
+      "items": [
+        "Rakuen.sh",
+        "rakuen"
+      ],
+      "items_opt": null,
+      "name": "rakuen.zip",
+      "source": {
+        "date_added": "2024-02-08",
+        "date_updated": "2024-02-08",
+        "md5": "8776b46e4d1bbaa4e2495efacff95134",
+        "release_id": "2024-02-08_0648",
+        "repo": "main",
+        "size": 5195723,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-08_0648/rakuen.zip"
+      },
+      "version": 2
+    },
     "raptor.zip": {
       "attr": {
         "arch": [],
@@ -9451,12 +9491,12 @@
       "name": "redneck.rampage.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2022-04-28",
-        "md5": "b3da02686b28c39781695d3ab3a91853",
-        "release_id": "2024-01-26_1029",
+        "date_updated": "2024-02-08",
+        "md5": "5259d044f163749d566294f932cb7976",
+        "release_id": "2024-02-08_0648",
         "repo": "main",
-        "size": 1162167,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-26_1029/redneck.rampage.zip"
+        "size": 1162074,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-08_0648/redneck.rampage.zip"
       },
       "version": 2
     },
@@ -9660,6 +9700,46 @@
         "repo": "main",
         "size": 1372265,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-26_1029/rigelengine.zip"
+      },
+      "version": 2
+    },
+    "rlone.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Rlone is a real-time rogue clone. The result of a 2 week, friendly competition to create a roguelike using whatever tools we desired. \n\nThis game features procedural map generation, random weapon and enemy stats, and difficulty and complexity scaling as you descent further into lower floors. It also supports modifications to the graphics, audio, and other things through the config files in \"res/cfg/\".",
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "rlone.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Rlone: A Rogue Clone"
+      },
+      "items": [
+        "Rlone.sh",
+        "rlone"
+      ],
+      "items_opt": null,
+      "name": "rlone.zip",
+      "source": {
+        "date_added": "2024-02-08",
+        "date_updated": "2024-02-08",
+        "md5": "fca12eb65dafd143c508935320eb18ac",
+        "release_id": "2024-02-08_0648",
+        "repo": "main",
+        "size": 12160108,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-08_0648/rlone.zip"
       },
       "version": 2
     },
