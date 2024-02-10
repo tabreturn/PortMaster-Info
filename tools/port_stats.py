@@ -13,7 +13,7 @@ repos = [
     ("https://api.github.com/repos/PortsMaster/PortMaster-Releases", 10),
     ("https://api.github.com/repos/PortsMaster/PortMaster-New", 1000),
     ("https://api.github.com/repos/PortsMaster-MV/PortMaster-Multiverse", 10),
-    # ("https://api.github.com/repos/PortsMaster-MV/PortMaster-MV-New", 1000),
+    ("https://api.github.com/repos/PortsMaster-MV/PortMaster-MV-New", 1000),
     ]
 
 
