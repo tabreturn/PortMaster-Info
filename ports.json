@@ -4771,13 +4771,13 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Buy the game from https://maxatrillionator.itch.io/hallows-eve and place the .solarus file in the hallowseve/game folder.",
+        "inst": "Buy the game from https://maxatrillionator.itch.io/hallows-eve and place the .solarus file in the ports/hallowseve folder.",
         "porter": [
           "Jeod"
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": null,
+        "runtime": "solarus-1.6.5",
         "title": "Hallow's Eve"
       },
       "items": [
@@ -4788,12 +4788,12 @@
       "name": "hallowseve.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-02-05",
-        "md5": "9a83f3070775da3e04c071fcf6122b7a",
-        "release_id": "2024-02-05_0119",
+        "date_updated": "2024-02-11",
+        "md5": "ad1a3716cb310ba4dee60a13c2f8dedf",
+        "release_id": "2024-02-11_0846",
         "repo": "main",
-        "size": 2052090,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_0119/hallowseve.zip"
+        "size": 336212,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-11_0846/hallowseve.zip"
       },
       "version": 2
     },
@@ -7772,13 +7772,13 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Buy the game from GOG or Steam and place the data.solarus file in the oceansheart/game folder.",
+        "inst": "Buy the game from GOG or Steam and place the data.solarus file in the ports/oceansheart folder.",
         "porter": [
           "Jeod"
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": null,
+        "runtime": "solarus-1.6.5",
         "title": "Ocean's Heart"
       },
       "items": [
@@ -7789,12 +7789,12 @@
       "name": "oceansheart.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-02-05",
-        "md5": "a32c946a51104a0fa40b5d80a69ccf0a",
-        "release_id": "2024-02-05_0119",
+        "date_updated": "2024-02-11",
+        "md5": "83560b2641940c60fdebbfdbc9da46bd",
+        "release_id": "2024-02-11_0846",
         "repo": "main",
-        "size": 2717998,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_0119/oceansheart.zip"
+        "size": 1002443,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-11_0846/oceansheart.zip"
       },
       "version": 2
     },
@@ -11062,12 +11062,12 @@
       "name": "spearmintmountain.zip",
       "source": {
         "date_added": "2024-02-10",
-        "date_updated": "2024-02-10",
-        "md5": "460d2c8a5d096a9025508009ca9d7cdc",
-        "release_id": "2024-02-10_0819",
+        "date_updated": "2024-02-11",
+        "md5": "42419f2b2e22056e2d942ff9a7775705",
+        "release_id": "2024-02-11_0846",
         "repo": "main",
-        "size": 10913596,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-10_0819/spearmintmountain.zip"
+        "size": 10913604,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-11_0846/spearmintmountain.zip"
       },
       "version": 2
     },
@@ -11502,19 +11502,19 @@
         "title": "Stop The Egg Eggspress"
       },
       "items": [
-        "Stop The Egg Eggspress.sh",
+        "Stop The Eggspress.sh",
         "stop_the_eggspress"
       ],
       "items_opt": null,
       "name": "stop_the_eggspress.zip",
       "source": {
         "date_added": "2024-02-07",
-        "date_updated": "2024-02-07",
-        "md5": "1538e36349d91d055bc34aa016ed375d",
-        "release_id": "2024-02-07_1128",
+        "date_updated": "2024-02-11",
+        "md5": "0bda8337666738d66d6f00ab8af06380",
+        "release_id": "2024-02-11_0846",
         "repo": "main",
-        "size": 7967790,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-07_1128/stop_the_eggspress.zip"
+        "size": 7967789,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-11_0846/stop_the_eggspress.zip"
       },
       "version": 2
     },
@@ -12424,29 +12424,29 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download game from https://solarus-games.org/games/tunics/ and put the .solarus file in tunics!/game.",
+        "inst": "Download game from https://solarus-games.org/games/tunics/ and put the .solarus file in the ports/tunics folder.",
         "porter": [
           "Jeod"
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": null,
+        "runtime": "solarus-1.6.5",
         "title": "Tunics!"
       },
       "items": [
         "Tunics!.sh",
-        "tunics/"
+        "tunics!/"
       ],
       "items_opt": null,
       "name": "tunics.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-02-05",
-        "md5": "b829edbe00141d21b35c32f50028e944",
-        "release_id": "2024-02-05_0119",
+        "date_updated": "2024-02-11",
+        "md5": "f668ac4b5cadcc0f234bb9bc0cabcbe9",
+        "release_id": "2024-02-11_0846",
         "repo": "main",
-        "size": 1998190,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_0119/tunics.zip"
+        "size": 282719,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-11_0846/tunics.zip"
       },
       "version": 2
     },
@@ -13339,48 +13339,6 @@
       },
       "version": 2
     },
-    "yarntown.zip": {
-      "attr": {
-        "arch": [],
-        "desc": "You\u2019ve come on the night of the hunt. The streets of this cursed, gothic town are overrun with beasts, and what has become of the men who tried to hunt them before. Explore the twisting roads, go toe to toe with powerful foes, and uncover Yarntown\u2019s dark secrets.",
-        "exp": false,
-        "genres": [
-          "action"
-        ],
-        "image": {
-          "cover": null,
-          "screenshot": "yarntown.screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Download game from https://solarus-games.org/games/yarntown/ and put the .solarus file in yarntown/game.",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [
-          "power"
-        ],
-        "rtr": false,
-        "runtime": null,
-        "title": "Yarntown"
-      },
-      "items": [
-        "Yarntown.sh",
-        "yarntown/"
-      ],
-      "items_opt": null,
-      "name": "yarntown.zip",
-      "source": {
-        "date_added": "2024-01-26",
-        "date_updated": "2024-02-05",
-        "md5": "8438e432dd4e649f9df0af646014ce9e",
-        "release_id": "2024-02-05_0119",
-        "repo": "main",
-        "size": 2049885,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_0119/yarntown.zip"
-      },
-      "version": 2
-    },
     "yatka.zip": {
       "attr": {
         "arch": [],
@@ -13436,13 +13394,13 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game from https://solarus-games.org/games/the-legend-of-zelda-book-of-mudora/ and put in the zelda-bookofmudora/game folder.",
+        "inst": "Download the game from https://solarus-games.org/games/the-legend-of-zelda-book-of-mudora/ and put in the ports/zelda-bookofmudora folder.",
         "porter": [
           "Jeod"
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": null,
+        "runtime": "solarus-1.6.5",
         "title": "The Legend of Zelda: The Book of Mudora"
       },
       "items": [
@@ -13453,12 +13411,12 @@
       "name": "zelda-bookofmudora.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-02-05",
-        "md5": "2e837522f4dcb753c73ff2f0a9adbd6a",
-        "release_id": "2024-02-05_0119",
+        "date_updated": "2024-02-11",
+        "md5": "d6d3090bb558cc84dcc24f90e1707937",
+        "release_id": "2024-02-11_0846",
         "repo": "main",
-        "size": 2003085,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_0119/zelda-bookofmudora.zip"
+        "size": 287270,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-11_0846/zelda-bookofmudora.zip"
       },
       "version": 2
     },
@@ -13477,13 +13435,13 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game from https://solarus-games.org/games/the-legend-of-zelda-mystery-of-solarus-dx/ and put in the zelda-mysteryofsolarus/game folder.",
+        "inst": "Download the game from https://solarus-games.org/games/the-legend-of-zelda-mystery-of-solarus-dx/ and put in the ports/zelda-mysteryofsolarus folder.",
         "porter": [
           "Jeod"
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": null,
+        "runtime": "solarus-1.6.5",
         "title": "The Legend of Zelda: Mystery of Solarus DX"
       },
       "items": [
@@ -13494,12 +13452,12 @@
       "name": "zelda-mysteryofsolarusdx.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-02-05",
-        "md5": "ffa0dbd0fd7cc528970e05805487302b",
-        "release_id": "2024-02-05_0119",
+        "date_updated": "2024-02-11",
+        "md5": "7278371f427e1a2ac6d3e1126893f407",
+        "release_id": "2024-02-11_0846",
         "repo": "main",
-        "size": 1998821,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_0119/zelda-mysteryofsolarusdx.zip"
+        "size": 282947,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-11_0846/zelda-mysteryofsolarusdx.zip"
       },
       "version": 2
     },
@@ -13518,13 +13476,13 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game from https://solarus-games.org/games/the-legend-of-zelda-mystery-of-solarus-xd/ and put in the zelda-mysteryofsolarusxd/game folder.",
+        "inst": "Download the game from https://solarus-games.org/games/the-legend-of-zelda-mystery-of-solarus-xd/ and put in the ports/zelda-mysteryofsolarusxd folder.",
         "porter": [
           "Jeod"
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": null,
+        "runtime": "solarus-1.6.5",
         "title": "The Legend of Zelda: Mystery of Solarus XD"
       },
       "items": [
@@ -13535,12 +13493,12 @@
       "name": "zelda-mysteryofsolarusxd.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-02-05",
-        "md5": "75de5bc23f5671f0789fc0d75bd9b4c8",
-        "release_id": "2024-02-05_0119",
+        "date_updated": "2024-02-11",
+        "md5": "8ced37cd33ef129ede2c423db1c9d2d1",
+        "release_id": "2024-02-11_0846",
         "repo": "main",
-        "size": 1995036,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_0119/zelda-mysteryofsolarusxd.zip"
+        "size": 279162,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-11_0846/zelda-mysteryofsolarusxd.zip"
       },
       "version": 2
     },
@@ -13559,13 +13517,13 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game from https://solarus-games.org/games/the-legend-of-zelda-return-of-the-hylian-se/ and put in the zelda-roth-se/game folder.",
+        "inst": "Download the game from https://solarus-games.org/games/the-legend-of-zelda-return-of-the-hylian-se/ and put in the ports/zelda-roth-sefolder.",
         "porter": [
           "Jeod"
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": null,
+        "runtime": "solarus-1.6.5",
         "title": "The Legend of Zelda: Return of the Hylain SE"
       },
       "items": [
@@ -13576,12 +13534,12 @@
       "name": "zelda-roth-se.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-02-05",
-        "md5": "7a5a3653b66cab2a269315f7caaf7952",
-        "release_id": "2024-02-05_0119",
+        "date_updated": "2024-02-11",
+        "md5": "0778d9c3bdaff2fcf9e20b2b19c15abc",
+        "release_id": "2024-02-11_0846",
         "repo": "main",
-        "size": 1996685,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_0119/zelda-roth-se.zip"
+        "size": 280900,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-11_0846/zelda-roth-se.zip"
       },
       "version": 2
     },
@@ -13803,13 +13761,13 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game from https://solarus-games.org/games/the-legend-of-zelda-xd2-mercuris-chess/ and put in the zeldaxd-mercurischess/game folder.",
+        "inst": "Download the game from https://solarus-games.org/games/the-legend-of-zelda-xd2-mercuris-chess/ and put in the ports/zeldaxd-mercurischess folder.",
         "porter": [
           "Jeod"
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": null,
+        "runtime": "solarus-1.6.5",
         "title": "The Legend of Zelda: Mercuris Chess"
       },
       "items": [
@@ -13820,12 +13778,12 @@
       "name": "zeldaxd-mercurischess.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-02-05",
-        "md5": "fc82beaf81e411e1e3afae5f25a84321",
-        "release_id": "2024-02-05_0119",
+        "date_updated": "2024-02-11",
+        "md5": "9a7e4dae7dcad93a20aeb6da7c4c742e",
+        "release_id": "2024-02-11_0846",
         "repo": "main",
-        "size": 1996835,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_0119/zeldaxd-mercurischess.zip"
+        "size": 280952,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-11_0846/zeldaxd-mercurischess.zip"
       },
       "version": 2
     },
@@ -13844,13 +13802,13 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game from https://solarus-games.org/games/defi-de-zeldo-ch-1/ and put in the zeldoschallenge/game folder.",
+        "inst": "Download the game from https://solarus-games.org/games/defi-de-zeldo-ch-1/ and put in the ports/zeldoschallenge folder.",
         "porter": [
           "Jeod"
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": null,
+        "runtime": "solarus-1.6.5",
         "title": "The Legend of Zelda: Zeldo's Challenge"
       },
       "items": [
@@ -13861,12 +13819,12 @@
       "name": "zeldoschallenge.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-02-05",
-        "md5": "e8bece5cb0bb60856b89bb5fe5f27575",
-        "release_id": "2024-02-05_0119",
+        "date_updated": "2024-02-11",
+        "md5": "f15dbf15c59b4064cec60dfb783f18a6",
+        "release_id": "2024-02-11_0846",
         "repo": "main",
-        "size": 2022572,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_0119/zeldoschallenge.zip"
+        "size": 306768,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-11_0846/zeldoschallenge.zip"
       },
       "version": 2
     },
@@ -13885,13 +13843,13 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game from https://solarus-games.org/games/defi-de-zeldo-ch-2/ and put in the zeldoschallenge2/game folder.",
+        "inst": "Download the game from https://solarus-games.org/games/defi-de-zeldo-ch-2/ and put in the ports/zeldoschallenge2 folder.",
         "porter": [
           "Jeod"
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": null,
+        "runtime": "solarus-1.6.5",
         "title": "The Legend of Zelda: Zeldo's Challenge 2"
       },
       "items": [
@@ -13902,12 +13860,12 @@
       "name": "zeldoschallenge2.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-02-05",
-        "md5": "5b6b9dc48e517ba1daed29668f7c5da1",
-        "release_id": "2024-02-05_0119",
+        "date_updated": "2024-02-11",
+        "md5": "064502b26bff207ce61fbffa72e49aa7",
+        "release_id": "2024-02-11_0846",
         "repo": "main",
-        "size": 2488976,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-05_0119/zeldoschallenge2.zip"
+        "size": 773162,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-11_0846/zeldoschallenge2.zip"
       },
       "version": 2
     },
