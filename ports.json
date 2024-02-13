@@ -6414,6 +6414,46 @@
       },
       "version": 2
     },
+    "love.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "LOVE is a short and addictively challenging platformer with a minimalist design. It has a custom respawn system, 16 levels, 12 track original soundtrack, competitive scoring, and multiple ways to play.\nThe difficult levels are balanced with the inclusion of a simple yet unique respawn system wherein the player can leave a checkpoint at any location at any point, as long as they are on solid ground.\nBeyond the visual aesthetic, the challenging level design, and the abundance of features, there is the fantastic soundtrack composed by James Bennett, which brings rich life to the seemingly simple three-color atmosphere.",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "love.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase and download LOVE (3.0.1, Linux) or (3.0.1, Windows) from https://thatsmytrunks.itch.io/love.\nCopy the files (game.unx/data.win, icon.png, love_love.csv, options.ini) from /assets into the /gamedata folder",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "LOVE by Fred Wood"
+      },
+      "items": [
+        "LOVE",
+        "love"
+      ],
+      "items_opt": null,
+      "name": "love.zip",
+      "source": {
+        "date_added": "2024-02-13",
+        "date_updated": "2024-02-13",
+        "md5": "ebc8de0dc8e659a9410ff8bd98ea5f42",
+        "release_id": "2024-02-13_1015",
+        "repo": "main",
+        "size": 5687034,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-13_1015/love.zip"
+      },
+      "version": 2
+    },
     "luck.be.a.landlord.zip": {
       "attr": {
         "arch": [],
@@ -13580,6 +13620,46 @@
         "repo": "main",
         "size": 16487863,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-09_0833/xenonvalkyrie.zip"
+      },
+      "version": 2
+    },
+    "yarntown.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "You\u2019ve come on the night of the hunt. The streets of this cursed, gothic town are overrun with beasts, and what has become of the men who tried to hunt them before. Explore the twisting roads, go toe to toe with powerful foes, and uncover Yarntown\u2019s dark secrets.",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "yarntown.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download game from https://solarus-games.org/games/yarntown/ and put the .solarus file in ports/yarntown.",
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "solarus-1.6.5",
+        "title": "Yarntown"
+      },
+      "items": [
+        "Yarntown.sh",
+        "yarntown/"
+      ],
+      "items_opt": null,
+      "name": "yarntown.zip",
+      "source": {
+        "date_added": "2024-01-26",
+        "date_updated": "2024-02-13",
+        "md5": "12bbed04b9d6d2360f48369045560f18",
+        "release_id": "2024-02-13_1015",
+        "repo": "main",
+        "size": 334032,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-13_1015/yarntown.zip"
       },
       "version": 2
     },
