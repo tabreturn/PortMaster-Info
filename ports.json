@@ -1373,12 +1373,12 @@
       "name": "botvice.zip",
       "source": {
         "date_added": "2024-02-12",
-        "date_updated": "2024-02-12",
-        "md5": "d8189a4f0b9b2a2577d92f0cd64eba79",
-        "release_id": "2024-02-12_2240",
+        "date_updated": "2024-02-15",
+        "md5": "14099a4f045faca3492f29f477f0c6ee",
+        "release_id": "2024-02-15_2159",
         "repo": "main",
-        "size": 16179108,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-12_2240/botvice.zip"
+        "size": 16179107,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-15_2159/botvice.zip"
       },
       "version": 2
     },
@@ -2579,11 +2579,10 @@
         },
         "inst": "Ready to run.",
         "porter": [
+          "Cebion",
           "brooksytech"
         ],
-        "reqs": [
-          "opengl"
-        ],
+        "reqs": [],
         "rtr": true,
         "runtime": null,
         "title": "Cro-Mag Rally"
@@ -2596,12 +2595,12 @@
       "name": "cromagrally.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2022-10-25",
-        "md5": "07ff58a85d2703cd003edf020d7988cd",
-        "release_id": "2024-01-27_0254",
+        "date_updated": "2024-02-15",
+        "md5": "016ea9dff8a7374040ae8de76a0472dd",
+        "release_id": "2024-02-15_2159",
         "repo": "main",
-        "size": 128943084,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-27_0254/cromagrally.zip"
+        "size": 129889354,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-15_2159/cromagrally.zip"
       },
       "version": 2
     },
@@ -7476,10 +7475,10 @@
     "nanosaur2.zip": {
       "attr": {
         "arch": [],
-        "desc": "This is Pangea Software\u2019s Nanosaur II: Hatchling, a continuation of the original Nanosaur storyline, only this time you get to fly a pterodactyl.",
+        "desc": "Nanosaur 2 is a continuation of the original Nanosaur storyline, only this time you get to fly a pteradactyl who's loaded with hi-tech weaponry.",
         "exp": false,
         "genres": [
-          "fps"
+          "action"
         ],
         "image": {
           "cover": null,
@@ -7487,28 +7486,30 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Ready to run.",
+        "inst": "Ready to play!",
         "porter": [
+          "Cebion",
           "brooksytech"
         ],
-        "reqs": [
-          "opengl"
-        ],
+        "reqs": [],
         "rtr": true,
         "runtime": null,
         "title": "Nanosaur 2"
       },
-      "items": [],
+      "items": [
+        "Nanosaur 2.sh",
+        "nanosaur2"
+      ],
       "items_opt": null,
       "name": "nanosaur2.zip",
       "source": {
         "date_added": "2023-08-29",
-        "date_updated": "2023-08-29",
-        "md5": "e98858db13d0d5c4ddc26ce9723877cc",
-        "release_id": "2024-01-27_0254",
+        "date_updated": "2024-02-15",
+        "md5": "07d471b5c66c5cfa1cb75d008bd0bd66",
+        "release_id": "2024-02-15_2159",
         "repo": "main",
-        "size": 106878879,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-27_0254/nanosaur2.zip"
+        "size": 107467853,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-15_2159/nanosaur2.zip"
       },
       "version": 2
     },
@@ -8371,7 +8372,7 @@
         ],
         "image": {
           "cover": null,
-          "screenshot": "opensyobon.screenshot.png",
+          "screenshot": "opensyobon.screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -9492,12 +9493,12 @@
       "name": "quakespasm.zip",
       "source": {
         "date_added": "2023-10-23",
-        "date_updated": "2024-02-09",
-        "md5": "924047c3502bfa2817c2b9f1fb2d746c",
-        "release_id": "2024-02-09_0833",
+        "date_updated": "2024-02-15",
+        "md5": "82651bc87730094e4984a54fc8783c3a",
+        "release_id": "2024-02-15_2159",
         "repo": "main",
-        "size": 36993414,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-09_0833/quakespasm.zip"
+        "size": 36386825,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-15_2159/quakespasm.zip"
       },
       "version": 2
     },
@@ -9699,6 +9700,46 @@
         "repo": "main",
         "size": 1162074,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-08_0648/redneck.rampage.zip"
+      },
+      "version": 2
+    },
+    "relichunters.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Relic Hunters Zero: Remix is a remaster of the FREE 1 million player hit game about blasting evil space ducks and turtles with tiny cute guns. It's fast, it's tactical, and feels deliciously smooth to play. Unlock new weapons, characters and relics to defeat the Ducan Commander!",
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "relichunters.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download game from https://www.gog.com/en/game/relic_hunters_zero_remix, install, copy data.win and .dat files to /ports/relichunters/gamedata",
+        "porter": [
+          "mattyj513"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Relic Hunters"
+      },
+      "items": [
+        "Relic Hunters.sh",
+        "relichunters"
+      ],
+      "items_opt": null,
+      "name": "relichunters.zip",
+      "source": {
+        "date_added": "2024-02-15",
+        "date_updated": "2024-02-15",
+        "md5": "59bcfe2d92d56fccb38c5841379fbc39",
+        "release_id": "2024-02-15_2159",
+        "repo": "main",
+        "size": 7205921,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-15_2159/relichunters.zip"
       },
       "version": 2
     },
@@ -9995,7 +10036,7 @@
           "action"
         ],
         "image": {
-          "cover": null,
+          "cover": "road.invaders.cover.png",
           "screenshot": "road.invaders.screenshot.png",
           "thumbnail": null,
           "video": null
@@ -10017,12 +10058,12 @@
       "name": "road.invaders.zip",
       "source": {
         "date_added": "2023-12-06",
-        "date_updated": "2024-02-03",
-        "md5": "0795de845976f9eb88d571236dde47a0",
-        "release_id": "2024-02-03_1550",
+        "date_updated": "2024-02-15",
+        "md5": "cc0c5fe56cbf2f547611b54162a45376",
+        "release_id": "2024-02-15_2159",
         "repo": "main",
-        "size": 6743164,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-03_1550/road.invaders.zip"
+        "size": 6814212,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-15_2159/road.invaders.zip"
       },
       "version": 2
     },
@@ -10297,12 +10338,12 @@
       "name": "rvgl.zip",
       "source": {
         "date_added": "2021-11-19",
-        "date_updated": "2023-03-01",
-        "md5": "596f58a70a63cafab00ef8b2c25efc71",
-        "release_id": "2024-01-26_1029",
+        "date_updated": "2024-02-15",
+        "md5": "3d609cce064c0c910975f4781428dbbc",
+        "release_id": "2024-02-15_2159",
         "repo": "main",
-        "size": 56151,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-26_1029/rvgl.zip"
+        "size": 185892674,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-15_2159/rvgl.zip"
       },
       "version": 2
     },
@@ -13177,6 +13218,46 @@
         "repo": "main",
         "size": 5328379,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-09_0833/wakingmars.zip"
+      },
+      "version": 2
+    },
+    "waternet.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Waternet is a puzzle game where you to connect pipes to each other so that water flows through it.",
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "waternet.screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "All files included!",
+        "porter": [
+          "Bamboozler"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Waternet"
+      },
+      "items": [
+        "Waternet.sh",
+        "waternet"
+      ],
+      "items_opt": null,
+      "name": "waternet.zip",
+      "source": {
+        "date_added": "2024-02-15",
+        "date_updated": "2024-02-15",
+        "md5": "49b21303a126a0920711655463c961d5",
+        "release_id": "2024-02-15_2159",
+        "repo": "main",
+        "size": 5244747,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-15_2159/waternet.zip"
       },
       "version": 2
     },
