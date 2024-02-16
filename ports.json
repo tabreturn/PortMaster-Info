@@ -830,11 +830,10 @@
         },
         "inst": "Ready to run.",
         "porter": [
+          "Cebion",
           "brooksytech"
         ],
-        "reqs": [
-          "opengl"
-        ],
+        "reqs": [],
         "rtr": true,
         "runtime": null,
         "title": "Billy Frontier"
@@ -847,12 +846,12 @@
       "name": "billyfrontier.zip",
       "source": {
         "date_added": "2022-11-23",
-        "date_updated": "2022-11-23",
-        "md5": "af222abb032e8135b46258a959460812",
-        "release_id": "2024-01-26_1029",
+        "date_updated": "2024-02-16",
+        "md5": "4c821ef5ee1a92df191bad85ef74b68c",
+        "release_id": "2024-02-16_0904",
         "repo": "main",
-        "size": 83258562,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-26_1029/billyfrontier.zip"
+        "size": 83932573,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-16_0904/billyfrontier.zip"
       },
       "version": 2
     },
@@ -12161,6 +12160,47 @@
         "repo": "main",
         "size": 12529234,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-30_2324/thecurseofissyos.zip"
+      },
+      "version": 2
+    },
+    "thelegendoflumina.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Explore an ancient forest, push blocks to solve puzzles, and search for a way to end the curse on your land.",
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "thelegendoflumina.screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You can download the game for free on itch:\nhttps://wizbane.itch.io/the-legend-of-lumina\n\nGrab the linux .pck and install in the gamedata folder. ",
+        "porter": [
+          "JanTrueno",
+          "Kompaan"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "The Legend Of Lumina"
+      },
+      "items": [
+        "The Legend of Lumina",
+        "thelegendoflumina"
+      ],
+      "items_opt": null,
+      "name": "thelegendoflumina.zip",
+      "source": {
+        "date_added": "2024-02-16",
+        "date_updated": "2024-02-16",
+        "md5": "9522d78c32784ccb825f0f8912b16662",
+        "release_id": "2024-02-16_0904",
+        "repo": "main",
+        "size": 137641,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-16_0904/thelegendoflumina.zip"
       },
       "version": 2
     },
