@@ -5221,7 +5221,7 @@
         ],
         "reqs": [],
         "rtr": true,
-        "runtime": null,
+        "runtime": "frt_3.3.4.squashfs",
         "title": "Holonomy"
       },
       "items": [
@@ -5233,11 +5233,11 @@
       "source": {
         "date_added": "2024-02-19",
         "date_updated": "2024-02-19",
-        "md5": "cb406b2a5b156f56e8dabe7f680f5479",
-        "release_id": "2024-02-19_0933",
+        "md5": "67fc1e33fb37977d7db865bb13b3d371",
+        "release_id": "2024-02-19_1755",
         "repo": "main",
-        "size": 4053063,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-19_0933/holonomy.zip"
+        "size": 4053076,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-19_1755/holonomy.zip"
       },
       "version": 2
     },
@@ -7244,7 +7244,7 @@
         ],
         "reqs": [],
         "rtr": true,
-        "runtime": null,
+        "runtime": "frt_3.5.2.squashfs",
         "title": "Multi Player Manic Miner"
       },
       "items": [
@@ -7255,12 +7255,12 @@
       "name": "multimanicminer.zip",
       "source": {
         "date_added": "2024-02-12",
-        "date_updated": "2024-02-12",
-        "md5": "7203cd37fcc9e2db467d8ed4095a45e5",
-        "release_id": "2024-02-12_2240",
+        "date_updated": "2024-02-19",
+        "md5": "6f90cbdb14454b3a65a1ec957833fcfa",
+        "release_id": "2024-02-19_1755",
         "repo": "main",
-        "size": 11440947,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-12_2240/multimanicminer.zip"
+        "size": 11440961,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-19_1755/multimanicminer.zip"
       },
       "version": 2
     },
@@ -12192,11 +12192,11 @@
       "source": {
         "date_added": "2024-02-19",
         "date_updated": "2024-02-19",
-        "md5": "8fbbac47db6811b5b4a4f94aef7c461e",
-        "release_id": "2024-02-19_0915",
+        "md5": "df57ac67a51fec29f6d32b3cb9d7c365",
+        "release_id": "2024-02-19_1755",
         "repo": "main",
-        "size": 16028462,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-19_0915/superstarpath.zip"
+        "size": 16028461,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-19_1755/superstarpath.zip"
       },
       "version": 2
     },
