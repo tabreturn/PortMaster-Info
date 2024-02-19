@@ -355,12 +355,12 @@
       "name": "am2r.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-02-09",
-        "md5": "dbefd37aa7139c990dd32db3c367ff73",
-        "release_id": "2024-02-09_0833",
+        "date_updated": "2024-02-19",
+        "md5": "a509e90176d169e77953a85618c4718e",
+        "release_id": "2024-02-19_0915",
         "repo": "main",
-        "size": 1431181,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-09_0833/am2r.zip"
+        "size": 1431231,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-19_0915/am2r.zip"
       },
       "version": 2
     },
@@ -5071,12 +5071,12 @@
       "name": "hexen2.zip",
       "source": {
         "date_added": "2022-11-17",
-        "date_updated": "2023-12-06",
-        "md5": "df5b3b986f6978f872b6a5e772bdf464",
-        "release_id": "2024-01-26_1029",
+        "date_updated": "2024-02-19",
+        "md5": "923c8892fa610b1246a9fe1c2eb8f83f",
+        "release_id": "2024-02-19_0915",
         "repo": "main",
-        "size": 38999979,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-26_1029/hexen2.zip"
+        "size": 38392076,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-19_0915/hexen2.zip"
       },
       "version": 2
     },
@@ -5198,6 +5198,46 @@
         "repo": "main",
         "size": 15513055,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-09_0833/hocoslamfy.zip"
+      },
+      "version": 2
+    },
+    "holonomy.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Play as a pip on the surface of a die, using the effects of Holonomy to navigate a non-euclidean environment to find your spot.",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "holonomy.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Made in 48 hours for the 2022 GMTK Game Jam",
+        "porter": [
+          "monkeyx.net"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Holonomy"
+      },
+      "items": [
+        "Holonomy.sh",
+        "holonomy"
+      ],
+      "items_opt": null,
+      "name": "holonomy.zip",
+      "source": {
+        "date_added": "2024-02-19",
+        "date_updated": "2024-02-19",
+        "md5": "cb406b2a5b156f56e8dabe7f680f5479",
+        "release_id": "2024-02-19_0933",
+        "repo": "main",
+        "size": 4053063,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-19_0933/holonomy.zip"
       },
       "version": 2
     },
@@ -5683,6 +5723,46 @@
         "repo": "main",
         "size": 6129957,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-09_0833/iichantra_pear.zip"
+      },
+      "version": 2
+    },
+    "inertiablast.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "The rebellion captured several warships but lack the energy pod to power the ships. You are part of a risky expedition to steal the energy pods. Defense systems will attempt to stop you. The energy pods are often stored in tunnels making them hard to retrieve. The massive weight of the pod increases the difficultly in getting out.",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "inertiablast.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "\nInertia Blast is a remake of an C64 game called Thrust.",
+        "porter": [
+          "monkeyx-net"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Inertia Blast"
+      },
+      "items": [
+        "Inertia Blast.sh",
+        "inertiablast"
+      ],
+      "items_opt": null,
+      "name": "inertiablast.zip",
+      "source": {
+        "date_added": "2024-02-19",
+        "date_updated": "2024-02-19",
+        "md5": "338b360f49571b85d68f56ec6566f62e",
+        "release_id": "2024-02-19_0933",
+        "repo": "main",
+        "size": 125914,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-19_0933/inertiablast.zip"
       },
       "version": 2
     },
@@ -8071,12 +8151,12 @@
       "name": "openclaw.zip",
       "source": {
         "date_added": "2021-11-19",
-        "date_updated": "2024-01-30",
-        "md5": "4e1ce20d50df81be4ae813007e1907d9",
-        "release_id": "2024-01-30_2324",
+        "date_updated": "2024-02-19",
+        "md5": "ec3c59ea55a599f78b3efd09cc991430",
+        "release_id": "2024-02-19_0915",
         "repo": "main",
-        "size": 88307180,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-30_2324/openclaw.zip"
+        "size": 88307235,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-19_0915/openclaw.zip"
       },
       "version": 2
     },
@@ -8582,11 +8662,10 @@
         },
         "inst": "Ready to run.",
         "porter": [
+          "Cebion",
           "brooksytech"
         ],
-        "reqs": [
-          "opengl"
-        ],
+        "reqs": [],
         "rtr": true,
         "runtime": null,
         "title": "Otto Matic"
@@ -8599,12 +8678,12 @@
       "name": "ottomatic.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2022-10-25",
-        "md5": "43282c632565ac8e372281eadfa891f4",
-        "release_id": "2024-01-27_0254",
+        "date_updated": "2024-02-19",
+        "md5": "80c0f507da8e0dd3caecdaa3998d70a5",
+        "release_id": "2024-02-19_0915",
         "repo": "main",
-        "size": 143316248,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-27_0254/ottomatic.zip"
+        "size": 144077126,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-19_0915/ottomatic.zip"
       },
       "version": 2
     },
@@ -9289,6 +9368,46 @@
         "repo": "main",
         "size": 1554794,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-30_2324/psebay.zip"
+      },
+      "version": 2
+    },
+    "pulstario.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Pulstario is a small game in which you pilot a ship through the void and collect missing souls. It has challenging moments and hopefully the gameplay is a rewarding experience. From the creator of LOVE and kuso.\n\nPulstario is a short game that will likely take a player 30 minutes to complete the main game. There are also achievements, secret levels, and unlockable ship skins for the player to earn and collect.\n\nThe gameplay for Pulstario has been described as:\n\n\"Wobbly Free Range Pac-Man\"\n\"Lunar Lander - Without the landing\"\n\"Asteroids with gravity\"\n\"Luftrausers for Pacifists\"",
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "pulstario.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase and download Pulstario_Linux_DRMFree_V001.zip OR Pulstario_Windows_DRMFree_V001.zip from https://thatsmytrunks.itch.io/pulstario.\nCopy all the files (game.unx/data.win, options.ini) from /assets or the zip into the pulstario/gamedata folder",
+        "porter": [
+          "Fraxinus"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Pulstario"
+      },
+      "items": [
+        "Pulstario.sh",
+        "pulstario"
+      ],
+      "items_opt": null,
+      "name": "pulstario.zip",
+      "source": {
+        "date_added": "2024-02-19",
+        "date_updated": "2024-02-19",
+        "md5": "f466f0b7cb31b6550bac06a0bb930d27",
+        "release_id": "2024-02-19_0915",
+        "repo": "main",
+        "size": 17773069,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-19_0915/pulstario.zip"
       },
       "version": 2
     },
@@ -10629,6 +10748,46 @@
       },
       "version": 2
     },
+    "shippy.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "The Earth is under attack. The only trained pilots, Sora and Fumiko, race to defeat the invaders. The experimental ships are Earth only hope.",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "shippy.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Can play in one or two player mode",
+        "porter": [
+          "monkeyx.net"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Shippy"
+      },
+      "items": [
+        "Shippy.sh",
+        "shippy"
+      ],
+      "items_opt": null,
+      "name": "shippy.zip",
+      "source": {
+        "date_added": "2024-02-19",
+        "date_updated": "2024-02-19",
+        "md5": "76c5a5b15b4854b6ea8127a20b7f288c",
+        "release_id": "2024-02-19_0933",
+        "repo": "main",
+        "size": 2770425,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-19_0933/shippy.zip"
+      },
+      "version": 2
+    },
     "shipwreck.zip": {
       "attr": {
         "arch": [],
@@ -11841,6 +12000,46 @@
       },
       "version": 2
     },
+    "sunsetshaped.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Sunset Shaped is a tight and responsive platformer with five challenging levels and a calming atmosphere. Featuring interesting and tough level designs, simple and accessible controls - a singular jump and movement keys, flexible movement to nail the most precise of jumps, sweet and peaceful soundtrack and sound design, infinite opportunities for challenge runs and modifications.",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "sunsetshaped.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "All game files are included.",
+        "porter": [
+          "mattyj513"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Sunset Shaped"
+      },
+      "items": [
+        "Sunset Shaped.sh",
+        "sunsetshaped"
+      ],
+      "items_opt": null,
+      "name": "sunsetshaped.zip",
+      "source": {
+        "date_added": "2024-02-19",
+        "date_updated": "2024-02-19",
+        "md5": "9eff1d8d6a3ec9dfe2498bf19f7398ad",
+        "release_id": "2024-02-19_0915",
+        "repo": "main",
+        "size": 36549068,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-19_0915/sunsetshaped.zip"
+      },
+      "version": 2
+    },
     "super.mario.war.zip": {
       "attr": {
         "arch": [],
@@ -11958,6 +12157,46 @@
         "repo": "main",
         "size": 11950279,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-01-30_2324/superrobotninjagirl.zip"
+      },
+      "version": 2
+    },
+    "superstarpath.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Classic color match puzzle meets space shoot'em up action! Hop into your spaceship, open a path through huge waves of aliens and other hazards, and face intense boss battles!",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "superstarpath.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game either from https://dyagames.itch.io/super-star-path OR https://store.steampowered.com/app/375120/Super_Star_Path/\n\nItch.io\nDownload Super Star Path (Linux Ubuntu 14.04 LTS) version,  copy all files from /assets to /ports/superstarpath/gamedata\n\nSteam\nRun steam console via Windows+R: Type: steam://open/console, download the linux version by typing: download_depot 375120 375123 in the console, when the download is complete, it will tell you the location of the folder,  copy all files from /assets to /ports/superstarpath/gamedata",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Super Star Path"
+      },
+      "items": [
+        "Super Star Path",
+        "superstarpath"
+      ],
+      "items_opt": null,
+      "name": "superstarpath.zip",
+      "source": {
+        "date_added": "2024-02-19",
+        "date_updated": "2024-02-19",
+        "md5": "8fbbac47db6811b5b4a4f94aef7c461e",
+        "release_id": "2024-02-19_0915",
+        "repo": "main",
+        "size": 16028462,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-19_0915/superstarpath.zip"
       },
       "version": 2
     },
@@ -13862,6 +14101,47 @@
         "repo": "main",
         "size": 287270,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-11_0846/zelda-bookofmudora.zip"
+      },
+      "version": 2
+    },
+    "zelda-mercurischest.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Link is kidnapped and brought to an unknown region! A priest explains that Link's heroic skills are needed to combat a birdlike foe and defend a legendary chest, which contains a dangerous weapon. Who is this foe, and what's in the chest? And why does this region feel so...familiar?",
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "zelda-mercurischest.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This game is currently in development with a demo available. Download the demo from https://solarus-games.org/games/the-legend-of-zelda-mercuris-chest/ and place in the `ports/zelda-mercurischest` folder.",
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "solarus-run",
+        "title": "The Legend of Zelda: Mercuris' Chest (DEMO)"
+      },
+      "items": [
+        "The Legend of Zelda: Mercuris' Chest (DEMO).sh",
+        "zeldaxd-mercurischess/"
+      ],
+      "items_opt": null,
+      "name": "zelda-mercurischest.zip",
+      "source": {
+        "date_added": "2024-02-19",
+        "date_updated": "2024-02-19",
+        "md5": "08946e9a145e297a550b4996b84e19db",
+        "release_id": "2024-02-19_0915",
+        "repo": "main",
+        "size": 295259,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-19_0915/zelda-mercurischest.zip"
       },
       "version": 2
     },
