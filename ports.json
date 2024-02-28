@@ -8211,6 +8211,48 @@
       },
       "version": 2
     },
+    "nfs2se.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "\"Need for Speed II\" is a racing video game released in the late 1990s, featuring a variety of exotic cars and tracks from around the world, allowing players to race against computer-controlled opponents or human players in various modes, including single race and tournament.",
+        "exp": false,
+        "genres": [
+          "racing"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "nfs2se.screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy FEDATA and GAMEDATA directories from the Need For Speed\u2122 II SE original CD-ROM into nfs2se directory. Folder needs to be +500 Mb.",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Need For Speed II SE"
+      },
+      "items": [
+        "Need For Speed II SE.sh",
+        "nfs2se"
+      ],
+      "items_opt": null,
+      "name": "nfs2se.zip",
+      "source": {
+        "date_added": "2024-02-28",
+        "date_updated": "2024-02-28",
+        "md5": "88d3073eec48d556a309dcae708100a6",
+        "release_id": "2024-02-28_1610",
+        "repo": "main",
+        "size": 5406367,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-28_1610/nfs2se.zip"
+      },
+      "version": 2
+    },
     "nkaruga.zip": {
       "attr": {
         "arch": [
