@@ -4728,7 +4728,9 @@
     },
     "gemrb.zip": {
       "attr": {
-        "arch": [],
+        "arch": [
+          "aarch64"
+        ],
         "desc": "GemRB (Game Engine Made with preRendered Background) is a portable open-source reimplementation of the Infinity Engine that underpinned Baldur's Gate, Icewind Dale and Planescape: Torment.",
         "exp": false,
         "genres": [
@@ -4758,12 +4760,12 @@
       "name": "gemrb.zip",
       "source": {
         "date_added": "2023-02-12",
-        "date_updated": "2024-02-25",
-        "md5": "554e7cf4d85d48c50594deb34756b78b",
-        "release_id": "2024-02-25_2219",
+        "date_updated": "2024-02-28",
+        "md5": "1702b6233aaad22fa256b782d9b3aedb",
+        "release_id": "2024-02-28_1503",
         "repo": "main",
-        "size": 34677734,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-25_2219/gemrb.zip"
+        "size": 34677743,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-28_1503/gemrb.zip"
       },
       "version": 2
     },
@@ -7532,6 +7534,47 @@
       },
       "version": 2
     },
+    "mojotron.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "In 2085, the last of humanity died. The machines had won. Mojo doesn't know why they continued experimenting on monkeys. All he knows is that he wants it to stop and the robots have given him the ability to do something about it.\n\nMojotron: Robot Wars is a twin stick shooter. One stick controls movement while the other controls direction of fire. You simply need to survive the waves of enemies.",
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "cover": null,
+          "screenshot": "mojotron.screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Mojotron - Robot Wars"
+      },
+      "items": [
+        "Mojotron - Robot Wars.sh",
+        "mojotron"
+      ],
+      "items_opt": null,
+      "name": "mojotron.zip",
+      "source": {
+        "date_added": "2024-02-28",
+        "date_updated": "2024-02-28",
+        "md5": "8f9950b10be78aaf1de543b9637c20b1",
+        "release_id": "2024-02-28_1503",
+        "repo": "main",
+        "size": 2423265,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-28_1503/mojotron.zip"
+      },
+      "version": 2
+    },
     "moonlight.zip": {
       "attr": {
         "arch": [
@@ -7816,12 +7859,12 @@
       "name": "mystikbelle.zip",
       "source": {
         "date_added": "2024-02-03",
-        "date_updated": "2024-02-25",
-        "md5": "4a64aee9038cadd81d469a543a1d38dd",
-        "release_id": "2024-02-25_2219",
+        "date_updated": "2024-02-28",
+        "md5": "f1fd897f055a88936f32053f3e0927ad",
+        "release_id": "2024-02-28_1503",
         "repo": "main",
-        "size": 9535722,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-25_2219/mystikbelle.zip"
+        "size": 9536019,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-28_1503/mystikbelle.zip"
       },
       "version": 2
     },
@@ -8803,7 +8846,9 @@
     },
     "openrct2.zip": {
       "attr": {
-        "arch": [],
+        "arch": [
+          "aarch64"
+        ],
         "desc": "OpenRCT2 is Open source re-implementation of RollerCoaster Tycoon 2.",
         "exp": false,
         "genres": [
@@ -8832,12 +8877,12 @@
       "name": "openrct2.zip",
       "source": {
         "date_added": "2023-02-23",
-        "date_updated": "2024-02-25",
-        "md5": "ad49c7104cf047b9b196c592fd48236d",
-        "release_id": "2024-02-25_2219",
+        "date_updated": "2024-02-28",
+        "md5": "e6c51a2e538796462bc1ff86a8cb3674",
+        "release_id": "2024-02-28_1503",
         "repo": "main",
-        "size": 69849187,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-25_2219/openrct2.zip"
+        "size": 69849196,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-28_1503/openrct2.zip"
       },
       "version": 2
     },
