@@ -2105,12 +2105,12 @@
       "name": "cave.story-evo.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-02-25",
-        "md5": "ea65d3830214f9650206628806860aa1",
-        "release_id": "2024-02-25_2219",
+        "date_updated": "2024-03-01",
+        "md5": "475c0b9823b5839e108779ad90e5f492",
+        "release_id": "2024-03-01_1113",
         "repo": "main",
-        "size": 9352701,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-25_2219/cave.story-evo.zip"
+        "size": 9474279,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-01_1113/cave.story-evo.zip"
       },
       "version": 2
     },
@@ -5965,12 +5965,12 @@
       "name": "iconoclasts.zip",
       "source": {
         "date_added": "2021-11-16",
-        "date_updated": "2024-02-25",
-        "md5": "6e9db386e3836ff370b60bc092f40dca",
-        "release_id": "2024-02-25_2219",
+        "date_updated": "2024-03-01",
+        "md5": "d40deddc14547c16d240d523eae8538e",
+        "release_id": "2024-03-01_1113",
         "repo": "main",
-        "size": 4480251,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-02-25_2219/iconoclasts.zip"
+        "size": 4480252,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-01_1113/iconoclasts.zip"
       },
       "version": 2
     },
