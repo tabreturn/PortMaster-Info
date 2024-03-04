@@ -11,8 +11,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "2048.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -54,8 +54,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "abes_adventure.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -96,8 +96,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "abombniball.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -138,8 +138,10 @@
           "action"
         ],
         "image": {
-          "cover": "abuse.cover.png",
-          "screenshot": "abuse.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -180,8 +182,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "alchemyquest.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -223,8 +225,10 @@
           "fps"
         ],
         "image": {
-          "cover": "alephone-marathon.cover.png",
-          "screenshot": "alephone-marathon.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -265,8 +269,10 @@
           "fps"
         ],
         "image": {
-          "cover": "alephone-marathon2.cover.png",
-          "screenshot": "alephone-marathon2.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -307,8 +313,10 @@
           "fps"
         ],
         "image": {
-          "cover": "alephone-marathoninfinity.cover.png",
-          "screenshot": "alephone-marathoninfinity.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -351,8 +359,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "am2r.cover.png",
-          "screenshot": "am2r.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -394,8 +404,8 @@
           "action"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "anarch.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -435,8 +445,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "anodyne.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -477,8 +487,10 @@
           "arcade"
         ],
         "image": {
-          "cover": "apocrunner.cover.png",
-          "screenshot": "apocrunner.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -520,8 +532,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "apotris.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -563,8 +575,10 @@
           "strategy"
         ],
         "image": {
-          "cover": "augustus.cover.png",
-          "screenshot": "augustus.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -607,8 +621,10 @@
           "fps"
         ],
         "image": {
-          "cover": "avp.cover.png",
-          "screenshot": "avp.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -649,8 +665,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "axiom.verge.cover.png",
-          "screenshot": "axiom.verge.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -693,8 +711,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "banana.duck.cover.png",
-          "screenshot": "banana.duck.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -735,8 +755,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "bbja.cover.png",
-          "screenshot": "bbja.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -777,8 +799,8 @@
           "rhythm"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "beat2x.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -819,8 +841,10 @@
           "action"
         ],
         "image": {
-          "cover": "bermuda_syndrome.cover.png",
-          "screenshot": "bermuda_syndrome.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -861,8 +885,8 @@
           "action"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "billyfrontier.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -905,8 +929,8 @@
           "rhythm"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "bittriprunner2.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -947,8 +971,10 @@
           "arcade"
         ],
         "image": {
-          "cover": "blastius.cover.png",
-          "screenshot": "blastius.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -988,8 +1014,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "bleed.cover.png",
-          "screenshot": "bleed.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -1029,8 +1057,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "bleed2.cover.png",
-          "screenshot": "bleed2.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -1071,8 +1101,8 @@
           "sports"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "blobby.volley2.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -1115,8 +1145,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "blobwars.cover.png",
-          "screenshot": "blobwars.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -1157,8 +1189,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "block.attack.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -1199,8 +1231,10 @@
           "puzzle"
         ],
         "image": {
-          "cover": "blockout2.cover.png",
-          "screenshot": "blockout2.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -1242,8 +1276,10 @@
           "action"
         ],
         "image": {
-          "cover": "blood.cover.png",
-          "screenshot": "blood.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -1284,8 +1320,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "blues.brothers.cover.png",
-          "screenshot": "blues.brothers.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -1324,8 +1362,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "boni.cover.png",
-          "screenshot": "boni.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -1366,8 +1406,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "botbreak.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -1408,8 +1448,8 @@
           "action"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "botvice.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -1450,8 +1490,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "bowlingcross.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -1492,8 +1532,10 @@
           "adventure"
         ],
         "image": {
-          "cover": "bravedogsroad.cover.png",
-          "screenshot": "bravedogsroad.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -1534,8 +1576,8 @@
           "rpg"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "brogue.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -1578,8 +1620,10 @@
           "action"
         ],
         "image": {
-          "cover": "bstone-aog.cover.png",
-          "screenshot": "bstone-aog.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -1621,8 +1665,10 @@
           "fps"
         ],
         "image": {
-          "cover": "bstone-ps.cover.png",
-          "screenshot": "bstone-ps.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -1665,8 +1711,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "bugdom.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -1709,8 +1755,8 @@
           "action"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "bumpersbroadswords.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -1749,8 +1795,8 @@
           "action"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "burst.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -1792,8 +1838,8 @@
           "fps"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "bzflag.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -1834,8 +1880,10 @@
           "action"
         ],
         "image": {
-          "cover": "c-dogs.cover.png",
-          "screenshot": "c-dogs.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -1874,8 +1922,10 @@
           "racing"
         ],
         "image": {
-          "cover": "cannonball-lr.cover.png",
-          "screenshot": "cannonball-lr.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -1916,8 +1966,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "cannonball-st.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -1958,8 +2008,10 @@
           "racing"
         ],
         "image": {
-          "cover": "carmageddon.cover.png",
-          "screenshot": "carmageddon.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -2000,8 +2052,8 @@
           "rpg"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "cataclysm-dda.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -2041,8 +2093,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "cattactics.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -2085,8 +2137,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "cave.story-evo.cover.png",
-          "screenshot": "cave.story-evo.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -2127,8 +2181,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "cave.story.cover.png",
-          "screenshot": "cave.story.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -2167,8 +2223,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "cavebuster.cover.png",
-          "screenshot": "cavebuster.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -2209,8 +2267,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "cceleste.cover.png",
-          "screenshot": "cceleste.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -2251,8 +2311,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "chasm.cover.png",
-          "screenshot": "chasm.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -2293,8 +2355,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "chessisstupid.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -2336,8 +2398,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "chipndale.cover.png",
-          "screenshot": "chipndale.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -2376,8 +2440,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "cliff_hanger.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -2418,8 +2482,10 @@
           "action"
         ],
         "image": {
-          "cover": "climb.cover.png",
-          "screenshot": "climb.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -2460,8 +2526,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "clockwind.cover.png",
-          "screenshot": "clockwind.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -2502,8 +2570,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "colorlines.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -2545,8 +2613,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "commander.genius.cover.png",
-          "screenshot": "commander.genius.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -2589,8 +2659,10 @@
           "strategy"
         ],
         "image": {
-          "cover": "corsixth.cover.png",
-          "screenshot": "corsixth.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -2633,8 +2705,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "cosmo-engine.cover.png",
-          "screenshot": "cosmo-engine.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -2675,8 +2749,8 @@
           "racing"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "cromagrally.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -2718,8 +2792,10 @@
           "arcade"
         ],
         "image": {
-          "cover": "cybarian.cover.png",
-          "screenshot": "cybarian.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -2761,8 +2837,10 @@
           "fps"
         ],
         "image": {
-          "cover": "daikatana.cover.png",
-          "screenshot": "daikatana.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -2804,8 +2882,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "davegnukem.cover.png",
-          "screenshot": "davegnukem.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -2846,8 +2926,8 @@
           "sports"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "deadicedeluxe.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -2886,8 +2966,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "deep_sleep.cover.png",
-          "screenshot": "deep_sleep.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -2926,8 +3008,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "defshot.cover.png",
-          "screenshot": "defshot.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -2969,8 +3053,10 @@
           "strategy"
         ],
         "image": {
-          "cover": "derclou.cover.png",
-          "screenshot": "derclou.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -3011,8 +3097,10 @@
           "fps"
         ],
         "image": {
-          "cover": "descent.cover.png",
-          "screenshot": "descent.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -3056,8 +3144,10 @@
           "fps"
         ],
         "image": {
-          "cover": "descent2.cover.png",
-          "screenshot": "descent2.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -3102,8 +3192,10 @@
           "rpg"
         ],
         "image": {
-          "cover": "devilutionx.cover.png",
-          "screenshot": "devilutionx.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -3142,8 +3234,10 @@
           "puzzle"
         ],
         "image": {
-          "cover": "dinothawr.cover.png",
-          "screenshot": "dinothawr.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -3182,8 +3276,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "diverdown.cover.png",
-          "screenshot": "diverdown.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -3222,8 +3318,8 @@
           "strategy"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "domeromantik.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -3262,8 +3358,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "donut.dodo.cover.png",
-          "screenshot": "donut.dodo.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -3305,8 +3403,10 @@
           "action"
         ],
         "image": {
-          "cover": "doom3.cover.png",
-          "screenshot": "doom3.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -3349,8 +3449,10 @@
           "racing"
         ],
         "image": {
-          "cover": "drally.cover.png",
-          "screenshot": "drally.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -3390,8 +3492,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "droid7.cover.png",
-          "screenshot": "droid7.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -3433,8 +3537,10 @@
           "action"
         ],
         "image": {
-          "cover": "duke.nukem.3d.cover.png",
-          "screenshot": "duke.nukem.3d.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -3475,8 +3581,8 @@
           "rpg"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "dungeonrush.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -3517,8 +3623,10 @@
           "action"
         ],
         "image": {
-          "cover": "dungeonsouls.cover.png",
-          "screenshot": "dungeonsouls.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -3557,8 +3665,8 @@
           "rpg"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "echo_chamber.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -3597,8 +3705,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "edna.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -3639,8 +3747,8 @@
           "rhythm"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "eity.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -3684,8 +3792,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "enigma.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -3726,8 +3834,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "escape.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -3769,8 +3877,10 @@
           "action"
         ],
         "image": {
-          "cover": "exhumed.cover.png",
-          "screenshot": "exhumed.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -3811,8 +3921,8 @@
           "rpg"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "exult.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -3855,8 +3965,10 @@
           "racing"
         ],
         "image": {
-          "cover": "f-zeropocket.cover.png",
-          "screenshot": "f-zeropocket.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -3900,8 +4012,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "f1race.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -3941,8 +4053,8 @@
           "racing"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "f1spirit.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -3984,8 +4096,10 @@
           "adventure"
         ],
         "image": {
-          "cover": "fade_to_black.cover.png",
-          "screenshot": "fade_to_black.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -4026,8 +4140,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "falling_time.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -4069,8 +4183,10 @@
           "strategy"
         ],
         "image": {
-          "cover": "fallout1.cover.png",
-          "screenshot": "fallout1.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -4112,8 +4228,10 @@
           "strategy"
         ],
         "image": {
-          "cover": "fallout2.cover.png",
-          "screenshot": "fallout2.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -4153,8 +4271,10 @@
           "adventure"
         ],
         "image": {
-          "cover": "farmner.cover.png",
-          "screenshot": "farmner.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -4193,8 +4313,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "feather.park.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -4236,8 +4356,10 @@
           "rpg"
         ],
         "image": {
-          "cover": "fheroes2.cover.png",
-          "screenshot": "fheroes2.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -4277,8 +4399,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "fightorperish.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -4317,8 +4439,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "final_quest.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -4359,8 +4481,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "finding_paradise.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -4399,8 +4521,10 @@
           "puzzle"
         ],
         "image": {
-          "cover": "fire_and_fondness2.cover.png",
-          "screenshot": "fire_and_fondness2.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -4441,8 +4565,10 @@
           "arcade"
         ],
         "image": {
-          "cover": "firearrow.cover.png",
-          "screenshot": "firearrow.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -4484,8 +4610,10 @@
           "rpg"
         ],
         "image": {
-          "cover": "flare.cover.png",
-          "screenshot": "flare.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -4527,8 +4655,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "freedom.planet.cover.png",
-          "screenshot": "freedom.planet.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -4569,8 +4699,8 @@
           "rpg"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "freedroid.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -4611,8 +4741,10 @@
           "puzzle"
         ],
         "image": {
-          "cover": "freegemas.cover.png",
-          "screenshot": "freegemas.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -4654,8 +4786,10 @@
           "simulation"
         ],
         "image": {
-          "cover": "freeserf.cover.png",
-          "screenshot": "freeserf.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -4697,8 +4831,10 @@
           "strategy"
         ],
         "image": {
-          "cover": "freesynd.cover.png",
-          "screenshot": "freesynd.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -4740,8 +4876,8 @@
           "strategy"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "gemrb.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -4782,8 +4918,8 @@
           "strategy"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "gigalomania.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -4824,8 +4960,8 @@
           "other"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "gmu.music.player.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -4866,8 +5002,10 @@
           "puzzle"
         ],
         "image": {
-          "cover": "gnurobbo.cover.png",
-          "screenshot": "gnurobbo.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -4982,8 +5120,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "gumgem.cover.png",
-          "screenshot": "gumgem.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -5025,8 +5165,10 @@
           "action"
         ],
         "image": {
-          "cover": "half-life.cover.png",
-          "screenshot": "half-life.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -5066,8 +5208,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "hallowseve.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -5109,8 +5251,10 @@
           "rpg"
         ],
         "image": {
-          "cover": "hawkthorne.cover.png",
-          "screenshot": "hawkthorne.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -5152,8 +5296,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "heart.of.darkness.cover.png",
-          "screenshot": "heart.of.darkness.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -5195,8 +5341,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "heboris-sdl.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -5235,8 +5381,10 @@
           "racing"
         ],
         "image": {
-          "cover": "help.no.brake.cover.png",
-          "screenshot": "help.no.brake.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -5277,8 +5425,10 @@
           "puzzle"
         ],
         "image": {
-          "cover": "hex-a-hop.cover.png",
-          "screenshot": "hex-a-hop.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -5320,8 +5470,11 @@
           "action"
         ],
         "image": {
-          "cover": "hexen2.cover.hexen2.png",
-          "screenshot": "hexen2.screenshot.jpg",
+          "covers": [
+            "cover.hexen2portalofpraevus.png",
+            "cover.hexen2.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -5362,8 +5515,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "hftsr.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -5402,8 +5555,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "hijinx.cover.png",
-          "screenshot": "hijinx.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -5444,8 +5599,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "hocoslamfy.cover.png",
-          "screenshot": "hocoslamfy.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -5484,8 +5641,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "holonomy.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -5528,8 +5685,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "hota.cover.png",
-          "screenshot": "hota.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -5570,8 +5729,10 @@
           "action"
         ],
         "image": {
-          "cover": "hotlinesanzu.cover.png",
-          "screenshot": "hotlinesanzu.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -5614,8 +5775,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "hoverboard.cover.png",
-          "screenshot": "hoverboard.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -5654,8 +5817,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "humming.out.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -5696,8 +5859,8 @@
           "action"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "hunters.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -5738,8 +5901,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "hurrican.cover.png",
-          "screenshot": "hurrican.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -5780,8 +5945,10 @@
           "arcade"
         ],
         "image": {
-          "cover": "hydorah.cover.png",
-          "screenshot": "hydorah.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -5822,8 +5989,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "hydra.castle.labyrinth.cover.png",
-          "screenshot": "hydra.castle.labyrinth.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -5862,8 +6031,10 @@
           "action"
         ],
         "image": {
-          "cover": "hyper.jump.cover.png",
-          "screenshot": "hyper.jump.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -5902,8 +6073,10 @@
           "action"
         ],
         "image": {
-          "cover": "hyperfight.cover.png",
-          "screenshot": "hyperfight.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -5945,8 +6118,10 @@
           "adventure"
         ],
         "image": {
-          "cover": "iconoclasts.cover.png",
-          "screenshot": "iconoclasts.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -5987,8 +6162,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "iichantra_pear.cover.png",
-          "screenshot": "iichantra_pear.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -6029,8 +6206,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "inertiablast.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -6071,8 +6248,8 @@
           "rpg"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "infra_arcana.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -6114,8 +6291,8 @@
           "action"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "invaders.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -6156,8 +6333,10 @@
           "fps"
         ],
         "image": {
-          "cover": "iortcw.cover.png",
-          "screenshot": "iortcw.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -6198,8 +6377,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "jazz2.cover.png",
-          "screenshot": "jazz2.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -6240,8 +6421,10 @@
           "fps"
         ],
         "image": {
-          "cover": "jediacademy.cover.png",
-          "screenshot": "jediacademy.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -6284,8 +6467,10 @@
           "fps"
         ],
         "image": {
-          "cover": "jedioutcast.cover.png",
-          "screenshot": "jedioutcast.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -6328,8 +6513,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "jetsetwilly.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -6370,8 +6555,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "jumpnbump.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -6412,8 +6597,8 @@
           "rpg"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "kemonorogue.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -6454,8 +6639,8 @@
           "fps"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "kenslabyrinth.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -6497,8 +6682,10 @@
           "action"
         ],
         "image": {
-          "cover": "kingofmachines.cover.png",
-          "screenshot": "kingofmachines.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -6539,8 +6726,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "klorets.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -6581,8 +6768,10 @@
           "action"
         ],
         "image": {
-          "cover": "kobodeluxe.cover.png",
-          "screenshot": "kobodeluxe.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -6623,8 +6812,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "laserkombat.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -6665,8 +6854,10 @@
           "other"
         ],
         "image": {
-          "cover": "lbreakouthd.cover.png",
-          "screenshot": "lbreakouthd.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -6707,8 +6898,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "lisathejoyful.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -6749,8 +6940,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "lisathepainful.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -6789,8 +6980,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "littlefroggame.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -6829,8 +7020,10 @@
           "adventure"
         ],
         "image": {
-          "cover": "littlerunmo.cover.png",
-          "screenshot": "littlerunmo.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -6871,8 +7064,10 @@
           "adventure"
         ],
         "image": {
-          "cover": "lode.cover.png",
-          "screenshot": "lode.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -6913,8 +7108,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "loopcat.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -6955,8 +7150,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "love.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -6996,8 +7191,8 @@
           "strategy"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "luck.be.a.landlord.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -7038,8 +7233,10 @@
           "action"
         ],
         "image": {
-          "cover": "magicvigilante.cover.png",
-          "screenshot": "magicvigilante.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -7081,8 +7278,10 @@
           "adventure"
         ],
         "image": {
-          "cover": "maldita.castilla.cover.png",
-          "screenshot": "maldita.castilla.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -7123,8 +7322,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "manicminer.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -7163,8 +7362,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "margot_beatrice_adventure.cover.png",
-          "screenshot": "margot_beatrice_adventure.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -7203,8 +7404,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "maximilien_adventure.cover.png",
-          "screenshot": "maximilien_adventure.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -7246,8 +7449,10 @@
           "puzzle"
         ],
         "image": {
-          "cover": "meandmyshadow.cover.png",
-          "screenshot": "meandmyshadow.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -7286,8 +7491,10 @@
           "arcade"
         ],
         "image": {
-          "cover": "megaman.cover.png",
-          "screenshot": "megaman.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -7329,8 +7536,10 @@
           "adventure"
         ],
         "image": {
-          "cover": "meritous.cover.png",
-          "screenshot": "meritous.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -7371,8 +7580,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "mightymike.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -7418,8 +7627,10 @@
           "puzzle"
         ],
         "image": {
-          "cover": "mimisdeliverydash.cover.png",
-          "screenshot": "mimisdeliverydash.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -7463,8 +7674,8 @@
           "strategy"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "minesector.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -7505,8 +7716,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "minit.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -7547,8 +7758,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "mirrormagic.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -7589,8 +7800,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "missdriller.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -7631,8 +7842,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "mobility.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -7672,8 +7883,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "mojotron.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -7714,8 +7925,10 @@
           "other"
         ],
         "image": {
-          "cover": "moonlight.cover.png",
-          "screenshot": "moonlight.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -7755,8 +7968,10 @@
           "puzzle"
         ],
         "image": {
-          "cover": "mr.boom.cover.png",
-          "screenshot": "mr.boom.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -7795,8 +8010,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "multimanicminer.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -7837,8 +8052,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "multris.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -7877,8 +8092,10 @@
           "arcade"
         ],
         "image": {
-          "cover": "murtop.cover.png",
-          "screenshot": "murtop.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -7919,8 +8136,8 @@
           "action"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "mutant_tank_knights.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -7962,8 +8179,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "mystikbelle.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -8007,8 +8224,10 @@
           "fps"
         ],
         "image": {
-          "cover": "nam.cover.png",
-          "screenshot": "nam.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -8050,8 +8269,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "nanobounce.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -8092,8 +8311,8 @@
           "fps"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "nanosaur.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -8136,8 +8355,8 @@
           "action"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "nanosaur2.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -8179,8 +8398,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "nebulus.cover.png",
-          "screenshot": "nebulus.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -8221,8 +8442,10 @@
           "action"
         ],
         "image": {
-          "cover": "neogensokyo.cover.png",
-          "screenshot": "neogensokyo.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -8263,8 +8486,10 @@
           "adventure"
         ],
         "image": {
-          "cover": "neoncityriders.cover.png",
-          "screenshot": "neoncityriders.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -8307,8 +8532,8 @@
           "sports"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "neverball.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -8350,8 +8575,8 @@
           "racing"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "nfs2se.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -8392,8 +8617,10 @@
           "fps"
         ],
         "image": {
-          "cover": "nkaruga.cover.png",
-          "screenshot": "nkaruga.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -8434,8 +8661,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "nonny.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -8478,8 +8705,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "nothing.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -8520,8 +8747,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "nova_pinball.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -8562,8 +8789,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "npuzzle.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -8604,8 +8831,10 @@
           "action"
         ],
         "image": {
-          "cover": "nuclearthronemobile.cover.png",
-          "screenshot": "nuclearthronemobile.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -8645,8 +8874,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "oceansheart.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -8688,8 +8917,11 @@
           "adventure"
         ],
         "image": {
-          "cover": "oddworld.cover.oddworldabesexoddus.png",
-          "screenshot": "oddworld.screenshot.jpg",
+          "covers": [
+            "cover.oddworldabesoddysee.png",
+            "cover.oddworldabesexoddus.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -8731,8 +8963,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "openblok.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -8773,8 +9005,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "openclaw.cover.png",
-          "screenshot": "openclaw.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -8815,8 +9049,10 @@
           "strategy"
         ],
         "image": {
-          "cover": "openfodder.cover.png",
-          "screenshot": "openfodder.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -8857,8 +9093,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "openggs.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -8899,8 +9135,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "openjazz.cover.png",
-          "screenshot": "openjazz.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -8941,8 +9179,8 @@
           "racing"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "openmrac.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -8983,8 +9221,10 @@
           "action"
         ],
         "image": {
-          "cover": "openomf.cover.png",
-          "screenshot": "openomf.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -9025,8 +9265,8 @@
           "simulation"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "openrct2.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -9068,8 +9308,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "opensupaplex.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -9110,8 +9350,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "opensyobon.cover.png",
-          "screenshot": "opensyobon.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -9132,12 +9374,12 @@
       "name": "opensyobon.zip",
       "source": {
         "date_added": "2023-07-06",
-        "date_updated": "2024-03-03",
-        "md5": "c1506374afa5d4d8bb8e4205fff84d05",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-04",
+        "md5": "57ae82241bef2d7a59408ee93f9164b4",
+        "release_id": "2024-03-04_0607",
         "repo": "main",
-        "size": 2662214,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/opensyobon.zip"
+        "size": 2645240,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-04_0607/opensyobon.zip"
       },
       "version": 2
     },
@@ -9152,8 +9394,10 @@
           "fps"
         ],
         "image": {
-          "cover": "opentyrian.cover.png",
-          "screenshot": "opentyrian.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -9194,8 +9438,8 @@
           "strategy"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "openxcom.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -9236,8 +9480,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "oquonie.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -9279,8 +9523,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "osanasrevenge.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -9323,8 +9567,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "ottomatic.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -9366,8 +9610,10 @@
           "arcade"
         ],
         "image": {
-          "cover": "outofammo.cover.png",
-          "screenshot": "outofammo.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -9407,8 +9653,10 @@
           "adventure"
         ],
         "image": {
-          "cover": "owlboy.cover.png",
-          "screenshot": "owlboy.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -9449,8 +9697,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "panicroom.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -9491,8 +9739,10 @@
           "puzzle"
         ],
         "image": {
-          "cover": "paused.cover.png",
-          "screenshot": "paused.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -9533,8 +9783,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "pekka-kana-2.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -9573,8 +9823,10 @@
           "strategy"
         ],
         "image": {
-          "cover": "pigeon.cover.png",
-          "screenshot": "pigeon.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -9613,8 +9865,10 @@
           "arcade"
         ],
         "image": {
-          "cover": "pinball_disc_room.cover.png",
-          "screenshot": "pinball_disc_room.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -9655,8 +9909,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "pingo.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -9695,8 +9949,8 @@
           "rhythm"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "pixelheat.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -9735,8 +9989,8 @@
           "strategy"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "planetwaves.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -9776,8 +10030,10 @@
           "other"
         ],
         "image": {
-          "cover": "plaqueattackremake.cover.png",
-          "screenshot": "plaqueattackremake.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -9816,8 +10072,8 @@
           "strategy"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "pockettactics.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -9858,8 +10114,10 @@
           "sports"
         ],
         "image": {
-          "cover": "pocketwondersport.cover.png",
-          "screenshot": "pocketwondersport.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -9900,8 +10158,8 @@
           "rpg"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "powder.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -9942,8 +10200,8 @@
           "action"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "powerlevel.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -9984,8 +10242,10 @@
           "arcade"
         ],
         "image": {
-          "cover": "prehistorik.2.cover.png",
-          "screenshot": "prehistorik.2.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -10027,8 +10287,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "profadeluxe.cover.png",
-          "screenshot": "profadeluxe.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -10070,8 +10332,10 @@
           "other"
         ],
         "image": {
-          "cover": "prototype.cover.png",
-          "screenshot": "prototype.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -10112,8 +10376,10 @@
           "sports"
         ],
         "image": {
-          "cover": "psebay.cover.png",
-          "screenshot": "psebay.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -10154,8 +10420,8 @@
           "other"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "pulstario.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -10196,8 +10462,10 @@
           "arcade"
         ],
         "image": {
-          "cover": "puremetal.cover.png",
-          "screenshot": "puremetal.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -10236,8 +10504,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "pyk.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -10278,8 +10546,10 @@
           "fps"
         ],
         "image": {
-          "cover": "quake.2.cover.png",
-          "screenshot": "quake.2.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -10318,8 +10588,10 @@
           "fps"
         ],
         "image": {
-          "cover": "quake.cover.png",
-          "screenshot": "quake.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -10360,8 +10632,10 @@
           "fps"
         ],
         "image": {
-          "cover": "quake3.cover.png",
-          "screenshot": "quake3.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -10403,8 +10677,8 @@
           "action"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "quakespasm.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -10453,8 +10727,8 @@
           "rpg"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "rakuen.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -10495,8 +10769,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "raptor.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -10538,8 +10812,10 @@
           "adventure"
         ],
         "image": {
-          "cover": "rawgl.cover.png",
-          "screenshot": "rawgl.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -10580,8 +10856,10 @@
           "fps"
         ],
         "image": {
-          "cover": "redneck.rampage.rides.again.cover.png",
-          "screenshot": "redneck.rampage.rides.again.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -10622,8 +10900,10 @@
           "fps"
         ],
         "image": {
-          "cover": "redneck.rampage.cover.png",
-          "screenshot": "redneck.rampage.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -10664,8 +10944,10 @@
           "adventure"
         ],
         "image": {
-          "cover": "relichunters.cover.png",
-          "screenshot": "relichunters.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -10707,8 +10989,10 @@
           "adventure"
         ],
         "image": {
-          "cover": "reminiscence.cover.png",
-          "screenshot": "reminiscence.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -10750,8 +11034,10 @@
           "arcade"
         ],
         "image": {
-          "cover": "retrotime.cover.png",
-          "screenshot": "retrotime.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -10792,8 +11078,10 @@
           "puzzle"
         ],
         "image": {
-          "cover": "ri_li.cover.png",
-          "screenshot": "ri_li.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -10833,8 +11121,10 @@
           "adventure"
         ],
         "image": {
-          "cover": "rick.dangerous.cover.png",
-          "screenshot": "rick.dangerous.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -10875,8 +11165,10 @@
           "action"
         ],
         "image": {
-          "cover": "rigelengine.cover.png",
-          "screenshot": "rigelengine.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -10917,8 +11209,8 @@
           "rpg"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "rlone.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -10960,8 +11252,8 @@
           "visual novel"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "rlvm.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -11002,8 +11294,10 @@
           "action"
         ],
         "image": {
-          "cover": "road.invaders.cover.png",
-          "screenshot": "road.invaders.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -11044,8 +11338,10 @@
           "puzzle"
         ],
         "image": {
-          "cover": "rocksndiamonds.cover.png",
-          "screenshot": "rocksndiamonds.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -11086,8 +11382,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "roguelight.cover.png",
-          "screenshot": "roguelight.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -11126,8 +11424,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "rota.cover.png",
-          "screenshot": "rota.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -11168,8 +11468,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "rotationalshift.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -11210,8 +11510,10 @@
           "fps"
         ],
         "image": {
-          "cover": "rott.cover.png",
-          "screenshot": "rott.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -11252,8 +11554,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "russiansubwaydogs.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -11295,8 +11597,10 @@
           "racing"
         ],
         "image": {
-          "cover": "rvgl.cover.png",
-          "screenshot": "rvgl.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -11335,8 +11639,10 @@
           "action"
         ],
         "image": {
-          "cover": "satryn.cover.png",
-          "screenshot": "satryn.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -11376,8 +11682,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "scaletheskulltower.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -11418,8 +11724,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "sdlpop.cover.png",
-          "screenshot": "sdlpop.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -11460,8 +11768,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "sdlsopwith.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -11503,8 +11811,10 @@
           "action"
         ],
         "image": {
-          "cover": "serioussam-tfe.cover.png",
-          "screenshot": "serioussam-tfe.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -11546,8 +11856,10 @@
           "action"
         ],
         "image": {
-          "cover": "serioussam-tse.cover.png",
-          "screenshot": "serioussam-tse.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -11588,8 +11900,10 @@
           "fps"
         ],
         "image": {
-          "cover": "shadow.warrior.cover.png",
-          "screenshot": "shadow.warrior.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -11630,8 +11944,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "shippy.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -11670,8 +11984,10 @@
           "adventure"
         ],
         "image": {
-          "cover": "shipwreck.cover.png",
-          "screenshot": "shipwreck.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -11713,8 +12029,10 @@
           "adventure"
         ],
         "image": {
-          "cover": "shovel.knight.cover.png",
-          "screenshot": "shovel.knight.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -11755,8 +12073,10 @@
           "arcade"
         ],
         "image": {
-          "cover": "siegeofosaka.cover.png",
-          "screenshot": "siegeofosaka.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -11798,8 +12118,10 @@
           "adventure"
         ],
         "image": {
-          "cover": "simonsqrev.cover.png",
-          "screenshot": "simonsqrev.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -11841,8 +12163,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "simplesokoban.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -11884,8 +12206,10 @@
           "sports"
         ],
         "image": {
-          "cover": "skifree.cover.png",
-          "screenshot": "skifree.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -11926,8 +12250,10 @@
           "sports"
         ],
         "image": {
-          "cover": "skijump3.cover.png",
-          "screenshot": "skijump3.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -12048,8 +12374,10 @@
           "arcade"
         ],
         "image": {
-          "cover": "snaklipse.cover.png",
-          "screenshot": "snaklipse.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -12090,8 +12418,8 @@
           "action"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "sneakr.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -12132,8 +12460,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "sonic.1.cover.png",
-          "screenshot": "sonic.1.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -12174,8 +12504,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "sonic.2.cover.png",
-          "screenshot": "sonic.2.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -12216,8 +12548,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "sonic.cd.cover.png",
-          "screenshot": "sonic.cd.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -12258,8 +12592,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "sonic.mania.cover.png",
-          "screenshot": "sonic.mania.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -12300,8 +12636,10 @@
           "action"
         ],
         "image": {
-          "cover": "sorr.cover.png",
-          "screenshot": "sorr.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -12342,8 +12680,10 @@
           "casino/card"
         ],
         "image": {
-          "cover": "space.cadet.pinball.cover.png",
-          "screenshot": "space.cadet.pinball.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -12385,8 +12725,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "spearmintmountain.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -12427,8 +12767,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "spelunky.cover.png",
-          "screenshot": "spelunky.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -12469,8 +12811,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "spinch.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -12512,8 +12854,10 @@
           "arcade"
         ],
         "image": {
-          "cover": "spooky.cover.png",
-          "screenshot": "spooky.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -12554,8 +12898,10 @@
           "fps"
         ],
         "image": {
-          "cover": "srb2.cover.png",
-          "screenshot": "srb2.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -12596,8 +12942,8 @@
           "racing"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "srb2kart.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -12636,8 +12982,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "starboy.cover.png",
-          "screenshot": "starboy.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -12676,8 +13024,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "starcatcher.cover.png",
-          "screenshot": "starcatcher.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -12717,8 +13067,10 @@
           "rpg"
         ],
         "image": {
-          "cover": "stardewvalley.cover.png",
-          "screenshot": "stardewvalley.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -12759,8 +13111,10 @@
           "adventure"
         ],
         "image": {
-          "cover": "starvsthegame.cover.png",
-          "screenshot": "starvsthegame.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -12800,8 +13154,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "steelassault.cover.png",
-          "screenshot": "steelassault.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -12842,8 +13198,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "stop_the_eggspress.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -12883,8 +13239,8 @@
           "rpg"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "strangeadventures.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -12927,8 +13283,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "sulka.cover.png",
-          "screenshot": "sulka.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -12967,8 +13325,10 @@
           "arcade"
         ],
         "image": {
-          "cover": "sunsetshaped.cover.png",
-          "screenshot": "sunsetshaped.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -13009,8 +13369,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "super.mario.war.cover.png",
-          "screenshot": "super.mario.war.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -13049,8 +13411,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "superdrome.bugs.cover.png",
-          "screenshot": "superdrome.bugs.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -13091,8 +13455,10 @@
           "action"
         ],
         "image": {
-          "cover": "superrobotninjagirl.cover.png",
-          "screenshot": "superrobotninjagirl.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -13133,8 +13499,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "superstarpath.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -13175,8 +13541,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "supertux.cover.png",
-          "screenshot": "supertux.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -13217,8 +13585,8 @@
           "racing"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "supertuxkart.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -13259,8 +13627,10 @@
           "arcade"
         ],
         "image": {
-          "cover": "superxyx.cover.png",
-          "screenshot": "superxyx.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -13301,8 +13671,10 @@
           "simulation"
         ],
         "image": {
-          "cover": "tamatool.cover.png",
-          "screenshot": "tamatool.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -13344,8 +13716,10 @@
           "other"
         ],
         "image": {
-          "cover": "thecurseofissyos.cover.png",
-          "screenshot": "thecurseofissyos.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -13385,8 +13759,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "thelegendoflumina.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -13429,8 +13803,10 @@
           "other"
         ],
         "image": {
-          "cover": "thermomorph.cover.png",
-          "screenshot": "thermomorph.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -13472,8 +13848,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "thestarlitescape.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -13512,8 +13888,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "threecoins.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -13552,8 +13928,10 @@
           "sports"
         ],
         "image": {
-          "cover": "thwack.cover.png",
-          "screenshot": "thwack.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -13594,8 +13972,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "tileworld.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -13638,8 +14016,10 @@
           "adventure"
         ],
         "image": {
-          "cover": "timespinner.cover.png",
-          "screenshot": "timespinner.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -13678,8 +14058,10 @@
           "puzzle"
         ],
         "image": {
-          "cover": "tiny-crate.cover.png",
-          "screenshot": "tiny-crate.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -13721,8 +14103,8 @@
           "arcade"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "tinystg.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -13761,8 +14143,8 @@
           "strategy"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "titan_tactics.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -13803,8 +14185,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "to_the_moon.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -13846,8 +14228,10 @@
           "adventure"
         ],
         "image": {
-          "cover": "tomb.raider.1.cover.png",
-          "screenshot": "tomb.raider.1.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -13886,8 +14270,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "trolley.delayma.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -13929,8 +14313,8 @@
           "other"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "tube64.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -13970,8 +14354,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "tunics.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -14010,8 +14394,8 @@
           "sports"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "turbotabletennis.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -14053,8 +14437,10 @@
           "other"
         ],
         "image": {
-          "cover": "ubermoshcollection.cover.png",
-          "screenshot": "ubermoshcollection.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -14093,8 +14479,8 @@
           "racing"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "ultimatestunts.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -14135,8 +14521,10 @@
           "action"
         ],
         "image": {
-          "cover": "ultimatetapankaikki.cover.png",
-          "screenshot": "ultimatetapankaikki.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -14177,8 +14565,10 @@
           "rpg"
         ],
         "image": {
-          "cover": "undertale.cover.png",
-          "screenshot": "undertale.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -14219,8 +14609,10 @@
           "rhythm"
         ],
         "image": {
-          "cover": "upo.cover.png",
-          "screenshot": "upo.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -14262,8 +14654,10 @@
           "strategy"
         ],
         "image": {
-          "cover": "uqm.cover.png",
-          "screenshot": "uqm.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -14304,8 +14698,8 @@
           "visual novel"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "valhalla.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -14347,8 +14741,10 @@
           "strategy"
         ],
         "image": {
-          "cover": "vanillara.cover.png",
-          "screenshot": "vanillara.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -14390,8 +14786,10 @@
           "strategy"
         ],
         "image": {
-          "cover": "vanillatd.cover.png",
-          "screenshot": "vanillatd.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -14434,8 +14832,10 @@
           "strategy"
         ],
         "image": {
-          "cover": "vcmi.cover.png",
-          "screenshot": "vcmi.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -14476,8 +14876,10 @@
           "platformer"
         ],
         "image": {
-          "cover": "vvvvvv.cover.png",
-          "screenshot": "vvvvvv.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -14519,8 +14921,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "wakingmars.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -14561,8 +14963,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "waternet.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -14603,8 +15005,10 @@
           "action"
         ],
         "image": {
-          "cover": "wetspot2.cover.png",
-          "screenshot": "wetspot2.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -14645,8 +15049,8 @@
           "strategy"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "widelands.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -14726,8 +15130,10 @@
           "arcade"
         ],
         "image": {
-          "cover": "wizardchase.cover.png",
-          "screenshot": "wizardchase.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -14767,8 +15173,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "wizardorb.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -14809,8 +15215,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "wizznic.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -14851,8 +15257,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "wordlesdl.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -14894,8 +15300,10 @@
           "fps"
         ],
         "image": {
-          "cover": "world.war.ii.gi.cover.png",
-          "screenshot": "world.war.ii.gi.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -14936,8 +15344,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "worldofgoo.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -14978,8 +15386,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "worship_vector.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -15020,8 +15428,10 @@
           "rpg"
         ],
         "image": {
-          "cover": "xenonvalkyrie.cover.png",
-          "screenshot": "xenonvalkyrie.screenshot.png",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -15060,8 +15470,8 @@
           "action"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "yarntown.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -15102,8 +15512,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "yatka.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -15143,8 +15553,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "zelda-bookofmudora.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -15184,8 +15594,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "zelda-mercurischest.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -15225,8 +15635,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "zelda-mysteryofsolarusdx.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -15266,8 +15676,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "zelda-mysteryofsolarusxd.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -15307,8 +15717,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "zelda-roth-se.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -15389,8 +15799,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "zelda3t.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -15432,8 +15842,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "zelda_roth.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -15475,8 +15885,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "zeldansq.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -15518,8 +15928,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "zeldaolb.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -15559,8 +15969,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "zeldaxd-mercurischess.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -15600,8 +16010,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "zeldoschallenge.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -15641,8 +16051,8 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "zeldoschallenge2.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -15684,8 +16094,10 @@
           "other"
         ],
         "image": {
-          "cover": "zeroranger.cover.png",
-          "screenshot": "zeroranger.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -15726,8 +16138,8 @@
           "fps"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "zgloom.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -15767,8 +16179,8 @@
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "ziggurat.screenshot.png",
+          "covers": [],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -15809,8 +16221,8 @@
           "puzzle"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "znax.screenshot.jpg",
+          "covers": [],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
