@@ -3,7 +3,8 @@
     "2048.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf"
         ],
         "desc": "The 2048 puzzle game",
         "exp": false,
@@ -33,19 +34,20 @@
       "name": "2048.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-03-03",
-        "md5": "c10c7fd7041ad0450ad8901456d66303",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-06",
+        "md5": "191059fcc102d9d8523abba7b2b71cb0",
+        "release_id": "2024-03-06_1019",
         "repo": "main",
-        "size": 31711,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/2048.zip"
+        "size": 62868,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-06_1019/2048.zip"
       },
       "version": 2
     },
     "abes_adventure.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf"
         ],
         "desc": "A scrolling, platform-jumping, key-collecting, ancient pyramid exploring game, vaguely in the style of similar games for the Commodore+4.  Abe's Adventure files are already included and ready to go.",
         "exp": false,
@@ -76,12 +78,12 @@
       "name": "abes_adventure.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2024-03-03",
-        "md5": "4f0aea8724dccd54665877daac5a4750",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-06",
+        "md5": "699d75e28f6a3ff050146c8373b09d19",
+        "release_id": "2024-03-06_1019",
         "repo": "main",
-        "size": 5313580,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/abes_adventure.zip"
+        "size": 5358997,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-06_1019/abes_adventure.zip"
       },
       "version": 2
     },
@@ -951,12 +953,12 @@
       "name": "bittriprunner2.zip",
       "source": {
         "date_added": "2024-02-01",
-        "date_updated": "2024-03-03",
-        "md5": "5d5382b7382c03643661ee00ec48e959",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-06",
+        "md5": "4c6d55fdca4c9961cc0f2339ac84c2a0",
+        "release_id": "2024-03-06_1019",
         "repo": "main",
-        "size": 6631559,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/bittriprunner2.zip"
+        "size": 6631596,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-06_1019/bittriprunner2.zip"
       },
       "version": 2
     },
@@ -11672,6 +11674,48 @@
       },
       "version": 2
     },
+    "savant.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "desc": "A malicious orb has cast Savant out of his tower and transformed his surroundings into dangerous enemies!\n\nDodge and shoot your way back up the tower, and blast down waves of enemies as you make your way towards the top! As you progress, you unlock CDs that not only give you new tracks to play to, but also grant you powerful new abilities!\n\nCan you make it to the top?",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Make sure to buy the original version of Savant Ascent: https://store.steampowered.com/app/259530/Savant__Ascent/\n\nNote: dual analog sticks are required for this game!\n\nGo to your steam directory and copy all files from Savant Ascent into the gamedata folder. \n",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Savant Ascent"
+      },
+      "items": [
+        "Savant Ascent.sh",
+        "savant"
+      ],
+      "items_opt": null,
+      "name": "savant.zip",
+      "source": {
+        "date_added": "2024-03-06",
+        "date_updated": "2024-03-06",
+        "md5": "86136cc4337c825b35d0550944e931ec",
+        "release_id": "2024-03-06_1019",
+        "repo": "main",
+        "size": 11733585,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-06_1019/savant.zip"
+      },
+      "version": 2
+    },
     "scaletheskulltower.zip": {
       "attr": {
         "arch": [],
@@ -13355,6 +13399,46 @@
         "repo": "main",
         "size": 36602803,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/sunsetshaped.zip"
+      },
+      "version": 2
+    },
+    "sunsetwitchclassic.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Sunset Witch is traveling over the ocean when an army of Bob fish attack. The more she takes down the faster things get, and it's up to her to bring peace to the ocean's surface!",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from https://angusbeer.itch.io/sunset-witch-classic and add the exe file to the sunsetwitchclassic/gamedata folder.",
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Sunset Witch Classic"
+      },
+      "items": [
+        "Sunset_Witch_Classic.sh",
+        "sunsetwitchclassic/"
+      ],
+      "items_opt": null,
+      "name": "sunsetwitchclassic.zip",
+      "source": {
+        "date_added": "2024-03-06",
+        "date_updated": "2024-03-06",
+        "md5": "248d6be33dcc8621d6f0ba4e486c11c0",
+        "release_id": "2024-03-06_1019",
+        "repo": "main",
+        "size": 4511405,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-06_1019/sunsetwitchclassic.zip"
       },
       "version": 2
     },
