@@ -525,7 +525,8 @@
     "apotris.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf"
         ],
         "desc": "Apotris is a block stacking game in the style of Tetris!  It features satisfying graphics, responsive controls and a large amount of customization so that you can tailor the game to your preferences! There are 11 game-modes to explore, with various options to keep yourself entertained (or challenged).",
         "exp": false,
@@ -556,12 +557,12 @@
       "name": "apotris.zip",
       "source": {
         "date_added": "2024-02-05",
-        "date_updated": "2024-03-03",
-        "md5": "e4a76bb2a08b361b5cb87a5116fd78f0",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-07",
+        "md5": "c8dc76e6ef16db471fecd61c97a7ae09",
+        "release_id": "2024-03-07_0606",
         "repo": "main",
-        "size": 4446668,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/apotris.zip"
+        "size": 5991019,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-07_0606/apotris.zip"
       },
       "version": 2
     },
@@ -7324,7 +7325,9 @@
           "platformer"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
@@ -7346,12 +7349,12 @@
       "name": "manicminer.zip",
       "source": {
         "date_added": "2024-02-07",
-        "date_updated": "2024-03-03",
-        "md5": "6bcb296ce941fdb2d31d97bee8d18ea8",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-07",
+        "md5": "8a65c11563c0a958eb15571ce01002dc",
+        "release_id": "2024-03-07_0606",
         "repo": "main",
-        "size": 102358,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/manicminer.zip"
+        "size": 198168,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-07_0606/manicminer.zip"
       },
       "version": 2
     },
