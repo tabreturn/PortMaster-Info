@@ -90,7 +90,8 @@
     "abombniball.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf"
         ],
         "desc": "The objective of Abombniball is to defuse all the explosives on each level.\nAs a ball, this would normally be a simple task,\nhowever each level is filled with traps and devious puzzles.",
         "exp": false,
@@ -120,12 +121,12 @@
       "name": "abombniball.zip",
       "source": {
         "date_added": "2023-08-12",
-        "date_updated": "2024-03-03",
-        "md5": "61ba9adbef2775a4b67a8352e19fb8bc",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-08",
+        "md5": "8c7d37fc5a021894c8127dc76114dd83",
+        "release_id": "2024-03-08_0929",
         "repo": "main",
-        "size": 2152112,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/abombniball.zip"
+        "size": 2183227,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-08_0929/abombniball.zip"
       },
       "version": 2
     },
@@ -566,10 +567,53 @@
       },
       "version": 2
     },
-    "augustus.zip": {
+    "apricots.zip": {
       "attr": {
         "arch": [
           "aarch64"
+        ],
+        "desc": "Apricots has nothing to do with apricots. It's a game where you fly a little plane around the screen and shoot things and drop bombs on enemy targets, and it's meant to be quick and fun.\n\nBig thanks to [Moggers87](https://github.com/moggers87/apricots) for producing this game. \n\nThe [source](https://github.com/moggers87/apricots)",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "At present there is no option screen. Options can be changed by editing the configuration file apricots.cfg. This is first searched for in ~/.config/apricots/, then the system configuration directory (usually /usr/local/etc or /etc) and finally the default configuration in the data directory.\n\nThe number and type of planes can be varied, along with the airbases, as can 1/2 player game be chosen. The number of anti aircraft guns and scenery can be selected. Draks can be turned on or off, and a different condition for winning the game can be chosen.",
+        "porter": [
+          "monkeyx.net"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Apricots"
+      },
+      "items": [
+        "Apricots.sh",
+        "apricots"
+      ],
+      "items_opt": null,
+      "name": "apricots.zip",
+      "source": {
+        "date_added": "2024-03-08",
+        "date_updated": "2024-03-08",
+        "md5": "b5b1c83ceb7ed7340e17eb092d0da67e",
+        "release_id": "2024-03-08_0929",
+        "repo": "main",
+        "size": 1540619,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-08_0929/apricots.zip"
+      },
+      "version": 2
+    },
+    "augustus.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "armhf"
         ],
         "desc": "A reimplemntation of the Caeser 3 engine.",
         "exp": false,
@@ -603,12 +647,12 @@
       "name": "augustus.zip",
       "source": {
         "date_added": "2023-02-26",
-        "date_updated": "2024-03-03",
-        "md5": "3bf3c758f337a2d91500de165d9f0349",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-08",
+        "md5": "f72ca31a0ee1f906c01631cc260cae6a",
+        "release_id": "2024-03-08_0929",
         "repo": "main",
-        "size": 11808015,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/augustus.zip"
+        "size": 12972669,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-08_0929/augustus.zip"
       },
       "version": 2
     },
@@ -880,7 +924,8 @@
     "billyfrontier.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf"
         ],
         "desc": "This is Pangea Software's Billy Frontier updated to run on modern operating systems. Use the touchscreen to navigate the UI and gameplay.",
         "exp": false,
@@ -911,12 +956,12 @@
       "name": "billyfrontier.zip",
       "source": {
         "date_added": "2022-11-23",
-        "date_updated": "2024-03-03",
-        "md5": "9b978c4afd1bf162ce60a3dff923ce8a",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-08",
+        "md5": "63711d5674d7012ec96504a5b5456192",
+        "release_id": "2024-03-08_0929",
         "repo": "main",
-        "size": 83932787,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/billyfrontier.zip"
+        "size": 84821306,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-08_0929/billyfrontier.zip"
       },
       "version": 2
     },
@@ -14258,6 +14303,49 @@
         "repo": "main",
         "size": 40291936,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/titan_tactics.zip"
+      },
+      "version": 2
+    },
+    "tmntsr.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Shredder's Revenge is a side-scrolling action brawler with a pixelated artstyle. The player assumes control of Leonardo, Donatello, Michelangelo, Raphael, April O'Neil, Master Splinter, and unlockable character Casey Jones as they combat opponents including the Foot Clan, Krang, Bebop and Rocksteady, and Shredder in locations ranging from New York City sewers to Dimension X.",
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "If you have an older version, it is recommended you uninstall it first. Copy the game's data into ports/tmntsr/gamedata/.",
+        "porter": [
+          "Johnny on Flame"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "mono-6.12.0.122-aarch64.squashfs",
+        "title": "TMNT: Shredder's Revenge"
+      },
+      "items": [
+        "TMNTShreddersRevenge.sh",
+        "tmntsr/"
+      ],
+      "items_opt": null,
+      "name": "tmntsr.zip",
+      "source": {
+        "date_added": "2024-03-08",
+        "date_updated": "2024-03-08",
+        "md5": "fecb3c94eab270e01bfb114e5e90609b",
+        "release_id": "2024-03-08_0929",
+        "repo": "main",
+        "size": 10568937,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-08_0929/tmntsr.zip"
       },
       "version": 2
     },
