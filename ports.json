@@ -10197,6 +10197,53 @@
       },
       "version": 2
     },
+    "postvoid.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "Post Void is a hypnotic scramble of early first-person shooter design that values speed above all else. Keep your head full and reach the end; Kill what you can to see it mend; Get the high score or try again.",
+        "exp": false,
+        "genres": [
+          "fps"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from: https://store.steampowered.com/app/1285670/Post_Void/\nRun steam console via Windows+R: Type: steam://open/console. \nDownload the 1.1.0 version by typing: download_depot 1285670 1285671 8969891914873217769 in the console, when the download is complete, it will tell you the location of the folder,  copy data.win and options.ini from the download folder to /ports/postvoid00/gamedata",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [
+          "!lowres",
+          "power"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Post Void"
+      },
+      "items": [
+        "Post Void.sh",
+        "postvoid"
+      ],
+      "items_opt": null,
+      "name": "postvoid.zip",
+      "source": {
+        "date_added": "2024-03-09",
+        "date_updated": "2024-03-09",
+        "md5": "e53728ddd0c625254e58a73ff1be9c6e",
+        "release_id": "2024-03-09_1448",
+        "repo": "main",
+        "size": 7161709,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-09_1448/postvoid.zip"
+      },
+      "version": 2
+    },
     "powder.zip": {
       "attr": {
         "arch": [
@@ -11639,7 +11686,8 @@
       "attr": {
         "arch": [
           "aarch64",
-          "armhf"
+          "armhf",
+          "x86_64"
         ],
         "desc": "An open source port of Re-Volt by the RV Team.",
         "exp": false,
@@ -11671,12 +11719,12 @@
       "name": "rvgl.zip",
       "source": {
         "date_added": "2021-11-19",
-        "date_updated": "2024-03-03",
-        "md5": "89a4208a82f6048739f028374eed4656",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-09",
+        "md5": "7ae49f9a2167fa3e4545f5d72f78b175",
+        "release_id": "2024-03-09_1448",
         "repo": "main",
-        "size": 186102554,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/rvgl.zip"
+        "size": 186067839,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-09_1448/rvgl.zip"
       },
       "version": 2
     },
@@ -13192,6 +13240,50 @@
       },
       "version": 2
     },
+    "stargrovescramble.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "Your son has been taken! Sling your eggs at foes and platform through three unique worlds in search of his captor. Though tread lightly, his henchmen will try to stop you at every turn.",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is ready to run. Thanks Team Bugulon for creating this game and allowing us to distribute it!",
+        "porter": [
+          "Kompaan"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Stargrove Scramble"
+      },
+      "items": [
+        "Stargrove Scramble.sh",
+        "stargrovescramble"
+      ],
+      "items_opt": null,
+      "name": "stargrovescramble.zip",
+      "source": {
+        "date_added": "2024-03-09",
+        "date_updated": "2024-03-09",
+        "md5": "fc2d2fc8ee6d0b460c1dc30ab635ce9d",
+        "release_id": "2024-03-09_1448",
+        "repo": "main",
+        "size": 25282756,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-09_1448/stargrovescramble.zip"
+      },
+      "version": 2
+    },
     "starvsthegame.zip": {
       "attr": {
         "arch": [
@@ -13361,6 +13453,48 @@
         "repo": "main",
         "size": 8575944,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/strangeadventures.zip"
+      },
+      "version": 2
+    },
+    "strikeysisters.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "Say hello to a fantasy themed action arcade brick breaker! Featuring cute characters, silly humor, powerful magic, crazy bosses, and even local 2 player co-op mode!\n-Fast-paced brick breaker action!\n-Intense boss battles!\n-Local 2 player co-op mode.\n-Three difficulty modes.\n-Travel and conquer the world map in any order you want!\n-Unique player, ball, and spell power-ups!\n-Highly replayable! Uncover all the map, collect gems, unlock secret areas and extra levels, and complete the bestiary!\n-Polished and colorful pixel art visuals.\n-Catchy synth-fantasy soundtrack.\n-Cheesy 90's game voice acting!",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Itch.io\nDownload Strikey Sisters (Linux Ubuntu 14.04 LTS) [updated on Apr 05, 2018],  copy all files from /assets to /ports/strikeysisters/gamedata\n\nSteam\nRun steam console via Windows+R: Type: steam://open/console, download the linux version by typing: download_depot 643880 643883 in the console, when the download is complete, it will tell you the location of the folder,  copy all files from /assets to /ports/strikeysisters/gamedata",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Strikey Sisters"
+      },
+      "items": [
+        "Strikey Sisters.sh",
+        "strikeysisters"
+      ],
+      "items_opt": null,
+      "name": "strikeysisters.zip",
+      "source": {
+        "date_added": "2024-03-09",
+        "date_updated": "2024-03-09",
+        "md5": "0820d171b0a20e2b39b757f2f99270aa",
+        "release_id": "2024-03-09_1448",
+        "repo": "main",
+        "size": 24634527,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-09_1448/strikeysisters.zip"
       },
       "version": 2
     },
