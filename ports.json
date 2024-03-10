@@ -1184,7 +1184,8 @@
     "blobwars.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf"
         ],
         "desc": "Metal Blob Solid is the first game in the Blob Wars series made by Parallel Realities. It is a 2D platform game, where you control Bob in an effort to save his world from an invasion of alien Blobs.",
         "exp": false,
@@ -1217,12 +1218,12 @@
       "name": "blobwars.zip",
       "source": {
         "date_added": "2022-10-29",
-        "date_updated": "2024-03-03",
-        "md5": "756e8e2ce853192c7a4fc47295e38d4f",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-10",
+        "md5": "a432ed3f7837e4efb89c122232362daf",
+        "release_id": "2024-03-10_0307",
         "repo": "main",
-        "size": 67103605,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/blobwars.zip"
+        "size": 67241834,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_0307/blobwars.zip"
       },
       "version": 2
     },
@@ -5085,14 +5086,19 @@
     },
     "gta3.zip": {
       "attr": {
+        "arch": [
+          "aarch64"
+        ],
         "desc": "Welcome to Liberty City. Where it all began. The critically acclaimed blockbuster Grand Theft Auto III brings to life the dark and seedy underworld of Liberty City. With a massive and diverse open world, a wild cast of characters from every walk of life, and the freedom to explore at will, Grand Theft Auto III puts the dark, intriguing, and ruthless world of crime at your fingertips.",
         "exp": false,
         "genres": [
           "action"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "gta3.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -5107,30 +5113,36 @@
       },
       "items": [
         "Grand Theft Auto 3.sh",
-        "gta3/"
+        "gta3"
       ],
       "items_opt": null,
       "name": "gta3.zip",
       "source": {
         "date_added": "2023-10-28",
-        "date_updated": "2023-10-28",
-        "md5": "60fecd6b70015f8106426027065a0db5",
+        "date_updated": "2024-03-04",
+        "md5": "756a0b9baa363436be8304f849e06f28",
+        "release_id": "2024-03-04_0805",
         "repo": "multiverse",
-        "size": 4858737,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2024-01-17_1035/GTA3.zip"
+        "size": 5025168,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-03-04_0805/gta3.zip"
       },
       "version": 2
     },
     "gtavc.zip": {
       "attr": {
+        "arch": [
+          "aarch64"
+        ],
         "desc": "Welcome to the 1980s. From the decade of big hair, excess, and pastel suits comes a story of one man's rise to the top of the criminal pile as Grand Theft Auto returns.",
         "exp": false,
         "genres": [
           "action"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "gtavc.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -5151,11 +5163,12 @@
       "name": "gtavc.zip",
       "source": {
         "date_added": "2023-10-28",
-        "date_updated": "2023-10-28",
-        "md5": "05cef5bad6f5c7003b38bd4a3a0bec07",
+        "date_updated": "2024-03-04",
+        "md5": "75e5823d69b3f6763003348747cfa289",
+        "release_id": "2024-03-04_0805",
         "repo": "multiverse",
-        "size": 3931376,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2024-01-17_1035/GTAVC.zip"
+        "size": 4125867,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-03-04_0805/gtavc.zip"
       },
       "version": 2
     },
@@ -12425,6 +12438,9 @@
     },
     "sm.zip": {
       "attr": {
+        "arch": [
+          "aarch64"
+        ],
         "desc": "Super Metroid (\u30b9\u30fc\u30d1\u30fc\u30e1\u30c8\u30ed\u30a4\u30c9 S\u016bp\u0101 Metoroido?), also known as Metroid 3, is a video game developed by Nintendo R&D1 and published by Nintendo for the Super Nintendo Entertainment System. Super Metroid is the third installment in the Metroid series. With its 24-megabit (3 megabyte) cartridge size, it was the largest video game on the Super Nintendo at the time of its release\n",
         "exp": false,
         "genres": [
@@ -12432,8 +12448,11 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "sm.screenshot.jpg",
+          "covers": [
+            "cover.sm.png",
+            "cover.smredux.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -12448,31 +12467,37 @@
       },
       "items": [
         "sm.sh",
-        "sm/",
-        "smredux.sh"
+        "sm"
       ],
       "items_opt": null,
       "name": "sm.zip",
       "source": {
         "date_added": "2023-10-31",
-        "date_updated": "2023-10-31",
-        "md5": "8733846c204bcaa30d90e11656aad14d",
+        "date_updated": "2024-03-04",
+        "md5": "9b93629eb957e2adf31c5c7c289bc48f",
+        "release_id": "2024-03-04_0805",
         "repo": "multiverse",
-        "size": 3775233,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2024-01-17_1035/sm.zip"
+        "size": 1992686,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-03-04_0805/sm.zip"
       },
       "version": 2
     },
     "smworld.zip": {
       "attr": {
+        "arch": [
+          "aarch64"
+        ],
         "desc": "Super Mario World is a 2D side-scrolling platform game in which the player controls Mario or Luigi, the protagonists of the game. The game has similar gameplay to earlier games in the Super Mario series \u2013 Super Mario Bros., Super Mario Bros. 2, and Super Mario Bros. 3 \u2013 but introduces new elements. As well as dashing and jumping, the player can also fly or float with the aid of the Cape Feather and P-Balloon and can execute the new Spin Jump move.[",
         "exp": false,
         "genres": [
           "platformer"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "smworld.screenshot.jpg",
+          "covers": [
+            "cover.smbll.png",
+            "cover.smb1.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -12486,20 +12511,19 @@
         "title": "Super Mario World (and All Stars)"
       },
       "items": [
-        "smb1.sh",
-        "smbll.sh",
-        "smworld/",
-        "smworld.sh"
+        "smworld.sh",
+        "smworld"
       ],
       "items_opt": null,
       "name": "smworld.zip",
       "source": {
         "date_added": "2023-11-08",
-        "date_updated": "2024-01-17",
-        "md5": "4b310ffee11fd3f144a40e9a007d4cc9",
+        "date_updated": "2024-03-04",
+        "md5": "713f598b7d5448516f93599ad9c69625",
+        "release_id": "2024-03-04_0805",
         "repo": "multiverse",
-        "size": 730248,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2024-01-17_1035/smworld.zip"
+        "size": 1111556,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-03-04_0805/smworld.zip"
       },
       "version": 2
     },
@@ -15394,14 +15418,19 @@
     },
     "wipeout.zip": {
       "attr": {
+        "arch": [
+          "aarch64"
+        ],
         "desc": "Wipeout is a racing game that is set in 2052, where players compete in the F3600 anti-gravity racing league. The game allows the player to pilot one of a selection of craft in races on several different tracks.",
         "exp": false,
         "genres": [
           "racing"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "wipeout.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -15415,18 +15444,19 @@
         "title": "Wipeout"
       },
       "items": [
-        "Wip/",
-        "wipeout.sh"
+        "wipeout.sh",
+        "Wip"
       ],
       "items_opt": null,
       "name": "wipeout.zip",
       "source": {
         "date_added": "2023-10-29",
-        "date_updated": "2023-11-26",
-        "md5": "c074351bbbfd3b28de469ee3b021e738",
+        "date_updated": "2024-03-04",
+        "md5": "6d1a6efca68f632f755cd110e11debc4",
+        "release_id": "2024-03-04_0805",
         "repo": "multiverse",
-        "size": 1018340,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2024-01-17_1035/Wipeout.zip"
+        "size": 1147444,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-03-04_0805/wipeout.zip"
       },
       "version": 2
     },
@@ -16059,6 +16089,9 @@
     },
     "zelda3.zip": {
       "attr": {
+        "arch": [
+          "aarch64"
+        ],
         "desc": "*For devices with lower resolution of 640x480 or weird low res aspect ratio you need to modify the zelda3.ini file* The game begins with series protagonist Link, the last descendant of the Knights of Hyrule, and his uncle, being awakened by a telepathic message from Zelda, who says that she has been locked in Hyrule Castle's dungeon by Agahnim and requires rescue. Link's uncle goes to rescue her first, and Link follows despite his uncle's orders to remain home. His uncle is slain, though beforehand, Link receives a sword and shield from him. Link infiltrates Hyrule Castle and successfully hides Zelda in the Sanctuary as his uncle's last wish.",
         "exp": false,
         "genres": [
@@ -16066,8 +16099,10 @@
           "adventure"
         ],
         "image": {
-          "cover": null,
-          "screenshot": "zelda3.screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
@@ -16081,18 +16116,19 @@
         "title": "Zelda A Link to The Past"
       },
       "items": [
-        "zelda/",
-        "zelda3.sh"
+        "zelda3.sh",
+        "zelda"
       ],
       "items_opt": null,
       "name": "zelda3.zip",
       "source": {
         "date_added": "2023-10-29",
-        "date_updated": "2023-11-05",
-        "md5": "f3cc8d96551923bdf3e5a495aef1982a",
+        "date_updated": "2024-03-04",
+        "md5": "16a72e53cc5fd0bb44aeed4c18b0f1e5",
+        "release_id": "2024-03-04_0805",
         "repo": "multiverse",
-        "size": 916169,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-Multiverse/releases/download/2024-01-17_1035/zelda3.zip"
+        "size": 1192244,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-03-04_0805/zelda3.zip"
       },
       "version": 2
     },
