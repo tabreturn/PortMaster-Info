@@ -956,12 +956,12 @@
       "name": "billyfrontier.zip",
       "source": {
         "date_added": "2022-11-23",
-        "date_updated": "2024-03-08",
-        "md5": "63711d5674d7012ec96504a5b5456192",
-        "release_id": "2024-03-08_0929",
+        "date_updated": "2024-03-10",
+        "md5": "56e1fae0a420ebb0840a1212a292b00d",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
-        "size": 84821306,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-08_0929/billyfrontier.zip"
+        "size": 84821307,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/billyfrontier.zip"
       },
       "version": 2
     },
@@ -2821,12 +2821,12 @@
       "name": "cromagrally.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2024-03-03",
-        "md5": "d2d3c7e927853e39f5b38447c267c5fc",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-10",
+        "md5": "6bd6b9e4eb515daaf89b1feefba47ab7",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
-        "size": 129889571,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/cromagrally.zip"
+        "size": 129889574,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/cromagrally.zip"
       },
       "version": 2
     },
@@ -9653,12 +9653,12 @@
       "name": "ottomatic.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2024-03-03",
-        "md5": "653fc9941d5850a2915ce81f61dbba93",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-10",
+        "md5": "95aaacb576084a1dd1a0e3fe39b392c7",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
-        "size": 144077344,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/ottomatic.zip"
+        "size": 144077345,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/ottomatic.zip"
       },
       "version": 2
     },
@@ -10228,7 +10228,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game from: https://store.steampowered.com/app/1285670/Post_Void/\nRun steam console via Windows+R: Type: steam://open/console. \nDownload the 1.1.0 version by typing: download_depot 1285670 1285671 8969891914873217769 in the console, when the download is complete, it will tell you the location of the folder,  copy data.win and options.ini from the download folder to /ports/postvoid00/gamedata",
+        "inst": "Purchase the game from: https://store.steampowered.com/app/1285670/Post_Void/\nRun steam console via Windows+R: Type: steam://open/console. \nDownload the 1.1.0 version by typing: download_depot 1285670 1285671 8969891914873217769 in the console, when the download is complete, it will tell you the location of the folder,  copy data.win and options.ini from the download folder to /ports/postvoid/gamedata",
         "porter": [
           "Fraxinus88"
         ],
@@ -10248,12 +10248,12 @@
       "name": "postvoid.zip",
       "source": {
         "date_added": "2024-03-09",
-        "date_updated": "2024-03-09",
-        "md5": "e53728ddd0c625254e58a73ff1be9c6e",
-        "release_id": "2024-03-09_1448",
+        "date_updated": "2024-03-10",
+        "md5": "b21045c8b4364f6786cd8582a270b22d",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
-        "size": 7161709,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-09_1448/postvoid.zip"
+        "size": 7161708,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/postvoid.zip"
       },
       "version": 2
     },
@@ -13299,12 +13299,12 @@
       "name": "stargrovescramble.zip",
       "source": {
         "date_added": "2024-03-09",
-        "date_updated": "2024-03-09",
-        "md5": "fc2d2fc8ee6d0b460c1dc30ab635ce9d",
-        "release_id": "2024-03-09_1448",
+        "date_updated": "2024-03-10",
+        "md5": "6a6c548671dad20699ddcf2c6a227bd2",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
-        "size": 25282756,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-09_1448/stargrovescramble.zip"
+        "size": 26325136,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/stargrovescramble.zip"
       },
       "version": 2
     },
@@ -13428,12 +13428,12 @@
       "name": "stop_the_eggspress.zip",
       "source": {
         "date_added": "2024-02-07",
-        "date_updated": "2024-03-03",
-        "md5": "7a094b29dd71097b9d3492fa9ab553df",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-10",
+        "md5": "3857641044bab4d1403b68b8a6a3ad90",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
-        "size": 7968043,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/stop_the_eggspress.zip"
+        "size": 7968046,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/stop_the_eggspress.zip"
       },
       "version": 2
     },
@@ -13471,12 +13471,12 @@
       "name": "strangeadventures.zip",
       "source": {
         "date_added": "2024-02-26",
-        "date_updated": "2024-03-03",
-        "md5": "ff3ddd37cc62a0829b8f3beda6f13b31",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-10",
+        "md5": "fe3a10d5e70160389fc0b008bbb09211",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
-        "size": 8575944,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/strangeadventures.zip"
+        "size": 8575946,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/strangeadventures.zip"
       },
       "version": 2
     },
@@ -14072,12 +14072,12 @@
       "name": "thelegendoflumina.zip",
       "source": {
         "date_added": "2024-02-16",
-        "date_updated": "2024-03-03",
-        "md5": "e1dadb270ae254d01d860010a2fc07b0",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-10",
+        "md5": "474d9abaf5efdee58bd23965e1f4300a",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
-        "size": 137810,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/thelegendoflumina.zip"
+        "size": 137898,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/thelegendoflumina.zip"
       },
       "version": 2
     },
@@ -14709,12 +14709,12 @@
       "name": "tunics.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-03-03",
-        "md5": "35b578fec40baa1b0281035738d9c99c",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-10",
+        "md5": "d5a91728d647d2997d203eb40230f9c7",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
         "size": 282937,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/tunics.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/tunics.zip"
       },
       "version": 2
     },
@@ -15914,12 +15914,12 @@
       "name": "zelda-bookofmudora.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-03-03",
-        "md5": "85d465f29c061c5bf621eb9789e70bd4",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-10",
+        "md5": "7193ca7b9c8e1b18f60f29785eb62b20",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
-        "size": 287496,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/zelda-bookofmudora.zip"
+        "size": 287501,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/zelda-bookofmudora.zip"
       },
       "version": 2
     },
@@ -15955,12 +15955,12 @@
       "name": "zelda-mercurischest.zip",
       "source": {
         "date_added": "2024-02-19",
-        "date_updated": "2024-03-03",
-        "md5": "1e50a5e1f5388a8640416f1bc2e661d3",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-10",
+        "md5": "a62b13858be1d0a5783529f5b2e4b678",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
-        "size": 295497,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/zelda-mercurischest.zip"
+        "size": 295499,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/zelda-mercurischest.zip"
       },
       "version": 2
     },
@@ -15996,12 +15996,12 @@
       "name": "zelda-mysteryofsolarusdx.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-03-03",
-        "md5": "57d945431e911f46846702fd0a138ed4",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-10",
+        "md5": "8d27282f3adf677d97d500f814b2399a",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
-        "size": 283168,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/zelda-mysteryofsolarusdx.zip"
+        "size": 283171,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/zelda-mysteryofsolarusdx.zip"
       },
       "version": 2
     },
@@ -16037,12 +16037,12 @@
       "name": "zelda-mysteryofsolarusxd.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-03-03",
-        "md5": "319ad9ece3af2c51141fc70c72a2ef0c",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-10",
+        "md5": "93e34b325bbfe715a455da0505b79773",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
-        "size": 279382,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/zelda-mysteryofsolarusxd.zip"
+        "size": 279385,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/zelda-mysteryofsolarusxd.zip"
       },
       "version": 2
     },
@@ -16068,7 +16068,7 @@
         "reqs": [],
         "rtr": false,
         "runtime": "solarus-1.6.5.squashfs",
-        "title": "The Legend of Zelda: Return of the Hylain SE"
+        "title": "The Legend of Zelda: Return of the Hylian SE"
       },
       "items": [
         "The Legend of Zelda: Return of the Hylain.sh",
@@ -16078,12 +16078,12 @@
       "name": "zelda-roth-se.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-03-03",
-        "md5": "eb8c6c36422a8b34069970e3b8ed28c9",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-10",
+        "md5": "60135f27f3dae0eccd186ef52bb1fbdf",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
-        "size": 281137,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/zelda-roth-se.zip"
+        "size": 281139,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/zelda-roth-se.zip"
       },
       "version": 2
     },
@@ -16166,12 +16166,12 @@
       "name": "zelda3t.zip",
       "source": {
         "date_added": "2023-11-06",
-        "date_updated": "2024-03-03",
-        "md5": "fac5ac570b990c7929b94416d2a46a44",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-10",
+        "md5": "03e30b4799ce37ffcb4fbbf21d35ee6f",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
-        "size": 31226327,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/zelda3t.zip"
+        "size": 31226340,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/zelda3t.zip"
       },
       "version": 2
     },
@@ -16209,12 +16209,12 @@
       "name": "zelda_roth.zip",
       "source": {
         "date_added": "2023-11-06",
-        "date_updated": "2024-03-03",
-        "md5": "06ddf438c3aa969df5b23fb4b6c9f221",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-10",
+        "md5": "9d785ecc9db3f3ed8bb0308a8fe80b93",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
-        "size": 74538974,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/zelda_roth.zip"
+        "size": 74538992,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/zelda_roth.zip"
       },
       "version": 2
     },
@@ -16252,12 +16252,12 @@
       "name": "zeldansq.zip",
       "source": {
         "date_added": "2023-11-06",
-        "date_updated": "2024-03-03",
-        "md5": "7c5ac44c191f8d0c655ef23ffe655d01",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-10",
+        "md5": "78b0a95efc8f5934b48c3665b473f1f6",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
-        "size": 21677459,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/zeldansq.zip"
+        "size": 21677471,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/zeldansq.zip"
       },
       "version": 2
     },
@@ -16295,12 +16295,12 @@
       "name": "zeldaolb.zip",
       "source": {
         "date_added": "2023-11-06",
-        "date_updated": "2024-03-03",
-        "md5": "26bdda7799a0cfc95e3e8d41f629c16a",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-10",
+        "md5": "d79ad73bc4b502549c8e8a8f9938204d",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
-        "size": 132447322,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/zeldaolb.zip"
+        "size": 132447335,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/zeldaolb.zip"
       },
       "version": 2
     },
@@ -16336,12 +16336,12 @@
       "name": "zeldaxd-mercurischess.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-03-03",
-        "md5": "5131d46418dcc36d06461b5d9e770daf",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-10",
+        "md5": "41e2624959e74f678046896490a4d617",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
-        "size": 281171,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/zeldaxd-mercurischess.zip"
+        "size": 281178,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/zeldaxd-mercurischess.zip"
       },
       "version": 2
     },
@@ -16377,12 +16377,12 @@
       "name": "zeldoschallenge.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-03-03",
-        "md5": "676551ce8e56603acf2d425f463b1322",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-10",
+        "md5": "5fb15966c38869dfba34431afd3cde2f",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
-        "size": 306993,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/zeldoschallenge.zip"
+        "size": 306998,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/zeldoschallenge.zip"
       },
       "version": 2
     },
@@ -16418,12 +16418,12 @@
       "name": "zeldoschallenge2.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-03-03",
-        "md5": "376a45c9c636db1e1e191864f24511f2",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-10",
+        "md5": "fae7125b7abb49998f477ff6a55661e2",
+        "release_id": "2024-03-10_1234",
         "repo": "main",
-        "size": 773388,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/zeldoschallenge2.zip"
+        "size": 773392,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/zeldoschallenge2.zip"
       },
       "version": 2
     },
