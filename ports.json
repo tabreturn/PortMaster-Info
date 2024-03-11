@@ -1141,7 +1141,8 @@
     "blobby.volley2.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf"
         ],
         "desc": "A head-to-head multiplayer ball game.",
         "exp": false,
@@ -1172,12 +1173,12 @@
       "name": "blobby.volley2.zip",
       "source": {
         "date_added": "2021-11-04",
-        "date_updated": "2024-03-03",
-        "md5": "0a2cfa218ec8a066dda63ef07a9571a9",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-11",
+        "md5": "62111e69463f26ed38dd624a6ffc0648",
+        "release_id": "2024-03-11_1047",
         "repo": "main",
-        "size": 4017510,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/blobby.volley2.zip"
+        "size": 3521756,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-11_1047/blobby.volley2.zip"
       },
       "version": 2
     },
@@ -4689,6 +4690,50 @@
         "repo": "main",
         "size": 133154654,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/flare.zip"
+      },
+      "version": 2
+    },
+    "formula_1_playdate.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "armhf"
+        ],
+        "desc": "Formula 1 Playdate is the Playdate version of a small, fictive game and watch style lcd game with high score keeping.  Formula 1 Playdate files are already included and ready to go.",
+        "exp": false,
+        "genres": [
+          "arcade",
+          "racing"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "porter": [
+          "Joyrider3774"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Formula 1 Playdate"
+      },
+      "items": [
+        "Formula 1 Playdate.sh",
+        "formula_1_playdate/"
+      ],
+      "items_opt": null,
+      "name": "formula_1_playdate.zip",
+      "source": {
+        "date_added": "2024-03-11",
+        "date_updated": "2024-03-11",
+        "md5": "9b6e88ca1d0ae95056e5860c05789cfe",
+        "release_id": "2024-03-11_1047",
+        "repo": "main",
+        "size": 1220562,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-11_1047/formula_1_playdate.zip"
       },
       "version": 2
     },
