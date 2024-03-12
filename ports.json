@@ -7203,6 +7203,48 @@
       },
       "version": 2
     },
+    "loderunneronline.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "This project is a fan-made cross-platform clone of Lode Runner Online: The Mad Monks' Revenge.",
+        "exp": false,
+        "genres": [
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You can download Lode Runner Online free at: https://mmr.quarkrobot.com/ . Download the Linux version and extract it, and place the game files in the gamedata directory. This has been tested with the LODERUNN-LINUX-2402.tar.gz release.\n\nYou can change controls in the options (cog) menu, but you must **plug in a mouse to assign the gamepad inputs.**\n\nFor the CD soundtrack, download the DLC here: https://mmr.quarkrobot.com/manual/get-started#soundtrack, and place the LR_AUDIO.PRS file in the port's *savadata* folder.",
+        "porter": [
+          "tabreturn",
+          "Slayer366"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "mono-6.12.0.122-aarch64.squashfs",
+        "title": "Lode Runner Online"
+      },
+      "items": [
+        "Lode Runner Online.sh",
+        "loderunneronline"
+      ],
+      "items_opt": null,
+      "name": "loderunneronline.zip",
+      "source": {
+        "date_added": "2024-03-12",
+        "date_updated": "2024-03-12",
+        "md5": "64ae556bea3f7c610190579f6d0a8239",
+        "release_id": "2024-03-12_1138",
+        "repo": "multiverse",
+        "size": 30491392,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-03-12_1138/loderunneronline.zip"
+      },
+      "version": 2
+    },
     "loopcat.zip": {
       "attr": {
         "arch": [
