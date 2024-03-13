@@ -1231,7 +1231,8 @@
     "block.attack.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf"
         ],
         "desc": "A Tetris Attack Clone.",
         "exp": false,
@@ -1261,12 +1262,12 @@
       "name": "block.attack.zip",
       "source": {
         "date_added": "2021-11-06",
-        "date_updated": "2024-03-03",
-        "md5": "17dcd1718858850662a61505db578053",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-13",
+        "md5": "7420f0263f5a0ef4ab6aabac9ce03aac",
+        "release_id": "2024-03-13_1330",
         "repo": "main",
-        "size": 13253253,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/block.attack.zip"
+        "size": 14164955,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-13_1330/block.attack.zip"
       },
       "version": 2
     },
@@ -2568,7 +2569,8 @@
     "clockwind.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf"
         ],
         "desc": "The mechanic of this game is time travel. Make your way through 4 levels utilizing the passage of time in different ways. This may involve making trees grow or turning a car in to a flying car.",
         "exp": false,
@@ -2600,12 +2602,12 @@
       "name": "clockwind.zip",
       "source": {
         "date_added": "2023-09-07",
-        "date_updated": "2024-03-03",
-        "md5": "cda35650285a95da786752be1781ad0f",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-13",
+        "md5": "0a7f14d58332e51c2a563fe734617a5d",
+        "release_id": "2024-03-13_1330",
         "repo": "main",
-        "size": 2941505,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/clockwind.zip"
+        "size": 4771272,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-13_1330/clockwind.zip"
       },
       "version": 2
     },
@@ -3479,12 +3481,12 @@
       "name": "doom3.zip",
       "source": {
         "date_added": "2022-02-19",
-        "date_updated": "2024-03-03",
-        "md5": "9c4cbaf44446de56ce972b6a6f38ba97",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-13",
+        "md5": "7ed5273a9366d6a8ed7f57d94306ec71",
+        "release_id": "2024-03-13_1330",
         "repo": "main",
-        "size": 41866137,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/doom3.zip"
+        "size": 41866130,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-13_1330/doom3.zip"
       },
       "version": 2
     },
@@ -15153,7 +15155,8 @@
     "vanillara.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf"
         ],
         "desc": "Vanilla Conquer is a fully portable version Command and Conquer Red Alert.",
         "exp": false,
@@ -15186,19 +15189,20 @@
       "name": "vanillara.zip",
       "source": {
         "date_added": "2023-03-21",
-        "date_updated": "2024-03-03",
-        "md5": "5139343525d2e212134b4288f54c8511",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-13",
+        "md5": "455c860cfdc8fee6fb5171e9c719974f",
+        "release_id": "2024-03-13_1330",
         "repo": "main",
-        "size": 19442738,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/vanillara.zip"
+        "size": 20146232,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-13_1330/vanillara.zip"
       },
       "version": 2
     },
     "vanillatd.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf"
         ],
         "desc": "Vanilla Conquer is a fully portable version Command and Conquer Tiberium Dawn.",
         "exp": false,
@@ -15231,12 +15235,12 @@
       "name": "vanillatd.zip",
       "source": {
         "date_added": "2023-03-23",
-        "date_updated": "2024-03-03",
-        "md5": "88a64f015f98b7045896566b6701f139",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-13",
+        "md5": "e5bab5ea27c715555bec6ca1eeb468df",
+        "release_id": "2024-03-13_1330",
         "repo": "main",
-        "size": 23040280,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/vanillatd.zip"
+        "size": 23582135,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-13_1330/vanillatd.zip"
       },
       "version": 2
     },
