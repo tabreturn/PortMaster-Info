@@ -10694,6 +10694,49 @@
       },
       "version": 2
     },
+    "puztrix_playdate.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "armhf"
+        ],
+        "desc": "Puztrix Playdate is the Playdate version of a remake of the Gravnic game from inside the NES Puzznic game.",
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "porter": [
+          "Joyrider3774"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Puztrix Playdate"
+      },
+      "items": [
+        "Puztrix Playdate.sh",
+        "puztrix_playdate/"
+      ],
+      "items_opt": null,
+      "name": "puztrix_playdate.zip",
+      "source": {
+        "date_added": "2024-03-15",
+        "date_updated": "2024-03-15",
+        "md5": "f6e3dfaa47184bfb699c924e88f62bd2",
+        "release_id": "2024-03-15_0756",
+        "repo": "main",
+        "size": 16478080,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-15_0756/puztrix_playdate.zip"
+      },
+      "version": 2
+    },
     "pyk.zip": {
       "attr": {
         "arch": [],
@@ -12702,6 +12745,50 @@
       },
       "version": 2
     },
+    "snout.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "Compete for the top score in this combination of two classic arcade games!\nThe idea Is Simple:\n-You control the snake\n-Gain length (and points) for the ball hitting your body\n-Body hits power up the ball to destroy blocks and create space\n-Just go for as long as you can!\nYou lose if your head hits the ball, the wall, or your own body!",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is ready to run!\nIf your D-pad on your device is poor, go to Menu->Options->Control Scheme: L/R to switch controls to triggers.",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "SnOut"
+      },
+      "items": [
+        "SnOut.sh",
+        "snout"
+      ],
+      "items_opt": null,
+      "name": "snout.zip",
+      "source": {
+        "date_added": "2024-03-15",
+        "date_updated": "2024-03-15",
+        "md5": "9a7ca72bda75d723a5186311c1683849",
+        "release_id": "2024-03-15_0756",
+        "repo": "main",
+        "size": 42110240,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-15_0756/snout.zip"
+      },
+      "version": 2
+    },
     "sonic.1.zip": {
       "attr": {
         "arch": [
@@ -13585,7 +13672,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Itch.io\nDownload Strikey Sisters (Linux Ubuntu 14.04 LTS) [updated on Apr 05, 2018],  copy all files from /assets to /ports/strikeysisters/gamedata\n\nSteam\nRun steam console via Windows+R: Type: steam://open/console, download the linux version by typing: download_depot 643880 643883 in the console, when the download is complete, it will tell you the location of the folder,  copy all files from /assets to /ports/strikeysisters/gamedata",
+        "inst": "Purchase the game either from https://dyagames.itch.io/strikey-sisters OR https://store.steampowered.com/app/643880/Strikey_Sisters/ \n\nItch.io\nDownload Strikey Sisters (Linux Ubuntu 14.04 LTS) [updated on Apr 05, 2018],  copy all files from /assets to /ports/strikeysisters/gamedata\n\nSteam\nRun steam console via Windows+R: Type: steam://open/console, download the linux version by typing: download_depot 643880 643883 in the console, when the download is complete, it will tell you the location of the folder,  copy all files from /assets to /ports/strikeysisters/gamedata",
         "porter": [
           "Fraxinus88"
         ],
@@ -13602,12 +13689,12 @@
       "name": "strikeysisters.zip",
       "source": {
         "date_added": "2024-03-09",
-        "date_updated": "2024-03-09",
-        "md5": "0820d171b0a20e2b39b757f2f99270aa",
-        "release_id": "2024-03-09_1448",
+        "date_updated": "2024-03-15",
+        "md5": "67eab6d776c9c1bff81c8f9e2145e1a0",
+        "release_id": "2024-03-15_0756",
         "repo": "main",
-        "size": 24634527,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-09_1448/strikeysisters.zip"
+        "size": 24634595,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-15_0756/strikeysisters.zip"
       },
       "version": 2
     },
@@ -15970,6 +16057,48 @@
         "repo": "main",
         "size": 15862542,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/yatka.zip"
+      },
+      "version": 2
+    },
+    "youhave10s2023.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "You Have 10 Seconds is a fast paced arcade platformer where you\u2019re spawned into a level and given ten seconds to work out how to reach the exit without dying before time runs out.\n\nThere are 25 Areas which each introduce a new mechanic to the gameplay, eventually creating extremely complex and difficult levels. Master collecting keys, swimming through acid, dodging motion sensors, time traveling, swapping dimensions, and so much more to clear areas as quickly as possible.",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Claim the game from: https://store.steampowered.com/app/2390510/You_Have_10_Seconds_2023/\nDownload the game and copy all the game files from /You Have 10 Seconds (2023) into youhave10s2023/gamedata",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "You Have 10 Seconds (2023)"
+      },
+      "items": [
+        "You Have 10 Seconds (2023).sh",
+        "youhave10s2023"
+      ],
+      "items_opt": null,
+      "name": "youhave10s2023.zip",
+      "source": {
+        "date_added": "2024-03-15",
+        "date_updated": "2024-03-15",
+        "md5": "be71b57787c1f9b73a0e87420c55d9cf",
+        "release_id": "2024-03-15_0756",
+        "repo": "main",
+        "size": 10938346,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-15_0756/youhave10s2023.zip"
       },
       "version": 2
     },
