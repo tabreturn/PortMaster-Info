@@ -3708,6 +3708,49 @@
       },
       "version": 2
     },
+    "dynamate_playdate.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "armhf"
+        ],
+        "desc": "Dynamate is a puzzle game where the aim of the game, in any level, is to clear the level of the numbered / colored pieces. Pieces can be removed in a predefined way by moving another piece into them. There are also pieces affecting the currently moving piece. This is a port of the Playdate Version which was based on the gp2x version of the game.",
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "porter": [
+          "Joyrider3774"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Dynamate Playdate"
+      },
+      "items": [
+        "Dynamate Playdate.sh",
+        "dynamate_playdate/"
+      ],
+      "items_opt": null,
+      "name": "dynamate_playdate.zip",
+      "source": {
+        "date_added": "2024-03-17",
+        "date_updated": "2024-03-17",
+        "md5": "9d04c1f83256238af83de4935091f210",
+        "release_id": "2024-03-17_1006",
+        "repo": "main",
+        "size": 4398277,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-17_1006/dynamate_playdate.zip"
+      },
+      "version": 2
+    },
     "echo_chamber.zip": {
       "attr": {
         "arch": [],
@@ -12780,12 +12823,12 @@
       "name": "snout.zip",
       "source": {
         "date_added": "2024-03-15",
-        "date_updated": "2024-03-15",
-        "md5": "9a7ca72bda75d723a5186311c1683849",
-        "release_id": "2024-03-15_0756",
+        "date_updated": "2024-03-17",
+        "md5": "ff2504f63cb4ae6b953567d89b69125b",
+        "release_id": "2024-03-17_1006",
         "repo": "main",
         "size": 42110240,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-15_0756/snout.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-17_1006/snout.zip"
       },
       "version": 2
     },
