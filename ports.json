@@ -438,6 +438,49 @@
       },
       "version": 2
     },
+    "angband.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "desc": "Angband is a free, single-player dungeon exploration game.\nYou play an adventurer seeking riches, fighting monsters, and preparing for a final battle with Morgoth, the Lord of Darkness.",
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Game files are already included. Controls are rather complex, make sure to read the control sheet on our website carefully.",
+        "porter": [
+          "Cebion",
+          "Troidem"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Angband"
+      },
+      "items": [
+        "Angband.sh",
+        "angband"
+      ],
+      "items_opt": null,
+      "name": "angband.zip",
+      "source": {
+        "date_added": "2024-03-18",
+        "date_updated": "2024-03-18",
+        "md5": "20fb0de51e146e818173b45046237e95",
+        "release_id": "2024-03-18_1220",
+        "repo": "main",
+        "size": 24126442,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-18_1220/angband.zip"
+      },
+      "version": 2
+    },
     "anodyne.zip": {
       "attr": {
         "arch": [],
@@ -1268,6 +1311,50 @@
         "repo": "main",
         "size": 14164955,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-13_1330/block.attack.zip"
+      },
+      "version": 2
+    },
+    "blockdude_playdate.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "armhf"
+        ],
+        "desc": "Blokdude is a remake of the well known TI Caluculator game from Brandon Sterner as well as the blockman game from Soleau Software. This version of the game is based on the Playdate which in itself was based on the GP2X port of blockdude.",
+        "exp": false,
+        "genres": [
+          "puzzle",
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "porter": [
+          "Joyrider3774"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Blockdude Playdate"
+      },
+      "items": [
+        "Blockdude Playdate.sh",
+        "blockdude_playdate/"
+      ],
+      "items_opt": null,
+      "name": "blockdude_playdate.zip",
+      "source": {
+        "date_added": "2024-03-18",
+        "date_updated": "2024-03-18",
+        "md5": "bd2018c4fe79efe725a7a7b679718437",
+        "release_id": "2024-03-18_1220",
+        "repo": "main",
+        "size": 4340312,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-18_1220/blockdude_playdate.zip"
       },
       "version": 2
     },
