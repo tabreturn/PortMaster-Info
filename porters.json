@@ -190,5 +190,26 @@
     "support": "",
     "webpage": "",
     "image": ""
+  },
+  "Kompaan": {
+    "name": "Kompaan",
+    "social": "",
+    "support": "",
+    "webpage": "",
+    "image": "https://avatars.githubusercontent.com/u/28956861"
+  },
+  "Joyrider3774": {
+    "name": "Joyrider3774",
+    "social": "https://twitter.com/joyrider3774",
+    "support": "https://ko-fi.com/joyrider3774",
+    "webpage": "https://github.com/joyrider3774",
+    "image": "https://avatars.githubusercontent.com/u/10714776?v=4"
+  },
+  "JanTrueno": {
+    "name": "JanTrueno",
+    "social": "",
+    "support": "https://ko-fi.com/jantrueno",
+    "webpage": "https://github.com/JanTrueno",
+    "image": ""
   }
 }
