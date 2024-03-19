@@ -449,7 +449,9 @@
           "rpg"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
@@ -472,12 +474,12 @@
       "name": "angband.zip",
       "source": {
         "date_added": "2024-03-18",
-        "date_updated": "2024-03-18",
-        "md5": "20fb0de51e146e818173b45046237e95",
-        "release_id": "2024-03-18_1220",
+        "date_updated": "2024-03-19",
+        "md5": "c8e1694ad90b1e1dd4c0aef48e76a1db",
+        "release_id": "2024-03-19_1138",
         "repo": "main",
-        "size": 24126442,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-18_1220/angband.zip"
+        "size": 24285744,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-19_1138/angband.zip"
       },
       "version": 2
     },
@@ -2917,6 +2919,46 @@
         "repo": "main",
         "size": 129889574,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/cromagrally.zip"
+      },
+      "version": 2
+    },
+    "cropsmare.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "A Sokoban-like puzzle game inspired by Adventures of Lolo.",
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You can purchase Cropsmare at: https://mrkdji.itch.io/cropsmare. Download the *cropsmare-linux.zip* version version and extract it, and place the *cropsmare.pck* file in the gamedata directory. This has been tested using the Linux version, but should also work with the Windows version.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.5.3.squashfs",
+        "title": "Cropsmare!"
+      },
+      "items": [
+        "Cropsmare.sh",
+        "cropsmare"
+      ],
+      "items_opt": null,
+      "name": "cropsmare.zip",
+      "source": {
+        "date_added": "2024-03-19",
+        "date_updated": "2024-03-19",
+        "md5": "c7f8a94f61ef55879126d76ce7b720f3",
+        "release_id": "2024-03-19_1138",
+        "repo": "main",
+        "size": 21069,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-19_1138/cropsmare.zip"
       },
       "version": 2
     },
@@ -6451,7 +6493,7 @@
         },
         "inst": "\nInertia Blast is a remake of an C64 game called Thrust.",
         "porter": [
-          "monkeyx-net"
+          "monkeyx.net"
         ],
         "reqs": [],
         "rtr": true,
@@ -6466,12 +6508,12 @@
       "name": "inertiablast.zip",
       "source": {
         "date_added": "2024-02-19",
-        "date_updated": "2024-03-03",
-        "md5": "aa27d39188dd8116f1090e0dd772f724",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-19",
+        "md5": "12e13195b0d0a38c4f40b31df49145bc",
+        "release_id": "2024-03-19_1138",
         "repo": "main",
-        "size": 126128,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/inertiablast.zip"
+        "size": 126127,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-19_1138/inertiablast.zip"
       },
       "version": 2
     },
@@ -7919,7 +7961,7 @@
         "inst": "Download from https://caffinate.itch.io/mimis-delivery-dash and extract data.win and both .ogg files to /ports/mimisdeliverydash/gamedata/",
         "porter": [
           "MadShmupper",
-          "tekkenfede",
+          "Tekkenfede",
           "Jeod"
         ],
         "reqs": [],
@@ -7935,12 +7977,12 @@
       "name": "mimisdeliverydash.zip",
       "source": {
         "date_added": "2024-02-05",
-        "date_updated": "2024-03-03",
-        "md5": "92a3d36643136069a9412f43c6898bb3",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-19",
+        "md5": "af67d771709bfab281ab6082ede037bd",
+        "release_id": "2024-03-19_1138",
         "repo": "main",
         "size": 17957974,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/mimisdeliverydash.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-19_1138/mimisdeliverydash.zip"
       },
       "version": 2
     },
@@ -10756,7 +10798,7 @@
         },
         "inst": "Purchase and download Pulstario_Linux_DRMFree_V001.zip OR Pulstario_Windows_DRMFree_V001.zip from https://thatsmytrunks.itch.io/pulstario.\nCopy all the files (game.unx/data.win, options.ini) from /assets or the zip into the pulstario/gamedata folder",
         "porter": [
-          "Fraxinus"
+          "Fraxinus88"
         ],
         "reqs": [],
         "rtr": false,
@@ -10771,12 +10813,12 @@
       "name": "pulstario.zip",
       "source": {
         "date_added": "2024-02-19",
-        "date_updated": "2024-03-03",
-        "md5": "39e53c13e8b416c265cc29275af28538",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-19",
+        "md5": "8bc58b11e0a7a8829af19147d9781ac3",
+        "release_id": "2024-03-19_1138",
         "repo": "main",
-        "size": 17773284,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/pulstario.zip"
+        "size": 17773287,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-19_1138/pulstario.zip"
       },
       "version": 2
     },
@@ -13202,7 +13244,8 @@
         },
         "inst": "Download game (Spearmint Mountain 1.1.1 Ubuntu) from https://baku.itch.io/spearmint-mountain, copy all the files from /assets to /ports/spearmintmountain/gamedata",
         "porter": [
-          "Fraxinus88, MadShmupper"
+          "Fraxinus88",
+          "MadShmupper"
         ],
         "reqs": [],
         "rtr": false,
@@ -13217,12 +13260,12 @@
       "name": "spearmintmountain.zip",
       "source": {
         "date_added": "2024-02-10",
-        "date_updated": "2024-03-03",
-        "md5": "8523d589bdc5bb42e37db7e262fcf5c5",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-19",
+        "md5": "8100d153c5fc9b5d33beaeb04805130a",
+        "release_id": "2024-03-19_1138",
         "repo": "main",
-        "size": 10913843,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/spearmintmountain.zip"
+        "size": 10913934,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-19_1138/spearmintmountain.zip"
       },
       "version": 2
     },
@@ -13605,12 +13648,12 @@
       "name": "stargrovescramble.zip",
       "source": {
         "date_added": "2024-03-09",
-        "date_updated": "2024-03-10",
-        "md5": "6a6c548671dad20699ddcf2c6a227bd2",
-        "release_id": "2024-03-10_1234",
+        "date_updated": "2024-03-19",
+        "md5": "bb8ba36c7f9ffcd10577acd543a98b95",
+        "release_id": "2024-03-19_1138",
         "repo": "main",
-        "size": 26325136,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/stargrovescramble.zip"
+        "size": 26325571,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-19_1138/stargrovescramble.zip"
       },
       "version": 2
     },
@@ -14203,12 +14246,12 @@
       "name": "supertuxkart.zip",
       "source": {
         "date_added": "2023-06-08",
-        "date_updated": "2024-03-03",
-        "md5": "da300b2576219dd5f95610786b42178d",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-19",
+        "md5": "548472e0b273acc5e21336be0e4ec477",
+        "release_id": "2024-03-19_1138",
         "repo": "main",
         "size": 130271704,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/supertuxkart.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-19_1138/supertuxkart.zip"
       },
       "version": 2
     },
