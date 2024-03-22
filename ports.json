@@ -474,12 +474,12 @@
       "name": "angband.zip",
       "source": {
         "date_added": "2024-03-18",
-        "date_updated": "2024-03-19",
-        "md5": "c8e1694ad90b1e1dd4c0aef48e76a1db",
-        "release_id": "2024-03-19_1138",
+        "date_updated": "2024-03-22",
+        "md5": "cf0295c5a703015c03bd70bd46c16155",
+        "release_id": "2024-03-22_1533",
         "repo": "main",
-        "size": 24285744,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-19_1138/angband.zip"
+        "size": 24285754,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-22_1533/angband.zip"
       },
       "version": 2
     },
@@ -5129,6 +5129,48 @@
         "repo": "main",
         "size": 4946311,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/freesynd.zip"
+      },
+      "version": 2
+    },
+    "galaxyforcesv2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "desc": "A great multiplayer game brought to you by [Ronnie Hedlund](https://sourceforge.net/u/rh_galaxy/profile/). The source code is available [here.](https://sourceforge.net/p/galaxyv2/code/HEAD/tree/)\n\nA 2D multiplayer space shooter, inspired by the Amiga classic Gravity Force. Play race, mission or dogfight. Single player, with friends or against AI. There are 50+ levels and a map-editor included.\n\nGlobal hi-score and achievements with replays on the website.\n\nFeatures\n\n    Space shooter\n    Multiplayer\n    Online hiscore\n    Replays\n    Race\n    Dogfight\n    Mission\n    AI\n    Editor\n    Cross platform\n\n",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Start the program\n\nMultiple instances of the game may be started on the same machine for testing.\nThe server (Server.exe) need only be run if you want a stand alone server.\nFirewall ports\n\nTCP port 1999 needs to be forwarded in your firewall/router to be able to host games and have other players join you.\nLogin as member\n\nTo use achievements and hiscores you need to create a user here.\nThen login as that user, or select cancel to just play directly.\nConnect to server\n\nEnter the IP address or host name of a server and click \"connect\".\nYou can enter 127.0.0.1 to connect to your own server.\nAll games on that server will be shown.\nYou can join green games.\nYou can't join red games, they are full or already started.\nIf no game is shown you have to create a new game.\nJoin existing game\n\nEnter your name and choose a green game from the list.\nClick \"Join\".\nCreate new game\n\nEnter your name, and the name of the game.\nClick \"New\".\nStart game\n\nThe player that created the game should set the level to play and make other settings before starting the game. This player will be the master.\nOthers that have joined can only chat until the game starts.\n\nThe master can kick players by selecting a player and press delete.\nIf the master leaves the game, mastership is transferred to another player.",
+        "porter": [
+          "monkeyx.net"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Galaxy Forces 2"
+      },
+      "items": [
+        "Galaxy Forces 2.sh",
+        "galaxyforcesv2"
+      ],
+      "items_opt": null,
+      "name": "galaxyforcesv2.zip",
+      "source": {
+        "date_added": "2024-03-22",
+        "date_updated": "2024-03-22",
+        "md5": "c4862113f358085beed24a4859e7057a",
+        "release_id": "2024-03-22_1533",
+        "repo": "main",
+        "size": 8046888,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-22_1533/galaxyforcesv2.zip"
       },
       "version": 2
     },
@@ -12465,12 +12507,12 @@
       "name": "shipwreck.zip",
       "source": {
         "date_added": "2022-05-26",
-        "date_updated": "2024-03-03",
-        "md5": "8039705cbce04a98bb3e2f0373adae0a",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-22",
+        "md5": "6097b077e01e988033ef331d90ede5a9",
+        "release_id": "2024-03-22_1533",
         "repo": "main",
-        "size": 5576013,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/shipwreck.zip"
+        "size": 1353334,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-22_1533/shipwreck.zip"
       },
       "version": 2
     },
@@ -12516,6 +12558,49 @@
         "repo": "main",
         "size": 3971878,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/shovel.knight.zip"
+      },
+      "version": 2
+    },
+    "shrubnaut.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "A small metroidvania made in 6 days for a self-imposed GAME-A-WEEK challenge by gleeson.\nUse your hookshot to explore a space garden and find all the secrets!\n\nNote: This is a short game, intended to be played in one sitting. Note that there is no save function and the game resets to the beginning after idling for 30 seconds\n",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download SHRUBNAUT - Windows.zip from https://gleeson.itch.io/shrubnaut and place the data.win from the zip into /ports/shrubnaut/gamedata.\nOn first startup, the game will patch the data.win",
+        "porter": [
+          "Kompaan",
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Shrubnaut"
+      },
+      "items": [
+        "Shrubnaut.sh",
+        "shrubnaut"
+      ],
+      "items_opt": null,
+      "name": "shrubnaut.zip",
+      "source": {
+        "date_added": "2024-03-22",
+        "date_updated": "2024-03-22",
+        "md5": "28d8f54dac71c3852500ad4a8d68f6c9",
+        "release_id": "2024-03-22_1533",
+        "repo": "main",
+        "size": 5852254,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-22_1533/shrubnaut.zip"
       },
       "version": 2
     },
@@ -13587,7 +13672,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "You must have a copy of the compatibility version of Stardew Valley copied to the ports/stardewvalley/gamedata folder.",
+        "inst": "You must have a copy of the 1.5.6 compatibility version of Stardew Valley copied to the ports/stardewvalley/gamedata folder. In Steam console use `download_depot 413150 413153 8322187383152776702`.",
         "porter": [
           "Johnny on Flame"
         ],
@@ -13604,12 +13689,12 @@
       "name": "stardewvalley.zip",
       "source": {
         "date_added": "2022-07-03",
-        "date_updated": "2024-03-03",
-        "md5": "8f5e4ff403610b5496f159c82aeecca2",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-22",
+        "md5": "d54f147ef5a2322c6202aaecb8507bd1",
+        "release_id": "2024-03-22_1533",
         "repo": "main",
-        "size": 4044066,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/stardewvalley.zip"
+        "size": 4044123,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-22_1533/stardewvalley.zip"
       },
       "version": 2
     },
@@ -14515,6 +14600,48 @@
         "repo": "main",
         "size": 10900391,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/thestarlitescape.zip"
+      },
+      "version": 2
+    },
+    "thesunandmoon.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "The Sun and Moon, the winner of Ludum Dare 29, is a platformer with a unique mechanic: you can dive into the ground. Momentum is conserved but gravity is reversed, letting you fling yourself high into the air or deep beneath the surface. The goal is always straightforward - collect the three orbs in the level and jump into the wormhole - but spikes, endless drops and impossible heights make this more and more difficult.\n\nNote: This is the paid version from Steam",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from https://store.steampowered.com/app/321560/The_Sun_and_Moon/\n\nDownload and install the game and place The Sun and Moon.exe into ports/thesunandmoon/\nOn first startup, the game will patch and put the files in the appropriate places.",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "The Sun and Moon"
+      },
+      "items": [
+        "The Sun and Moon.sh",
+        "thesunandmoon"
+      ],
+      "items_opt": null,
+      "name": "thesunandmoon.zip",
+      "source": {
+        "date_added": "2024-03-22",
+        "date_updated": "2024-03-22",
+        "md5": "170e96306206fb6b12a74fac994a4d21",
+        "release_id": "2024-03-22_1533",
+        "repo": "main",
+        "size": 12770167,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-22_1533/thesunandmoon.zip"
       },
       "version": 2
     },
