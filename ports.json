@@ -836,6 +836,86 @@
       },
       "version": 2
     },
+    "bananaguy2.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Bananaguy 2 is about exploring strange and playful worlds collecting \"Power Coins\" along the way which are used to travel to the next world. Each coin features its own wacky little adventure.",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This game is ready to run.",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Bananaguy 2"
+      },
+      "items": [
+        "Bananaguy 2.sh",
+        "bananaguy2"
+      ],
+      "items_opt": null,
+      "name": "bananaguy2.zip",
+      "source": {
+        "date_added": "2024-03-23",
+        "date_updated": "2024-03-23",
+        "md5": "44262e952da506356c002441d8fc8619",
+        "release_id": "2024-03-23_1322",
+        "repo": "main",
+        "size": 98234129,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-23_1322/bananaguy2.zip"
+      },
+      "version": 2
+    },
+    "bananaguyclassic.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Bananaguy wakes up and sees his banana is missing! Make your way through a colorful world filled with hard but fun challenges. Unlock new power ups to make Bananaguys moveset grow! Retrieve your lost banana and consume it in the comfort of your home :D",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This game is ready to run.",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_3.3.4.squashfs",
+        "title": "Bananaguy Classic"
+      },
+      "items": [
+        "Bananaguy Classic.sh",
+        "bananaguyclassic"
+      ],
+      "items_opt": null,
+      "name": "bananaguyclassic.zip",
+      "source": {
+        "date_added": "2024-03-23",
+        "date_updated": "2024-03-23",
+        "md5": "bd33d7f7cee77ed1ff6e9a582b063c15",
+        "release_id": "2024-03-23_1322",
+        "repo": "main",
+        "size": 20511224,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-23_1322/bananaguyclassic.zip"
+      },
+      "version": 2
+    },
     "bbja.zip": {
       "attr": {
         "arch": [
@@ -1493,6 +1573,48 @@
       },
       "version": 2
     },
+    "bnbmax.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "BUMPERS & BROADSWORDS: MAXIMUM is a tower-scaling, BUMPER-collecting RPG, set in a universe where Yu-Gi-Oh! and Beyblade had a wonderful baby and everyone is obsessed with it.\n\nAscend BUMPERCORP's TRIAL TOWER, crushing your foes to win their BUMPERS, and win the TOURNAMENT to discover what waits for you at the very top...",
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "porter": [
+          "Jareth247"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Bumpers & Broadswords Maximum"
+      },
+      "items": [
+        "Bumpers & Broadswords Maximum.sh",
+        "bnbmax"
+      ],
+      "items_opt": null,
+      "name": "bnbmax.zip",
+      "source": {
+        "date_added": "2024-03-23",
+        "date_updated": "2024-03-23",
+        "md5": "e6254049f0c1cec808e8de30a538e439",
+        "release_id": "2024-03-23_1322",
+        "repo": "main",
+        "size": 17465467,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-23_1322/bnbmax.zip"
+      },
+      "version": 2
+    },
     "boni.zip": {
       "attr": {
         "arch": [],
@@ -1884,6 +2006,48 @@
       },
       "version": 2
     },
+    "bugscraper.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "desc": "Rise to the top of a bug-infested tower by fighting on an elevator. On each floor, waves of enemies will come for your skin (or rather, exoskeleton). With your trusty pea gun, eliminate them and prepare for the next floor!",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This game is ready to run.",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Bugscraper"
+      },
+      "items": [
+        "Bugscraper.sh",
+        "bugscraper"
+      ],
+      "items_opt": null,
+      "name": "bugscraper.zip",
+      "source": {
+        "date_added": "2024-03-23",
+        "date_updated": "2024-03-23",
+        "md5": "4c84ff61b2f4e48de8e9d69799e9721d",
+        "release_id": "2024-03-23_1322",
+        "repo": "main",
+        "size": 38554789,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-23_1322/bugscraper.zip"
+      },
+      "version": 2
+    },
     "bumpersbroadswords.zip": {
       "attr": {
         "arch": [
@@ -2178,6 +2342,48 @@
         "repo": "main",
         "size": 1401623,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/carmageddon.zip"
+      },
+      "version": 2
+    },
+    "carriesorderup.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "Carrie's Order Up! is a challenging arcade game inspired by the likes of Pac-Man and Game & Watch. As Carrie, a crab waitress in a port town's restaurant, you have to serve spaghetti, pancakes, and burgers to all kinds of sea creatures without bumping into them!\n\nMechanics may be simple, but a level of depth to the mechanics exist, with tons of achievements to reward those that learn to master being a crab waitress! If you're looking for a cute and challenging game that lifts inspiration from arcade titles, you'll find hours of entertainment in Carrie's Order Up!",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from: https://store.steampowered.com/app/522490/Carries_Order_Up/ OR https://inkdragonworks.itch.io/carries-order-up \n\nFrom Itch:\nDownload CarriesOrderUp.zip from and unzip the contents to /ports/cariesorderup/gamedata\n\nFor Steam:\nDownload the game and copy the contents from /Carrie's Order Up! to /ports/cariesorderup/gamedata",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Carries' Order Up"
+      },
+      "items": [
+        "Carrie's Order Up.sh",
+        "carriesorderup"
+      ],
+      "items_opt": null,
+      "name": "carriesorderup.zip",
+      "source": {
+        "date_added": "2024-03-23",
+        "date_updated": "2024-03-23",
+        "md5": "1ee4d7e3c1d527a1f32451e47adf06db",
+        "release_id": "2024-03-23_1322",
+        "repo": "main",
+        "size": 12207527,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-23_1322/carriesorderup.zip"
       },
       "version": 2
     },
@@ -5342,6 +5548,48 @@
         "repo": "main",
         "size": 4461212,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/gnurobbo.zip"
+      },
+      "version": 2
+    },
+    "grimstorm.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "A place of terror and evil, spreading its foul corruption across the Kingdom. With it's malevolent ruler causing chaos and despair, it's time he met his demise. That's where you come in, heroic adventurer. Blessed with the gift to come back from death, it's up to you to storm the castle!",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the windows version of the game here: https://gamejolt.com/games/grimstorm/59563\nPlace Grimstorm1.3.2.exe inside the gamedata folder.",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Grimstorm"
+      },
+      "items": [
+        "Grimstorm.sh",
+        "grimstorm"
+      ],
+      "items_opt": null,
+      "name": "grimstorm.zip",
+      "source": {
+        "date_added": "2024-03-23",
+        "date_updated": "2024-03-23",
+        "md5": "5c2c6f97787d557639836f73a0d51216",
+        "release_id": "2024-03-23_1322",
+        "repo": "main",
+        "size": 12310686,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-23_1322/grimstorm.zip"
       },
       "version": 2
     },
@@ -11479,6 +11727,49 @@
       },
       "version": 2
     },
+    "restore.portmaster.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Restore PortMaster is a script designed to restore a broken PortMaster installation.",
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download this \"Port\" then run the \"Restore PortMaster.sh\" from within your Ports Directory. This will restore PortMaster to the latest stable version with default settings.",
+        "porter": [
+          "kloptops"
+        ],
+        "reqs": [
+          "!muOS",
+          "!restore"
+        ],
+        "rtr": true,
+        "runtime": null,
+        "title": "Restore PortMaster"
+      },
+      "items": [
+        "restore.portmaster/",
+        "Restore PortMaster.sh"
+      ],
+      "items_opt": null,
+      "name": "restore.portmaster.zip",
+      "source": {
+        "date_added": "2024-03-23",
+        "date_updated": "2024-03-23",
+        "md5": "0f2256c264ec7aa48b08459201eb12fe",
+        "release_id": "2024-03-23_1322",
+        "repo": "main",
+        "size": 11768103,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-23_1322/restore.portmaster.zip"
+      },
+      "version": 2
+    },
     "retrotime.zip": {
       "attr": {
         "arch": [
@@ -12595,12 +12886,12 @@
       "name": "shrubnaut.zip",
       "source": {
         "date_added": "2024-03-22",
-        "date_updated": "2024-03-22",
-        "md5": "28d8f54dac71c3852500ad4a8d68f6c9",
-        "release_id": "2024-03-22_1533",
+        "date_updated": "2024-03-23",
+        "md5": "92810d7097146ed723a7651f4cefebe0",
+        "release_id": "2024-03-23_1322",
         "repo": "main",
-        "size": 5852254,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-22_1533/shrubnaut.zip"
+        "size": 5852560,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-23_1322/shrubnaut.zip"
       },
       "version": 2
     },
@@ -14168,6 +14459,50 @@
       },
       "version": 2
     },
+    "superraftboatclassic.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "The world's been flooded, and all you have is your Super Raft Boat. You keep sailing, hoping to find an island while fighting off the creatures of the sea. From the Clear Skies to the Sea of the Damned, can you reach The Final Island?",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Claim the game from https://store.steampowered.com/app/1541250/Super_Raft_Boat_Classic/\n\nRun steam console via Windows+R: Type: steam://open/console, download the linux version by typing: download_depot 1541250 1541251 4671292693324189046 in the console, when the download is complete, it will tell you the location of the folder,  copy all files from the download folder to /ports/superraftboatclassic/gamedata\n\nNote: Requires Twin Sticks. Also, when you have unlocked an item, hold L2/R2 and use the D-pad to move the mouse. Let go over Continue and you will be able to get past the unlock screen",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Super Raft Boat Classic"
+      },
+      "items": [
+        "Super Raft Boat Classic.sh",
+        "superraftboatclassic"
+      ],
+      "items_opt": null,
+      "name": "superraftboatclassic.zip",
+      "source": {
+        "date_added": "2024-03-23",
+        "date_updated": "2024-03-23",
+        "md5": "3b711b0ac77d0db5a676c44f90104453",
+        "release_id": "2024-03-23_1322",
+        "repo": "main",
+        "size": 18730137,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-23_1322/superraftboatclassic.zip"
+      },
+      "version": 2
+    },
     "superrobotninjagirl.zip": {
       "attr": {
         "arch": [
@@ -15067,6 +15402,51 @@
         "repo": "main",
         "size": 688648,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/tomb.raider.1.zip"
+      },
+      "version": 2
+    },
+    "trickykeys.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "Your computer has been infected! Go through level to level platforming and solving puzzles with a Virus looming over your shoulder, restricting your movement and even outright taking control!",
+        "exp": false,
+        "genres": [
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is ready to run, thanks to Team Bugulon granting us permission to distribute this game.",
+        "porter": [
+          "Kompaan"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Tricky Keys"
+      },
+      "items": [
+        "Tricky Keys.sh",
+        "trickykeys"
+      ],
+      "items_opt": null,
+      "name": "trickykeys.zip",
+      "source": {
+        "date_added": "2024-03-23",
+        "date_updated": "2024-03-23",
+        "md5": "67b900dd01d98411761fcfc9ebb7078a",
+        "release_id": "2024-03-23_1322",
+        "repo": "main",
+        "size": 21074239,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-23_1322/trickykeys.zip"
       },
       "version": 2
     },
