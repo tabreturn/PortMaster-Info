@@ -1606,12 +1606,12 @@
       "name": "bnbmax.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-03-23",
-        "md5": "e6254049f0c1cec808e8de30a538e439",
-        "release_id": "2024-03-23_1322",
+        "date_updated": "2024-03-24",
+        "md5": "93314ba571a3005aa0e74c88086e635d",
+        "release_id": "2024-03-24_0644",
         "repo": "main",
-        "size": 17465467,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-23_1322/bnbmax.zip"
+        "size": 17464488,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-24_0644/bnbmax.zip"
       },
       "version": 2
     },
@@ -13948,12 +13948,14 @@
     },
     "stardewvalley.zip": {
       "attr": {
-        "arch": [],
-        "desc": "An open-ended country-life RPG!",
+        "arch": [
+          "aarch64"
+        ],
+        "desc": "Stardew Valley is an open-ended country-life RPG! You\u2019ve inherited your grandfather\u2019s old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life.",
         "exp": false,
         "genres": [
-          "simulation",
-          "rpg"
+          "rpg",
+          "simulation"
         ],
         "image": {
           "covers": [
@@ -13963,7 +13965,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "You must have a copy of the 1.5.6 compatibility version of Stardew Valley copied to the ports/stardewvalley/gamedata folder. In Steam console use `download_depot 413150 413153 8322187383152776702`.",
+        "inst": "You must have an updated copy of the *compatibility version* of Stardew Valley. Both Steam or GOG versions are supported. https://www.stardewvalley.net/compatibility/\nCopy the retail game's data into the `stardewvalley/gamedata` folder.",
         "porter": [
           "Johnny on Flame"
         ],
@@ -13980,12 +13982,12 @@
       "name": "stardewvalley.zip",
       "source": {
         "date_added": "2022-07-03",
-        "date_updated": "2024-03-22",
-        "md5": "d54f147ef5a2322c6202aaecb8507bd1",
-        "release_id": "2024-03-22_1533",
+        "date_updated": "2024-03-24",
+        "md5": "1694d918151f3d04e1bdba64c4cc99f5",
+        "release_id": "2024-03-24_0644",
         "repo": "main",
-        "size": 4044123,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-22_1533/stardewvalley.zip"
+        "size": 4140988,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-24_0644/stardewvalley.zip"
       },
       "version": 2
     },
