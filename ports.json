@@ -3603,12 +3603,12 @@
       "name": "devilutionx.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-03-03",
-        "md5": "0ef77a9efaadae50b17b6df800147bff",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-25",
+        "md5": "fd76911daf1c51b2db6f3417ad9581c4",
+        "release_id": "2024-03-25_1443",
         "repo": "main",
-        "size": 57162279,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/devilutionx.zip"
+        "size": 58659870,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-25_1443/devilutionx.zip"
       },
       "version": 2
     },
@@ -11761,12 +11761,12 @@
       "name": "restore.portmaster.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-03-23",
-        "md5": "0f2256c264ec7aa48b08459201eb12fe",
-        "release_id": "2024-03-23_1322",
+        "date_updated": "2024-03-25",
+        "md5": "93bc4525ce05525a24f97487eb8344fd",
+        "release_id": "2024-03-25_1443",
         "repo": "main",
-        "size": 11768103,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-23_1322/restore.portmaster.zip"
+        "size": 11772981,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-25_1443/restore.portmaster.zip"
       },
       "version": 2
     },
