@@ -1615,6 +1615,48 @@
       },
       "version": 2
     },
+    "bnbtourn.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "BUMPERS & BROADSWORDS: TOURNAMENT is a Yu-Gi-Oh!-style tournament-based RPG - explore the open-world-ish city, collect roughly 60 different types of Warriors/Magicians/Beasts/Machines/Etc... to slam against each other and win the Championship!\n\nEach Bumper has its own special effect, so choosing 4 that have a powerful synergy is vital.",
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "porter": [
+          "Jareth247"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Bumpers & Broadswords Tournament"
+      },
+      "items": [
+        "Bumpers & Broadswords Tournament.sh",
+        "bnbtourn"
+      ],
+      "items_opt": null,
+      "name": "bnbtourn.zip",
+      "source": {
+        "date_added": "2024-03-27",
+        "date_updated": "2024-03-27",
+        "md5": "3f284bd0fba16d8ad1f727312fdc6d19",
+        "release_id": "2024-03-27_1018",
+        "repo": "main",
+        "size": 13070329,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-27_1018/bnbtourn.zip"
+      },
+      "version": 2
+    },
     "boni.zip": {
       "attr": {
         "arch": [],
@@ -2777,6 +2819,48 @@
       },
       "version": 2
     },
+    "cleavingcaliber.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "A Brick-Beaking, Rail-Shooting game trying to be a mixture of Silent Scope and Arkanoid. Get Powerups and use your best mental trigonometry to land Critical Shots!",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "porter": [
+          "Jareth247"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Cleaving Caliber"
+      },
+      "items": [
+        "Cleaving Caliber.sh",
+        "cleavingcaliber"
+      ],
+      "items_opt": null,
+      "name": "cleavingcaliber.zip",
+      "source": {
+        "date_added": "2024-03-27",
+        "date_updated": "2024-03-27",
+        "md5": "95db5c26d60cdf05d5b5e2eaa3dc7095",
+        "release_id": "2024-03-27_1018",
+        "repo": "main",
+        "size": 10477755,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-27_1018/cleavingcaliber.zip"
+      },
+      "version": 2
+    },
     "cliff_hanger.zip": {
       "attr": {
         "arch": [],
@@ -3119,12 +3203,12 @@
       "name": "cromagrally.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2024-03-10",
-        "md5": "6bd6b9e4eb515daaf89b1feefba47ab7",
-        "release_id": "2024-03-10_1234",
+        "date_updated": "2024-03-27",
+        "md5": "735158338a4d968bac07e99a88f7fb91",
+        "release_id": "2024-03-27_1018",
         "repo": "main",
         "size": 129889574,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-10_1234/cromagrally.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-27_1018/cromagrally.zip"
       },
       "version": 2
     },
@@ -3570,7 +3654,8 @@
     "devilutionx.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf"
         ],
         "desc": "DevilutionX is a source port of Diablo from https://github.com/diasurgical/devilutionX.",
         "exp": false,
@@ -3603,12 +3688,12 @@
       "name": "devilutionx.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-03-25",
-        "md5": "fd76911daf1c51b2db6f3417ad9581c4",
-        "release_id": "2024-03-25_1443",
+        "date_updated": "2024-03-27",
+        "md5": "c65fc5ef5b23f6ecc0744df655e9fac3",
+        "release_id": "2024-03-27_1018",
         "repo": "main",
-        "size": 58659870,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-25_1443/devilutionx.zip"
+        "size": 58659966,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-27_1018/devilutionx.zip"
       },
       "version": 2
     },
@@ -6041,8 +6126,8 @@
         ],
         "image": {
           "covers": [
-            "cover.hexen2portalofpraevus.png",
-            "cover.hexen2.png"
+            "cover.hexen2.png",
+            "cover.hexen2portalofpraevus.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -6050,7 +6135,8 @@
         },
         "inst": "You must copy your Hexen 2 pak0.pak and pak1.pak files into hexen2/data1 and your pak3.pak into hexen2/portals and make sure they're lowercase.  Thanks to sezero (Ozkan Sezer) for the HoT source port",
         "porter": [
-          "Slayer366"
+          "Slayer366",
+          "Cebion"
         ],
         "reqs": [],
         "rtr": false,
@@ -6066,12 +6152,12 @@
       "name": "hexen2.zip",
       "source": {
         "date_added": "2022-11-17",
-        "date_updated": "2024-03-03",
-        "md5": "9f31683189aae64cf1e3aae8e40767ef",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-27",
+        "md5": "ad80d9ff0ce0e2f71a24750352ea942a",
+        "release_id": "2024-03-27_1018",
         "repo": "main",
-        "size": 38490493,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/hexen2.zip"
+        "size": 37425028,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-27_1018/hexen2.zip"
       },
       "version": 2
     },
@@ -7878,6 +7964,50 @@
       },
       "version": 2
     },
+    "magnibox.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "Magnibox is a colourful and challenging puzzle game about a magnet that's also a box. Hand-crafted for your brain to enjoy!",
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download download windows version from either the version from steam or itch.io:\nhttps://store.steampowered.com/app/999410/Magnibox/\nhttps://josephgribbin.itch.io/magnibox\nand place the data.win into /ports/magnibox/gamedata\nOn first startup, the game will patch the data.win",
+        "porter": [
+          "Kompaan"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Magnibox"
+      },
+      "items": [
+        "Magnibox.sh",
+        "magnibox"
+      ],
+      "items_opt": null,
+      "name": "magnibox.zip",
+      "source": {
+        "date_added": "2024-03-27",
+        "date_updated": "2024-03-27",
+        "md5": "5094b416beb34f6247dd04fb3b174442",
+        "release_id": "2024-03-27_1018",
+        "repo": "main",
+        "size": 5111364,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-27_1018/magnibox.zip"
+      },
+      "version": 2
+    },
     "maldita.castilla.zip": {
       "attr": {
         "arch": [
@@ -8905,12 +9035,12 @@
       "name": "nanobounce.zip",
       "source": {
         "date_added": "2023-10-14",
-        "date_updated": "2024-03-03",
-        "md5": "042f090fa30c6516cfcb31e7baa20dc4",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-27",
+        "md5": "1666955c1c388c0cbbd073856cd27f67",
+        "release_id": "2024-03-27_1018",
         "repo": "main",
-        "size": 10117279,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/nanobounce.zip"
+        "size": 10320662,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-27_1018/nanobounce.zip"
       },
       "version": 2
     },
@@ -9532,8 +9662,8 @@
         ],
         "image": {
           "covers": [
-            "cover.oddworldabesoddysee.png",
-            "cover.oddworldabesexoddus.png"
+            "cover.oddworldabesexoddus.png",
+            "cover.oddworldabesoddysee.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -15443,12 +15573,12 @@
       "name": "trickykeys.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-03-23",
-        "md5": "67b900dd01d98411761fcfc9ebb7078a",
-        "release_id": "2024-03-23_1322",
+        "date_updated": "2024-03-27",
+        "md5": "7a74a81d6e1d5344974824e2b1308425",
+        "release_id": "2024-03-27_1018",
         "repo": "main",
-        "size": 21074239,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-23_1322/trickykeys.zip"
+        "size": 21074228,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-27_1018/trickykeys.zip"
       },
       "version": 2
     },
