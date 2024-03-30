@@ -1529,6 +1529,49 @@
       },
       "version": 2
     },
+    "blossomtales2.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "The Minotaur King has returned...and it's all your fault! Lily's back for a new \"classic\" action-adventure set hundreds of years after The Sleeping King!\n\nGrandpa's latest tale takes you on a journey through haunted forests, pirate shores, and other mysterious lands across a vast open-world! Charming towns, terrible enemies, tricky puzzles, and powerful weapons await you.\n\nWill you help Lily defeat the Minotaur King and save her brother?\n",
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Drop all the assets from the game inside of the gamedata folder. Windows and Linux versions both work!",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [
+          "!lowres",
+          "power"
+        ],
+        "rtr": false,
+        "runtime": "mono-6.12.0.122-aarch64.squashfs",
+        "title": "Blossom Tales II"
+      },
+      "items": [
+        "Blossom Tales II.sh",
+        "blossomtales2"
+      ],
+      "items_opt": null,
+      "name": "blossomtales2.zip",
+      "source": {
+        "date_added": "2024-03-30",
+        "date_updated": "2024-03-30",
+        "md5": "b0850a15740b6e85272604d4e1e20cd2",
+        "release_id": "2024-03-30_2114",
+        "repo": "main",
+        "size": 5301863,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-30_2114/blossomtales2.zip"
+      },
+      "version": 2
+    },
     "blues.brothers.zip": {
       "attr": {
         "arch": [
@@ -4590,12 +4633,12 @@
       "name": "f1spirit.zip",
       "source": {
         "date_added": "2024-02-26",
-        "date_updated": "2024-03-03",
-        "md5": "0065cde09b469b39049fe309f6edfd0e",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-03-30",
+        "md5": "fa5a35b989ce8c6bf0e529972047660f",
+        "release_id": "2024-03-30_2114",
         "repo": "main",
-        "size": 26807867,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/f1spirit.zip"
+        "size": 28118004,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-30_2114/f1spirit.zip"
       },
       "version": 2
     },
@@ -5155,6 +5198,52 @@
         "repo": "main",
         "size": 133154654,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/flare.zip"
+      },
+      "version": 2
+    },
+    "forager.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "Forager is a 2D open world game inspired by exploration, farming and crafting games such as Stardew Valley, Terraria & Zelda!\n\nNote: Thus is Linux version 2.0.4 which is not as up to date as the Windows version. Only Steam Version works.",
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase Forager from steam: https://store.steampowered.com/app/751780/Forager/\n\nDownload the linux version:\nRun steam console via Windows+R: Type: steam://open/console, download the linux version by typing: download_depot 751780 751783 3324194938480079153 in the console, when the download is complete, it will tell you the location of the folder,  copy all files from /assets to /ports/forager/gamedata",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [
+          "hires"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Forager"
+      },
+      "items": [
+        "Forager.sh",
+        "forager"
+      ],
+      "items_opt": null,
+      "name": "forager.zip",
+      "source": {
+        "date_added": "2024-03-30",
+        "date_updated": "2024-03-30",
+        "md5": "423fc37f9a5a08dc725836ec668613c7",
+        "release_id": "2024-03-30_2114",
+        "repo": "main",
+        "size": 5749631,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-30_2114/forager.zip"
       },
       "version": 2
     },
@@ -7999,12 +8088,12 @@
       "name": "magnibox.zip",
       "source": {
         "date_added": "2024-03-27",
-        "date_updated": "2024-03-27",
-        "md5": "5094b416beb34f6247dd04fb3b174442",
-        "release_id": "2024-03-27_1018",
+        "date_updated": "2024-03-30",
+        "md5": "e11e99dae9298e8b64ab419d2e3c7e61",
+        "release_id": "2024-03-30_2114",
         "repo": "main",
-        "size": 5111364,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-27_1018/magnibox.zip"
+        "size": 5113840,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-30_2114/magnibox.zip"
       },
       "version": 2
     },
@@ -8572,6 +8661,49 @@
         "repo": "main",
         "size": 1506996,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/missdriller.zip"
+      },
+      "version": 2
+    },
+    "missiledancer.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "This is a vertical scroll shooting game. You can operate the fighter MissileDancer which implements lock-on missiles.",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy data.win and all ogg files contained in the game folder to gamedata folder.",
+        "porter": [
+          "JanTrueno",
+          "Wark91"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Missile Dancer"
+      },
+      "items": [
+        "MissileDancer.sh",
+        "missiledancer/"
+      ],
+      "items_opt": null,
+      "name": "missiledancer.zip",
+      "source": {
+        "date_added": "2024-03-30",
+        "date_updated": "2024-03-30",
+        "md5": "2dd7e3107e0dcad201d246ff1663ea63",
+        "release_id": "2024-03-30_2114",
+        "repo": "main",
+        "size": 10603128,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-30_2114/missiledancer.zip"
       },
       "version": 2
     },
@@ -15534,6 +15666,48 @@
         "repo": "main",
         "size": 688648,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/tomb.raider.1.zip"
+      },
+      "version": 2
+    },
+    "towerfall.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "desc": "\nTowerFall Ascension redefines archery combat, delivering adrenaline-pumping versus matches for up to 4 players. With its intense battles and easy-to-grasp mechanics, every moment is filled with heart-pounding action. And now, dive into the solo or duo Quest mode for an electrifying single-player adventure like never before.",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "GOG: Drop the .sh file inside the gamedata folder. \nItch: Drop the .bin file inside the gamedata folder. \nFor the DLC, put the repective file inside the gamedata folder as well.\nSteam version does not work due to DRM!",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "mono-6.12.0.122-aarch64.squashfs",
+        "title": "TowerFall Ascension"
+      },
+      "items": [
+        "TowerFall Ascension.sh",
+        "towerfall"
+      ],
+      "items_opt": null,
+      "name": "towerfall.zip",
+      "source": {
+        "date_added": "2024-03-30",
+        "date_updated": "2024-03-30",
+        "md5": "2199d10ce82186d73547caa0ac761333",
+        "release_id": "2024-03-30_2114",
+        "repo": "main",
+        "size": 2219351,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-30_2114/towerfall.zip"
       },
       "version": 2
     },
