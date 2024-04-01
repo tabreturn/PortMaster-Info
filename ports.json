@@ -8980,6 +8980,53 @@
       },
       "version": 2
     },
+    "mrrescue.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "desc": "Mr. Rescue is an arcade-style 2D action game centered around evacuating civilians from burning buildings.\n\nThe game features fast paced fire extinguishing action, intense boss battles, a catchy soundtrack and lots of throwing people around in pseudo-randomly generated buildings.",
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is ready to run!",
+        "porter": [
+          "Kompaan",
+          "Wark91"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Mr. Rescue"
+      },
+      "items": [
+        "Mr. Rescue.sh",
+        "mrrescue"
+      ],
+      "items_opt": null,
+      "name": "mrrescue.zip",
+      "source": {
+        "date_added": "2024-04-01",
+        "date_updated": "2024-04-01",
+        "md5": "0401a3185de49ada99225a62a12c78d6",
+        "release_id": "2024-04-01_1728",
+        "repo": "main",
+        "size": 14247548,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_1728/mrrescue.zip"
+      },
+      "version": 2
+    },
     "multimanicminer.zip": {
       "attr": {
         "arch": [],
@@ -11958,6 +12005,51 @@
         "repo": "main",
         "size": 2082910,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/rawgl.zip"
+      },
+      "version": 2
+    },
+    "redhandsomehood.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "Join Red Handsome Hood on his journey, having only his hood, thong and knuckles, there is nothing that can stop this strong man! Or is there? The path is full of dangerous opponents, but he is just as dangerous!\n\nThe charming run of an untold tale, but we are not going to tell it, YOU can tell us what you think the story is about!",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is ready to run.\nSpecial thanks to BolHut games and and Jaime Gifte(@GIFTEador) for allowing the distribution of the game via PortMaster \nSource: https://bolhut.itch.io/red-handsome-hood",
+        "porter": [
+          "Fraxinus88",
+          "Kompaan"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Red Handsome Hood"
+      },
+      "items": [
+        "Red Handsome Hood.sh",
+        "redhandsomehood"
+      ],
+      "items_opt": null,
+      "name": "redhandsomehood.zip",
+      "source": {
+        "date_added": "2024-04-01",
+        "date_updated": "2024-04-01",
+        "md5": "0188690d7223e2d05a65bf3dc593b790",
+        "release_id": "2024-04-01_1728",
+        "repo": "main",
+        "size": 41405107,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_1728/redhandsomehood.zip"
       },
       "version": 2
     },
