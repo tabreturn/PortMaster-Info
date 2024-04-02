@@ -173,7 +173,7 @@
   "Jeod": {
     "name": "Jeod",
     "social": "",
-    "support": "",
+    "support": "https://ko-fi.com/jeodc",
     "webpage": "https://github.com/JeodC",
     "image": "https://i.imgur.com/MO9EwXN.png"
   },
@@ -239,5 +239,12 @@
     "support": "",
     "webpage": "",
     "image": ""
+  },
+  "nkahoang": {
+    "name": "nkahoang",
+    "social": "https://github.com/nkahoang",
+    "support": "https://ko-fi.com/nkahoang",
+    "webpage": "https://github.com/nkahoang",
+    "image": "https://avatars.githubusercontent.com/u/435311?v=4"
   }
 }
