@@ -560,12 +560,12 @@
       "name": "apocrunner.zip",
       "source": {
         "date_added": "2023-10-19",
-        "date_updated": "2024-04-01",
-        "md5": "dfc1545f35d211a11e67dd2142be2789",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-04-04",
+        "md5": "8115c3edc88a8f2d15735b1125202c9b",
+        "release_id": "2024-04-04_2057",
         "repo": "main",
-        "size": 10722217,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/apocrunner.zip"
+        "size": 11766133,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-04_2057/apocrunner.zip"
       },
       "version": 2
     },
@@ -1608,12 +1608,12 @@
       "name": "blossomtales2.zip",
       "source": {
         "date_added": "2024-03-30",
-        "date_updated": "2024-04-01",
-        "md5": "0c33ce2045caee0d2136c9eb4cdab1e6",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-04-04",
+        "md5": "dcfa11114d5c90765fef8f7b291c1f22",
+        "release_id": "2024-04-04_2057",
         "repo": "main",
-        "size": 5301897,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/blossomtales2.zip"
+        "size": 5287968,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-04_2057/blossomtales2.zip"
       },
       "version": 2
     },
@@ -3648,6 +3648,48 @@
       },
       "version": 2
     },
+    "demonizer.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "desc": "The fantasy bullet battle to end monstergirl genocide! Turn hateful humans into lovable demons in this 90s arcade style shooter, inspired by Raiden Fighters, Strikers 1945, and Battle Garegga.",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You need to copy the love file in gamedata directory and named it demonizer.love.",
+        "porter": [
+          "Wark91"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Demonizer"
+      },
+      "items": [
+        "Demonizer.sh",
+        "demonizer/"
+      ],
+      "items_opt": null,
+      "name": "demonizer.zip",
+      "source": {
+        "date_added": "2024-04-04",
+        "date_updated": "2024-04-04",
+        "md5": "012429ace3173d94bd623e2c7f26c937",
+        "release_id": "2024-04-04_2057",
+        "repo": "main",
+        "size": 2590199,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-04_2057/demonizer.zip"
+      },
+      "version": 2
+    },
     "derclou.zip": {
       "attr": {
         "arch": [
@@ -5305,7 +5347,7 @@
         "arch": [
           "armhf"
         ],
-        "desc": "Forager is a 2D open world game inspired by exploration, farming and crafting games such as Stardew Valley, Terraria & Zelda!\n\nNote: Thus is Linux version 2.0.4 which is not as up to date as the Windows version. Only Steam Version works.",
+        "desc": "Forager is a 2D open world game inspired by exploration, farming and crafting games such as Stardew Valley, Terraria & Zelda!\n\nNote: Only the Steam Version works. The Linux version is 2.0.4 which is not as up to date as the Windows version.",
         "exp": false,
         "genres": [
           "adventure"
@@ -5337,12 +5379,12 @@
       "name": "forager.zip",
       "source": {
         "date_added": "2024-03-30",
-        "date_updated": "2024-04-01",
-        "md5": "67bd6287f593668c5b2e2b050cd7a67a",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-04-04",
+        "md5": "f907195f1a72aef3f065d21b653402f0",
+        "release_id": "2024-04-04_2057",
         "repo": "main",
-        "size": 5749650,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/forager.zip"
+        "size": 5749651,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-04_2057/forager.zip"
       },
       "version": 2
     },
@@ -6340,12 +6382,12 @@
       "name": "hexen2.zip",
       "source": {
         "date_added": "2022-11-17",
-        "date_updated": "2024-04-01",
-        "md5": "17edc7932376e65f1b295d1e70836c83",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-04-04",
+        "md5": "cbe78344174489aeab8e39b3303b5dae",
+        "release_id": "2024-04-04_2057",
         "repo": "main",
-        "size": 37425114,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/hexen2.zip"
+        "size": 37425130,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-04_2057/hexen2.zip"
       },
       "version": 2
     },
@@ -14534,12 +14576,12 @@
       "name": "stardewvalley.zip",
       "source": {
         "date_added": "2022-07-03",
-        "date_updated": "2024-04-01",
-        "md5": "9d86126722df2d08562775daee9325ae",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-04-04",
+        "md5": "911a9052eefd0e2d61c68e89a14932e7",
+        "release_id": "2024-04-04_2057",
         "repo": "main",
-        "size": 4137489,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/stardewvalley.zip"
+        "size": 4151126,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-04_2057/stardewvalley.zip"
       },
       "version": 2
     },
