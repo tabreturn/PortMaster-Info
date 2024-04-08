@@ -5738,6 +5738,48 @@
       },
       "version": 2
     },
+    "gaurodan.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "The legend of Gaurodan, the bird of thunder and his fight against Guayota, the fire beast was forgotten centuries ago. But today, Guayota's egg has been discovered inside Mount Teide. Now it's a matter of time before Gaurodan returns from the skies to combat his ancient enemy and punish humans for bringing it back.",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This game is ready to run.",
+        "porter": [
+          "Wark91"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Gaurodan"
+      },
+      "items": [
+        "Gaurodan.sh",
+        "gaurodan/"
+      ],
+      "items_opt": null,
+      "name": "gaurodan.zip",
+      "source": {
+        "date_added": "2024-04-08",
+        "date_updated": "2024-04-08",
+        "md5": "4489cf551b729be414034f0d3c674198",
+        "release_id": "2024-04-08_0126",
+        "repo": "main",
+        "size": 42076891,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-08_0126/gaurodan.zip"
+      },
+      "version": 2
+    },
     "gemrb.zip": {
       "attr": {
         "arch": [
@@ -15140,6 +15182,51 @@
         "repo": "main",
         "size": 24003,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/superdrome.bugs.zip"
+      },
+      "version": 2
+    },
+    "supermeatboy.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "armhf"
+        ],
+        "desc": "Get ready for a wild ride with Super Meat Boy! This tough as nails platform game is the brainchild of the dynamic duo, Edmund McMillen and Tommy Refenes, also known as 'Team Meat'. Born from the success of their 2008 Flash game, 'Meat Boy', this game promises thrills, spills, and maybe a few broken controllers. Are you up for the challenge?",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready for some fun? Let's get Super Meat Boy up and running! First, you'll need to copy the Steam version of Super Meat Boy (for Linux) game files to the ports/supermeatboy/gamedata directory. Easy peasy, right?\n\nIf you're a Windows user, don't worry, we've got you covered! Open your Steam console, and run this magic spell:\n\ndownload_depot 40800 40802 6556596646716197166 .\n\nGot the Humble version? No problemo! Just place your supermeatboy-linux-11112013-bin file in the ports/supermeatboy/gamedata directory and watch as it extracts the needed files on its first run. Now, let's get gaming!",
+        "porter": [
+          "fexofenadine"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Super Meat Boy"
+      },
+      "items": [
+        "Super Meat Boy.sh",
+        "supermeatboy"
+      ],
+      "items_opt": null,
+      "name": "supermeatboy.zip",
+      "source": {
+        "date_added": "2024-04-08",
+        "date_updated": "2024-04-08",
+        "md5": "07dc27b64d76a6e2b1902bbb4b297375",
+        "release_id": "2024-04-08_0126",
+        "repo": "main",
+        "size": 3377402,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-08_0126/supermeatboy.zip"
       },
       "version": 2
     },
