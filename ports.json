@@ -14743,12 +14743,12 @@
       "name": "stardewvalley.zip",
       "source": {
         "date_added": "2022-07-03",
-        "date_updated": "2024-04-04",
-        "md5": "911a9052eefd0e2d61c68e89a14932e7",
-        "release_id": "2024-04-04_2057",
+        "date_updated": "2024-04-09",
+        "md5": "ddc9c3d7a92ecad3319e665f38baffb3",
+        "release_id": "2024-04-09_2122",
         "repo": "main",
-        "size": 4151126,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-04_2057/stardewvalley.zip"
+        "size": 4151195,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-09_2122/stardewvalley.zip"
       },
       "version": 2
     },
