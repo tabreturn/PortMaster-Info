@@ -10924,6 +10924,47 @@
       },
       "version": 2
     },
+    "panzerpaladin.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "The sinister Ravenous and his legions of brutal demons are poised for battle. The situation is dire, but humanity has one final ace in the hole: the Panzer Paladin!",
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy the retail game's assets to `panzerpaladin/gamedata`.",
+        "porter": [
+          "Johnny on Flame"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "mono-6.12.0.122-aarch64.squashfs",
+        "title": "Panzer Paladin"
+      },
+      "items": [
+        "PanzerPaladin.sh",
+        "panzerpaladin"
+      ],
+      "items_opt": null,
+      "name": "panzerpaladin.zip",
+      "source": {
+        "date_added": "2024-04-09",
+        "date_updated": "2024-04-09",
+        "md5": "196546be41a3fcea713d6319ea41119f",
+        "release_id": "2024-04-09_0946",
+        "repo": "main",
+        "size": 2989327,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-09_0946/panzerpaladin.zip"
+      },
+      "version": 2
+    },
     "paused.zip": {
       "attr": {
         "arch": [
@@ -15188,7 +15229,6 @@
     "supermeatboy.zip": {
       "attr": {
         "arch": [
-          "aarch64",
           "armhf"
         ],
         "desc": "Get ready for a wild ride with Super Meat Boy! This tough as nails platform game is the brainchild of the dynamic duo, Edmund McMillen and Tommy Refenes, also known as 'Team Meat'. Born from the success of their 2008 Flash game, 'Meat Boy', this game promises thrills, spills, and maybe a few broken controllers. Are you up for the challenge?",
@@ -15200,11 +15240,11 @@
           "covers": [
             "cover.png"
           ],
-          "screenshot": "screenshot.jpg",
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
-        "inst": "Ready for some fun? Let's get Super Meat Boy up and running! First, you'll need to copy the Steam version of Super Meat Boy (for Linux) game files to the ports/supermeatboy/gamedata directory. Easy peasy, right?\n\nIf you're a Windows user, don't worry, we've got you covered! Open your Steam console, and run this magic spell:\n\ndownload_depot 40800 40802 6556596646716197166 .\n\nGot the Humble version? No problemo! Just place your supermeatboy-linux-11112013-bin file in the ports/supermeatboy/gamedata directory and watch as it extracts the needed files on its first run. Now, let's get gaming!",
+        "inst": "Let's get Super Meat Boy up and running! First, you'll need to copy the Steam version of Super Meat Boy (for Linux) game files to the ports/supermeatboy/gamedata directory. Easy peasy, right?\n\nIf you're a Windows user, don't worry, we've got you covered! Open your Steam console, and run this:\n\ndownload_depot 40800 40802 6556596646716197166 .\n\nGot the Humble version? No problemo! Just place your supermeatboy-linux-11112013-bin file in the ports/supermeatboy/gamedata directory and watch as it extracts the needed files on its first run. Now, let's get gaming!",
         "porter": [
           "fexofenadine"
         ],
@@ -15221,12 +15261,12 @@
       "name": "supermeatboy.zip",
       "source": {
         "date_added": "2024-04-08",
-        "date_updated": "2024-04-08",
-        "md5": "07dc27b64d76a6e2b1902bbb4b297375",
-        "release_id": "2024-04-08_0126",
+        "date_updated": "2024-04-09",
+        "md5": "3ce270da2e59c3bf25fa3c26aac4bc0f",
+        "release_id": "2024-04-09_0946",
         "repo": "main",
-        "size": 3377402,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-08_0126/supermeatboy.zip"
+        "size": 3189581,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-09_0946/supermeatboy.zip"
       },
       "version": 2
     },
@@ -17554,6 +17594,48 @@
         "repo": "main",
         "size": 15862585,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/yatka.zip"
+      },
+      "version": 2
+    },
+    "yellowjacket.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "Y E L L O W - J A C K E T | \u30a4\u30a8\u30ed\u30fc\u30b8\u30e3\u30b1\u30c3\u30c8 (or just yellow jacket) is a vaporwave arcade shoot-em-up about a motorcyclist running from the government in this classic 80s style arcade shmup! Can you get the highest score?",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game on itch.io page and retrieve the file data.win from the Y E L L O W - J A C K E T.zip. After, data.win needs to be place on to the folder ports/yellowjacket/gamedata.",
+        "porter": [
+          "Wark91"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Y E L L O W - J A C K E T | \u30a4\u30a8\u30ed\u30fc\u30b8\u30e3\u30b1\u30c3\u30c8"
+      },
+      "items": [
+        "YellowJacket.sh",
+        "yellowjacket/"
+      ],
+      "items_opt": null,
+      "name": "yellowjacket.zip",
+      "source": {
+        "date_added": "2024-04-09",
+        "date_updated": "2024-04-09",
+        "md5": "a689153f7b13cf465aff822f034896b5",
+        "release_id": "2024-04-09_0946",
+        "repo": "main",
+        "size": 18938394,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-09_0946/yellowjacket.zip"
       },
       "version": 2
     },
