@@ -796,7 +796,8 @@
     "balatro.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf"
         ],
         "desc": "Balatro is a poker-inspired roguelike deck builder all about creating powerful synergies and winning big.",
         "exp": false,
@@ -828,12 +829,12 @@
       "name": "balatro.zip",
       "source": {
         "date_added": "2024-04-01",
-        "date_updated": "2024-04-02",
-        "md5": "ccdd301ae92e424760cc902035da5e59",
-        "release_id": "2024-04-02_0934",
+        "date_updated": "2024-04-11",
+        "md5": "99d7cafeb9b2670c585359d24a0039f1",
+        "release_id": "2024-04-11_1200",
         "repo": "main",
-        "size": 3488152,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-02_0934/balatro.zip"
+        "size": 6004947,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-11_1200/balatro.zip"
       },
       "version": 2
     },
@@ -4219,6 +4220,51 @@
         "repo": "main",
         "size": 1312269,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/duke.nukem.3d.zip"
+      },
+      "version": 2
+    },
+    "duke3dawo.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "desc": "Duke Nukem 3D - Alien World Order is the fifth episode of Duke Nukem 3D. The fifth episode was added to the game as part of the 20th Anniversary Edition and contains eight levels, including one secret level. Levels in this episode are based in cities from around the world, including Amsterdam, Moscow, London, Giza, Paris, San Francisco, Hollywood, and Rome. The final boss is the Cycloid Incinerator.",
+        "exp": false,
+        "genres": [
+          "action",
+          "fps"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Obtain game files from your Steam copy of Alien World Tour.  See '/duke3dawo/Place Duke3D AWT files here'  for instructions to place your Alien World Tour contents into the duke3dawo directory.",
+        "porter": [
+          "Slayer366"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Duke Nukem 3D - Alien World Order"
+      },
+      "items": [
+        "Duke3D - Alien World Order.sh",
+        "duke3dawo"
+      ],
+      "items_opt": null,
+      "name": "duke3dawo.zip",
+      "source": {
+        "date_added": "2024-04-11",
+        "date_updated": "2024-04-11",
+        "md5": "140664c4bfcece9d2ad016053e793428",
+        "release_id": "2024-04-11_1200",
+        "repo": "main",
+        "size": 5914487,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-11_1200/duke3dawo.zip"
       },
       "version": 2
     },
@@ -12662,6 +12708,51 @@
       },
       "version": 2
     },
+    "rite.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "RITE is a high-speed precision platformer where you must conquer a series of demanding trials, a rite of passage for every Nim. Find the key and reach the exit to move on to the next trial, and maybe collect some gold along the way. Who knows, they could prove valuable to those who like a brutal challenge..\n",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Locate the data.win file from the windows version of RITE. Copy this file to the gamedata folder. ",
+        "porter": [
+          "JanTrueno",
+          "Kompaan"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "RITE"
+      },
+      "items": [
+        "RITE.sh",
+        "rite"
+      ],
+      "items_opt": null,
+      "name": "rite.zip",
+      "source": {
+        "date_added": "2024-04-11",
+        "date_updated": "2024-04-11",
+        "md5": "234ebae6b10f84f685b64284e7220923",
+        "release_id": "2024-04-11_1200",
+        "repo": "main",
+        "size": 4220685,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-11_1200/rite.zip"
+      },
+      "version": 2
+    },
     "rlone.zip": {
       "attr": {
         "arch": [
@@ -16559,6 +16650,48 @@
       },
       "version": 2
     },
+    "udlrmodify.zip": {
+      "attr": {
+        "arch": [],
+        "desc": "Thanks to Ian Spadin for releasing this gem of a game for free!\n\nGame originally published under CC BY-NC-SA 4.0 by Ian Spadin on itch.io \nModified by Kompaan to be 1:1 aspect ratio for handhelds, as published here\nhttps://github.com/mhoogcarspel/UDRL_Modify/tree/handheld_ui",
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is ready to run!",
+        "porter": [
+          "Kompaan"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "UDRL_Modify"
+      },
+      "items": [
+        "UDRL_Modify.sh",
+        "udlrmodify"
+      ],
+      "items_opt": null,
+      "name": "udlrmodify.zip",
+      "source": {
+        "date_added": "2024-04-11",
+        "date_updated": "2024-04-11",
+        "md5": "74bdf7355c3b09cab6e8dc958fc41ff5",
+        "release_id": "2024-04-11_1200",
+        "repo": "main",
+        "size": 13610457,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-11_1200/udlrmodify.zip"
+      },
+      "version": 2
+    },
     "ultimatestunts.zip": {
       "attr": {
         "arch": [
@@ -17647,7 +17780,7 @@
         "arch": [
           "armhf"
         ],
-        "desc": "Y E L L O W - J A C K E T | \u30a4\u30a8\u30ed\u30fc\u30b8\u30e3\u30b1\u30c3\u30c8 (or just yellow jacket) is a vaporwave arcade shoot-em-up about a motorcyclist running from the government in this classic 80s style arcade shmup! Can you get the highest score?",
+        "desc": "Y E L L O W - J A C K E T (or just yellow jacket) is a vaporwave arcade shoot-em-up about a motorcyclist running from the government in this classic 80s style arcade shmup! Can you get the highest score?",
         "exp": false,
         "genres": [
           "arcade"
@@ -17665,7 +17798,7 @@
         "reqs": [],
         "rtr": false,
         "runtime": null,
-        "title": "Y E L L O W - J A C K E T | \u30a4\u30a8\u30ed\u30fc\u30b8\u30e3\u30b1\u30c3\u30c8"
+        "title": "Y E L L O W - J A C K E T"
       },
       "items": [
         "YellowJacket.sh",
@@ -17675,12 +17808,12 @@
       "name": "yellowjacket.zip",
       "source": {
         "date_added": "2024-04-09",
-        "date_updated": "2024-04-09",
-        "md5": "a689153f7b13cf465aff822f034896b5",
-        "release_id": "2024-04-09_0946",
+        "date_updated": "2024-04-11",
+        "md5": "c10b348e62e23b15709e76339643c887",
+        "release_id": "2024-04-11_1200",
         "repo": "main",
-        "size": 18938394,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-09_0946/yellowjacket.zip"
+        "size": 18938360,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-11_1200/yellowjacket.zip"
       },
       "version": 2
     },
