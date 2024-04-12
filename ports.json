@@ -6172,7 +6172,8 @@
     "half-life.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf"
         ],
         "desc": "Half-Life is Valve's debut title which blends blends action and adventure with award-winning technology to create a frighteningly realistic world where players must think to survive.",
         "exp": false,
@@ -6205,12 +6206,12 @@
       "name": "half-life.zip",
       "source": {
         "date_added": "2023-01-07",
-        "date_updated": "2024-04-01",
-        "md5": "c7896939956fcc9de81fd38ef76e4f70",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-04-12",
+        "md5": "81d1d421523a2c6d10c6e2190cc4de1c",
+        "release_id": "2024-04-12_1235",
         "repo": "main",
-        "size": 5652266,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/half-life.zip"
+        "size": 29348220,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-12_1235/half-life.zip"
       },
       "version": 2
     },
@@ -15148,6 +15149,50 @@
       },
       "version": 2
     },
+    "sudokul.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "desc": "SuDokul is a multiplatform Sudoku game.",
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "porter": [
+          "Bamboozler"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "SuDokuL"
+      },
+      "items": [
+        "SuDokul.sh",
+        "sudokul"
+      ],
+      "items_opt": null,
+      "name": "sudokul.zip",
+      "source": {
+        "date_added": "2024-04-12",
+        "date_updated": "2024-04-12",
+        "md5": "e5c2350da58de8049ec34f56661f6646",
+        "release_id": "2024-04-12_1235",
+        "repo": "main",
+        "size": 1539082,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-12_1235/sudokul.zip"
+      },
+      "version": 2
+    },
     "sulka.zip": {
       "attr": {
         "arch": [
@@ -16653,7 +16698,7 @@
     "udlrmodify.zip": {
       "attr": {
         "arch": [],
-        "desc": "Thanks to Ian Spadin for releasing this gem of a game for free!\n\nGame originally published under CC BY-NC-SA 4.0 by Ian Spadin on itch.io \nModified by Kompaan to be 1:1 aspect ratio for handhelds, as published here\nhttps://github.com/mhoogcarspel/UDRL_Modify/tree/handheld_ui",
+        "desc": "Aberration: A temporary change from the typical or usual way of behaving. To reach your goal, you must change yourself.\n\nThis game can be difficult, but the difficulty curve dips down every time a new mechanic is introduced. If you get stuck, don't be afraid to skip ahead - there is no penalty for doing so!",
         "exp": false,
         "genres": [
           "puzzle"
@@ -16683,12 +16728,12 @@
       "name": "udlrmodify.zip",
       "source": {
         "date_added": "2024-04-11",
-        "date_updated": "2024-04-11",
-        "md5": "74bdf7355c3b09cab6e8dc958fc41ff5",
-        "release_id": "2024-04-11_1200",
+        "date_updated": "2024-04-12",
+        "md5": "92044eca71bd67866576479cd0a6317f",
+        "release_id": "2024-04-12_1235",
         "repo": "main",
-        "size": 13610457,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-11_1200/udlrmodify.zip"
+        "size": 13610476,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-12_1235/udlrmodify.zip"
       },
       "version": 2
     },
