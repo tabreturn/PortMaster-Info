@@ -3774,12 +3774,12 @@
       "name": "descent.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2024-04-07",
-        "md5": "c96db2bed3ccf093e7cd3af35366fd43",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-04-13",
+        "md5": "846d0e8ad09b9d33b14bad6c8691ca15",
+        "release_id": "2024-04-13_0111",
         "repo": "main",
-        "size": 16493642,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/descent.zip"
+        "size": 16706425,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-13_0111/descent.zip"
       },
       "version": 2
     },
@@ -3821,12 +3821,12 @@
       "name": "descent2.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2024-04-07",
-        "md5": "1535cd898e49fc8f2bf3aa03f00ce844",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-04-13",
+        "md5": "117100e5932aa3a26d96b119665cf601",
+        "release_id": "2024-04-13_0111",
         "repo": "main",
-        "size": 16345902,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/descent2.zip"
+        "size": 16558687,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-13_0111/descent2.zip"
       },
       "version": 2
     },
@@ -13672,7 +13672,9 @@
           "platformer"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
@@ -13695,12 +13697,12 @@
       "name": "shrubnaut.zip",
       "source": {
         "date_added": "2024-03-22",
-        "date_updated": "2024-04-07",
-        "md5": "9e9e623843af89840918a97fe0cea87d",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-04-13",
+        "md5": "9d1bba57a2b1b005ce062ea9934f2b7b",
+        "release_id": "2024-04-13_0111",
         "repo": "main",
-        "size": 5852621,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/shrubnaut.zip"
+        "size": 5708581,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-13_0111/shrubnaut.zip"
       },
       "version": 2
     },
@@ -15442,12 +15444,12 @@
       "name": "supermeatboy.zip",
       "source": {
         "date_added": "2024-04-08",
-        "date_updated": "2024-04-09",
-        "md5": "3ce270da2e59c3bf25fa3c26aac4bc0f",
-        "release_id": "2024-04-09_0946",
+        "date_updated": "2024-04-13",
+        "md5": "799ba5f54979d08230f0deee593b058c",
+        "release_id": "2024-04-13_0111",
         "repo": "main",
-        "size": 3189581,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-09_0946/supermeatboy.zip"
+        "size": 3189595,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-13_0111/supermeatboy.zip"
       },
       "version": 2
     },
