@@ -6183,7 +6183,9 @@
         ],
         "image": {
           "covers": [
-            "cover.png"
+            "cover.png",
+            "cover.blueshift.png",
+            "cover.opposingforces.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -6206,12 +6208,12 @@
       "name": "half-life.zip",
       "source": {
         "date_added": "2023-01-07",
-        "date_updated": "2024-04-12",
-        "md5": "81d1d421523a2c6d10c6e2190cc4de1c",
-        "release_id": "2024-04-12_1235",
+        "date_updated": "2024-04-14",
+        "md5": "39e8ac13627359f1657e1de1e078d2bd",
+        "release_id": "2024-04-14_0546",
         "repo": "main",
-        "size": 29348220,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-12_1235/half-life.zip"
+        "size": 29474568,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-14_0546/half-life.zip"
       },
       "version": 2
     },
@@ -16860,12 +16862,12 @@
       "name": "undertale.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-07",
-        "md5": "fea90c033658d22afba1ad6decb7b92d",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-04-14",
+        "md5": "fcfaa1ba68b9025ee653a230ed7805fb",
+        "release_id": "2024-04-14_0546",
         "repo": "main",
-        "size": 5934870,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/undertale.zip"
+        "size": 5935047,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-14_0546/undertale.zip"
       },
       "version": 2
     },
