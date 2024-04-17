@@ -6183,9 +6183,9 @@
         ],
         "image": {
           "covers": [
+            "cover.opposingforce.png",
             "cover.png",
-            "cover.blueshift.png",
-            "cover.opposingforces.png"
+            "cover.blueshift.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -6204,16 +6204,19 @@
         "Half-Life.sh",
         "Half-Life/"
       ],
-      "items_opt": null,
+      "items_opt": [
+        "Half-Life Blue Shift.sh",
+        "Half-Life Opposing Force.sh"
+      ],
       "name": "half-life.zip",
       "source": {
         "date_added": "2023-01-07",
-        "date_updated": "2024-04-14",
-        "md5": "15189d04dcdfb46ba864bb625e3d40d7",
-        "release_id": "2024-04-14_0641",
+        "date_updated": "2024-04-17",
+        "md5": "cf97dbd5996b6708acd4ee5895c2715b",
+        "release_id": "2024-04-17_0840",
         "repo": "main",
-        "size": 29474554,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-14_0641/half-life.zip"
+        "size": 29474558,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-17_0840/half-life.zip"
       },
       "version": 2
     },
@@ -7834,14 +7837,17 @@
           "rpg"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
         "inst": "All files are included",
         "porter": [
-          "Troidem"
+          "Troidem",
+          "Kompaan"
         ],
         "reqs": [],
         "rtr": true,
@@ -7856,12 +7862,12 @@
       "name": "labyrinthoflegendaryloot.zip",
       "source": {
         "date_added": "2024-04-01",
-        "date_updated": "2024-04-01",
-        "md5": "daaa3150a0653a31e4c1ad42a430f5b8",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-04-17",
+        "md5": "5036879faabc41dc67fee6024a902450",
+        "release_id": "2024-04-17_0840",
         "repo": "main",
-        "size": 50227606,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/labyrinthoflegendaryloot.zip"
+        "size": 50363736,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-17_0840/labyrinthoflegendaryloot.zip"
       },
       "version": 2
     },
@@ -12014,7 +12020,7 @@
           "covers": [
             "cover.png"
           ],
-          "screenshot": "screenshot.jpg",
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -12035,12 +12041,12 @@
       "name": "quake.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "4a7dba317cc41b31271024f1a30335d6",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-04-17",
+        "md5": "4f3d694d3fad0ea42ad502ee20365e86",
+        "release_id": "2024-04-17_0840",
         "repo": "main",
-        "size": 9000341,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/quake.zip"
+        "size": 9020258,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-17_0840/quake.zip"
       },
       "version": 2
     },
@@ -15814,8 +15820,10 @@
           "puzzle"
         ],
         "image": {
-          "covers": [],
-          "screenshot": "screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -15837,12 +15845,12 @@
       "name": "thelegendoflumina.zip",
       "source": {
         "date_added": "2024-02-16",
-        "date_updated": "2024-04-01",
-        "md5": "e96458675d4efdf43ba221e756ebcf8c",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-04-17",
+        "md5": "1a0880471e9efec8308439f710aeb558",
+        "release_id": "2024-04-17_0840",
         "repo": "main",
-        "size": 137933,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/thelegendoflumina.zip"
+        "size": 366038,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-17_0840/thelegendoflumina.zip"
       },
       "version": 2
     },
@@ -16061,7 +16069,9 @@
     "tileworld.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf",
+          "x86_64"
         ],
         "desc": "Tile World is a source port clone of Chip's Challenge.\n\nHandheld edition based on: https://github.com/senquack/tileworld-for-handhelds",
         "exp": false,
@@ -16094,12 +16104,12 @@
       "name": "tileworld.zip",
       "source": {
         "date_added": "2022-06-03",
-        "date_updated": "2024-04-01",
-        "md5": "de5d8805bedbf7780971f62fffdfd897",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-04-17",
+        "md5": "1dfe0cb96ca703af54f283f30c1df7a4",
+        "release_id": "2024-04-17_0840",
         "repo": "main",
-        "size": 25030200,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/tileworld.zip"
+        "size": 28768280,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-17_0840/tileworld.zip"
       },
       "version": 2
     },
@@ -16490,6 +16500,51 @@
       },
       "version": 2
     },
+    "trickykeys2.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "Replay and reestablish your connection to the world of Tricky Keys in this old-school puzzle platforming adventure!\n\nEquip your AI assistant with the right combination of instructions and collaborate to solve each level, avoiding the hazards along the way.",
+        "exp": false,
+        "genres": [
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is ready to run, thanks to Team Bugulon granting us permission to distribute this game.",
+        "porter": [
+          "Kompaan"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Tricky Keys 2"
+      },
+      "items": [
+        "Tricky Keys 2.sh",
+        "trickykeys2"
+      ],
+      "items_opt": null,
+      "name": "trickykeys2.zip",
+      "source": {
+        "date_added": "2024-04-17",
+        "date_updated": "2024-04-17",
+        "md5": "1d1fa3253ddf29b2718a566d63b217df",
+        "release_id": "2024-04-17_0840",
+        "repo": "main",
+        "size": 25098708,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-17_0840/trickykeys2.zip"
+      },
+      "version": 2
+    },
     "trolley.delayma.zip": {
       "attr": {
         "arch": [],
@@ -16732,12 +16787,12 @@
       "name": "udlrmodify.zip",
       "source": {
         "date_added": "2024-04-11",
-        "date_updated": "2024-04-14",
-        "md5": "59b49855014fd6bd04aff1fe5918a21a",
-        "release_id": "2024-04-14_0641",
+        "date_updated": "2024-04-17",
+        "md5": "b6a439053d16f0175fd1425d93745216",
+        "release_id": "2024-04-17_0840",
         "repo": "main",
-        "size": 13610476,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-14_0641/udlrmodify.zip"
+        "size": 13610566,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-17_0840/udlrmodify.zip"
       },
       "version": 2
     },
@@ -16862,12 +16917,12 @@
       "name": "undertale.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-14",
-        "md5": "fcfaa1ba68b9025ee653a230ed7805fb",
-        "release_id": "2024-04-14_0546",
+        "date_updated": "2024-04-17",
+        "md5": "2ae9c93f24493ecae7bc5eb76a2d9aed",
+        "release_id": "2024-04-17_0840",
         "repo": "main",
-        "size": 5935047,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-14_0546/undertale.zip"
+        "size": 5934870,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-17_0840/undertale.zip"
       },
       "version": 2
     },
