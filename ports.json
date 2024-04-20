@@ -6183,9 +6183,9 @@
         ],
         "image": {
           "covers": [
+            "cover.blueshift.png",
             "cover.opposingforce.png",
-            "cover.png",
-            "cover.blueshift.png"
+            "cover.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -6493,8 +6493,8 @@
         ],
         "image": {
           "covers": [
-            "cover.hexen2.png",
-            "cover.hexen2portalofpraevus.png"
+            "cover.hexen2portalofpraevus.png",
+            "cover.hexen2.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -7347,6 +7347,51 @@
       },
       "version": 2
     },
+    "ioawn4t.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "desc": "If On A Winter's Night, Four Travelers is a free narrative-driven point-and-click adventure that explores the stories of four different characters in a masked ball taking place on a train in the late 1920s.",
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the windows version of game on Itch or Steam. Copy all assets, including the executable, into the gamedata folder.",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "If On A Winter's Night, Four Travelers"
+      },
+      "items": [
+        "If On A Winter's Night",
+        " Four Travelers.sh",
+        "ioawn4t"
+      ],
+      "items_opt": null,
+      "name": "ioawn4t.zip",
+      "source": {
+        "date_added": "2024-04-20",
+        "date_updated": "2024-04-20",
+        "md5": "a322aecd1f05f45660156a6044f3e912",
+        "release_id": "2024-04-20_1331",
+        "repo": "main",
+        "size": 2749978,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-20_1331/ioawn4t.zip"
+      },
+      "version": 2
+    },
     "iortcw.zip": {
       "attr": {
         "arch": [
@@ -7656,7 +7701,9 @@
     "kenslabyrinth.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf",
+          "x86_64"
         ],
         "desc": "Ken's Labyrinth is a first-person shooter for MS-DOS published in 1993 by Epic MegaGames. It was programmed by Ken Silverman, who later designed the Build engine used for rendering in 3D Realms's Duke Nukem 3D (1996). \n Ken's Labyrinth is about an ordinary man, heavily implied to be Ken Silverman himself, who wakes up one night to discover that his dog has been kidnapped by aliens. He tags along on their ship and ends up on their homeworld, where he must defeat the murderous creatures and rescue his beloved pet.",
         "exp": false,
@@ -7687,12 +7734,12 @@
       "name": "kenslabyrinth.zip",
       "source": {
         "date_added": "2023-12-14",
-        "date_updated": "2024-04-01",
-        "md5": "619920f7e9738e8f326f0a15323e15a3",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-04-20",
+        "md5": "abb759a2c70c6277da4c0c133c8204ce",
+        "release_id": "2024-04-20_1331",
         "repo": "main",
-        "size": 3180067,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/kenslabyrinth.zip"
+        "size": 6440058,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-20_1331/kenslabyrinth.zip"
       },
       "version": 2
     },
@@ -9857,6 +9904,50 @@
       },
       "version": 2
     },
+    "nidhogg.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "Nidhogg is the epic award-winning fencing tug-of-war, full of graceful acrobatics and clumsy stabs. IRL yelling and excitement may occur, in this ultimate two-player showdown of fast-paced fencing and melee attacks.\nThe combat arena stretches in both directions, although besting an opponent only gains you ground. Matches aren\u2019t won or lost with a single kill, but with a series of kills granting you right-of-way to run/fight/flee to your own goal-zone.\nEach arena holds different strategic formations and chokepoints to use to your advantage. Until you reach your goal-zone, anything is possible. Only one thing is certain in Nidhogg\u2026 the only way to win is to outwit your opponent. En Garde!\n\nNote: Only single player available for this port!",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from https://store.steampowered.com/app/94400/Nidhogg/\nFrom your Steam Library, Right-Click Nidhogg and select Properties. Go to Betas and select \"before_may_2017 - before_may_2017\"\nDownload and install the before_may_2017 version. After installation is complete, from your steam library, Right-Click Nidhogg [before_may_2017] and select Manage > Browse local files\nCopy all the files from this folder into ports/nidhogg/gamedata\nOn first startup, the game will patch and put the files in the appropriate places.",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Nidhogg"
+      },
+      "items": [
+        "Nidhogg.sh",
+        "nidhogg"
+      ],
+      "items_opt": null,
+      "name": "nidhogg.zip",
+      "source": {
+        "date_added": "2024-04-20",
+        "date_updated": "2024-04-20",
+        "md5": "31be988265bcfb016bb9221088f1ef89",
+        "release_id": "2024-04-20_1331",
+        "repo": "main",
+        "size": 11807194,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-20_1331/nidhogg.zip"
+      },
+      "version": 2
+    },
     "nkaruga.zip": {
       "attr": {
         "arch": [
@@ -10115,6 +10206,50 @@
       },
       "version": 2
     },
+    "nulldrifter.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "desc": "Null Drifter is a 1BIT LO-FI shooter, a journey into the void inside a computer simulation!\nLose yourself in this frenetic yet chill experience!\n\nA Minimalistic twin-stick shooter!\nA Simulation for space-fighter pilots!\nMade to train them to defeat the awakened forces of the void!\nSecretly part of the \u201cProject Starship\u201d World, used by the poor 4 souls of \u201cProject Starship X\u201d, before embarking for their mission: defeating the army of Cthulhu!",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from https://store.steampowered.com/app/1170050/Null_Drifter/\nFrom your Steam Library, Right-Click Null Drifter > Manage > Browse local files\nCopy the data.win into ports/nulldrifter/gamedata",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Null Drifter"
+      },
+      "items": [
+        "Null Drifter.sh",
+        "nulldrifter"
+      ],
+      "items_opt": null,
+      "name": "nulldrifter.zip",
+      "source": {
+        "date_added": "2024-04-20",
+        "date_updated": "2024-04-20",
+        "md5": "aed8e1a052d32bf31a6f262219913620",
+        "release_id": "2024-04-20_1331",
+        "repo": "main",
+        "size": 5578313,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-20_1331/nulldrifter.zip"
+      },
+      "version": 2
+    },
     "oceansheart.zip": {
       "attr": {
         "arch": [],
@@ -10169,8 +10304,8 @@
         ],
         "image": {
           "covers": [
-            "cover.oddworldabesexoddus.png",
-            "cover.oddworldabesoddysee.png"
+            "cover.oddworldabesoddysee.png",
+            "cover.oddworldabesexoddus.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -11876,6 +12011,48 @@
         "repo": "main",
         "size": 16557390,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/puremetal.zip"
+      },
+      "version": 2
+    },
+    "putridshotultra.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "desc": "A chaotic shoot-em-up roguelite with magic spell casting. Defeat enemies with your gun! Stack tons of passive spells that trigger when you shoot while weaving your unique active spell in between. Blast your enemies with gunfire and magic spells while you dodge through the rubble.",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game (demo or full version) https://store.steampowered.com/app/2053360/PUTRID_SHOT_ULTRA/ and copy the exe file into the port folder.",
+        "porter": [
+          "Troidem"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Putrid Shot Ultra"
+      },
+      "items": [
+        "Putrid Shot Ultra.sh",
+        "putridshotultra"
+      ],
+      "items_opt": null,
+      "name": "putridshotultra.zip",
+      "source": {
+        "date_added": "2024-04-20",
+        "date_updated": "2024-04-20",
+        "md5": "333e039144c4383972cd1446d5646c6b",
+        "release_id": "2024-04-20_1331",
+        "repo": "main",
+        "size": 3022703,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-20_1331/putridshotultra.zip"
       },
       "version": 2
     },
@@ -14109,6 +14286,48 @@
         "repo": "main",
         "size": 11644090,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/sneakr.zip"
+      },
+      "version": 2
+    },
+    "snkrx.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "desc": "SNKRX is an arcade shooter roguelite where you control a snake of heroes that automatically attack nearby enemies. Combine different heroes to unlock class bonuses and create unique builds, and steer your unstoppable party as they ravage through endless waves of enemies.",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game https://store.steampowered.com/app/915310/SNKRX/ and place SNKRX.exe file to the port folder",
+        "porter": [
+          "Troidem"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "SNKRX"
+      },
+      "items": [
+        "SNKRX.sh",
+        "snkrx"
+      ],
+      "items_opt": null,
+      "name": "snkrx.zip",
+      "source": {
+        "date_added": "2024-04-20",
+        "date_updated": "2024-04-20",
+        "md5": "480a4e4427b5465f0885c186b675c818",
+        "release_id": "2024-04-20_1331",
+        "repo": "main",
+        "size": 10433181,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-20_1331/snkrx.zip"
       },
       "version": 2
     },
