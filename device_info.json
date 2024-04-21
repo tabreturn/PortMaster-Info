@@ -1,0 +1,2138 @@
+{
+    "Anbernic RG353 M/V/P": {
+        "ArkOS": {
+            "name": "arkos",
+            "version": "N/A",
+            "device": "rg353m",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3566",
+            "capabilities": [
+                "armhf",
+                "power",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "arkos",
+                "rg353m",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb",
+                "2gb"
+            ],
+            "ram": 2048,
+            "primary_arch": "aarch64"
+        },
+        "JELOS": {
+            "name": "jelos",
+            "version": "N/A",
+            "device": "rg353m",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3566",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "power",
+                "restore",
+                "4:3",
+                "640x480",
+                "jelos",
+                "rg353m",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb",
+                "2gb"
+            ],
+            "ram": 2048,
+            "primary_arch": "aarch64"
+        }
+    },
+    "Anbernic RG353 VS/PS": {
+        "ArkOS": {
+            "name": "arkos",
+            "version": "N/A",
+            "device": "rg353ps",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3566",
+            "capabilities": [
+                "armhf",
+                "power",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "arkos",
+                "rg353ps",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "JELOS": {
+            "name": "jelos",
+            "version": "N/A",
+            "device": "rg353ps",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3566",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "power",
+                "restore",
+                "4:3",
+                "640x480",
+                "jelos",
+                "rg353ps",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "ROCKNIX": {
+            "name": "rocknix",
+            "version": "N/A",
+            "device": "rg353ps",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3566",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "power",
+                "restore",
+                "4:3",
+                "640x480",
+                "rocknix",
+                "rg353ps",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        }
+    },
+    "Anbernic RG351MP": {
+        "ArkOS": {
+            "name": "arkos",
+            "version": "N/A",
+            "device": "rg351mp",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "arkos",
+                "rg351mp",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "AmberELEC": {
+            "name": "amberelec",
+            "version": "N/A",
+            "device": "rg351mp",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "amberelec",
+                "rg351mp",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "JELOS": {
+            "name": "jelos",
+            "version": "N/A",
+            "device": "rg351mp",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "jelos",
+                "rg351mp",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "TheRA": {
+            "name": "thera",
+            "version": "N/A",
+            "device": "rg351mp",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "thera",
+                "rg351mp",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        }
+    },
+    "Anbernic RG503": {
+        "ArkOS": {
+            "name": "arkos",
+            "version": "N/A",
+            "device": "rg503",
+            "resolution": [
+                960,
+                544
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3566",
+            "capabilities": [
+                "armhf",
+                "power",
+                "aarch64",
+                "restore",
+                "30:17",
+                "960x544",
+                "arkos",
+                "rg503",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "JELOS": {
+            "name": "jelos",
+            "version": "N/A",
+            "device": "rg503",
+            "resolution": [
+                960,
+                544
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3566",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "power",
+                "restore",
+                "30:17",
+                "960x544",
+                "jelos",
+                "rg503",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "ROCKNIX": {
+            "name": "rocknix",
+            "version": "N/A",
+            "device": "rg503",
+            "resolution": [
+                960,
+                544
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3566",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "power",
+                "restore",
+                "30:17",
+                "960x544",
+                "rocknix",
+                "rg503",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        }
+    },
+    "Anbernic RG552": {
+        "AmberELEC": {
+            "name": "amberelec",
+            "version": "N/A",
+            "device": "rg552",
+            "resolution": [
+                1920,
+                1152
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3399",
+            "capabilities": [
+                "armhf",
+                "power",
+                "aarch64",
+                "restore",
+                "5:3",
+                "1920x1152",
+                "amberelec",
+                "rg552",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb",
+                "2gb",
+                "4gb"
+            ],
+            "ram": 4096,
+            "primary_arch": "aarch64"
+        },
+        "JELOS": {
+            "name": "jelos",
+            "version": "N/A",
+            "device": "rg552",
+            "resolution": [
+                1920,
+                1152
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3399",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "power",
+                "restore",
+                "5:3",
+                "1920x1152",
+                "jelos",
+                "rg552",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb",
+                "2gb",
+                "4gb"
+            ],
+            "ram": 4096,
+            "primary_arch": "aarch64"
+        },
+        "ROCKNIX": {
+            "name": "rocknix",
+            "version": "N/A",
+            "device": "rg552",
+            "resolution": [
+                1920,
+                1152
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3399",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "power",
+                "restore",
+                "5:3",
+                "1920x1152",
+                "rocknix",
+                "rg552",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb",
+                "2gb",
+                "4gb"
+            ],
+            "ram": 4096,
+            "primary_arch": "aarch64"
+        }
+    },
+    "Anbernic RG35XX PLUS": {
+        "muOS": {
+            "name": "muos",
+            "version": "N/A",
+            "device": "rg35xx-plus",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 0,
+            "cpu": "h700",
+            "capabilities": [
+                "armhf",
+                "power",
+                "restore",
+                "4:3",
+                "640x480",
+                "muos",
+                "rg35xx-plus",
+                "analog_0",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "armhf"
+        },
+        "Batocera": {
+            "name": "batocera",
+            "version": "N/A",
+            "device": "rg35xx-plus",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 0,
+            "cpu": "h700",
+            "capabilities": [
+                "armhf",
+                "power",
+                "restore",
+                "4:3",
+                "640x480",
+                "batocera",
+                "rg35xx-plus",
+                "analog_0",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "armhf"
+        }
+    },
+    "Anbernic RG35XX H": {
+        "muOS": {
+            "name": "muos",
+            "version": "N/A",
+            "device": "rg35xx-h",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "h700",
+            "capabilities": [
+                "armhf",
+                "power",
+                "restore",
+                "4:3",
+                "640x480",
+                "muos",
+                "rg35xx-h",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "armhf"
+        },
+        "Batocera": {
+            "name": "batocera",
+            "version": "N/A",
+            "device": "rg35xx-h",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "h700",
+            "capabilities": [
+                "armhf",
+                "power",
+                "restore",
+                "4:3",
+                "640x480",
+                "batocera",
+                "rg35xx-h",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "armhf"
+        }
+    },
+    "Anbernic RG351P/M": {
+        "ArkOS (Wummle)": {
+            "name": "arkos (wummle)",
+            "version": "N/A",
+            "device": "rg351p",
+            "resolution": [
+                480,
+                320
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "3:2",
+                "480x320",
+                "arkos (wummle)",
+                "rg351p",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "lowres",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "AmberELEC": {
+            "name": "amberelec",
+            "version": "N/A",
+            "device": "rg351p",
+            "resolution": [
+                480,
+                320
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "3:2",
+                "480x320",
+                "amberelec",
+                "rg351p",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "lowres",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "JELOS": {
+            "name": "jelos",
+            "version": "N/A",
+            "device": "rg351p",
+            "resolution": [
+                480,
+                320
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "restore",
+                "3:2",
+                "480x320",
+                "jelos",
+                "rg351p",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "lowres",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "ROCKNIX": {
+            "name": "rocknix",
+            "version": "N/A",
+            "device": "rg351p",
+            "resolution": [
+                480,
+                320
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "restore",
+                "3:2",
+                "480x320",
+                "rocknix",
+                "rg351p",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "lowres",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        }
+    },
+    "Anbernic RG351V": {
+        "ArkOS": {
+            "name": "arkos",
+            "version": "N/A",
+            "device": "rg351v",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 1,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "arkos",
+                "rg351v",
+                "analog_0",
+                "analog_1",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "AmberELEC": {
+            "name": "amberelec",
+            "version": "N/A",
+            "device": "rg351v",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 1,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "amberelec",
+                "rg351v",
+                "analog_0",
+                "analog_1",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "JELOS": {
+            "name": "jelos",
+            "version": "N/A",
+            "device": "rg351v",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 1,
+            "cpu": "rk3326",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "jelos",
+                "rg351v",
+                "analog_0",
+                "analog_1",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "ROCKNIX": {
+            "name": "rocknix",
+            "version": "N/A",
+            "device": "rg351v",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 1,
+            "cpu": "rk3326",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "rocknix",
+                "rg351v",
+                "analog_0",
+                "analog_1",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        }
+    },
+    "Powkiddy RGB10": {
+        "ArkOS": {
+            "name": "arkos",
+            "version": "N/A",
+            "device": "rgb10",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "unknown",
+            "capabilities": [
+                "armhf",
+                "power",
+                "opengl",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "arkos",
+                "rgb10",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "primary_arch": "aarch64"
+        },
+        "JELOS": {
+            "name": "jelos",
+            "version": "N/A",
+            "device": "rgb10",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "unknown",
+            "capabilities": [
+                "aarch64",
+                "armhf",
+                "opengl",
+                "power",
+                "restore",
+                "4:3",
+                "640x480",
+                "jelos",
+                "rgb10",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "primary_arch": "aarch64"
+        },
+        "ROCKNIX": {
+            "name": "rocknix",
+            "version": "N/A",
+            "device": "rgb10",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "unknown",
+            "capabilities": [
+                "aarch64",
+                "armhf",
+                "opengl",
+                "power",
+                "restore",
+                "4:3",
+                "640x480",
+                "rocknix",
+                "rgb10",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "primary_arch": "aarch64"
+        }
+    },
+    "Powkiddy RGB20S": {
+        "AmberELEC": {
+            "name": "amberelec",
+            "version": "N/A",
+            "device": "rgb20s",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "amberelec",
+                "rgb20s",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        }
+    },
+    "Powkiddy RGB30": {
+        "ArkOS": {
+            "name": "arkos",
+            "version": "N/A",
+            "device": "rgb30",
+            "resolution": [
+                720,
+                720
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3566",
+            "capabilities": [
+                "armhf",
+                "power",
+                "aarch64",
+                "restore",
+                "1:1",
+                "720x720",
+                "arkos",
+                "rgb30",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "JELOS": {
+            "name": "jelos",
+            "version": "N/A",
+            "device": "rgb30",
+            "resolution": [
+                720,
+                720
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3566",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "power",
+                "restore",
+                "1:1",
+                "720x720",
+                "jelos",
+                "rgb30",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "ROCKNIX": {
+            "name": "rocknix",
+            "version": "N/A",
+            "device": "rgb30",
+            "resolution": [
+                720,
+                720
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3566",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "power",
+                "restore",
+                "1:1",
+                "720x720",
+                "rocknix",
+                "rgb30",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        }
+    },
+    "Powkiddy RK2023": {
+        "ArkOS": {
+            "name": "arkos",
+            "version": "N/A",
+            "device": "rk2023",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3566",
+            "capabilities": [
+                "armhf",
+                "power",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "arkos",
+                "rk2023",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "JELOS": {
+            "name": "jelos",
+            "version": "N/A",
+            "device": "rk2023",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3566",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "power",
+                "restore",
+                "4:3",
+                "640x480",
+                "jelos",
+                "rk2023",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "ROCKNIX": {
+            "name": "rocknix",
+            "version": "N/A",
+            "device": "rk2023",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3566",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "power",
+                "restore",
+                "4:3",
+                "640x480",
+                "rocknix",
+                "rk2023",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        }
+    },
+    "Powkiddy X55": {
+        "JELOS": {
+            "name": "jelos",
+            "version": "N/A",
+            "device": "x55",
+            "resolution": [
+                1280,
+                720
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3566",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "power",
+                "restore",
+                "16:9",
+                "1280x720",
+                "jelos",
+                "x55",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb",
+                "2gb"
+            ],
+            "ram": 2048,
+            "primary_arch": "aarch64"
+        }
+    },
+    "Powkiddy RGB10MAX3": {
+        "JELOS": {
+            "name": "jelos",
+            "version": "N/A",
+            "device": "rgb10max3",
+            "resolution": [
+                1280,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3566",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "power",
+                "restore",
+                "8:3",
+                "1280x480",
+                "jelos",
+                "rgb10max3",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "ROCKNIX": {
+            "name": "rocknix",
+            "version": "N/A",
+            "device": "rgb10max3",
+            "resolution": [
+                1280,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3566",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "power",
+                "restore",
+                "8:3",
+                "1280x480",
+                "rocknix",
+                "rgb10max3",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        }
+    },
+    "Hardkernel ODROID GO Advance": {
+        "ArkOS": {
+            "name": "arkos",
+            "version": "N/A",
+            "device": "oga",
+            "resolution": [
+                480,
+                320
+            ],
+            "analogsticks": 1,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "3:2",
+                "480x320",
+                "arkos",
+                "oga",
+                "analog_0",
+                "analog_1",
+                "lowres",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "AmberELEC": {
+            "name": "amberelec",
+            "version": "N/A",
+            "device": "oga",
+            "resolution": [
+                480,
+                320
+            ],
+            "analogsticks": 1,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "3:2",
+                "480x320",
+                "amberelec",
+                "oga",
+                "analog_0",
+                "analog_1",
+                "lowres",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "EmuELEC": {
+            "name": "emuelec",
+            "version": "N/A",
+            "device": "oga",
+            "resolution": [
+                480,
+                320
+            ],
+            "analogsticks": 1,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "3:2",
+                "480x320",
+                "emuelec",
+                "oga",
+                "analog_0",
+                "analog_1",
+                "lowres",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "JELOS": {
+            "name": "jelos",
+            "version": "N/A",
+            "device": "oga",
+            "resolution": [
+                480,
+                320
+            ],
+            "analogsticks": 1,
+            "cpu": "rk3326",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "restore",
+                "3:2",
+                "480x320",
+                "jelos",
+                "oga",
+                "analog_0",
+                "analog_1",
+                "lowres",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "ROCKNIX": {
+            "name": "rocknix",
+            "version": "N/A",
+            "device": "oga",
+            "resolution": [
+                480,
+                320
+            ],
+            "analogsticks": 1,
+            "cpu": "rk3326",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "restore",
+                "3:2",
+                "480x320",
+                "rocknix",
+                "oga",
+                "analog_0",
+                "analog_1",
+                "lowres",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        }
+    },
+    "Hardkernel ODROID GO Super": {
+        "ArkOS": {
+            "name": "arkos",
+            "version": "N/A",
+            "device": "ogs",
+            "resolution": [
+                854,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "427:240",
+                "854x480",
+                "arkos",
+                "ogs",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "AmberELEC": {
+            "name": "amberelec",
+            "version": "N/A",
+            "device": "ogs",
+            "resolution": [
+                854,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "427:240",
+                "854x480",
+                "amberelec",
+                "ogs",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "EmuELEC": {
+            "name": "emuelec",
+            "version": "N/A",
+            "device": "ogs",
+            "resolution": [
+                854,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "427:240",
+                "854x480",
+                "emuelec",
+                "ogs",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "JELOS": {
+            "name": "jelos",
+            "version": "N/A",
+            "device": "ogs",
+            "resolution": [
+                854,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "restore",
+                "427:240",
+                "854x480",
+                "jelos",
+                "ogs",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "ROCKNIX": {
+            "name": "rocknix",
+            "version": "N/A",
+            "device": "ogs",
+            "resolution": [
+                854,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "restore",
+                "427:240",
+                "854x480",
+                "rocknix",
+                "ogs",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        }
+    },
+    "Hardkernel ODROID GO Ultra": {
+        "ArkOS": {
+            "name": "arkos",
+            "version": "N/A",
+            "device": "ogu",
+            "resolution": [
+                854,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "s922x",
+            "capabilities": [
+                "power",
+                "aarch64",
+                "restore",
+                "427:240",
+                "854x480",
+                "arkos",
+                "ogu",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb",
+                "2gb"
+            ],
+            "ram": 2048,
+            "primary_arch": "aarch64"
+        },
+        "AmberELEC": {
+            "name": "amberelec",
+            "version": "N/A",
+            "device": "ogu",
+            "resolution": [
+                854,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "s922x",
+            "capabilities": [
+                "power",
+                "aarch64",
+                "restore",
+                "427:240",
+                "854x480",
+                "amberelec",
+                "ogu",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb",
+                "2gb"
+            ],
+            "ram": 2048,
+            "primary_arch": "aarch64"
+        },
+        "EmuELEC": {
+            "name": "emuelec",
+            "version": "N/A",
+            "device": "ogu",
+            "resolution": [
+                854,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "s922x",
+            "capabilities": [
+                "power",
+                "aarch64",
+                "restore",
+                "427:240",
+                "854x480",
+                "emuelec",
+                "ogu",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb",
+                "2gb"
+            ],
+            "ram": 2048,
+            "primary_arch": "aarch64"
+        },
+        "JELOS": {
+            "name": "jelos",
+            "version": "N/A",
+            "device": "ogu",
+            "resolution": [
+                854,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "s922x",
+            "capabilities": [
+                "opengl",
+                "power",
+                "aarch64",
+                "restore",
+                "427:240",
+                "854x480",
+                "jelos",
+                "ogu",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb",
+                "2gb"
+            ],
+            "ram": 2048,
+            "primary_arch": "aarch64"
+        },
+        "ROCKNIX": {
+            "name": "rocknix",
+            "version": "N/A",
+            "device": "ogu",
+            "resolution": [
+                854,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "s922x",
+            "capabilities": [
+                "opengl",
+                "power",
+                "aarch64",
+                "restore",
+                "427:240",
+                "854x480",
+                "rocknix",
+                "ogu",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb",
+                "2gb"
+            ],
+            "ram": 2048,
+            "primary_arch": "aarch64"
+        }
+    },
+    "Gameforce Ace": {
+        "JELOS": {
+            "name": "jelos",
+            "version": "N/A",
+            "device": "ace",
+            "resolution": [
+                1920,
+                1080
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3588",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "power",
+                "restore",
+                "16:9",
+                "1920x1080",
+                "jelos",
+                "ace",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb",
+                "2gb",
+                "4gb",
+                "8gb"
+            ],
+            "ram": 8192,
+            "primary_arch": "aarch64"
+        },
+        "ROCKNIX": {
+            "name": "rocknix",
+            "version": "N/A",
+            "device": "ace",
+            "resolution": [
+                1920,
+                1080
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3588",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "power",
+                "restore",
+                "16:9",
+                "1920x1080",
+                "rocknix",
+                "ace",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb",
+                "2gb",
+                "4gb",
+                "8gb"
+            ],
+            "ram": 8192,
+            "primary_arch": "aarch64"
+        }
+    },
+    "Gameforce Chi": {
+        "ArkOS": {
+            "name": "arkos",
+            "version": "N/A",
+            "device": "chi",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "arkos",
+                "chi",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "EmuELEC": {
+            "name": "emuelec",
+            "version": "N/A",
+            "device": "chi",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "emuelec",
+                "chi",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        }
+    },
+    "TrimUI Smart Pro": {
+        "TrimUI": {
+            "name": "trimui",
+            "version": "N/A",
+            "device": "trimui-smart-pro",
+            "resolution": [
+                1280,
+                720
+            ],
+            "analogsticks": 2,
+            "cpu": "a133plus",
+            "capabilities": [
+                "power",
+                "aarch64",
+                "restore",
+                "16:9",
+                "1280x720",
+                "trimui",
+                "trimui-smart-pro",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        }
+    },
+    "XU10 Retro Handheld": {
+        "ArkOS": {
+            "name": "arkos",
+            "version": "N/A",
+            "device": "xu10",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "arkos",
+                "xu10",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "AmberELEC": {
+            "name": "amberelec",
+            "version": "N/A",
+            "device": "xu10",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "amberelec",
+                "xu10",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "JELOS": {
+            "name": "jelos",
+            "version": "N/A",
+            "device": "xu10",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "jelos",
+                "xu10",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "ROCKNIX": {
+            "name": "rocknix",
+            "version": "N/A",
+            "device": "xu10",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "rocknix",
+                "xu10",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        }
+    },
+    "R33S Retro Handheld": {
+        "ArkOS": {
+            "name": "arkos",
+            "version": "N/A",
+            "device": "r33s",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 0,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "arkos",
+                "r33s",
+                "analog_0",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "AmberELEC": {
+            "name": "amberelec",
+            "version": "N/A",
+            "device": "r33s",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 0,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "amberelec",
+                "r33s",
+                "analog_0",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "JELOS": {
+            "name": "jelos",
+            "version": "N/A",
+            "device": "r33s",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 0,
+            "cpu": "rk3326",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "jelos",
+                "r33s",
+                "analog_0",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "ROCKNIX": {
+            "name": "rocknix",
+            "version": "N/A",
+            "device": "r33s",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 0,
+            "cpu": "rk3326",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "rocknix",
+                "r33s",
+                "analog_0",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        }
+    },
+    "R35S Retro Handheld": {
+        "ArkOS": {
+            "name": "arkos",
+            "version": "N/A",
+            "device": "r35s",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "arkos",
+                "r35s",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "AmberELEC": {
+            "name": "amberelec",
+            "version": "N/A",
+            "device": "r35s",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "amberelec",
+                "r35s",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "JELOS": {
+            "name": "jelos",
+            "version": "N/A",
+            "device": "r35s",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "jelos",
+                "r35s",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "ROCKNIX": {
+            "name": "rocknix",
+            "version": "N/A",
+            "device": "r35s",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "rocknix",
+                "r35s",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        }
+    },
+    "R36S Retro Handheld": {
+        "ArkOS": {
+            "name": "arkos",
+            "version": "N/A",
+            "device": "r36s",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "arkos",
+                "r36s",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "AmberELEC": {
+            "name": "amberelec",
+            "version": "N/A",
+            "device": "r36s",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "amberelec",
+                "r36s",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "JELOS": {
+            "name": "jelos",
+            "version": "N/A",
+            "device": "r36s",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "jelos",
+                "r36s",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        },
+        "ROCKNIX": {
+            "name": "rocknix",
+            "version": "N/A",
+            "device": "r36s",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "rk3326",
+            "capabilities": [
+                "opengl",
+                "armhf",
+                "aarch64",
+                "restore",
+                "4:3",
+                "640x480",
+                "rocknix",
+                "r36s",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64"
+        }
+    }
+}

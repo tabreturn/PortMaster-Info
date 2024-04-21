@@ -1,0 +1,355 @@
+{
+  "ace": {
+    "cfw": {
+      "jelos": {
+        "name": "JELOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "name": "Gameforce Ace"
+  },
+  "chi": {
+    "cfw": {
+      "arkos": {
+        "name": "ArkOS"
+      },
+      "emuelec": {
+        "name": "EmuELEC"
+      }
+    },
+    "name": "Gameforce Chi"
+  },
+  "oga": {
+    "cfw": {
+      "amberelec": {
+        "name": "AmberELEC"
+      },
+      "arkos": {
+        "name": "ArkOS"
+      },
+      "emuelec": {
+        "name": "EmuELEC"
+      },
+      "jelos": {
+        "name": "JELOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "name": "Hardkernel ODROID GO Advance"
+  },
+  "ogs": {
+    "cfw": {
+      "amberelec": {
+        "name": "AmberELEC"
+      },
+      "arkos": {
+        "name": "ArkOS"
+      },
+      "emuelec": {
+        "name": "EmuELEC"
+      },
+      "jelos": {
+        "name": "JELOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "name": "Hardkernel ODROID GO Super"
+  },
+  "ogu": {
+    "cfw": {
+      "amberelec": {
+        "name": "AmberELEC"
+      },
+      "arkos": {
+        "name": "ArkOS"
+      },
+      "emuelec": {
+        "name": "EmuELEC"
+      },
+      "jelos": {
+        "name": "JELOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "name": "Hardkernel ODROID GO Ultra"
+  },
+  "r33s": {
+    "cfw": {
+      "amberelec": {
+        "name": "AmberELEC"
+      },
+      "arkos": {
+        "name": "ArkOS"
+      },
+      "jelos": {
+        "name": "JELOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "name": "R33S Retro Handheld"
+  },
+  "r35s": {
+    "cfw": {
+      "amberelec": {
+        "name": "AmberELEC"
+      },
+      "arkos": {
+        "name": "ArkOS"
+      },
+      "jelos": {
+        "name": "JELOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "name": "R35S Retro Handheld"
+  },
+  "r36s": {
+    "cfw": {
+      "amberelec": {
+        "name": "AmberELEC"
+      },
+      "arkos": {
+        "name": "ArkOS"
+      },
+      "jelos": {
+        "name": "JELOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "name": "R36S Retro Handheld"
+  },
+  "rg351mp": {
+    "cfw": {
+      "amberelec": {
+        "name": "AmberELEC"
+      },
+      "arkos": {
+        "name": "ArkOS"
+      },
+      "jelos": {
+        "name": "JELOS"
+      },
+      "thera": {
+        "name": "TheRA"
+      }
+    },
+    "name": "Anbernic RG351MP"
+  },
+  "rg351p": {
+    "cfw": {
+      "amberelec": {
+        "name": "AmberELEC"
+      },
+      "arkos (wummle)": {
+        "name": "ArkOS (Wummle)"
+      },
+      "jelos": {
+        "name": "JELOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "name": "Anbernic RG351P/M"
+  },
+  "rg351v": {
+    "cfw": {
+      "amberelec": {
+        "name": "AmberELEC"
+      },
+      "arkos": {
+        "name": "ArkOS"
+      },
+      "jelos": {
+        "name": "JELOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "name": "Anbernic RG351V"
+  },
+  "rg353m": {
+    "cfw": {
+      "arkos": {
+        "name": "ArkOS"
+      },
+      "jelos": {
+        "name": "JELOS"
+      }
+    },
+    "name": "Anbernic RG353 M/V/P"
+  },
+  "rg353ps": {
+    "cfw": {
+      "arkos": {
+        "name": "ArkOS"
+      },
+      "jelos": {
+        "name": "JELOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "name": "Anbernic RG353 VS/PS"
+  },
+  "rg35xx-h": {
+    "cfw": {
+      "batocera": {
+        "name": "Batocera"
+      },
+      "muos": {
+        "name": "muOS"
+      }
+    },
+    "name": "Anbernic RG35XX H"
+  },
+  "rg35xx-plus": {
+    "cfw": {
+      "batocera": {
+        "name": "Batocera"
+      },
+      "muos": {
+        "name": "muOS"
+      }
+    },
+    "name": "Anbernic RG35XX PLUS"
+  },
+  "rg503": {
+    "cfw": {
+      "arkos": {
+        "name": "ArkOS"
+      },
+      "jelos": {
+        "name": "JELOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "name": "Anbernic RG503"
+  },
+  "rg552": {
+    "cfw": {
+      "amberelec": {
+        "name": "AmberELEC"
+      },
+      "jelos": {
+        "name": "JELOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "name": "Anbernic RG552"
+  },
+  "rgb10": {
+    "cfw": {
+      "arkos": {
+        "name": "ArkOS"
+      },
+      "jelos": {
+        "name": "JELOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "name": "Powkiddy RGB10"
+  },
+  "rgb10max3": {
+    "cfw": {
+      "jelos": {
+        "name": "JELOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "name": "Powkiddy RGB10MAX3"
+  },
+  "rgb20s": {
+    "cfw": {
+      "amberelec": {
+        "name": "AmberELEC"
+      }
+    },
+    "name": "Powkiddy RGB20S"
+  },
+  "rgb30": {
+    "cfw": {
+      "arkos": {
+        "name": "ArkOS"
+      },
+      "jelos": {
+        "name": "JELOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "name": "Powkiddy RGB30"
+  },
+  "rk2023": {
+    "cfw": {
+      "arkos": {
+        "name": "ArkOS"
+      },
+      "jelos": {
+        "name": "JELOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "name": "Powkiddy RK2023"
+  },
+  "trimui-smart-pro": {
+    "cfw": {
+      "trimui": {
+        "name": "TrimUI"
+      }
+    },
+    "name": "TrimUI Smart Pro"
+  },
+  "x55": {
+    "cfw": {
+      "jelos": {
+        "name": "JELOS"
+      }
+    },
+    "name": "Powkiddy X55"
+  },
+  "xu10": {
+    "cfw": {
+      "amberelec": {
+        "name": "AmberELEC"
+      },
+      "arkos": {
+        "name": "ArkOS"
+      },
+      "jelos": {
+        "name": "JELOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "name": "XU10 Retro Handheld"
+  }
+}

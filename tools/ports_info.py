@@ -21,6 +21,109 @@ import zipfile
 from difflib import Differ
 from pathlib import Path
 
+
+class HashCache():
+    CACHE_ATTRS = ('st_size', 'st_mtime')
+    DEBUG_CACHE = False
+
+    def __init__(self, file_name):
+        self.file_name = file_name
+        self._cache = dict()
+        self._stats = {
+            'hits': 0,
+            'misses': 0,
+            'loaded': 0,
+            'new': 0,
+            }
+
+        if file_name.is_file():
+            self.load_cache()
+
+    def _stat_file(self, file_name):
+        file_name = Path(file_name)
+        if not file_name.is_file():
+            return None
+
+        stat = Path(file_name).stat()
+        return ':'.join([
+            str(getattr(stat, attr, None))
+            for attr in self.CACHE_ATTRS])
+
+    def load_cache(self):
+        self._cache.clear()
+        self._stats = {
+            'hits': 0,
+            'misses': 0,
+            'loaded': 0,
+            'new': 0,
+            }
+
+        with open(self.file_name, 'r') as fh:
+            data = json.load(fh)
+
+        invalidated = 0
+        cache_items = 0
+        total_items = 0
+
+        # This takes a few extra seconds, but can be worth it.
+        if self.DEBUG_CACHE:
+            print("Loading PM Cache:")
+
+        for file_name, file_data in data.items():
+            total_items += 1
+
+            stat = self._stat_file(file_name)
+            if stat is None:
+                invalidated += 1
+                continue
+
+            if stat != file_data[0]:
+                invalidated += 1
+                continue
+
+            cache_items += 1
+            self._cache[file_name] = file_data
+
+        if self.DEBUG_CACHE:
+            print(f"- invalidated: {invalidated}")
+            print(f"- loaded items: {cache_items}")
+            print(f"- total items: {total_items}")
+            print("")
+
+    def save_cache(self):
+        if self.DEBUG_CACHE:
+            print("")
+            print("Saving PM Cache:")
+            print(f"- cache hits: {self._stats['hits']}")
+            print(f"- cache misses: {self._stats['misses']}")
+            print(f"- new items: {self._stats['new']}")
+            print(f"- total cache size: {len(self._cache)}")
+            print("")
+
+        with open(self.file_name, 'w') as fh:
+            json.dump(self._cache, fh, indent=2)
+
+    def get_file_hash(self, file_name):
+        file_name = str(file_name)
+        stat = self._stat_file(file_name)
+
+        if file_name in self._cache:
+            if self._cache[file_name][0] == stat:
+                self._stats['hits'] += 1
+                return self._cache[file_name][1]
+
+            else:
+                self._stats['misses'] += 1
+
+        else:
+            self._stats['new'] += 1
+
+        file_hash = hash_file(file_name)
+        self._cache[file_name] = [stat, file_hash]
+
+        return file_hash
+
+
 def custom_json_indent(obj, level=0, indent=4, sort_keys=True, max_length=80):
     if sort_keys is True:
         sort_fnc = lambda x: sorted(x, key=lambda y: y[0].lower())
@@ -269,7 +372,7 @@ def analyse_known_port(file_name, all_data):
     ## These two are always overriden.
     port_info.name = zip_name
 
-    port_info.file = f"{port_info.dirs[0]}/{(clean_name(file_name, 'stem') + '.port.json')}"
+    port_info.file = f"{port_info.dirs[0]}/port.json"
 
     if port_info.items_opt is not None:
         for item in port_info.items_opt:
@@ -281,7 +384,7 @@ def analyse_known_port(file_name, all_data):
     all_data['ports'][zip_name] = port_info.to_dict()
 
 
-def analyse_known_ports(root_path, all_data, state):
+def analyse_known_ports(root_path, all_data, state, hash_cache):
     # print(f"Checking {root_path}")
     for sub_file in root_path.glob('*.port.json'):
         zip_name = clean_name(sub_file, 'stem') + '.zip'
@@ -292,7 +395,7 @@ def analyse_known_ports(root_path, all_data, state):
         # if zip_name in all_data['ports']:
         #     continue
 
-        md5sum = hash_file(sub_file)
+        md5sum = hash_cache.get_file_hash(sub_file)
         if md5sum in state['seen']:
             continue
 
@@ -375,9 +478,14 @@ def analyse_port(file_name, all_data, state):
                 with zf.open(port_info_file, "r") as fh:
                     port_info = PortInfo(json.loads(fh.read()))
 
+            except UnicodeDecodeError as err:
+               print(f"- unable to parse {port_info_file}: {err}")
+               port_info = PortInfo({})
+
             except json.JSONDecodeError as err:
                print(f"- unable to parse {port_info_file}: {err}")
                port_info = PortInfo({})
+
             except NotImplementedError as err:
                print(f"- unable to extract {port_info_file}: {err}")
                port_info = PortInfo({})
@@ -407,7 +515,7 @@ def analyse_port(file_name, all_data, state):
     all_data['ports'][zip_name] = port_info.to_dict()
 
 
-def analyse_ports(root_path, all_data, state):
+def analyse_ports(root_path, all_data, state, hash_cache):
     # print(f"Checking {root_path}")
     for sub_file in root_path.glob('*.zip'):
         zip_name = clean_name(sub_file)
@@ -415,7 +523,7 @@ def analyse_ports(root_path, all_data, state):
         if zip_name in ('portmaster.zip', 'fallout.1.zip', 'alephone.zip'):
             continue
 
-        md5sum = hash_file(sub_file)
+        md5sum = hash_cache.get_file_hash(sub_file)
         if md5sum in state['seen']:
             continue
 
@@ -427,7 +535,7 @@ def analyse_ports(root_path, all_data, state):
         state['seen'][md5sum] = zip_name
 
 
-def git_rewind(root_path, all_data, state):
+def git_rewind(root_path, all_data, state, hash_cache):
     month_to_num = {
         'jan': 1,
         'feb': 2,
@@ -466,7 +574,7 @@ def git_rewind(root_path, all_data, state):
             subprocess.check_output(['git', 'checkout', commit_id], stderr=subprocess.STDOUT)
 
             counter += 1
-            analyse_ports(root_path, all_data, state)
+            analyse_ports(root_path, all_data, state, hash_cache)
             print(f"Done: {counter:3d} -- {i:3d} / {len(commit_ids):3d}")
 
             state['git'][commit_id] = True
@@ -502,8 +610,10 @@ def git_rewind(root_path, all_data, state):
         all_data['ports'][zip_name]['date'] = [first_date, last_date]
 
 def main():
+    hash_cache = HashCache(Path('.hash_cache').absolute())
+
     ## The local portmaster repo
-    root_path   = Path('../PortMaster/').absolute()
+    root_path   = Path('../PortMaster-New/').absolute()
     ## Portmaster-Hosting folder, download as new large files are added.
     host_path   = Path('../PortMaster-Hosting/').absolute()
     ## Special ports.
@@ -541,13 +651,13 @@ def main():
     if 'md5' not in all_data:
         all_data['md5'] = {}
 
-    analyse_known_ports(known_ports, all_data, state)
+    analyse_known_ports(known_ports, all_data, state, hash_cache)
 
-    analyse_ports(host_path, all_data, state)
+    # analyse_ports(host_path, all_data, state, hash_cache)
 
     os.chdir(root_path)
 
-    git_rewind(root_path, all_data, state)
+    git_rewind(root_path, all_data, state, hash_cache)
 
     ## Dump it using a custom json dumper.
     with state_file.open('wt') as fh:
@@ -561,6 +671,9 @@ def main():
     info_file_hash = hash_file(info_file)
     with open(str(info_file) + '.md5', 'w') as fh:
         fh.write(info_file_hash)
+
+    hash_cache.save_cache()
+
 
 if __name__ == '__main__':
     main()
