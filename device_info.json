@@ -2,6 +2,7 @@
     "Anbernic RG353 M/V/P": {
         "ArkOS": {
             "name": "arkos",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg353m",
             "resolution": [
@@ -30,6 +31,7 @@
         },
         "JELOS": {
             "name": "jelos",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg353m",
             "resolution": [
@@ -61,6 +63,7 @@
     "Anbernic RG353 VS/PS": {
         "ArkOS": {
             "name": "arkos",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg353ps",
             "resolution": [
@@ -88,6 +91,7 @@
         },
         "JELOS": {
             "name": "jelos",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg353ps",
             "resolution": [
@@ -116,6 +120,7 @@
         },
         "ROCKNIX": {
             "name": "rocknix",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg353ps",
             "resolution": [
@@ -146,6 +151,7 @@
     "Anbernic RG351MP": {
         "ArkOS": {
             "name": "arkos",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg351mp",
             "resolution": [
@@ -172,6 +178,7 @@
         },
         "AmberELEC": {
             "name": "amberelec",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg351mp",
             "resolution": [
@@ -198,6 +205,7 @@
         },
         "JELOS": {
             "name": "jelos",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg351mp",
             "resolution": [
@@ -225,6 +233,7 @@
         },
         "TheRA": {
             "name": "thera",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg351mp",
             "resolution": [
@@ -253,6 +262,7 @@
     "Anbernic RG503": {
         "ArkOS": {
             "name": "arkos",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg503",
             "resolution": [
@@ -282,6 +292,7 @@
         },
         "JELOS": {
             "name": "jelos",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg503",
             "resolution": [
@@ -312,6 +323,7 @@
         },
         "ROCKNIX": {
             "name": "rocknix",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg503",
             "resolution": [
@@ -344,6 +356,7 @@
     "Anbernic RG552": {
         "AmberELEC": {
             "name": "amberelec",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg552",
             "resolution": [
@@ -375,6 +388,7 @@
         },
         "JELOS": {
             "name": "jelos",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg552",
             "resolution": [
@@ -407,6 +421,7 @@
         },
         "ROCKNIX": {
             "name": "rocknix",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg552",
             "resolution": [
@@ -441,6 +456,7 @@
     "Anbernic RG35XX PLUS": {
         "muOS": {
             "name": "muos",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg35xx-plus",
             "resolution": [
@@ -465,6 +481,7 @@
         },
         "Batocera": {
             "name": "batocera",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg35xx-plus",
             "resolution": [
@@ -491,6 +508,7 @@
     "Anbernic RG35XX H": {
         "muOS": {
             "name": "muos",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg35xx-h",
             "resolution": [
@@ -517,6 +535,7 @@
         },
         "Batocera": {
             "name": "batocera",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg35xx-h",
             "resolution": [
@@ -545,6 +564,7 @@
     "Anbernic RG351P/M": {
         "ArkOS (Wummle)": {
             "name": "arkos (wummle)",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg351p",
             "resolution": [
@@ -572,6 +592,7 @@
         },
         "AmberELEC": {
             "name": "amberelec",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg351p",
             "resolution": [
@@ -601,6 +622,7 @@
             "name": "jelos",
             "version": "N/A",
             "device": "rg351p",
+            "manufacturer": "Anbernic",
             "resolution": [
                 480,
                 320
@@ -627,6 +649,7 @@
         },
         "ROCKNIX": {
             "name": "rocknix",
+            "manufacturer": "Anbernic",
             "version": "N/A",
             "device": "rg351p",
             "resolution": [
@@ -659,6 +682,7 @@
             "name": "arkos",
             "version": "N/A",
             "device": "rg351v",
+            "manufacturer": "Anbernic",
             "resolution": [
                 640,
                 480
@@ -684,6 +708,7 @@
             "name": "amberelec",
             "version": "N/A",
             "device": "rg351v",
+            "manufacturer": "Anbernic",
             "resolution": [
                 640,
                 480
@@ -709,6 +734,7 @@
             "name": "jelos",
             "version": "N/A",
             "device": "rg351v",
+            "manufacturer": "Anbernic",
             "resolution": [
                 640,
                 480
@@ -735,6 +761,7 @@
             "name": "rocknix",
             "version": "N/A",
             "device": "rg351v",
+            "manufacturer": "Anbernic",
             "resolution": [
                 640,
                 480
@@ -761,6 +788,7 @@
     "Powkiddy RGB10": {
         "ArkOS": {
             "name": "arkos",
+            "manufacturer": "Powkiddy",
             "version": "N/A",
             "device": "rgb10",
             "resolution": [
@@ -788,6 +816,7 @@
         },
         "JELOS": {
             "name": "jelos",
+            "manufacturer": "Powkiddy",
             "version": "N/A",
             "device": "rgb10",
             "resolution": [
@@ -815,6 +844,7 @@
         },
         "ROCKNIX": {
             "name": "rocknix",
+            "manufacturer": "Powkiddy",
             "version": "N/A",
             "device": "rgb10",
             "resolution": [
@@ -844,6 +874,7 @@
     "Powkiddy RGB20S": {
         "AmberELEC": {
             "name": "amberelec",
+            "manufacturer": "Powkiddy",
             "version": "N/A",
             "device": "rgb20s",
             "resolution": [
@@ -872,6 +903,7 @@
     "Powkiddy RGB30": {
         "ArkOS": {
             "name": "arkos",
+            "manufacturer": "Powkiddy",
             "version": "N/A",
             "device": "rgb30",
             "resolution": [
@@ -900,6 +932,7 @@
         },
         "JELOS": {
             "name": "jelos",
+            "manufacturer": "Powkiddy",
             "version": "N/A",
             "device": "rgb30",
             "resolution": [
@@ -928,6 +961,7 @@
         },
         "ROCKNIX": {
             "name": "rocknix",
+            "manufacturer": "Powkiddy",
             "version": "N/A",
             "device": "rgb30",
             "resolution": [
@@ -958,6 +992,7 @@
     "Powkiddy RK2023": {
         "ArkOS": {
             "name": "arkos",
+            "manufacturer": "Powkiddy",
             "version": "N/A",
             "device": "rk2023",
             "resolution": [
@@ -985,6 +1020,7 @@
         },
         "JELOS": {
             "name": "jelos",
+            "manufacturer": "Powkiddy",
             "version": "N/A",
             "device": "rk2023",
             "resolution": [
@@ -1013,6 +1049,7 @@
         },
         "ROCKNIX": {
             "name": "rocknix",
+            "manufacturer": "Powkiddy",
             "version": "N/A",
             "device": "rk2023",
             "resolution": [
@@ -1043,6 +1080,7 @@
     "Powkiddy X55": {
         "JELOS": {
             "name": "jelos",
+            "manufacturer": "Powkiddy",
             "version": "N/A",
             "device": "x55",
             "resolution": [
@@ -1075,6 +1113,7 @@
     "Powkiddy RGB10MAX3": {
         "JELOS": {
             "name": "jelos",
+            "manufacturer": "Powkiddy",
             "version": "N/A",
             "device": "rgb10max3",
             "resolution": [
@@ -1104,6 +1143,7 @@
         },
         "ROCKNIX": {
             "name": "rocknix",
+            "manufacturer": "Powkiddy",
             "version": "N/A",
             "device": "rgb10max3",
             "resolution": [
@@ -1135,6 +1175,7 @@
     "Hardkernel ODROID GO Advance": {
         "ArkOS": {
             "name": "arkos",
+            "manufacturer": "Hardkernel",
             "version": "N/A",
             "device": "oga",
             "resolution": [
@@ -1161,6 +1202,7 @@
         },
         "AmberELEC": {
             "name": "amberelec",
+            "manufacturer": "Hardkernel",
             "version": "N/A",
             "device": "oga",
             "resolution": [
@@ -1187,6 +1229,7 @@
         },
         "EmuELEC": {
             "name": "emuelec",
+            "manufacturer": "Hardkernel",
             "version": "N/A",
             "device": "oga",
             "resolution": [
@@ -1213,6 +1256,7 @@
         },
         "JELOS": {
             "name": "jelos",
+            "manufacturer": "Hardkernel",
             "version": "N/A",
             "device": "oga",
             "resolution": [
@@ -1240,6 +1284,7 @@
         },
         "ROCKNIX": {
             "name": "rocknix",
+            "manufacturer": "Hardkernel",
             "version": "N/A",
             "device": "oga",
             "resolution": [
@@ -1269,6 +1314,7 @@
     "Hardkernel ODROID GO Super": {
         "ArkOS": {
             "name": "arkos",
+            "manufacturer": "Hardkernel",
             "version": "N/A",
             "device": "ogs",
             "resolution": [
@@ -1297,6 +1343,7 @@
         },
         "AmberELEC": {
             "name": "amberelec",
+            "manufacturer": "Hardkernel",
             "version": "N/A",
             "device": "ogs",
             "resolution": [
@@ -1325,6 +1372,7 @@
         },
         "EmuELEC": {
             "name": "emuelec",
+            "manufacturer": "Hardkernel",
             "version": "N/A",
             "device": "ogs",
             "resolution": [
@@ -1353,6 +1401,7 @@
         },
         "JELOS": {
             "name": "jelos",
+            "manufacturer": "Hardkernel",
             "version": "N/A",
             "device": "ogs",
             "resolution": [
@@ -1382,6 +1431,7 @@
         },
         "ROCKNIX": {
             "name": "rocknix",
+            "manufacturer": "Hardkernel",
             "version": "N/A",
             "device": "ogs",
             "resolution": [
@@ -1413,6 +1463,7 @@
     "Hardkernel ODROID GO Ultra": {
         "ArkOS": {
             "name": "arkos",
+            "manufacturer": "Hardkernel",
             "version": "N/A",
             "device": "ogu",
             "resolution": [
@@ -1442,6 +1493,7 @@
         },
         "AmberELEC": {
             "name": "amberelec",
+            "manufacturer": "Hardkernel",
             "version": "N/A",
             "device": "ogu",
             "resolution": [
@@ -1471,6 +1523,7 @@
         },
         "EmuELEC": {
             "name": "emuelec",
+            "manufacturer": "Hardkernel",
             "version": "N/A",
             "device": "ogu",
             "resolution": [
@@ -1500,6 +1553,7 @@
         },
         "JELOS": {
             "name": "jelos",
+            "manufacturer": "Hardkernel",
             "version": "N/A",
             "device": "ogu",
             "resolution": [
@@ -1530,6 +1584,7 @@
         },
         "ROCKNIX": {
             "name": "rocknix",
+            "manufacturer": "Hardkernel",
             "version": "N/A",
             "device": "ogu",
             "resolution": [
@@ -1562,6 +1617,7 @@
     "Gameforce Ace": {
         "JELOS": {
             "name": "jelos",
+            "manufacturer": "Gameforce",
             "version": "N/A",
             "device": "ace",
             "resolution": [
@@ -1595,6 +1651,7 @@
         },
         "ROCKNIX": {
             "name": "rocknix",
+             "manufacturer": "Gameforce",
             "version": "N/A",
             "device": "ace",
             "resolution": [
@@ -1630,6 +1687,7 @@
     "Gameforce Chi": {
         "ArkOS": {
             "name": "arkos",
+             "manufacturer": "Gameforce",
             "version": "N/A",
             "device": "chi",
             "resolution": [
@@ -1656,6 +1714,7 @@
         },
         "EmuELEC": {
             "name": "emuelec",
+             "manufacturer": "Gameforce",
             "version": "N/A",
             "device": "chi",
             "resolution": [
@@ -1684,6 +1743,7 @@
     "TrimUI Smart Pro": {
         "TrimUI": {
             "name": "trimui",
+             "manufacturer": "TrimUI",
             "version": "N/A",
             "device": "trimui-smart-pro",
             "resolution": [
@@ -1714,6 +1774,7 @@
     "XU10 Retro Handheld": {
         "ArkOS": {
             "name": "arkos",
+             "manufacturer": "Powkiddy",
             "version": "N/A",
             "device": "xu10",
             "resolution": [
@@ -1740,6 +1801,7 @@
         },
         "AmberELEC": {
             "name": "amberelec",
+            "manufacturer": "Powkiddy",
             "version": "N/A",
             "device": "xu10",
             "resolution": [
@@ -1766,6 +1828,7 @@
         },
         "JELOS": {
             "name": "jelos",
+            "manufacturer": "Powkiddy",
             "version": "N/A",
             "device": "xu10",
             "resolution": [
@@ -1793,6 +1856,7 @@
         },
         "ROCKNIX": {
             "name": "rocknix",
+            "manufacturer": "Powkiddy",
             "version": "N/A",
             "device": "xu10",
             "resolution": [
@@ -1822,6 +1886,7 @@
     "R33S Retro Handheld": {
         "ArkOS": {
             "name": "arkos",
+            "manufacturer": "Unknown",
             "version": "N/A",
             "device": "r33s",
             "resolution": [
@@ -1846,6 +1911,7 @@
         },
         "AmberELEC": {
             "name": "amberelec",
+            "manufacturer": "Unknown",
             "version": "N/A",
             "device": "r33s",
             "resolution": [
@@ -1870,6 +1936,7 @@
         },
         "JELOS": {
             "name": "jelos",
+            "manufacturer": "Unknown",
             "version": "N/A",
             "device": "r33s",
             "resolution": [
@@ -1895,6 +1962,7 @@
         },
         "ROCKNIX": {
             "name": "rocknix",
+            "manufacturer": "Unknown",
             "version": "N/A",
             "device": "r33s",
             "resolution": [
@@ -1922,6 +1990,7 @@
     "R35S Retro Handheld": {
         "ArkOS": {
             "name": "arkos",
+            "manufacturer": "Unknown",
             "version": "N/A",
             "device": "r35s",
             "resolution": [
@@ -1948,6 +2017,7 @@
         },
         "AmberELEC": {
             "name": "amberelec",
+            "manufacturer": "Unknown",
             "version": "N/A",
             "device": "r35s",
             "resolution": [
@@ -1974,6 +2044,7 @@
         },
         "JELOS": {
             "name": "jelos",
+            "manufacturer": "Unknown",
             "version": "N/A",
             "device": "r35s",
             "resolution": [
@@ -2001,6 +2072,7 @@
         },
         "ROCKNIX": {
             "name": "rocknix",
+            "manufacturer": "Unknown",
             "version": "N/A",
             "device": "r35s",
             "resolution": [
@@ -2030,6 +2102,7 @@
     "R36S Retro Handheld": {
         "ArkOS": {
             "name": "arkos",
+            "manufacturer": "Unknown",
             "version": "N/A",
             "device": "r36s",
             "resolution": [
@@ -2056,6 +2129,7 @@
         },
         "AmberELEC": {
             "name": "amberelec",
+            "manufacturer": "Unknown",
             "version": "N/A",
             "device": "r36s",
             "resolution": [
@@ -2082,6 +2156,7 @@
         },
         "JELOS": {
             "name": "jelos",
+            "manufacturer": "Unknown",
             "version": "N/A",
             "device": "r36s",
             "resolution": [
@@ -2109,6 +2184,7 @@
         },
         "ROCKNIX": {
             "name": "rocknix",
+            "manufacturer": "Unknown",
             "version": "N/A",
             "device": "r36s",
             "resolution": [
