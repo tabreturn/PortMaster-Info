@@ -8,8 +8,7 @@
         "name": "ROCKNIX"
       }
     },
-    "name": "Gameforce Ace",
-    "manufacturer": "GameForce"
+    "name": "Gameforce Ace"
   },
   "chi": {
     "cfw": {
@@ -20,8 +19,7 @@
         "name": "EmuELEC"
       }
     },
-    "name": "Gameforce Chi",
-    "manufacturer": "GameForce"
+    "name": "Gameforce Chi"
   },
   "oga": {
     "cfw": {
@@ -41,9 +39,7 @@
         "name": "ROCKNIX"
       }
     },
-    "name": "Hardkernel ODROID GO Advance",
-    "manufacturer": "Hardkernel"
-    
+    "name": "Hardkernel ODROID GO Advance"
   },
   "ogs": {
     "cfw": {
@@ -63,8 +59,7 @@
         "name": "ROCKNIX"
       }
     },
-    "name": "Hardkernel ODROID GO Super",
-    "manufacturer": "Hardkernel"
+    "name": "Hardkernel ODROID GO Super"
   },
   "ogu": {
     "cfw": {
@@ -84,8 +79,7 @@
         "name": "ROCKNIX"
       }
     },
-    "name": "Hardkernel ODROID GO Ultra",
-    "manufacturer": "Hardkernel"
+    "name": "Hardkernel ODROID GO Ultra"
   },
   "r33s": {
     "cfw": {
@@ -102,8 +96,7 @@
         "name": "ROCKNIX"
       }
     },
-    "name": "R33S Retro Handheld",
-    "manufacturer": "Unknown"
+    "name": "R33S Retro Handheld"
   },
   "r35s": {
     "cfw": {
@@ -120,8 +113,7 @@
         "name": "ROCKNIX"
       }
     },
-    "name": "R35S Retro Handheld",
-    "manufacturer": "Unknown"
+    "name": "R35S Retro Handheld"
   },
   "r36s": {
     "cfw": {
@@ -138,8 +130,7 @@
         "name": "ROCKNIX"
       }
     },
-    "name": "R36S Retro Handheld",
-    "manufacturer": "Unknown"
+    "name": "R36S Retro Handheld"
   },
   "rg351mp": {
     "cfw": {
@@ -156,8 +147,7 @@
         "name": "TheRA"
       }
     },
-    "name": "Anbernic RG351MP",
-    "manufacturer": "Anbernic"
+    "name": "Anbernic RG351MP"
   },
   "rg351p": {
     "cfw": {
@@ -174,8 +164,7 @@
         "name": "ROCKNIX"
       }
     },
-    "name": "Anbernic RG351P/M",
-    "manufacturer": "Anbernic"
+    "name": "Anbernic RG351P/M"
   },
   "rg351v": {
     "cfw": {
@@ -192,8 +181,7 @@
         "name": "ROCKNIX"
       }
     },
-    "name": "Anbernic RG351V",
-    "manufacturer": "Anbernic"
+    "name": "Anbernic RG351V"
   },
   "rg353m": {
     "cfw": {
@@ -204,8 +192,7 @@
         "name": "JELOS"
       }
     },
-    "name": "Anbernic RG353 M/V/P",
-    "manufacturer": "Anbernic"
+    "name": "Anbernic RG353 M/V/P"
   },
   "rg353ps": {
     "cfw": {
@@ -219,8 +206,7 @@
         "name": "ROCKNIX"
       }
     },
-    "name": "Anbernic RG353 VS/PS",
-    "manufacturer": "Anbernic"
+    "name": "Anbernic RG353 VS/PS"
   },
   "rg35xx-h": {
     "cfw": {
@@ -231,8 +217,7 @@
         "name": "muOS"
       }
     },
-    "name": "Anbernic RG35XX H",
-    "manufacturer": "Anbernic"
+    "name": "Anbernic RG35XX H"
   },
   "rg35xx-plus": {
     "cfw": {
@@ -243,8 +228,7 @@
         "name": "muOS"
       }
     },
-    "name": "Anbernic RG35XX PLUS",
-    "manufacturer": "Anbernic"
+    "name": "Anbernic RG35XX PLUS"
   },
   "rg503": {
     "cfw": {
@@ -258,8 +242,7 @@
         "name": "ROCKNIX"
       }
     },
-    "name": "Anbernic RG503",
-    "manufacturer": "Anbernic"
+    "name": "Anbernic RG503"
   },
   "rg552": {
     "cfw": {
@@ -273,8 +256,7 @@
         "name": "ROCKNIX"
       }
     },
-    "name": "Anbernic RG552",
-    "manufacturer": "Anbernic"
+    "name": "Anbernic RG552"
   },
   "rgb10": {
     "cfw": {
@@ -288,8 +270,7 @@
         "name": "ROCKNIX"
       }
     },
-    "name": "Powkiddy RGB10",
-    "manufacturer": "Powkiddy"
+    "name": "Powkiddy RGB10"
   },
   "rgb10max3": {
     "cfw": {
@@ -300,8 +281,7 @@
         "name": "ROCKNIX"
       }
     },
-    "name": "Powkiddy RGB10MAX3",
-    "manufacturer": "Powkiddy"
+    "name": "Powkiddy RGB10MAX3"
   },
   "rgb20s": {
     "cfw": {
@@ -309,8 +289,7 @@
         "name": "AmberELEC"
       }
     },
-    "name": "Powkiddy RGB20S",
-    "manufacturer": "Powkiddy"
+    "name": "Powkiddy RGB20S"
   },
   "rgb30": {
     "cfw": {
@@ -324,8 +303,7 @@
         "name": "ROCKNIX"
       }
     },
-    "name": "Powkiddy RGB30",
-    "manufacturer": "Powkiddy"
+    "name": "Powkiddy RGB30"
   },
   "rk2023": {
     "cfw": {
@@ -339,8 +317,7 @@
         "name": "ROCKNIX"
       }
     },
-    "name": "Powkiddy RK2023",
-    "manufacturer": "Powkiddy"
+    "name": "Powkiddy RK2023"
   },
   "trimui-smart-pro": {
     "cfw": {
@@ -348,8 +325,7 @@
         "name": "TrimUI"
       }
     },
-    "name": "TrimUI Smart Pro",
-    "manufacturer": "TrimUI"
+    "name": "TrimUI Smart Pro"
   },
   "x55": {
     "cfw": {
@@ -357,8 +333,7 @@
         "name": "JELOS"
       }
     },
-    "name": "Powkiddy X55",
-    "manufacturer": "Powkiddy"
+    "name": "Powkiddy X55"
   },
   "xu10": {
     "cfw": {
@@ -375,7 +350,6 @@
         "name": "ROCKNIX"
       }
     },
-    "name": "XU10 Retro Handheld",
-    "manufacturer": "Powkiddy"
+    "name": "XU10 Retro Handheld"
   }
 }
