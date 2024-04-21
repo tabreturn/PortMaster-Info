@@ -108,6 +108,7 @@ def main():
             if device_cfw_info['device'] not in devices:
                 devices[device_cfw_info['device']] = {
                     'name': device_name,
+                    'manufacturer': device_cfw_info['manufacturer'],
                     'cfw': {}
                     }
 
