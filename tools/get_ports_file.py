@@ -109,6 +109,7 @@ def main():
                 devices[device_cfw_info['device']] = {
                     'name': device_name,
                     'manufacturer': device_cfw_info['manufacturer'],
+                    'device': device_cfw_info['device'],
                     'cfw': {}
                     }
 
