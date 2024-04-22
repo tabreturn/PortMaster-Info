@@ -8,6 +8,7 @@
         "name": "ROCKNIX"
       }
     },
+    "device": "ace",
     "manufacturer": "Gameforce",
     "name": "Gameforce Ace"
   },
@@ -20,6 +21,7 @@
         "name": "EmuELEC"
       }
     },
+    "device": "chi",
     "manufacturer": "Gameforce",
     "name": "Gameforce Chi"
   },
@@ -41,6 +43,7 @@
         "name": "ROCKNIX"
       }
     },
+    "device": "oga",
     "manufacturer": "Hardkernel",
     "name": "Hardkernel ODROID GO Advance"
   },
@@ -62,6 +65,7 @@
         "name": "ROCKNIX"
       }
     },
+    "device": "ogs",
     "manufacturer": "Hardkernel",
     "name": "Hardkernel ODROID GO Super"
   },
@@ -83,6 +87,7 @@
         "name": "ROCKNIX"
       }
     },
+    "device": "ogu",
     "manufacturer": "Hardkernel",
     "name": "Hardkernel ODROID GO Ultra"
   },
@@ -101,6 +106,7 @@
         "name": "ROCKNIX"
       }
     },
+    "device": "r33s",
     "manufacturer": "Unknown",
     "name": "R33S Retro Handheld"
   },
@@ -119,6 +125,7 @@
         "name": "ROCKNIX"
       }
     },
+    "device": "r35s",
     "manufacturer": "Unknown",
     "name": "R35S Retro Handheld"
   },
@@ -137,6 +144,7 @@
         "name": "ROCKNIX"
       }
     },
+    "device": "r36s",
     "manufacturer": "Unknown",
     "name": "R36S Retro Handheld"
   },
@@ -155,6 +163,7 @@
         "name": "TheRA"
       }
     },
+    "device": "rg351mp",
     "manufacturer": "Anbernic",
     "name": "Anbernic RG351MP"
   },
@@ -173,6 +182,7 @@
         "name": "ROCKNIX"
       }
     },
+    "device": "rg351p",
     "manufacturer": "Anbernic",
     "name": "Anbernic RG351P/M"
   },
@@ -191,6 +201,7 @@
         "name": "ROCKNIX"
       }
     },
+    "device": "rg351v",
     "manufacturer": "Anbernic",
     "name": "Anbernic RG351V"
   },
@@ -203,6 +214,7 @@
         "name": "JELOS"
       }
     },
+    "device": "rg353m",
     "manufacturer": "Anbernic",
     "name": "Anbernic RG353 M/V/P"
   },
@@ -218,6 +230,7 @@
         "name": "ROCKNIX"
       }
     },
+    "device": "rg353ps",
     "manufacturer": "Anbernic",
     "name": "Anbernic RG353 VS/PS"
   },
@@ -230,6 +243,7 @@
         "name": "muOS"
       }
     },
+    "device": "rg35xx-h",
     "manufacturer": "Anbernic",
     "name": "Anbernic RG35XX H"
   },
@@ -242,6 +256,7 @@
         "name": "muOS"
       }
     },
+    "device": "rg35xx-plus",
     "manufacturer": "Anbernic",
     "name": "Anbernic RG35XX PLUS"
   },
@@ -257,6 +272,7 @@
         "name": "ROCKNIX"
       }
     },
+    "device": "rg503",
     "manufacturer": "Anbernic",
     "name": "Anbernic RG503"
   },
@@ -272,6 +288,7 @@
         "name": "ROCKNIX"
       }
     },
+    "device": "rg552",
     "manufacturer": "Anbernic",
     "name": "Anbernic RG552"
   },
@@ -287,6 +304,7 @@
         "name": "ROCKNIX"
       }
     },
+    "device": "rgb10",
     "manufacturer": "Powkiddy",
     "name": "Powkiddy RGB10"
   },
@@ -299,6 +317,7 @@
         "name": "ROCKNIX"
       }
     },
+    "device": "rgb10max3",
     "manufacturer": "Powkiddy",
     "name": "Powkiddy RGB10MAX3"
   },
@@ -308,6 +327,7 @@
         "name": "AmberELEC"
       }
     },
+    "device": "rgb20s",
     "manufacturer": "Powkiddy",
     "name": "Powkiddy RGB20S"
   },
@@ -323,6 +343,7 @@
         "name": "ROCKNIX"
       }
     },
+    "device": "rgb30",
     "manufacturer": "Powkiddy",
     "name": "Powkiddy RGB30"
   },
@@ -338,6 +359,7 @@
         "name": "ROCKNIX"
       }
     },
+    "device": "rk2023",
     "manufacturer": "Powkiddy",
     "name": "Powkiddy RK2023"
   },
@@ -347,6 +369,7 @@
         "name": "TrimUI"
       }
     },
+    "device": "trimui-smart-pro",
     "manufacturer": "TrimUI",
     "name": "TrimUI Smart Pro"
   },
@@ -356,6 +379,7 @@
         "name": "JELOS"
       }
     },
+    "device": "x55",
     "manufacturer": "Powkiddy",
     "name": "Powkiddy X55"
   },
@@ -374,6 +398,7 @@
         "name": "ROCKNIX"
       }
     },
+    "device": "xu10",
     "manufacturer": "Powkiddy",
     "name": "XU10 Retro Handheld"
   }
