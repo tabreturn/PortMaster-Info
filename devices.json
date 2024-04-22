@@ -107,7 +107,7 @@
       }
     },
     "device": "r33s",
-    "manufacturer": "Unknown",
+    "manufacturer": "Other",
     "name": "R33S Retro Handheld"
   },
   "r35s": {
@@ -126,7 +126,7 @@
       }
     },
     "device": "r35s",
-    "manufacturer": "Unknown",
+    "manufacturer": "Other",
     "name": "R35S Retro Handheld"
   },
   "r36s": {
@@ -145,7 +145,7 @@
       }
     },
     "device": "r36s",
-    "manufacturer": "Unknown",
+    "manufacturer": "Other",
     "name": "R36S Retro Handheld"
   },
   "rg351mp": {
