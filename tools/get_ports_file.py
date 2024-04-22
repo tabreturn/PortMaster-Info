@@ -65,7 +65,7 @@ def match_requirements(capabilities, requirements):
     return passed
 
 def device_cfw_tag(port_info, device_info, runtimes_info):
-    match_all = True
+    match_all = False
 
     avail_dev = []
     for device_name, cfw_info in device_info.items():
