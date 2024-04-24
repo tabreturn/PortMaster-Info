@@ -1863,12 +1863,12 @@
       "name": "bittriprunner2.zip",
       "source": {
         "date_added": "2024-02-01",
-        "date_updated": "2024-04-07",
-        "md5": "bad23f41d78ff171ace5eebfb295adb0",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-04-24",
+        "md5": "88dc38893a1cb000ad3587e7bbbac1c0",
+        "release_id": "2024-04-24_1323",
         "repo": "main",
-        "size": 6631650,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/bittriprunner2.zip"
+        "size": 8278472,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/bittriprunner2.zip"
       },
       "version": 2
     },
@@ -2761,6 +2761,75 @@
       },
       "version": 2
     },
+    "boneraiserminions.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Amass an army of deamonic undead to fight endless waves of heroes intent to end your boneraising ways! In this gothic-horror auto-battle roguelite, use the bones of slain heroes to raise your minions, collect powerful relics and spells, and unlock meta upgrades, all to survive King Gigald's crusade!\n\nNote: This is the older version 3.1 which works with PortMaster!",
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from https://store.steampowered.com/app/1944570/Boneraiser_Minions/\nRun steam console via Windows+R: Type: steam://open/console, download version 3.1 by typing: download_depot 1944570 1944571 6000190403203003495 in the console, when the download is complete, it will tell you the location of the folder,  copy the data.win, audiogroup1.dat, audiogroup2.dat and options.ini from the folder to /ports/boneraiserminions/gamedata",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Boneraiser Minions"
+      },
+      "items": [
+        "Boneraiser Minions.sh",
+        "boneraiserminions"
+      ],
+      "items_opt": null,
+      "name": "boneraiserminions.zip",
+      "source": {
+        "date_added": "2024-04-24",
+        "date_updated": "2024-04-24",
+        "md5": "4fc1f759c560fee3ecc07f9704e13c74",
+        "release_id": "2024-04-24_1323",
+        "repo": "main",
+        "size": 11655173,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/boneraiserminions.zip"
+      },
+      "version": 2
+    },
     "boni.zip": {
       "attr": {
         "arch": [],
@@ -3238,7 +3307,9 @@
     "bstone-aog.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf",
+          "x86_64"
         ],
         "avail": [
           "rg353m:ALL",
@@ -3246,6 +3317,8 @@
           "rg351mp:ALL",
           "rg503:ALL",
           "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
           "rg351p:ALL",
           "rg351v:ALL",
           "rgb10:ALL",
@@ -3282,7 +3355,8 @@
         "inst": "Includes the shareware files.  You can also add your own full version Blake Stone Aliens of Gold files to the ports/bstone-aog/gamedata/alien_of_gold folder.",
         "porter": [
           "Cebion",
-          "romadu"
+          "romadu",
+          "Slayer366"
         ],
         "reqs": [],
         "rtr": true,
@@ -3297,19 +3371,21 @@
       "name": "bstone-aog.zip",
       "source": {
         "date_added": "2021-11-05",
-        "date_updated": "2024-04-01",
-        "md5": "bc05b328f5f7b1ffcbdbdbb9487ab799",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-04-24",
+        "md5": "bf53302001403489da4b31aa724db135",
+        "release_id": "2024-04-24_1323",
         "repo": "main",
-        "size": 1134714,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/bstone-aog.zip"
+        "size": 6484908,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/bstone-aog.zip"
       },
       "version": 2
     },
     "bstone-ps.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf",
+          "x86_64"
         ],
         "avail": [
           "rg353m:ALL",
@@ -3317,6 +3393,8 @@
           "rg351mp:ALL",
           "rg503:ALL",
           "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
           "rg351p:ALL",
           "rg351v:ALL",
           "rgb10:ALL",
@@ -3352,7 +3430,8 @@
         "inst": "You'll need to add your own full version Blake Stone Planet Strike files to the ports/bstone-ps/gamedata/planet_strike folder.",
         "porter": [
           "Cebion",
-          "romadu"
+          "romadu",
+          "Slayer366"
         ],
         "reqs": [],
         "rtr": false,
@@ -3367,12 +3446,12 @@
       "name": "bstone-ps.zip",
       "source": {
         "date_added": "2021-11-05",
-        "date_updated": "2024-04-01",
-        "md5": "b0d478f80c12ff1f1b91ac4751409bea",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-04-24",
+        "md5": "7b866856def987014a4018e0e3021d60",
+        "release_id": "2024-04-24_1323",
         "repo": "main",
-        "size": 1150758,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/bstone-ps.zip"
+        "size": 6500556,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/bstone-ps.zip"
       },
       "version": 2
     },
@@ -3584,6 +3663,73 @@
         "repo": "main",
         "size": 11384797,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/bumpersbroadswords.zip"
+      },
+      "version": 2
+    },
+    "bunnysflowers.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Bunny\u2019s Flowers is a cute, wholesome puzzle game about taking a trip to your grandma's house. Overcome box-pushing challenges using your mysterious magical power.",
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy data.win, audiogroup1.dat and audiogroup2.dat into /ports/bunnysflowers/gamedata from the Steam version of Bunny's Flowers: https://store.steampowered.com/app/1375480",
+        "porter": [
+          "Kompaan"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Bunny's Flowers"
+      },
+      "items": [
+        "Bunny's Flowers.sh",
+        "bunnysflowers"
+      ],
+      "items_opt": null,
+      "name": "bunnysflowers.zip",
+      "source": {
+        "date_added": "2024-04-24",
+        "date_updated": "2024-04-24",
+        "md5": "5c059c425b464afcb3be26701bf6762e",
+        "release_id": "2024-04-24_1323",
+        "repo": "main",
+        "size": 5340011,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/bunnysflowers.zip"
       },
       "version": 2
     },
@@ -3918,12 +4064,12 @@
       "name": "cannonball-st.zip",
       "source": {
         "date_added": "2023-11-21",
-        "date_updated": "2024-04-01",
-        "md5": "daf70e48d203a78a4354df96a2e59b3b",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-04-24",
+        "md5": "d85e42af8841174dfc09fbc8270bbb34",
+        "release_id": "2024-04-24_1323",
         "repo": "main",
-        "size": 419876,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/cannonball-st.zip"
+        "size": 419823,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/cannonball-st.zip"
       },
       "version": 2
     },
@@ -8859,12 +9005,12 @@
       "name": "freedroid.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "ecbb3e53f8fb68547e14da5dc263403c",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-04-24",
+        "md5": "372046abaeaa41d34351a145311cd381",
+        "release_id": "2024-04-24_1323",
         "repo": "main",
-        "size": 245347402,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/freedroid.zip"
+        "size": 245347556,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/freedroid.zip"
       },
       "version": 2
     },
@@ -12472,12 +12618,12 @@
       "name": "labyrinthoflegendaryloot.zip",
       "source": {
         "date_added": "2024-04-01",
-        "date_updated": "2024-04-17",
-        "md5": "5036879faabc41dc67fee6024a902450",
-        "release_id": "2024-04-17_0840",
+        "date_updated": "2024-04-24",
+        "md5": "401687f7eb2baeeaa6322eb4a2e5f218",
+        "release_id": "2024-04-24_1323",
         "repo": "main",
-        "size": 50363736,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-17_0840/labyrinthoflegendaryloot.zip"
+        "size": 50170986,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/labyrinthoflegendaryloot.zip"
       },
       "version": 2
     },
@@ -13154,6 +13300,75 @@
         "repo": "main",
         "size": 5687289,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/love.zip"
+      },
+      "version": 2
+    },
+    "love3.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "LOVE 3 is a precision platformer with minimalistic pixel graphics and tight controls. Face challenging obstacles, discover hidden secrets, and place custom checkpoints after you overcome each new danger.\n\n3 Other games included for free:\nIncludes every level from LOVE, LOVE 2: kuso, and LOVE Remastered, in addition to the original 42 track soundtrack.",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Itch. Fred Wood has kindly provided a PortMaster package, download it. This will replace the gamedata folder in your portfolder.\n\nIf you already own the game on Steam. You will need to download the Linux version. If you're running windows, use this command in the Steam Console: download_depot 1604300 1604302 2416319664696347085. Locate the gamefiles and copy over the assets to the gamedata folder.",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "LOVE 3"
+      },
+      "items": [
+        "LOVE 3.sh",
+        "love3"
+      ],
+      "items_opt": null,
+      "name": "love3.zip",
+      "source": {
+        "date_added": "2024-04-24",
+        "date_updated": "2024-04-24",
+        "md5": "2e59a565f7e38fba896ee8c04dfe9b2d",
+        "release_id": "2024-04-24_1323",
+        "repo": "main",
+        "size": 8384455,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/love3.zip"
       },
       "version": 2
     },
@@ -14063,6 +14278,75 @@
         "repo": "main",
         "size": 5117643,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/minesector.zip"
+      },
+      "version": 2
+    },
+    "minetest.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "An open-source voxel sandbox game engine. Lots of free community-made games and mods to download straight from the client. Inspired by InfiniMiner, Minecraft, and the like.",
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.\n\nSome menus extend off-screen for some devices, however all configuration options can be adjusted at `/path/to/your/ports/minetest/minetest.conf`. Settings options are described here: http://doxy.minetest.net/settings.html\n\nSingle-player play requires >1 GB in order to run both the host and client instances. So 1 GB devices should stick to server play because RAM requirements are only ~700 MB. There are public servers available or you can host your own private server!",
+        "porter": [
+          "Captain_Barge"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Minetest"
+      },
+      "items": [
+        "Minetest.sh",
+        "minetest"
+      ],
+      "items_opt": null,
+      "name": "minetest.zip",
+      "source": {
+        "date_added": "2024-04-24",
+        "date_updated": "2024-04-24",
+        "md5": "e3d6b9281c6566e7327cb3b4226fbf23",
+        "release_id": "2024-04-24_1323",
+        "repo": "main",
+        "size": 44823789,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/minetest.zip"
       },
       "version": 2
     },
@@ -15215,12 +15499,12 @@
       "name": "nanosaur.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2024-04-01",
-        "md5": "ae2817d7f60603d4a56d1ff163ea6e60",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-04-24",
+        "md5": "443cc8eb2c430a013bebef81528b0abc",
+        "release_id": "2024-04-24_1323",
         "repo": "main",
-        "size": 12853418,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/nanosaur.zip"
+        "size": 12853439,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/nanosaur.zip"
       },
       "version": 2
     },
@@ -16160,6 +16444,75 @@
         "repo": "main",
         "size": 5578313,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-20_1331/nulldrifter.zip"
+      },
+      "version": 2
+    },
+    "ocda.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "OCDA is a precision platformer in which you play as an animated potato who also just happens to somehow be literate.\nRun and jump your way through levels, find secrets and master your ability to dash. It's just you, the game and your tenacity to continue.\nThe game is short and sweet, but offers more content in the form of hunting collectibles and secrets.\nClearing the game unlocks speedrun mode as well. Post your fastest time in the comments!",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download OCDA.zip from https://kirstu.itch.io/ocda and unzip the contents into the /ports/ocda/gamedata folder",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "OCDA"
+      },
+      "items": [
+        "OCDA.sh",
+        "ocda"
+      ],
+      "items_opt": null,
+      "name": "ocda.zip",
+      "source": {
+        "date_added": "2024-04-24",
+        "date_updated": "2024-04-24",
+        "md5": "9c9490b1034e02de0eb6a476f8b737f8",
+        "release_id": "2024-04-24_1323",
+        "repo": "main",
+        "size": 5152480,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/ocda.zip"
       },
       "version": 2
     },
@@ -17178,12 +17531,12 @@
       "name": "oquonie.zip",
       "source": {
         "date_added": "2024-02-03",
-        "date_updated": "2024-04-01",
-        "md5": "682bf130b7a2a044efc239f90f68feda",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-04-24",
+        "md5": "a90984f33efb2c9826f002f802081703",
+        "release_id": "2024-04-24_1323",
         "repo": "main",
-        "size": 55152,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/oquonie.zip"
+        "size": 55112,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/oquonie.zip"
       },
       "version": 2
     },
@@ -22576,12 +22929,12 @@
       "name": "snkrx.zip",
       "source": {
         "date_added": "2024-04-20",
-        "date_updated": "2024-04-20",
-        "md5": "480a4e4427b5465f0885c186b675c818",
-        "release_id": "2024-04-20_1331",
+        "date_updated": "2024-04-24",
+        "md5": "ad1e3422f036865210be54493220bb51",
+        "release_id": "2024-04-24_1323",
         "repo": "main",
-        "size": 10433181,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-20_1331/snkrx.zip"
+        "size": 10240565,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/snkrx.zip"
       },
       "version": 2
     },
