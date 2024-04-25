@@ -70,6 +70,73 @@
       },
       "version": 2
     },
+    "a7xpg.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "The goal of the game is to collect all the gold bullions found in each level and avoid crashing into any of the enemies. As you progress through the levels you will encounter harder enemies, and you can gain a short period of invincibility if you gather gold at high speeds.",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "A7Xpg"
+      },
+      "items": [
+        "A7Xpg.sh",
+        "a7xpg"
+      ],
+      "items_opt": null,
+      "name": "a7xpg.zip",
+      "source": {
+        "date_added": "2024-04-25",
+        "date_updated": "2024-04-25",
+        "md5": "30f5d0d0b524be1a976020415c7a1207",
+        "release_id": "2024-04-25_1154",
+        "repo": "main",
+        "size": 6898332,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-25_1154/a7xpg.zip"
+      },
+      "version": 2
+    },
     "abes_adventure.zip": {
       "attr": {
         "arch": [
@@ -556,6 +623,74 @@
       },
       "version": 2
     },
+    "alienblaster.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Alien Blaster is a classic 2D shoot 'em up featuring lots of different weapons, special items, aliens to blast and a big bad boss. Your mission is simple: Stop the invasion of the aliens and blast them!",
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Alien Blaster"
+      },
+      "items": [
+        "Alien Blaster.sh",
+        "alienblaster"
+      ],
+      "items_opt": null,
+      "name": "alienblaster.zip",
+      "source": {
+        "date_added": "2024-04-25",
+        "date_updated": "2024-04-25",
+        "md5": "373d611455bb05f28be4382104ce5dc7",
+        "release_id": "2024-04-25_1154",
+        "repo": "main",
+        "size": 7848114,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-25_1154/alienblaster.zip"
+      },
+      "version": 2
+    },
     "am2r.zip": {
       "attr": {
         "arch": [
@@ -1035,6 +1170,140 @@
         "repo": "main",
         "size": 1540639,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/apricots.zip"
+      },
+      "version": 2
+    },
+    "arkovstower.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "This roguelike puts you in the shoes of an unnamed adventurer who just woke up on the top level of Arkov's Tower. Try to fight your way down and escape it - or die trying. Move your player trough numerous procedural generated levels. Fight numerous enemies including some unique bosses. The turn based combat system allows you to take your time and plan every move carefully. Upgrade your character with all sorts of items found in chests or dropped by enemies. This game is highly customizable for people with pixel art and/or programming experience.",
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game https://store.steampowered.com/app/2688600/Descent_from_Arkovs_tower_Prologue/ and copy the exe file into game folder.",
+        "porter": [
+          "Troidem"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Arkovs Tower"
+      },
+      "items": [
+        "Arkovs Tower.sh",
+        "arkovstower"
+      ],
+      "items_opt": null,
+      "name": "arkovstower.zip",
+      "source": {
+        "date_added": "2024-04-25",
+        "date_updated": "2024-04-25",
+        "md5": "f2e110df80819a5450582bed184219f3",
+        "release_id": "2024-04-25_1154",
+        "repo": "main",
+        "size": 2810631,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-25_1154/arkovstower.zip"
+      },
+      "version": 2
+    },
+    "asylum.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Young Sigmund has a few problems. To help him resolve his mental instability you must enter the surreal world of his inner mind and shut down the malfunctioning brain cells. Guide Sigmund through the Ego, Psyche and Id zones - each one 300 times the size of the screen - to locate the eight renegade neurons, entering them one by one to find and trigger their self-destruct system.",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Asylum"
+      },
+      "items": [
+        "Asylum.sh",
+        "asylum"
+      ],
+      "items_opt": null,
+      "name": "asylum.zip",
+      "source": {
+        "date_added": "2024-04-25",
+        "date_updated": "2024-04-25",
+        "md5": "f5b00046ddb9d57f658164fe1d91945e",
+        "release_id": "2024-04-25_1154",
+        "repo": "main",
+        "size": 2277205,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-25_1154/asylum.zip"
       },
       "version": 2
     },
@@ -6692,6 +6961,77 @@
       },
       "version": 2
     },
+    "drinkndrive.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A vertical arcade racing game where your vehicle is out of control. You must refrain from crashing into oncoming cars and see how many you can dodge.",
+        "exp": false,
+        "genres": [
+          "arcade",
+          "racing"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the .exe and place it into the gamedata folder",
+        "porter": [
+          "MadShmupper",
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Drink'n'Drive"
+      },
+      "items": [
+        "Drink'n'Drive.sh",
+        "drinkndrive"
+      ],
+      "items_opt": null,
+      "name": "drinkndrive.zip",
+      "source": {
+        "date_added": "2024-04-25",
+        "date_updated": "2024-04-25",
+        "md5": "c44625e24bde2e683f3661fcbcd6d911",
+        "release_id": "2024-04-25_1154",
+        "repo": "main",
+        "size": 7008503,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-25_1154/drinkndrive.zip"
+      },
+      "version": 2
+    },
     "droid7.zip": {
       "attr": {
         "arch": [],
@@ -9625,6 +9965,76 @@
         "repo": "main",
         "size": 4461253,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/gnurobbo.zip"
+      },
+      "version": 2
+    },
+    "gravitycircuit.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Gravity Circuit - a flashy action packed 2d platformer in the spirit of console classics.",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Drop GravityCircuit.exe from either your GOG or Steam copy of the game into /roms/ports/gravitycircuit/gamedata",
+        "porter": [
+          "Kompaan",
+          "Wark91"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Gravity Circuit"
+      },
+      "items": [
+        "Gravity Circuit.sh",
+        "gravitycircuit"
+      ],
+      "items_opt": null,
+      "name": "gravitycircuit.zip",
+      "source": {
+        "date_added": "2024-04-25",
+        "date_updated": "2024-04-25",
+        "md5": "456f8e2388ac97e6a4eb3c5b97f03efc",
+        "release_id": "2024-04-25_1154",
+        "repo": "main",
+        "size": 2439051,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-25_1154/gravitycircuit.zip"
       },
       "version": 2
     },
@@ -12763,6 +13173,75 @@
       },
       "version": 2
     },
+    "lierolibre.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Liero is a simple game. Pick your five weapons, and unleash your inner fury.",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This game is ready to run.",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "LieroLibre"
+      },
+      "items": [
+        "LieroLibre.sh",
+        "lierolibre"
+      ],
+      "items_opt": null,
+      "name": "lierolibre.zip",
+      "source": {
+        "date_added": "2024-04-25",
+        "date_updated": "2024-04-25",
+        "md5": "6093807010d96e65920b6dc6c3b67b46",
+        "release_id": "2024-04-25_1154",
+        "repo": "main",
+        "size": 10982029,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-25_1154/lierolibre.zip"
+      },
+      "version": 2
+    },
     "lisathejoyful.zip": {
       "attr": {
         "arch": [
@@ -14216,7 +14695,8 @@
     "minesector.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf"
         ],
         "avail": [
           "rg353m:ALL",
@@ -14224,6 +14704,8 @@
           "rg351mp:ALL",
           "rg503:ALL",
           "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
           "rg351p:ALL",
           "rg351v:ALL",
           "rgb10:ALL",
@@ -14272,12 +14754,12 @@
       "name": "minesector.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-04-01",
-        "md5": "46b84ffc210e72b956cd001281d2f7db",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-04-25",
+        "md5": "96468aa479176683d110ac7c877c2816",
+        "release_id": "2024-04-25_1154",
         "repo": "main",
-        "size": 5117643,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/minesector.zip"
+        "size": 12408188,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-25_1154/minesector.zip"
       },
       "version": 2
     },
@@ -14341,12 +14823,12 @@
       "name": "minetest.zip",
       "source": {
         "date_added": "2024-04-24",
-        "date_updated": "2024-04-24",
-        "md5": "e3d6b9281c6566e7327cb3b4226fbf23",
-        "release_id": "2024-04-24_1323",
+        "date_updated": "2024-04-25",
+        "md5": "86c85041ecdf7c0d61239ce7969bccde",
+        "release_id": "2024-04-25_1154",
         "repo": "main",
-        "size": 44823789,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/minetest.zip"
+        "size": 44310431,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-25_1154/minetest.zip"
       },
       "version": 2
     },
@@ -21902,6 +22384,73 @@
         "repo": "main",
         "size": 14329737,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/serioussam-tse.zip"
+      },
+      "version": 2
+    },
+    "sevenkingdoms.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A long, long time ago, when people lived among gods and monsters, seven kingdoms struggled for rule over the land. Lead one of those civilizations to glory through sophisticated trade, diplomacy, espionage and conquest. Choose from one of seven cultures: Greek, Persian, Viking, Norman, Mayan, Chinese and Japanese and compete for domination. Each Race in Seven Kingdoms has its own distinct advantages and disadvantages, its own unique God unit, a different military skill, its own strengths and weaknesses. Learn how to use them! Use military means, economy or subterfuge to bring down your enemies. And don't forget about brute force, cunning and intelligence.",
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Seven Kingdoms - Ancient Adversaries"
+      },
+      "items": [
+        "Seven Kingdoms - Ancient Adversaries.sh",
+        "sevenkingdoms"
+      ],
+      "items_opt": null,
+      "name": "sevenkingdoms.zip",
+      "source": {
+        "date_added": "2024-04-25",
+        "date_updated": "2024-04-25",
+        "md5": "8bc4534124282edc5c76f46c2ae6bfa7",
+        "release_id": "2024-04-25_1154",
+        "repo": "main",
+        "size": 49706333,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-25_1154/sevenkingdoms.zip"
       },
       "version": 2
     },
