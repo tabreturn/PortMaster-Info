@@ -1097,12 +1097,12 @@
       "name": "apotris.zip",
       "source": {
         "date_added": "2024-02-05",
-        "date_updated": "2024-04-01",
-        "md5": "7469f52a28e0f9ae862538f64e9c8d67",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-04-26",
+        "md5": "27bb3c7736730ab66243829e74bd06cd",
+        "release_id": "2024-04-26_2100",
         "repo": "main",
-        "size": 5991065,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/apotris.zip"
+        "size": 7652344,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-26_2100/apotris.zip"
       },
       "version": 2
     },
@@ -4342,6 +4342,73 @@
       },
       "version": 2
     },
+    "cardswithpersonalities.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Single-player deck-building game full of charm! This deck-building game is trying to be accessible for both newcomers and veterans to the genre, with simple controls and clear rules. Still, each turn needs to be thought-out to beat the charming bosses!",
+        "exp": false,
+        "genres": [
+          "casino/card"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase and download the game https://store.steampowered.com/app/2147020/Cards_with_Personalities/ and copy the exe file into the port folder.",
+        "porter": [
+          "Troidem"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Cards with Personalities"
+      },
+      "items": [
+        "Cards with Personalities.sh",
+        "cardswithpersonalities"
+      ],
+      "items_opt": null,
+      "name": "cardswithpersonalities.zip",
+      "source": {
+        "date_added": "2024-04-26",
+        "date_updated": "2024-04-26",
+        "md5": "8dc534c11e917c15001ab8a9c0983e61",
+        "release_id": "2024-04-26_2100",
+        "repo": "main",
+        "size": 2998299,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-26_2100/cardswithpersonalities.zip"
+      },
+      "version": 2
+    },
     "carmageddon.zip": {
       "attr": {
         "arch": [
@@ -7023,12 +7090,12 @@
       "name": "drinkndrive.zip",
       "source": {
         "date_added": "2024-04-25",
-        "date_updated": "2024-04-25",
-        "md5": "c44625e24bde2e683f3661fcbcd6d911",
-        "release_id": "2024-04-25_1154",
+        "date_updated": "2024-04-26",
+        "md5": "19b259041f0bb08482f52427f7f2f576",
+        "release_id": "2024-04-26_2100",
         "repo": "main",
-        "size": 7008503,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-25_1154/drinkndrive.zip"
+        "size": 7008661,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-26_2100/drinkndrive.zip"
       },
       "version": 2
     },
@@ -16443,12 +16510,12 @@
       "name": "nidhogg.zip",
       "source": {
         "date_added": "2024-04-20",
-        "date_updated": "2024-04-20",
-        "md5": "31be988265bcfb016bb9221088f1ef89",
-        "release_id": "2024-04-20_1331",
+        "date_updated": "2024-04-26",
+        "md5": "8de62a10374474a548aca1ca499fad7f",
+        "release_id": "2024-04-26_2100",
         "repo": "main",
-        "size": 11807194,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-20_1331/nidhogg.zip"
+        "size": 11807192,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-26_2100/nidhogg.zip"
       },
       "version": 2
     },
@@ -23007,7 +23074,8 @@
     "skifree.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf"
         ],
         "avail": [
           "rg353m:ALL",
@@ -23015,6 +23083,8 @@
           "rg351mp:ALL",
           "rg503:ALL",
           "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
           "rg351p:ALL",
           "rg351v:ALL",
           "rgb10:ALL",
@@ -23065,12 +23135,12 @@
       "name": "skifree.zip",
       "source": {
         "date_added": "2024-01-22",
-        "date_updated": "2024-04-01",
-        "md5": "e0cc3e6d8b59324dae563dde57934702",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-04-26",
+        "md5": "2d2ad2e9fe1e57da1d10903012ae7587",
+        "release_id": "2024-04-26_2100",
         "repo": "main",
-        "size": 6998209,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/skifree.zip"
+        "size": 14100636,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-26_2100/skifree.zip"
       },
       "version": 2
     },
