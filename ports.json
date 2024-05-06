@@ -926,6 +926,77 @@
       },
       "version": 2
     },
+    "annalynn.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Annalynn is a 2D platformer made in the style of arcade games from the early '80s. Play as Annalynn, the eponymous heroine who has to run, jump, and climb to outwit the four snakes: Randy, Handy, Candy, and Mike. Collect the coins, grab the bonus foods, and turn the tables with blinding rubies! Think you've got what it takes to go for the high score?\n\nNote: This is version 1.3 of the steam version. Other versions are not compatible with this portmaster package!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from steam: https://store.steampowered.com/app/1508460/Annalynn/\nRun steam console via Windows+R: Type: steam://open/console, download the 1.3 version by typing: download_depot 1508460 1508461 5365853075598347936 in the console. When the download is complete, it will tell you the location of the folder, copy all files to /ports/annalynn/gamedata",
+        "inst_md": null,
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Annalynn"
+      },
+      "items": [
+        "Annalynn.sh",
+        "annalynn"
+      ],
+      "items_opt": null,
+      "name": "annalynn.zip",
+      "source": {
+        "date_added": "2024-05-06",
+        "date_updated": "2024-05-06",
+        "md5": "985e6e2da76f3874f89cbd0ea23b9544",
+        "release_id": "2024-05-06_2128",
+        "repo": "main",
+        "size": 13128709,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/annalynn.zip"
+      },
+      "version": 2
+    },
     "anodyne.zip": {
       "attr": {
         "arch": [],
@@ -1244,13 +1315,15 @@
           "rpg"
         ],
         "image": {
-          "covers": [],
-          "screenshot": "screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
         "inst": "Download the game https://store.steampowered.com/app/2688600/Descent_from_Arkovs_tower_Prologue/ and copy the exe file into game folder.",
-        "inst_md": null,
+        "inst_md": "Download [Descent from Arkov's tower Prologue](https://store.steampowered.com/app/2688600/Descent_from_Arkovs_tower_Prologue/) from Steam and copy the exe file into game folder.",
         "porter": [
           "Troidem"
         ],
@@ -1267,12 +1340,12 @@
       "name": "arkovstower.zip",
       "source": {
         "date_added": "2024-04-25",
-        "date_updated": "2024-04-25",
-        "md5": "f2e110df80819a5450582bed184219f3",
-        "release_id": "2024-04-25_1154",
+        "date_updated": "2024-05-06",
+        "md5": "0d0023aa4b5fee260b28dbb38495815a",
+        "release_id": "2024-05-06_2128",
         "repo": "main",
-        "size": 2810631,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-25_1154/arkovstower.zip"
+        "size": 2833704,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/arkovstower.zip"
       },
       "version": 2
     },
@@ -1336,12 +1409,12 @@
       "name": "asylum.zip",
       "source": {
         "date_added": "2024-04-25",
-        "date_updated": "2024-04-25",
-        "md5": "f5b00046ddb9d57f658164fe1d91945e",
-        "release_id": "2024-04-25_1154",
+        "date_updated": "2024-05-06",
+        "md5": "d8c8d62ba109655d0de5deefbefbc0e0",
+        "release_id": "2024-05-06_2128",
         "repo": "main",
-        "size": 2277205,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-25_1154/asylum.zip"
+        "size": 2277235,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/asylum.zip"
       },
       "version": 2
     },
@@ -3746,12 +3819,12 @@
       "name": "bstone-aog.zip",
       "source": {
         "date_added": "2021-11-05",
-        "date_updated": "2024-04-24",
-        "md5": "bf53302001403489da4b31aa724db135",
-        "release_id": "2024-04-24_1323",
+        "date_updated": "2024-05-06",
+        "md5": "4f308059d372ce2a36a32202ffc43455",
+        "release_id": "2024-05-06_2128",
         "repo": "main",
-        "size": 6484908,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/bstone-aog.zip"
+        "size": 6484924,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/bstone-aog.zip"
       },
       "version": 2
     },
@@ -3823,12 +3896,12 @@
       "name": "bstone-ps.zip",
       "source": {
         "date_added": "2021-11-05",
-        "date_updated": "2024-04-24",
-        "md5": "7b866856def987014a4018e0e3021d60",
-        "release_id": "2024-04-24_1323",
+        "date_updated": "2024-05-06",
+        "md5": "063fb0e63a671781159edb98aff52210",
+        "release_id": "2024-05-06_2128",
         "repo": "main",
-        "size": 6500556,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/bstone-ps.zip"
+        "size": 6500571,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/bstone-ps.zip"
       },
       "version": 2
     },
@@ -4528,12 +4601,12 @@
       "name": "cardswithpersonalities.zip",
       "source": {
         "date_added": "2024-04-26",
-        "date_updated": "2024-04-26",
-        "md5": "8dc534c11e917c15001ab8a9c0983e61",
-        "release_id": "2024-04-26_2100",
+        "date_updated": "2024-05-06",
+        "md5": "c513cf207c6d1a1a0641ea6e3fc243d6",
+        "release_id": "2024-05-06_2128",
         "repo": "main",
-        "size": 2998299,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-26_2100/cardswithpersonalities.zip"
+        "size": 2998307,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/cardswithpersonalities.zip"
       },
       "version": 2
     },
@@ -6517,6 +6590,75 @@
         "repo": "main",
         "size": 2590242,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/demonizer.zip"
+      },
+      "version": 2
+    },
+    "demonkeep.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Demon Keep is a minimalistic, classic roguelike with a dice rolling twist that is a kin to a mix between Porklike and Dicey Dungeons.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game https://youdoyoubuddy.itch.io/demon-keep and copy the exe or love file into the port folder.",
+        "inst_md": null,
+        "porter": [
+          "Troidem"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Demon Keep"
+      },
+      "items": [
+        "Demon Keep.sh",
+        "demonkeep"
+      ],
+      "items_opt": null,
+      "name": "demonkeep.zip",
+      "source": {
+        "date_added": "2024-05-06",
+        "date_updated": "2024-05-06",
+        "md5": "6a1d7d06dc0b2f2328eaa0edbd242045",
+        "release_id": "2024-05-06_2128",
+        "repo": "main",
+        "size": 2807786,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/demonkeep.zip"
       },
       "version": 2
     },
@@ -12148,7 +12290,7 @@
         "reqs": [],
         "rtr": true,
         "runtime": null,
-        "title": "Supet Hydorah"
+        "title": "Super Hydorah"
       },
       "items": [
         "Hydorah/",
@@ -12158,12 +12300,12 @@
       "name": "hydorah.zip",
       "source": {
         "date_added": "2023-09-22",
-        "date_updated": "2024-04-07",
-        "md5": "43e8b38ac1bfe8746d3cf06ce5e0c288",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-05-06",
+        "md5": "fa56a85efe30d038122147e32b0e31f8",
+        "release_id": "2024-05-06_2128",
         "repo": "main",
-        "size": 4953731,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/hydorah.zip"
+        "size": 4953736,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/hydorah.zip"
       },
       "version": 2
     },
@@ -13903,12 +14045,12 @@
       "name": "lisathehopeful.zip",
       "source": {
         "date_added": "2024-05-02",
-        "date_updated": "2024-05-02",
-        "md5": "82bb26367387ccf2c43c79301ad69273",
-        "release_id": "2024-05-02_0733",
+        "date_updated": "2024-05-06",
+        "md5": "cd91a7bb8ad4d01bb5f97fae4648ed7a",
+        "release_id": "2024-05-06_2128",
         "repo": "main",
-        "size": 5162619,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-02_0733/lisathehopeful.zip"
+        "size": 5162637,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/lisathehopeful.zip"
       },
       "version": 2
     },
@@ -14110,12 +14252,81 @@
       "name": "lisathepointless.zip",
       "source": {
         "date_added": "2024-05-02",
-        "date_updated": "2024-05-02",
-        "md5": "f58a9c51684ce2a77883cc25a79c53a2",
-        "release_id": "2024-05-02_0733",
+        "date_updated": "2024-05-06",
+        "md5": "66895b44e48e43e55b6b924914adc853",
+        "release_id": "2024-05-06_2128",
         "repo": "main",
-        "size": 5236517,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-02_0733/lisathepointless.zip"
+        "size": 5236535,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/lisathepointless.zip"
+      },
+      "version": 2
+    },
+    "lisatheundone.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": " Lisa the Undone is a fangame made by  Redisco  ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "download the game from Gamejolt(https://gamejolt.com/games/dreamsofstars/696084) or itch(https://redisco.itch.io/lisa-the-undone) for free tested with Windows version. Copy all contents of the UNDONE folder from the download to the gamedata folder.\n\nNote: This game is not ideal for devices with low resolution displays and/or absent joysticks. ",
+        "inst_md": null,
+        "porter": [
+          "TheLaggypyro"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "LISA: The Undone"
+      },
+      "items": [
+        "LISA The Undone.sh",
+        "lisatheundone"
+      ],
+      "items_opt": null,
+      "name": "lisatheundone.zip",
+      "source": {
+        "date_added": "2024-05-06",
+        "date_updated": "2024-05-06",
+        "md5": "f7ee58ec54a8eba8eb157bbb8ed4175c",
+        "release_id": "2024-05-06_2128",
+        "repo": "main",
+        "size": 5154409,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/lisatheundone.zip"
       },
       "version": 2
     },
@@ -15032,6 +15243,75 @@
       },
       "version": 2
     },
+    "maxdownforce.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Max Downforce is an arcade racing game. The goal is to finish each of ten laps before the timer reaches zero. A portion of the seconds remaining upon completing a lap is carried over to the next lap.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "racing"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "All files are included",
+        "inst_md": null,
+        "porter": [
+          "Troidem"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Max Downforce"
+      },
+      "items": [
+        "Max Downforce.sh",
+        "maxdownforce"
+      ],
+      "items_opt": null,
+      "name": "maxdownforce.zip",
+      "source": {
+        "date_added": "2024-05-06",
+        "date_updated": "2024-05-06",
+        "md5": "ae7daaa4c1f6ee70d8278eb6dd053d3d",
+        "release_id": "2024-05-06_2128",
+        "repo": "main",
+        "size": 26453986,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/maxdownforce.zip"
+      },
+      "version": 2
+    },
     "maximilien_adventure.zip": {
       "attr": {
         "arch": [],
@@ -15606,12 +15886,12 @@
       "name": "minetest.zip",
       "source": {
         "date_added": "2024-04-24",
-        "date_updated": "2024-04-25",
-        "md5": "86c85041ecdf7c0d61239ce7969bccde",
-        "release_id": "2024-04-25_1154",
+        "date_updated": "2024-05-06",
+        "md5": "cb4f24b00ebe7efd7970218f4f77464d",
+        "release_id": "2024-05-06_2128",
         "repo": "main",
-        "size": 44310431,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-25_1154/minetest.zip"
+        "size": 44310448,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/minetest.zip"
       },
       "version": 2
     },
@@ -17203,12 +17483,12 @@
       "name": "nfs2se.zip",
       "source": {
         "date_added": "2024-02-28",
-        "date_updated": "2024-04-07",
-        "md5": "1e76fc6d0501d39c55736f7236fd95f0",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-05-06",
+        "md5": "3c69fc6cbf7d5fa859756e4cbd9d5bfa",
+        "release_id": "2024-05-06_2128",
         "repo": "main",
-        "size": 5406652,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/nfs2se.zip"
+        "size": 5289754,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/nfs2se.zip"
       },
       "version": 2
     },
@@ -17484,12 +17764,12 @@
       "name": "noparachute.zip",
       "source": {
         "date_added": "2024-05-02",
-        "date_updated": "2024-05-02",
-        "md5": "d2936e4b2b09b9be44078e95d0ed5678",
-        "release_id": "2024-05-02_0733",
+        "date_updated": "2024-05-06",
+        "md5": "c45cf31e0794962979b45c8e9b037fa1",
+        "release_id": "2024-05-06_2128",
         "repo": "main",
-        "size": 2833183,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-02_0733/noparachute.zip"
+        "size": 2833097,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/noparachute.zip"
       },
       "version": 2
     },
@@ -19425,12 +19705,14 @@
           "platformer"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
-        "inst": "Copy the retail game's assets to `panzerpaladin/gamedata`.",
+        "inst": "Copy all the files from your Steam Windows copy of the game to `/roms/ports/panzerpaladin/gamedata`. PanzerPaladin.exe, a bunch of dll files and the Content folder should be directly inside of gamedata",
         "inst_md": null,
         "porter": [
           "Johnny on Flame"
@@ -19448,12 +19730,12 @@
       "name": "panzerpaladin.zip",
       "source": {
         "date_added": "2024-04-09",
-        "date_updated": "2024-04-09",
-        "md5": "196546be41a3fcea713d6319ea41119f",
-        "release_id": "2024-04-09_0946",
+        "date_updated": "2024-05-06",
+        "md5": "f98a47891dec0d018b675e3757fff977",
+        "release_id": "2024-05-06_2128",
         "repo": "main",
-        "size": 2989327,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-09_0946/panzerpaladin.zip"
+        "size": 3067280,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/panzerpaladin.zip"
       },
       "version": 2
     },
@@ -19776,7 +20058,9 @@
           "puzzle"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
@@ -19799,12 +20083,12 @@
       "name": "pingo.zip",
       "source": {
         "date_added": "2024-03-02",
-        "date_updated": "2024-04-07",
-        "md5": "09d9c4caeba5212f0d3ae7fbea5fe116",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-05-06",
+        "md5": "47977f7c7a653bba52d52d04c7ac1af4",
+        "release_id": "2024-05-06_2128",
         "repo": "main",
-        "size": 43557828,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/pingo.zip"
+        "size": 44441476,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/pingo.zip"
       },
       "version": 2
     },
@@ -21285,7 +21569,9 @@
     "quakespasm.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf",
+          "x86_64"
         ],
         "avail": [
           "rg353m:ALL",
@@ -21293,6 +21579,8 @@
           "rg351mp:ALL",
           "rg503:ALL",
           "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
           "rg351p:ALL",
           "rg351v:ALL",
           "rgb10:ALL",
@@ -21312,7 +21600,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "QuakeSpasm -- A modern, cross-platform Quake game engine by sezero (Ozkan Sezer) based on FitzQuake by John Fitzgibbons. This source port of quake supports many mods and Dimension of the Machine. GL video accelerated with GL4ES!\n\nGL4ES version used: https://github.com/Slayer366/quakespasm-for-GL4ES based on https://github.com/jfgomez21/quakespasm who first modified sezero's Quakespasm to work with GL4ES\n\nGL4ES by ptitseb (same dev who also does box86 and box64) can be found here: https://github.com/ptitSeb/gl4es",
+        "desc": "QuakeSpasm is a modern, cross-platform Quake game engine by sezero based on FitzQuake. This source port of quake supports many mods and Dimension of the Machine.\n\nQuakespasm-for-GL4ES (https://github.com/Slayer366/quakespasm-for-GL4ES) based on (https://github.com/jfgomez21/quakespasm) who began modifying Quakespasm to work with GL4ES.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -21320,7 +21608,9 @@
           "action"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
@@ -21351,12 +21641,12 @@
       "name": "quakespasm.zip",
       "source": {
         "date_added": "2023-10-23",
-        "date_updated": "2024-04-01",
-        "md5": "6c6d34f3bfd98a2ed1f3651fb1a58bcc",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-05-06",
+        "md5": "cdb10403a422861471bd3b2acf249e2f",
+        "release_id": "2024-05-06_2128",
         "repo": "main",
-        "size": 36387565,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/quakespasm.zip"
+        "size": 42685769,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/quakespasm.zip"
       },
       "version": 2
     },
@@ -21965,12 +22255,12 @@
       "name": "restore.portmaster.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-04-01",
-        "md5": "c30e34fa7b5577bae0eae09158f8e315",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-05-06",
+        "md5": "25569f9a6507a974f3dd8aa98c13977c",
+        "release_id": "2024-05-06_2128",
         "repo": "main",
-        "size": 11772996,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/restore.portmaster.zip"
+        "size": 11863920,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/restore.portmaster.zip"
       },
       "version": 2
     },
@@ -23035,6 +23325,78 @@
         "repo": "main",
         "size": 186067880,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/rvgl.zip"
+      },
+      "version": 2
+    },
+    "rwatch.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A tight boss rush that's a challenge without being too brutal. The graphics have a sleek minimalist style with loads of visual flairs. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "-Download at (https//:nizakashii.itch.io/R&Watch)-Extract and place data.win into gamedata folder",
+        "inst_md": null,
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "R&Watch-Dobtopus"
+      },
+      "items": [
+        "R&Watch-Dobtopus.sh",
+        "rwatch"
+      ],
+      "items_opt": null,
+      "name": "rwatch.zip",
+      "source": {
+        "date_added": "2024-05-06",
+        "date_updated": "2024-05-06",
+        "md5": "228da241d6149a10d44aaa6f718cd2e5",
+        "release_id": "2024-05-06_2128",
+        "repo": "main",
+        "size": 11544195,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/rwatch.zip"
       },
       "version": 2
     },
@@ -25441,6 +25803,144 @@
       },
       "version": 2
     },
+    "spellsling.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Spell Sling is a classic first-person roguelike with a focus on consumable spells and dungeon crawling",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game https://youdoyoubuddy.itch.io/spell-sling and copy the exe file into the port folder.",
+        "inst_md": null,
+        "porter": [
+          "Troidem"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Spell Sling"
+      },
+      "items": [
+        "Spell Sling.sh",
+        "spellsling"
+      ],
+      "items_opt": null,
+      "name": "spellsling.zip",
+      "source": {
+        "date_added": "2024-05-06",
+        "date_updated": "2024-05-06",
+        "md5": "044c883f166f5953afa78fd37962b424",
+        "release_id": "2024-05-06_2128",
+        "repo": "main",
+        "size": 2815448,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/spellsling.zip"
+      },
+      "version": 2
+    },
+    "spelltower.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Spell Tower is a first person dungeon crawler and deckbuilder hybrid with the usual assortment of interesting card interactions, broken combos and cards with uses you might not have thought of at first.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game https://youdoyoubuddy.itch.io/spell-tower and copy the exe or love file into the port folder.",
+        "inst_md": null,
+        "porter": [
+          "Troidem"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Spell Tower"
+      },
+      "items": [
+        "Spell Tower.sh",
+        "spelltower"
+      ],
+      "items_opt": null,
+      "name": "spelltower.zip",
+      "source": {
+        "date_added": "2024-05-06",
+        "date_updated": "2024-05-06",
+        "md5": "a1e155d96b5e46f5dc1395809c0fac89",
+        "release_id": "2024-05-06_2128",
+        "repo": "main",
+        "size": 2837358,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/spelltower.zip"
+      },
+      "version": 2
+    },
     "spelunky.zip": {
       "attr": {
         "arch": [
@@ -26753,6 +27253,78 @@
         "repo": "main",
         "size": 38505605,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/super.mario.war.zip"
+      },
+      "version": 2
+    },
+    "supercratebox.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Vlambeer's SUPER CRATE BOX is coming to bring back the glory of the golden arcade age, when all that really mattered was getting on that high score list. Grab your baseball cap and loosen your pants, it's time to fight endless hordes of enemies and collect every weapon crate you can. Prepare for an arcade delight with tight controls, refreshing game mechanics, cracking retro art and a terribly hip chiptune soundtrack.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is ready to run.\nHold Start on the first startup when the game asks \"What is your name?\"",
+        "inst_md": null,
+        "porter": [
+          "Fraxinus88",
+          "Kompaan"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Super Crate Box"
+      },
+      "items": [
+        "Super Crate Box.sh",
+        "supercratebox"
+      ],
+      "items_opt": null,
+      "name": "supercratebox.zip",
+      "source": {
+        "date_added": "2024-05-06",
+        "date_updated": "2024-05-06",
+        "md5": "0055622118d544c4b442a60df57dbdea",
+        "release_id": "2024-05-06_2128",
+        "repo": "main",
+        "size": 25900773,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/supercratebox.zip"
       },
       "version": 2
     },
@@ -29280,22 +29852,22 @@
         "reqs": [],
         "rtr": true,
         "runtime": "frt_3.5.2.squashfs",
-        "title": "UDRL_Modify"
+        "title": "UDLR_Modify"
       },
       "items": [
-        "UDRL_Modify.sh",
+        "UDLR_Modify.sh",
         "udlrmodify"
       ],
       "items_opt": null,
       "name": "udlrmodify.zip",
       "source": {
         "date_added": "2024-04-11",
-        "date_updated": "2024-04-17",
-        "md5": "b6a439053d16f0175fd1425d93745216",
-        "release_id": "2024-04-17_0840",
+        "date_updated": "2024-05-06",
+        "md5": "33fc44d3a5256d6ed3af1b3c884f430a",
+        "release_id": "2024-05-06_2128",
         "repo": "main",
-        "size": 13610566,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-17_0840/udlrmodify.zip"
+        "size": 13610576,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/udlrmodify.zip"
       },
       "version": 2
     },
@@ -29644,12 +30216,12 @@
       "name": "uqm.zip",
       "source": {
         "date_added": "2021-11-11",
-        "date_updated": "2024-04-01",
-        "md5": "d39d3eea60eeae561d8bee06ec3f2638",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-05-06",
+        "md5": "74db1fb33de6bab5f1812b166fb32c17",
+        "release_id": "2024-05-06_2128",
         "repo": "main",
-        "size": 378268330,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/uqm.zip"
+        "size": 378340896,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/uqm.zip"
       },
       "version": 2
     },
