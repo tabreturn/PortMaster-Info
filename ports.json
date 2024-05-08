@@ -8158,6 +8158,75 @@
       },
       "version": 2
     },
+    "emojimerge.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Suika Game clone about merging emojis.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "All files are included",
+        "inst_md": null,
+        "porter": [
+          "Troidem"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Emoji Merge"
+      },
+      "items": [
+        "Emoji Merge.sh",
+        "emojimerge"
+      ],
+      "items_opt": null,
+      "name": "emojimerge.zip",
+      "source": {
+        "date_added": "2024-05-08",
+        "date_updated": "2024-05-08",
+        "md5": "88311b2b7fa27d62658adfa8ee7cc542",
+        "release_id": "2024-05-08_0940",
+        "repo": "main",
+        "size": 7790759,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-08_0940/emojimerge.zip"
+      },
+      "version": 2
+    },
     "endlessdungeon.zip": {
       "attr": {
         "arch": [
@@ -13279,6 +13348,75 @@
       },
       "version": 2
     },
+    "jugglrx.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "JUGGLRX and is about juggling as many balls as possible without dying!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game https://a327ex.itch.io/jugglrx-prototype and place exe file to the port folder.",
+        "inst_md": null,
+        "porter": [
+          "Troidem"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "JUGGLRX"
+      },
+      "items": [
+        "JUGGLRX.sh",
+        "jugglrx"
+      ],
+      "items_opt": null,
+      "name": "jugglrx.zip",
+      "source": {
+        "date_added": "2024-05-08",
+        "date_updated": "2024-05-08",
+        "md5": "d378786fbeac2d41ebe60bcdc155f883",
+        "release_id": "2024-05-08_0940",
+        "repo": "main",
+        "size": 2804562,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-08_0940/jugglrx.zip"
+      },
+      "version": 2
+    },
     "jumpnbump.zip": {
       "attr": {
         "arch": [
@@ -14258,6 +14396,75 @@
         "repo": "main",
         "size": 5236535,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/lisathepointless.zip"
+      },
+      "version": 2
+    },
+    "lisatheunbreakable.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "LISA: The Unbreakable is a Fangame set in the LISA Universe made by FXF",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from Gamejolt, tested with Windows version. Copy the contents Lisa is dead folder to the gamedata folder.\n\nNote: This game is not ideal for devices with low resolution displays and/or absent joysticks. ",
+        "inst_md": null,
+        "porter": [
+          "JThelaggypyro"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "LISA: The Unbreakable"
+      },
+      "items": [
+        "LISA The Unbreakable.sh",
+        "lisatheunbreakable"
+      ],
+      "items_opt": null,
+      "name": "lisatheunbreakable.zip",
+      "source": {
+        "date_added": "2024-05-08",
+        "date_updated": "2024-05-08",
+        "md5": "3c8fcf55509d531f7bd8df761936727b",
+        "release_id": "2024-05-08_0940",
+        "repo": "main",
+        "size": 5217990,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-08_0940/lisatheunbreakable.zip"
       },
       "version": 2
     },
@@ -21072,6 +21279,77 @@
       },
       "version": 2
     },
+    "pupaipospacedx.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Note: This works with the itch.io version of the game!\n\nPuPaiPo Space is a colorful space shoot-em-up in which you travel from Stage to Stage in search of the legendary space pizza. Piloting your trusty spaceship, you will have to battle waves of opponents, dodge hundreds of bullets, pick sweet power ups and face powerful bosses!\n\nTravel through 7 different stages. Jumping from one stage to another requires your space jumping engine to recharge for roughly 90 seconds. During that time you will have to defend yourself from all the opponents in the area and defeat its boss.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Instructions:\nPurchase the game from https://bolhut.itch.io/pupaipo-space-deluxe.\nDownload PuPaiPo Space DX - Linux and copy the game.unx from the assets folder to /ports/pupaipospacedx/gamedata",
+        "inst_md": null,
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "PuPaiPo Space Deluxe"
+      },
+      "items": [
+        "PuPaiPo Space Deluxe.sh",
+        "pupaipospacedx"
+      ],
+      "items_opt": null,
+      "name": "pupaipospacedx.zip",
+      "source": {
+        "date_added": "2024-05-08",
+        "date_updated": "2024-05-08",
+        "md5": "a1b9f6c097b1d49343508520e43bb92b",
+        "release_id": "2024-05-08_0940",
+        "repo": "main",
+        "size": 5628861,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-08_0940/pupaipospacedx.zip"
+      },
+      "version": 3
+    },
     "puremetal.zip": {
       "attr": {
         "arch": [
@@ -23749,6 +24027,78 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/sdlsopwith.zip"
       },
       "version": 2
+    },
+    "secretteagarden.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A cozy looking Tea Party where you must serve townspeople their tea while dodging hurdles and maneuvering around obstacles. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "simulation",
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download from https://angusbeer.itch.io/Secret-Tea-Garden then extract and place data.win into gamedata folder",
+        "inst_md": "Download from [Angus Beer](https://angusbeer.itch.io/secret-tea-garden) then extract and place data.win inside gamedata folder",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Secret Tea Garden"
+      },
+      "items": [
+        "Secret Tea Garden.sh",
+        "secretteagarden"
+      ],
+      "items_opt": null,
+      "name": "secretteagarden.zip",
+      "source": {
+        "date_added": "2024-05-08",
+        "date_updated": "2024-05-08",
+        "md5": "2b9f9025909a6a99d08c6d5a12387f16",
+        "release_id": "2024-05-08_0940",
+        "repo": "main",
+        "size": 5882610,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-08_0940/secretteagarden.zip"
+      },
+      "version": 3
     },
     "serioussam-tfe.zip": {
       "attr": {
@@ -27889,6 +28239,78 @@
         "repo": "main",
         "size": 5246009,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/superxyx.zip"
+      },
+      "version": 2
+    },
+    "swapwoodquestr.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Swapwood Quest R is a unique block puzzle game with an RPG twist. Combo your enemies and match enough tiles to protect against opposing blows, but make haste, You only have 10 seconds to prepare before your turn ends!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is ready to run, thanks to Team Bugulon granting us permission to distribute this game.",
+        "inst_md": null,
+        "porter": [
+          "Kompaan"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Swapwood Quest R"
+      },
+      "items": [
+        "Swapwood Quest R.sh",
+        "swapwoodquestr"
+      ],
+      "items_opt": null,
+      "name": "swapwoodquestr.zip",
+      "source": {
+        "date_added": "2024-05-08",
+        "date_updated": "2024-05-08",
+        "md5": "94c7d81a813652ebeb0fd2bb68cff6ad",
+        "release_id": "2024-05-08_0940",
+        "repo": "main",
+        "size": 31661452,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-08_0940/swapwoodquestr.zip"
       },
       "version": 2
     },
