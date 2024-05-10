@@ -14183,12 +14183,12 @@
       "name": "lisathehopeful.zip",
       "source": {
         "date_added": "2024-05-02",
-        "date_updated": "2024-05-09",
-        "md5": "eafdceb865223a041fb788722c950c61",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-05-10",
+        "md5": "bae19ddb8a4b185c8f847b99d2d30aea",
+        "release_id": "2024-05-10_0144",
         "repo": "main",
-        "size": 5162654,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/lisathehopeful.zip"
+        "size": 5162655,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-10_0144/lisathehopeful.zip"
       },
       "version": 2
     },
@@ -14390,12 +14390,12 @@
       "name": "lisathepointless.zip",
       "source": {
         "date_added": "2024-05-02",
-        "date_updated": "2024-05-09",
-        "md5": "5162c4e23cf0d293ae072cd7cf5ddece",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-05-10",
+        "md5": "8eb6c143aff8973c6d45422d9fcb6d9f",
+        "release_id": "2024-05-10_0144",
         "repo": "main",
-        "size": 5236536,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/lisathepointless.zip"
+        "size": 5236537,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-10_0144/lisathepointless.zip"
       },
       "version": 2
     },
@@ -21309,7 +21309,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Note: This works with the itch.io version of the game!\n\nPuPaiPo Space is a colorful space shoot-em-up in which you travel from Stage to Stage in search of the legendary space pizza. Piloting your trusty spaceship, you will have to battle waves of opponents, dodge hundreds of bullets, pick sweet power ups and face powerful bosses!\n\nTravel through 7 different stages. Jumping from one stage to another requires your space jumping engine to recharge for roughly 90 seconds. During that time you will have to defend yourself from all the opponents in the area and defeat its boss.",
+        "desc": "PuPaiPo Space is a colorful space shoot-em-up in which you travel from Stage to Stage in search of the legendary space pizza. Piloting your trusty spaceship, you will have to battle waves of opponents, dodge hundreds of bullets, pick sweet power ups and face powerful bosses!\n\nTravel through 7 different stages. Jumping from one stage to another requires your space jumping engine to recharge for roughly 90 seconds. During that time you will have to defend yourself from all the opponents in the area and defeat its boss.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -21323,7 +21323,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Instructions:\nPurchase the game from https://bolhut.itch.io/pupaipo-space-deluxe.\nDownload PuPaiPo Space DX - Linux and copy the game.unx from the assets folder to /ports/pupaipospacedx/gamedata",
+        "inst": "Purchase the game from https://bolhut.itch.io/pupaipo-space-deluxe or from https://store.steampowered.com/app/1148500/PuPaiPo_Space_Deluxe/\n\nItch:\nDownload PuPaiPo Space DX - Linux and copy the game.unx from the assets folder to /ports/pupaipospacedx/gamedata\n\nSteam:\nRun steam console via Windows+R: Type: steam://open/console, download the linux version by typing: download_depot 1148500 1148502 in the console, when the download is complete, it will tell you the location of the folder,  copy the game.unx from the assets folder to /ports/pupaipospacedx/gamedata",
         "inst_md": null,
         "porter": [
           "Fraxinus88"
@@ -21341,12 +21341,12 @@
       "name": "pupaipospacedx.zip",
       "source": {
         "date_added": "2024-05-08",
-        "date_updated": "2024-05-09",
-        "md5": "25495c643472735d5c55be472609a218",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-05-10",
+        "md5": "8b2489dcf2fc5b1d8694e76ee7fceecb",
+        "release_id": "2024-05-10_0144",
         "repo": "main",
-        "size": 5628861,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/pupaipospacedx.zip"
+        "size": 5736572,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-10_0144/pupaipospacedx.zip"
       },
       "version": 3
     },
