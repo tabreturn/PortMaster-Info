@@ -132,12 +132,12 @@
       "name": "a7xpg.zip",
       "source": {
         "date_added": "2024-04-25",
-        "date_updated": "2024-05-09",
-        "md5": "acbfa5310901b1692f93d6171ef32f8c",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-05-15",
+        "md5": "b50927206aba3e6f249af5cc022b482b",
+        "release_id": "2024-05-15_1207",
         "repo": "main",
         "size": 6898365,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/a7xpg.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/a7xpg.zip"
       },
       "version": 3
     },
@@ -349,12 +349,12 @@
       "name": "abuse.zip",
       "source": {
         "date_added": "2021-11-01",
-        "date_updated": "2024-05-09",
-        "md5": "0ea3cd40de42c662078f3e26470b57dc",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-05-15",
+        "md5": "0260c5475e2a6b7ffb7a1bd136b58b84",
+        "release_id": "2024-05-15_1207",
         "repo": "main",
-        "size": 6804083,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/abuse.zip"
+        "size": 6804084,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/abuse.zip"
       },
       "version": 3
     },
@@ -2197,12 +2197,12 @@
       "name": "billyfrontier.zip",
       "source": {
         "date_added": "2022-11-23",
-        "date_updated": "2024-05-09",
-        "md5": "1fcc8a3ea06c8499a8393546d70ea38e",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-05-15",
+        "md5": "dd388301844439fdf71948a49bc81b65",
+        "release_id": "2024-05-15_1207",
         "repo": "main",
-        "size": 84821449,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/billyfrontier.zip"
+        "size": 84821451,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/billyfrontier.zip"
       },
       "version": 3
     },
@@ -2842,12 +2842,12 @@
       "name": "blockout2.zip",
       "source": {
         "date_added": "2022-10-29",
-        "date_updated": "2024-05-09",
-        "md5": "672ccc438c1876f693dca74acdc804c9",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-05-15",
+        "md5": "1ad7bf51db784aaad0ba74f4a6c3f8ce",
+        "release_id": "2024-05-15_1207",
         "repo": "main",
-        "size": 7700073,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/blockout2.zip"
+        "size": 7700075,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/blockout2.zip"
       },
       "version": 3
     },
@@ -6020,12 +6020,12 @@
       "name": "cromagrally.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2024-05-09",
-        "md5": "7c2df61123b837e0993553cf8a3686ee",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-05-15",
+        "md5": "2281813e8fdeb720b2d1292c39641710",
+        "release_id": "2024-05-15_1207",
         "repo": "main",
-        "size": 129889772,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/cromagrally.zip"
+        "size": 129889773,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/cromagrally.zip"
       },
       "version": 3
     },
@@ -9977,12 +9977,12 @@
       "name": "freedom.planet.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-05-09",
-        "md5": "3e1cb36c36c697f60710bb87b08acd1a",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-05-15",
+        "md5": "210784914da2c9356c55560af7a42877",
+        "release_id": "2024-05-15_1207",
         "repo": "main",
-        "size": 3253264,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/freedom.planet.zip"
+        "size": 3253266,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/freedom.planet.zip"
       },
       "version": 3
     },
@@ -12938,12 +12938,12 @@
       "name": "iconoclasts.zip",
       "source": {
         "date_added": "2021-11-16",
-        "date_updated": "2024-05-09",
-        "md5": "a58dcc1c2981afd2349b88b05bf79935",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-05-15",
+        "md5": "2bca0bde5d5ab72d630126c3541b1c50",
+        "release_id": "2024-05-15_1207",
         "repo": "main",
-        "size": 4533335,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/iconoclasts.zip"
+        "size": 4533338,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/iconoclasts.zip"
       },
       "version": 3
     },
@@ -16246,7 +16246,8 @@
       "attr": {
         "arch": [
           "aarch64",
-          "armhf"
+          "armhf",
+          "x86_64"
         ],
         "avail": [
           "rg353m:ALL",
@@ -16306,12 +16307,12 @@
       "name": "minesector.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-04-25",
-        "md5": "96468aa479176683d110ac7c877c2816",
-        "release_id": "2024-04-25_1154",
+        "date_updated": "2024-05-15",
+        "md5": "00efd8b70115d09400eee91d9a73f5b1",
+        "release_id": "2024-05-15_1207",
         "repo": "main",
-        "size": 12408188,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-25_1154/minesector.zip"
+        "size": 13673503,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/minesector.zip"
       },
       "version": 3
     },
@@ -17350,12 +17351,12 @@
       "name": "mystikbelle.zip",
       "source": {
         "date_added": "2024-02-03",
-        "date_updated": "2024-05-09",
-        "md5": "7148b5b9cbcd9dc2ef194cb7f1edf3a3",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-05-15",
+        "md5": "4946a25544030363c91b87deb4bba9b7",
+        "release_id": "2024-05-15_1207",
         "repo": "main",
-        "size": 8905841,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/mystikbelle.zip"
+        "size": 8905843,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/mystikbelle.zip"
       },
       "version": 3
     },
@@ -17710,12 +17711,12 @@
       "name": "nanosaur2.zip",
       "source": {
         "date_added": "2023-08-29",
-        "date_updated": "2024-05-09",
-        "md5": "335290a277aca99030710e0e804da368",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-05-15",
+        "md5": "9784edc8df3010f97a479a788cce177b",
+        "release_id": "2024-05-15_1207",
         "repo": "main",
-        "size": 107468278,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/nanosaur2.zip"
+        "size": 107468277,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/nanosaur2.zip"
       },
       "version": 3
     },
@@ -18955,12 +18956,12 @@
       "name": "oceansheart.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-05-09",
-        "md5": "d600794309ff21068636416674c049da",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-05-15",
+        "md5": "36cdf43f1d22fed033eddde2f43f0855",
+        "release_id": "2024-05-15_1207",
         "repo": "main",
-        "size": 1002834,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/oceansheart.zip"
+        "size": 1002840,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/oceansheart.zip"
       },
       "version": 3
     },
@@ -20081,12 +20082,12 @@
       "name": "ottomatic.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2024-05-09",
-        "md5": "e2ba4a54035efdef160c293ae13cb9e5",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-05-15",
+        "md5": "2180c0a2638d78fdb80a38ada01fc6f9",
+        "release_id": "2024-05-15_1207",
         "repo": "main",
-        "size": 144077528,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/ottomatic.zip"
+        "size": 144077527,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/ottomatic.zip"
       },
       "version": 3
     },
@@ -20228,6 +20229,81 @@
         "repo": "main",
         "size": 2589368,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/owlboy.zip"
+      },
+      "version": 3
+    },
+    "pacman.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "armhf",
+          "x86_64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A clone of the original regular ol' Pacman by Namco.  This version is inspired by Paul Neave's Pacman.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Everything is included and ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Slayer366"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Pacman"
+      },
+      "items": [
+        "Pacman.sh",
+        "pacman"
+      ],
+      "items_opt": null,
+      "name": "pacman.zip",
+      "source": {
+        "date_added": "2024-05-15",
+        "date_updated": "2024-05-15",
+        "md5": "3275a6fd6bad2e07edc316c3ace850d9",
+        "release_id": "2024-05-15_1207",
+        "repo": "main",
+        "size": 10274738,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/pacman.zip"
       },
       "version": 3
     },
@@ -22957,12 +23033,12 @@
       "name": "restore.portmaster.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-05-06",
-        "md5": "25569f9a6507a974f3dd8aa98c13977c",
-        "release_id": "2024-05-06_2128",
+        "date_updated": "2024-05-15",
+        "md5": "092e6c79d7aa7cff2485e65ab493f238",
+        "release_id": "2024-05-15_1207",
         "repo": "main",
-        "size": 11863920,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/restore.portmaster.zip"
+        "size": 12057015,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/restore.portmaster.zip"
       },
       "version": 3
     },
@@ -24991,7 +25067,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "You must have a copy of Shovel Knight Treasure Trove for Linux copied to the ports/shovelknight/gamedata folder.  For more info on the setup needs, see https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information",
+        "inst": "You must have a copy of Shovel Knight Treasure Trove for Linux copied to the ports/shovelknight/gamedata folder. ",
         "inst_md": null,
         "porter": [
           "Johnny on Flame"
@@ -25009,12 +25085,12 @@
       "name": "shovel.knight.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-05-09",
-        "md5": "b13657bd4c2f462365c54b3ced64a857",
-        "release_id": "2024-05-09_2047",
+        "date_updated": "2024-05-15",
+        "md5": "d34b7279061e20fa50a31b5a0e8e906d",
+        "release_id": "2024-05-15_1207",
         "repo": "main",
-        "size": 3972024,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_2047/shovel.knight.zip"
+        "size": 3971851,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/shovel.knight.zip"
       },
       "version": 3
     },
@@ -26777,12 +26853,12 @@
       "name": "spelunky.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-05-09",
-        "md5": "7e82b6fd11b2161f88e8c1fc999eb0c0",
-        "release_id": "2024-05-09_2047",
+        "date_updated": "2024-05-15",
+        "md5": "aa4b21e41d1bebd82e1e99b257a8c247",
+        "release_id": "2024-05-15_1207",
         "repo": "main",
-        "size": 67436255,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_2047/spelunky.zip"
+        "size": 67436257,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/spelunky.zip"
       },
       "version": 3
     },
@@ -27257,12 +27333,12 @@
       "name": "stardewvalley.zip",
       "source": {
         "date_added": "2022-07-03",
-        "date_updated": "2024-04-09",
-        "md5": "ddc9c3d7a92ecad3319e665f38baffb3",
-        "release_id": "2024-04-09_2122",
+        "date_updated": "2024-05-15",
+        "md5": "1838a39fb92c290a86216e5356b43e9b",
+        "release_id": "2024-05-15_1207",
         "repo": "main",
-        "size": 4151195,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-09_2122/stardewvalley.zip"
+        "size": 4151646,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/stardewvalley.zip"
       },
       "version": 3
     },
@@ -28235,12 +28311,12 @@
       "name": "supermeatboy.zip",
       "source": {
         "date_added": "2024-04-08",
-        "date_updated": "2024-05-09",
-        "md5": "309a3b09548498c2367f10c07932e8e2",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-05-15",
+        "md5": "5fb2cc1c281ad95bfbbec8a74fd47bde",
+        "release_id": "2024-05-15_1207",
         "repo": "main",
-        "size": 3189624,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/supermeatboy.zip"
+        "size": 3189628,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/supermeatboy.zip"
       },
       "version": 3
     },
@@ -30919,12 +30995,12 @@
       "name": "undertale.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-05-09",
-        "md5": "cbd21399c145a038037be80571bd8c35",
-        "release_id": "2024-05-09_2047",
+        "date_updated": "2024-05-15",
+        "md5": "d34fbd3e8389935ea51096e7f82db165",
+        "release_id": "2024-05-15_1207",
         "repo": "main",
-        "size": 5257263,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_2047/undertale.zip"
+        "size": 5257264,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/undertale.zip"
       },
       "version": 3
     },
@@ -33160,12 +33236,12 @@
       "name": "zelda3t.zip",
       "source": {
         "date_added": "2023-11-06",
-        "date_updated": "2024-05-09",
-        "md5": "2f70a9a4731aa496ac3956000409a8f0",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-05-15",
+        "md5": "77f0067076f11c25b26241e0933e6b06",
+        "release_id": "2024-05-15_1207",
         "repo": "main",
-        "size": 31226453,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/zelda3t.zip"
+        "size": 31226454,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/zelda3t.zip"
       },
       "version": 3
     },
