@@ -5106,6 +5106,77 @@
       },
       "version": 3
     },
+    "cavecrawler.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Cave Crawler is a short, 2D side-scrolling action platformer. Explore caves filled with interesting enemies and fun platforming challenges.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run! \nSpecial thanks to evan12811 for allowing PortMaster to distribute the game.",
+        "inst_md": null,
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Cave Crawler"
+      },
+      "items": [
+        "Cave Crawler.sh",
+        "cavecrawler"
+      ],
+      "items_opt": null,
+      "name": "cavecrawler.zip",
+      "source": {
+        "date_added": "2024-05-17",
+        "date_updated": "2024-05-17",
+        "md5": "1906a347357f3ed6360dffd0fd8a10e1",
+        "release_id": "2024-05-17_1453",
+        "repo": "main",
+        "size": 12369840,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-17_1453/cavecrawler.zip"
+      },
+      "version": 3
+    },
     "cceleste.zip": {
       "attr": {
         "arch": [
@@ -9914,6 +9985,75 @@
       },
       "version": 3
     },
+    "foxtower.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "One-button platformer about climbing a hill ... and maybe even a tower.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "All files included and ready to run. Thanks to [Nozomu Games](https://nozomu57.itch.io/) for the fantastic game and permission to distribute the files.",
+        "inst_md": null,
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Fox Tower"
+      },
+      "items": [
+        "Fox Tower.sh",
+        "foxtower"
+      ],
+      "items_opt": null,
+      "name": "foxtower.zip",
+      "source": {
+        "date_added": "2024-05-17",
+        "date_updated": "2024-05-17",
+        "md5": "16956b7ceb6ea7c2696ec25ecdc99c7c",
+        "release_id": "2024-05-17_1453",
+        "repo": "main",
+        "size": 7932178,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-17_1453/foxtower.zip"
+      },
+      "version": 3
+    },
     "freedom.planet.zip": {
       "attr": {
         "arch": [
@@ -11360,9 +11500,9 @@
         ],
         "image": {
           "covers": [
-            "cover.blueshift.png",
+            "cover.png",
             "cover.opposingforce.png",
-            "cover.png"
+            "cover.blueshift.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -11865,8 +12005,8 @@
         ],
         "image": {
           "covers": [
-            "cover.hexen2portalofpraevus.png",
-            "cover.hexen2.png"
+            "cover.hexen2.png",
+            "cover.hexen2portalofpraevus.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -13770,6 +13910,77 @@
       },
       "version": 3
     },
+    "jumpoffthebridge.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Jump Off The Bridge is a platformer with an emphasis on difficulty and unique level design. Each level, the player is required to jump off the bridge, but dying in any other sense, is failure. You may encounter characters that require items, methodical puzzle levels, intensely difficult platforming, tough levels that test your reaction time, and even bosses. Jump Off The Bridge is a meticulously crafted world that avoids the overuse of previously introduced sprites and characters. Every level feels unique, and is memorable.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from steam: https://store.steampowered.com/app/1057780/Jump_Off_The_Bridge/\nDownload the game and from your Steam library,  right click on Jump Off The Bridge >  Manage > Browse local files. Copy the data.win, audiogroup2.dat and audiogroup3.dat from the assets folder to /ports/jumpoffthebridge/gamedata",
+        "inst_md": null,
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Jump Off The Bridge"
+      },
+      "items": [
+        "Jump Off The Bridge.sh",
+        "jumpoffthebridge"
+      ],
+      "items_opt": null,
+      "name": "jumpoffthebridge.zip",
+      "source": {
+        "date_added": "2024-05-17",
+        "date_updated": "2024-05-17",
+        "md5": "eeda1c89827c0135168ad0fcb95e8cd7",
+        "release_id": "2024-05-17_1453",
+        "repo": "main",
+        "size": 6564215,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-17_1453/jumpoffthebridge.zip"
+      },
+      "version": 3
+    },
     "kemonorogue.zip": {
       "attr": {
         "arch": [
@@ -14121,6 +14332,77 @@
         "repo": "main",
         "size": 3540211,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/kobodeluxe.zip"
+      },
+      "version": 3
+    },
+    "labremnants.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Lab Remnants is a monochromatic roguelike full of secrets and challenges. Play as an artificially made creature and make your way through your own creators to escape from their crazy experiments.\nExplore dungeons, labs, forests, and many other locations to collect as many coins and power-ups as you can.\nUnlock new characters and upgrade them to defeat even the strongest of bosses.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from steam: https://store.steampowered.com/app/1953020/Lab_Remnants/\nDownload the game and from your Steam library,  right click on Lab Remnants > Manage > Browse local files. Copy the LabRemnants.pck from the assets folder to /ports/labremnants/gamedata",
+        "inst_md": null,
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.4.5.squashfs",
+        "title": "Lab Remnants"
+      },
+      "items": [
+        "Lab Remnants.sh",
+        "labremnants"
+      ],
+      "items_opt": null,
+      "name": "labremnants.zip",
+      "source": {
+        "date_added": "2024-05-17",
+        "date_updated": "2024-05-17",
+        "md5": "96c53117150f1167136b1a735ce3a19a",
+        "release_id": "2024-05-17_1453",
+        "repo": "main",
+        "size": 254480,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-17_1453/labremnants.zip"
       },
       "version": 3
     },
@@ -15378,6 +15660,76 @@
       },
       "version": 3
     },
+    "mableandthewood.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Mable and the Wood is a Metroidvania where you can take the form of the bosses you kill, changing how you're able to explore the interconnected world. It's also a Metroidvania where you don't have to kill anyone.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You can purchase Mable and the Wood at: https://graffiti-games.itch.io/mable-and-the-wood. Download the Linux version and extract it, and place the game.unx file in the port's gamedata directory. Tested using *Mable_Linux_v4.zip* version 4 (Oct 03, 2019).",
+        "inst_md": null,
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Mable and the Wood"
+      },
+      "items": [
+        "Mable and the Wood.sh",
+        "mableandthewood"
+      ],
+      "items_opt": null,
+      "name": "mableandthewood.zip",
+      "source": {
+        "date_added": "2024-05-17",
+        "date_updated": "2024-05-17",
+        "md5": "2b47debdf82f0866017783ca396b1191",
+        "release_id": "2024-05-17_1453",
+        "repo": "main",
+        "size": 31402663,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-17_1453/mableandthewood.zip"
+      },
+      "version": 3
+    },
     "magicvigilante.zip": {
       "attr": {
         "arch": [
@@ -16086,6 +16438,75 @@
         "repo": "main",
         "size": 3355817,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/meritous.zip"
+      },
+      "version": 3
+    },
+    "metanethunterg4.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Metanet Hunter G4 is an action platformer set in the heart of Cyberspace! Take on the role of a lone Cyberspace Samurai as you navigate through six adrenaline-pumping stages, each filled with intense side-scrolling challenges and epic boss battles. Armed with over 20 sub-weapons. Dive into Time Attack Mode to unlock funky color palettes and discover secrets and cheats scattered throughout the digital landscape. Get ready to experience the thrill of old-school platforming reimagined for the modern era in Metanet Hunter G4!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game https://nightkawata.itch.io/metanet-hunter-g4 and copy the exe file into the port folder. Demo or full version (v1.2) can be used.",
+        "inst_md": null,
+        "porter": [
+          "Troidem"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Metanet Hunter G4"
+      },
+      "items": [
+        "Metanet Hunter G4.sh",
+        "metanethunterg4"
+      ],
+      "items_opt": null,
+      "name": "metanethunterg4.zip",
+      "source": {
+        "date_added": "2024-05-17",
+        "date_updated": "2024-05-17",
+        "md5": "23fd3bc1f632ef8c2e9d0dacb51a4417",
+        "release_id": "2024-05-17_1453",
+        "repo": "main",
+        "size": 2859354,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-17_1453/metanethunterg4.zip"
       },
       "version": 3
     },
