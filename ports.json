@@ -4260,6 +4260,75 @@
       },
       "version": 3
     },
+    "bytepath.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "BYTEPATH is a retro-inspired arcade game that combines fast-paced action with strategic skill-building. Players navigate through procedurally generated levels, battling waves of enemies while upgrading their ship and unlocking powerful abilities. With its pixel art aesthetics and challenging gameplay, BYTEPATH offers a nostalgic yet fresh experience for fans of classic arcade shooters.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "All files are included. If you like the game, consider supporting the developer by purchasing it from https://store.steampowered.com/app/760330/BYTEPATH.",
+        "inst_md": null,
+        "porter": [
+          "Troidem"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "BYTEPATH"
+      },
+      "items": [
+        "BYTEPATH.sh",
+        "bytepath"
+      ],
+      "items_opt": null,
+      "name": "bytepath.zip",
+      "source": {
+        "date_added": "2024-05-20",
+        "date_updated": "2024-05-20",
+        "md5": "6aa958065de50871a8b2a20bb9ec2c79",
+        "release_id": "2024-05-20_1328",
+        "repo": "main",
+        "size": 58909765,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/bytepath.zip"
+      },
+      "version": 3
+    },
     "bzflag.zip": {
       "attr": {
         "arch": [
@@ -5245,6 +5314,79 @@
         "repo": "main",
         "size": 1621583,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/cceleste.zip"
+      },
+      "version": 3
+    },
+    "chargekid.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Charge Kid is a game where each jump is a puzzle. You can compare it to Portal, where you have to find clever uses of the mechanics and physics to \"solve\" each location by reaching the desired location. You have limited resources to make each jump, comparable to Celeste. But instead of focusing on precision-platforming, the game focuses on the puzzle aspect. Unlike Celeste, the hard part is figuring out how to use your resources to make each jump instead of the execution. But don't get fooled; the execution is also hard, which means finding each solution is even harder!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run!",
+        "inst_md": "If you liked the game, kindly consider supporting the devs at the following:\nItch.io: https://eldskald.itch.io/charge-kid\nSteam: https://store.steampowered.com/app/1334300/Charge_Kid/\nNintendo Switch eshop: https://www.nintendo.com/us/store/products/charge-kid-switch/",
+        "porter": [
+          "Fraxinus88",
+          "Kompaan"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_3.2.3.squashfs",
+        "title": "Charge Kid"
+      },
+      "items": [
+        "Charge Kid.sh",
+        "chargekid"
+      ],
+      "items_opt": null,
+      "name": "chargekid.zip",
+      "source": {
+        "date_added": "2024-05-20",
+        "date_updated": "2024-05-20",
+        "md5": "2f044e0383797877699e5c12d8635332",
+        "release_id": "2024-05-20_1328",
+        "repo": "main",
+        "size": 42827347,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/chargekid.zip"
       },
       "version": 3
     },
@@ -7519,6 +7661,78 @@
       },
       "version": 3
     },
+    "drilbertiidiggeredoo.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Drilbert the Drill Boy is back! Help Drilbert fulfill his dream of drilling as deep as he can! A little puzzle game where you dig + push. Dig Deep; collect loot; get out.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You can download Drilbert II Diggeredoo for free at: https://wheybags.itch.io/drilbert-ii-diggeredoo. Download the Drilbert_II_Diggeredoo.zip version and extract it. Within the extracted files, there's a folder named linux with an assets.zip file; extract the contents of assets.zip into the port's gamedata directory.",
+        "inst_md": null,
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Drilbert II Diggeredoo"
+      },
+      "items": [
+        "Drilbert II Diggeredoo.sh",
+        "drilbertiidiggeredoo"
+      ],
+      "items_opt": null,
+      "name": "drilbertiidiggeredoo.zip",
+      "source": {
+        "date_added": "2024-05-20",
+        "date_updated": "2024-05-20",
+        "md5": "a5cc7c73c0d3fe3ab395cc2be8ddb4ef",
+        "release_id": "2024-05-20_1328",
+        "repo": "main",
+        "size": 4404942,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/drilbertiidiggeredoo.zip"
+      },
+      "version": 3
+    },
     "drinkndrive.zip": {
       "attr": {
         "arch": [
@@ -7726,12 +7940,12 @@
       "name": "duke.nukem.3d.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "2f41fe21dc485ca9eedc6465ecceb37d",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-05-20",
+        "md5": "e0e0ba4b176bada0bc09de9c34d5e7aa",
+        "release_id": "2024-05-20_1328",
         "repo": "main",
-        "size": 1312269,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/duke.nukem.3d.zip"
+        "size": 1312337,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/duke.nukem.3d.zip"
       },
       "version": 3
     },
@@ -10617,6 +10831,75 @@
       },
       "version": 3
     },
+    "gcrash.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Final fan-game to Geometry Dash.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rhythm"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the windows version of the game on GameJolt and place the executable in the gamedata folder.",
+        "inst_md": "Download the windows version of the game on [GameJolt](https://gamejolt.com/games/Geometry_Crash/476353) and place the executable in the gamedata folder.",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Geometry Crash"
+      },
+      "items": [
+        "Geometry Crash.sh",
+        "gcrash"
+      ],
+      "items_opt": null,
+      "name": "gcrash.zip",
+      "source": {
+        "date_added": "2024-05-20",
+        "date_updated": "2024-05-20",
+        "md5": "2f055888cb249c50679ce398e8e7b5c1",
+        "release_id": "2024-05-20_1328",
+        "repo": "main",
+        "size": 13734984,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/gcrash.zip"
+      },
+      "version": 3
+    },
     "gemrb.zip": {
       "attr": {
         "arch": [
@@ -10962,6 +11245,75 @@
         "repo": "main",
         "size": 4461253,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/gnurobbo.zip"
+      },
+      "version": 3
+    },
+    "goinghomerevisited.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Going Home Revisited is an atmospheric, narrative-driven game where players explore a beautifully rendered, nostalgic world. As you journey through the protagonist's memories, uncovering personal stories and hidden secrets, you'll be immersed in a poignant tale of reflection and discovery. With its evocative visuals and compelling storytelling, it offers a deeply emotional gaming experience.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "All files are included. Kindly consider supporting the dev by purchasing the game https://flamendless.itch.io/going-home-revisited",
+        "inst_md": null,
+        "porter": [
+          "Troidem"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Going Home Revisited"
+      },
+      "items": [
+        "Going Home Revisited.sh",
+        "goinghomerevisited"
+      ],
+      "items_opt": null,
+      "name": "goinghomerevisited.zip",
+      "source": {
+        "date_added": "2024-05-20",
+        "date_updated": "2024-05-20",
+        "md5": "7567da71ac495f87135a57cee6f3f4c8",
+        "release_id": "2024-05-20_1328",
+        "repo": "main",
+        "size": 9094370,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/goinghomerevisited.zip"
       },
       "version": 3
     },
@@ -14689,6 +15041,78 @@
       },
       "version": 3
     },
+    "liltanks.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A side scrolling shmup where you are a prototype tank, defending humanity from the onslaught of alien lifeforms. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase on Steam from Lead Money Games (https://store.steampowered.com/app/495820/Lil_Tanks/) Locate data.win file and place it into the gamedata folder. ",
+        "inst_md": "Purchase on Steam from [Lead Money Games](https://store.steampowered.com/app/495820/Lil_Tanks/) Locate data.win file and place it into the gamedata folder. ",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Lil Tanks"
+      },
+      "items": [
+        "Lil Tanks.sh",
+        "liltanks/"
+      ],
+      "items_opt": null,
+      "name": "liltanks.zip",
+      "source": {
+        "date_added": "2024-05-20",
+        "date_updated": "2024-05-20",
+        "md5": "b1acd2473f32d83733e33a29ab854790",
+        "release_id": "2024-05-20_1328",
+        "repo": "main",
+        "size": 5960303,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/liltanks.zip"
+      },
+      "version": 3
+    },
     "lisathehopeful.zip": {
       "attr": {
         "arch": [
@@ -15703,7 +16127,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "You can purchase Mable and the Wood at: https://graffiti-games.itch.io/mable-and-the-wood. Download the Linux version and extract it, and place the game.unx file in the port's gamedata directory. Tested using *Mable_Linux_v4.zip* version 4 (Oct 03, 2019).",
+        "inst": "You can purchase Mable and the Wood at: https://graffiti-games.itch.io/mable-and-the-wood. Download the Linux version and extract it, and place the game.unx file in the port's gamedata directory. Tested using *Mable\\_Linux\\_v4.zip* version 4 (Oct 03, 2019).",
         "inst_md": null,
         "porter": [
           "tabreturn"
@@ -15721,12 +16145,12 @@
       "name": "mableandthewood.zip",
       "source": {
         "date_added": "2024-05-17",
-        "date_updated": "2024-05-17",
-        "md5": "2b47debdf82f0866017783ca396b1191",
-        "release_id": "2024-05-17_1453",
+        "date_updated": "2024-05-20",
+        "md5": "da5c64430f25e854bd3a5b049604b672",
+        "release_id": "2024-05-20_1328",
         "repo": "main",
-        "size": 31402663,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-17_1453/mableandthewood.zip"
+        "size": 31402666,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/mableandthewood.zip"
       },
       "version": 3
     },
@@ -17832,7 +18256,7 @@
         ],
         "reqs": [],
         "rtr": true,
-        "runtime": null,
+        "runtime": "frt_3.2.3.squashfs",
         "title": "Mythos"
       },
       "items": [
@@ -17843,12 +18267,12 @@
       "name": "mythos.zip",
       "source": {
         "date_added": "2024-05-13",
-        "date_updated": "2024-05-13",
-        "md5": "734be120ab0a201a02c973f18c3e3527",
-        "release_id": "2024-05-13_1155",
+        "date_updated": "2024-05-20",
+        "md5": "3ec5fd8d71ceb05d61fca739cfff132c",
+        "release_id": "2024-05-20_1328",
         "repo": "main",
-        "size": 45093534,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-13_1155/mythos.zip"
+        "size": 44133775,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/mythos.zip"
       },
       "version": 3
     },
@@ -22840,12 +23264,12 @@
       "name": "quakespasm.zip",
       "source": {
         "date_added": "2023-10-23",
-        "date_updated": "2024-05-06",
-        "md5": "cdb10403a422861471bd3b2acf249e2f",
-        "release_id": "2024-05-06_2128",
+        "date_updated": "2024-05-20",
+        "md5": "5c12ef1dbcf438bfe2c3cf1c853a7740",
+        "release_id": "2024-05-20_1328",
         "repo": "main",
-        "size": 42685769,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/quakespasm.zip"
+        "size": 41829718,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/quakespasm.zip"
       },
       "version": 3
     },
@@ -24661,12 +25085,12 @@
       "name": "satryn.zip",
       "source": {
         "date_added": "2023-10-21",
-        "date_updated": "2024-04-01",
-        "md5": "335c3c1a344a013fec2ba47f1fc4378e",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-05-20",
+        "md5": "e5a17bd84f2720de9e35694d5899f689",
+        "release_id": "2024-05-20_1328",
         "repo": "main",
-        "size": 38429703,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/satryn.zip"
+        "size": 38424720,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/satryn.zip"
       },
       "version": 3
     },
@@ -30149,12 +30573,12 @@
       "name": "titan_tactics.zip",
       "source": {
         "date_added": "2023-04-13",
-        "date_updated": "2024-04-01",
-        "md5": "9ab4db6bcbcb2d32d1bcd787347b0713",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-05-20",
+        "md5": "a0db660f94215f591f6cedcfdb091331",
+        "release_id": "2024-05-20_1328",
         "repo": "main",
-        "size": 40291973,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/titan_tactics.zip"
+        "size": 40291983,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/titan_tactics.zip"
       },
       "version": 3
     },
@@ -31398,7 +31822,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "You must have a copy of Undertale Linux version assets copied to the ports/undertale/assets folder.  For more info on the setup needs, see https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information",
+        "inst": "If you have a copy of the Undertale Linux version, copy its `game.unx`, `credits.txt`, `splash.png` and various `.ogg` files to the `ports/undertale/assets` folder.\n\nIf you don't have the Linux version, simply rename Undertale's `data.win` file into `game.unx`, and drag it and the other aforementioned files into the same folder as mentioned above.",
         "inst_md": null,
         "porter": [
           "krishenriksen"
@@ -31416,12 +31840,12 @@
       "name": "undertale.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-05-15",
-        "md5": "d34fbd3e8389935ea51096e7f82db165",
-        "release_id": "2024-05-15_1207",
+        "date_updated": "2024-05-20",
+        "md5": "0ade1a7c772e8e2d94ea4c3794ab12cc",
+        "release_id": "2024-05-20_1328",
         "repo": "main",
-        "size": 5257264,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/undertale.zip"
+        "size": 5257302,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/undertale.zip"
       },
       "version": 3
     },
