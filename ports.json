@@ -15602,6 +15602,75 @@
       },
       "version": 3
     },
+    "lisathetimeless.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Lisa the Timeless is a Fangame set in the lisa universe made by Torrington ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "download the game from gamejolt,https://gamejolt.com/games/LISA-The-Timeless/629435 tested with Windows version. Copy all assets to the gamedata folder.\n\nNote: This game is not ideal for devices with low resolution displays and/or absent joysticks. ",
+        "inst_md": null,
+        "porter": [
+          "TheLaggyPyro"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "LISA: The Timeless"
+      },
+      "items": [
+        "LISA The Timeless.sh",
+        "lisathetimeless"
+      ],
+      "items_opt": null,
+      "name": "lisathetimeless.zip",
+      "source": {
+        "date_added": "2024-05-23",
+        "date_updated": "2024-05-23",
+        "md5": "6e052bd0cc33fc4c4555728392803350",
+        "release_id": "2024-05-23_0832",
+        "repo": "main",
+        "size": 5176116,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-23_0832/lisathetimeless.zip"
+      },
+      "version": 3
+    },
     "lisatheunbreakable.zip": {
       "attr": {
         "arch": [
