@@ -4741,12 +4741,12 @@
       "name": "carmageddon.zip",
       "source": {
         "date_added": "2023-10-09",
-        "date_updated": "2024-04-01",
-        "md5": "4193d3abae95b316568ff76823f3ab45",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-05-22",
+        "md5": "f148355e7e52f35fc5b828b2680471b1",
+        "release_id": "2024-05-22_2326",
         "repo": "main",
-        "size": 1401645,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/carmageddon.zip"
+        "size": 1413918,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-22_2326/carmageddon.zip"
       },
       "version": 3
     },
@@ -5363,7 +5363,7 @@
           "video": null
         },
         "inst": "Ready to Run!",
-        "inst_md": "If you liked the game, kindly consider supporting the devs at the following:\nItch.io: https://eldskald.itch.io/charge-kid\nSteam: https://store.steampowered.com/app/1334300/Charge_Kid/\nNintendo Switch eshop: https://www.nintendo.com/us/store/products/charge-kid-switch/",
+        "inst_md": "If you liked the game, kindly consider supporting the devs at the following:\nItch.io: [https://eldskald.itch.io/charge-kid](https://eldskald.itch.io/charge-kid)\nSteam: [https://store.steampowered.com/app/1334300/Charge_Kid/](https://store.steampowered.com/app/1334300/Charge_Kid/)\nNintendo Switch eshop: [https://www.nintendo.com/us/store/products/charge-kid-switch/](https://www.nintendo.com/us/store/products/charge-kid-switch/)",
         "porter": [
           "Fraxinus88",
           "Kompaan"
@@ -5381,12 +5381,12 @@
       "name": "chargekid.zip",
       "source": {
         "date_added": "2024-05-20",
-        "date_updated": "2024-05-20",
-        "md5": "2f044e0383797877699e5c12d8635332",
-        "release_id": "2024-05-20_1328",
+        "date_updated": "2024-05-22",
+        "md5": "c86e7c072d26e65b5dedd7fad74f46f4",
+        "release_id": "2024-05-22_2326",
         "repo": "main",
-        "size": 42827347,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/chargekid.zip"
+        "size": 42827365,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-22_2326/chargekid.zip"
       },
       "version": 3
     },
@@ -6523,6 +6523,78 @@
         "repo": "main",
         "size": 199418,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/davegnukem.zip"
+      },
+      "version": 3
+    },
+    "daydreamer.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A minimalistic boss battle shmup that truly challenges your skills with 18 bosses, each with its own challenging pattern. This is a strategy shmup that is on another level! You will die a lot! ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download from Nizakashii https://nizakashii.itch.io/daydreamer  Locate and place data.win & both .ogg files into gamedata folder. ",
+        "inst_md": "Download from [Nizakashii](https://nizakashii.itch.io/daydreamer) Locate and place data.win & both .ogg files into gamedata folder. ",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Daydreamer"
+      },
+      "items": [
+        "Daydreamer.sh",
+        "daydreamer/"
+      ],
+      "items_opt": null,
+      "name": "daydreamer.zip",
+      "source": {
+        "date_added": "2024-05-22",
+        "date_updated": "2024-05-22",
+        "md5": "bbedf958c4ae504c6ff34d705774a37b",
+        "release_id": "2024-05-22_2326",
+        "repo": "main",
+        "size": 6303331,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-22_2326/daydreamer.zip"
       },
       "version": 3
     },
@@ -8716,6 +8788,78 @@
         "repo": "main",
         "size": 3452449,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/escape.zip"
+      },
+      "version": 3
+    },
+    "everpatch.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A super cute and super short platformer where you must collect every coin in order to meet the next level. But beware, the path isn't a complete picnic. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run. ",
+        "inst_md": null,
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Everpatch"
+      },
+      "items": [
+        "Everpatch.sh",
+        "everpatch/"
+      ],
+      "items_opt": null,
+      "name": "everpatch.zip",
+      "source": {
+        "date_added": "2024-05-22",
+        "date_updated": "2024-05-22",
+        "md5": "e271e688734273838a078ed8dc1056ef",
+        "release_id": "2024-05-22_2326",
+        "repo": "main",
+        "size": 5518262,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-22_2326/everpatch.zip"
       },
       "version": 3
     },
@@ -14896,6 +15040,75 @@
         "repo": "main",
         "size": 1169709,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/laserkombat.zip"
+      },
+      "version": 3
+    },
+    "lawnbusterforhire.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Play as Lawn Buster and trim the grass in randomly generated lawns while following an increasingly complex series of rules and priorities.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You can purchase Lawn Buster for Hire at: https://turdboomerang.itch.io/lawn-buster-for-hire. Download the *Lawn Buster for Hire.zip* and extract it, and place the *Lawn Buster for Hire.exe* file in the gamedata directory. This has been tested with the *Lawn Buster for Hire.zip*, Mar 01, 2022 release.",
+        "inst_md": null,
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Lawn Buster for Hire"
+      },
+      "items": [
+        "Lawn Buster for Hire.sh",
+        "lawnbusterforhire"
+      ],
+      "items_opt": null,
+      "name": "lawnbusterforhire.zip",
+      "source": {
+        "date_added": "2024-05-22",
+        "date_updated": "2024-05-22",
+        "md5": "8e02f7450dce07e463b7e2715fab70ac",
+        "release_id": "2024-05-22_2326",
+        "repo": "main",
+        "size": 12428799,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-22_2326/lawnbusterforhire.zip"
       },
       "version": 3
     },
@@ -32281,6 +32494,75 @@
         "repo": "main",
         "size": 26456504,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/vcmi.zip"
+      },
+      "version": 3
+    },
+    "viralreload.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Viral Reload is an infinite wave-based shoot-em-up with a unique dash mechanic. Blast away at deadly viruses, mechanical hybrids, and two unique bosses. Dash through bullets, lasers, and enemies to stay alive and score!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You can purchase Viral Reload at: https://retrocademedia.itch.io/viral-reload. Download the Linux version and extract it, and place the *Viral Reload.pck* file in the gamedata directory. This has been tested with the *Viral Reload Linux.zip*, Jan 26, 2022 release.",
+        "inst_md": null,
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.4.5.squashfs",
+        "title": "Viral Reload"
+      },
+      "items": [
+        "Viral Reload.sh",
+        "viralreload"
+      ],
+      "items_opt": null,
+      "name": "viralreload.zip",
+      "source": {
+        "date_added": "2024-05-22",
+        "date_updated": "2024-05-22",
+        "md5": "3a2819a76bac60a22d6a03936671d1ac",
+        "release_id": "2024-05-22_2326",
+        "repo": "main",
+        "size": 518149,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-22_2326/viralreload.zip"
       },
       "version": 3
     },
