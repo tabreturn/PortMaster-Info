@@ -5246,6 +5246,145 @@
       },
       "version": 3
     },
+    "caveexpress.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "CaveExpress is a classic 2D platformer with physics-based gameplay and dozens of levels. Master your pedal-powered flying machine to pick up packages from your cave-dwelling clients and drop them off at the collection point.\n\nBut beware! Mighty mastodons, terrifying pterodactyls and others would rather see you extinct.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Cave Express"
+      },
+      "items": [
+        "Cave Express.sh",
+        "caveexpress"
+      ],
+      "items_opt": null,
+      "name": "caveexpress.zip",
+      "source": {
+        "date_added": "2024-05-23",
+        "date_updated": "2024-05-23",
+        "md5": "e2da159ff6a4558752b1d370064f3bb3",
+        "release_id": "2024-05-23_1017",
+        "repo": "main",
+        "size": 15783754,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-23_1017/caveexpress.zip"
+      },
+      "version": 3
+    },
+    "cavepacker.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "CavePacker is a sokoban game. It is a puzzle game where you have to move the packages onto their targets without getting stuck. The lesser steps you made for solving a level, the better. You may only push but not pull packages.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Cave Packer"
+      },
+      "items": [
+        "Cave Packer.sh",
+        "cavepacker"
+      ],
+      "items_opt": null,
+      "name": "cavepacker.zip",
+      "source": {
+        "date_added": "2024-05-23",
+        "date_updated": "2024-05-23",
+        "md5": "d7a81e024c96f1a7e1bbb22b55fb5e53",
+        "release_id": "2024-05-23_1017",
+        "repo": "main",
+        "size": 6548420,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-23_1017/cavepacker.zip"
+      },
+      "version": 3
+    },
     "cceleste.zip": {
       "attr": {
         "arch": [
