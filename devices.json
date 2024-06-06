@@ -107,7 +107,7 @@
       }
     },
     "device": "r33s",
-    "manufacturer": "Other",
+    "manufacturer": "Game Console",
     "name": "R33S Retro Handheld"
   },
   "r35s": {
@@ -126,7 +126,7 @@
       }
     },
     "device": "r35s",
-    "manufacturer": "Other",
+    "manufacturer": "Game Console",
     "name": "R35S Retro Handheld"
   },
   "r36s": {
@@ -145,7 +145,7 @@
       }
     },
     "device": "r36s",
-    "manufacturer": "Other",
+    "manufacturer": "Game Console",
     "name": "R36S Retro Handheld"
   },
   "rg351mp": {
@@ -260,6 +260,19 @@
     "manufacturer": "Anbernic",
     "name": "Anbernic RG35XX PLUS"
   },
+  "rg35xx-sp": {
+    "cfw": {
+      "batocera": {
+        "name": "Batocera"
+      },
+      "muos": {
+        "name": "muOS"
+      }
+    },
+    "device": "rg35xx-sp",
+    "manufacturer": "Anbernic",
+    "name": "Anbernic RG35XX SP"
+  },
   "rg503": {
     "cfw": {
       "arkos": {
@@ -320,6 +333,19 @@
     "device": "rgb10max3",
     "manufacturer": "Powkiddy",
     "name": "Powkiddy RGB10MAX3"
+  },
+  "rgb10max3pro": {
+    "cfw": {
+      "jelos": {
+        "name": "JELOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "device": "rgb10max3pro",
+    "manufacturer": "Powkiddy",
+    "name": "Powkiddy RGB10MAX3 Pro"
   },
   "rgb20s": {
     "cfw": {
@@ -399,7 +425,7 @@
       }
     },
     "device": "xu10",
-    "manufacturer": "Powkiddy",
+    "manufacturer": "MagicX",
     "name": "XU10 Retro Handheld"
   }
 }
