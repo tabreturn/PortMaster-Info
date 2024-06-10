@@ -29098,6 +29098,80 @@
       },
       "version": 2
     },
+    "soh2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A source port of Majora's Mask. 2Ship2Harkinian (aka SoH2) features extensive and significant enhancements over the original game, such as improved performance, increased frame-rate, native ultra-widescreen support, and extensive mod support (especially compared to emulated versions of the original), among other features.",
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Follow the guide in the readme to generate your mm.o2r file. Once created put in the ports/soh2 folder.",
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Ship of Harkinian 2"
+      },
+      "items": [
+        "Ship of Harkinian 2.sh",
+        "soh2"
+      ],
+      "items_opt": null,
+      "name": "soh2.zip",
+      "source": {
+        "date_added": "2024-06-10",
+        "date_updated": "2024-06-10",
+        "md5": "c2d8b14bdc11c396d8f5ba21ada6846e",
+        "release_id": "2024-06-10_1032",
+        "repo": "multiverse",
+        "size": 14651833,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-06-10_1032/soh2.zip"
+      },
+      "version": 2
+    },
     "sokobrawn.zip": {
       "attr": {
         "arch": [
