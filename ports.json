@@ -3182,6 +3182,81 @@
       },
       "version": 3
     },
+    "bluerevolver.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "BLUE REVOLVER is a fresh new shoot-em-up built for newcomers and psychos alike. An adaptive difficulty system tailors the game to your skill level as you fight and flourish to evade the maniac environmental force, Blue Revolver!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from https://store.steampowered.com/app/439490/BLUE_REVOLVER/ and copy the .exe or .love file into the port (bluerevolver) folder. First run will take a few minutes to patch the game. Also you will need to have around 1.5 gb of free space for patching (additional space is needed only for patching on first run).",
+        "inst_md": null,
+        "porter": [
+          "Troidem"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "BLUE REVOLVER"
+      },
+      "items": [
+        "BLUE REVOLVER.sh",
+        "bluerevolver"
+      ],
+      "items_opt": null,
+      "name": "bluerevolver.zip",
+      "source": {
+        "date_added": "2024-06-11",
+        "date_updated": "2024-06-11",
+        "md5": "065e44aa551a905a5ce1c3d2f66f153e",
+        "release_id": "2024-06-11_1523",
+        "repo": "main",
+        "size": 164801548,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-11_1523/bluerevolver.zip"
+      },
+      "version": 3
+    },
     "blues.brothers.zip": {
       "attr": {
         "arch": [
@@ -3318,12 +3393,12 @@
       "name": "bnbmax.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-04-07",
-        "md5": "bc0872b0e7b103cc5bfeda5fd516aa81",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-06-11",
+        "md5": "a5754c9ecfdcea28139eb8cb2622cf3a",
+        "release_id": "2024-06-11_1523",
         "repo": "main",
-        "size": 17464562,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/bnbmax.zip"
+        "size": 17497589,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-11_1523/bnbmax.zip"
       },
       "version": 3
     },
@@ -6849,6 +6924,78 @@
         "repo": "main",
         "size": 21104,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/cropsmare.zip"
+      },
+      "version": 3
+    },
+    "curseball.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Welcome To  Curseball! Your goal: hit the ball before time runs out. Simple, right?",
+        "desc_md": "*Welcome To  Curseball! Your goal: hit the ball before time runs out. Simple, right?*",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is ready to run.",
+        "inst_md": "This port is ready to run.",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Curseball"
+      },
+      "items": [
+        "Curseball.sh",
+        "curseball"
+      ],
+      "items_opt": null,
+      "name": "curseball.zip",
+      "source": {
+        "date_added": "2024-06-11",
+        "date_updated": "2024-06-11",
+        "md5": "3d9f6812a1e2541222e9e2d6e5da14b4",
+        "release_id": "2024-06-11_1523",
+        "repo": "main",
+        "size": 14657039,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-11_1523/curseball.zip"
       },
       "version": 3
     },
@@ -13912,6 +14059,79 @@
       },
       "version": 3
     },
+    "honeyguardian.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Short score-attack shmup in the caravan style.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from https://ioribranford.itch.io/honey-guardian and copy the .exe or .love file into the port (honeyguardian) folder.",
+        "inst_md": null,
+        "porter": [
+          "Troidem"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Honey Guardian"
+      },
+      "items": [
+        "Honey Guardian.sh",
+        "honeyguardian"
+      ],
+      "items_opt": null,
+      "name": "honeyguardian.zip",
+      "source": {
+        "date_added": "2024-06-11",
+        "date_updated": "2024-06-11",
+        "md5": "a37d26578c06d409ccc723e21a0a5b8b",
+        "release_id": "2024-06-11_1523",
+        "repo": "main",
+        "size": 2838556,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-11_1523/honeyguardian.zip"
+      },
+      "version": 3
+    },
     "hota.zip": {
       "attr": {
         "arch": [
@@ -20967,6 +21187,78 @@
       },
       "version": 3
     },
+    "nonstopspaceprobe.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Take control of the Orblr-1 Space Probe and blast chaotically through the cosmos on your mission to collect precious minerals.\n\nFly through 40 levels avoiding dangerous space debris and collect the gems before heading to the goal. There's just one problem... once you've started you can't stop!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from https://ci.itch.io/non-stop-space-probe and place the contents of the zip into the nonstopspaceprobe/gamedata folder",
+        "inst_md": null,
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Non-Stop Space Probe"
+      },
+      "items": [
+        "Non-Stop Space Probe.sh",
+        "nonstopspaceprobe"
+      ],
+      "items_opt": null,
+      "name": "nonstopspaceprobe.zip",
+      "source": {
+        "date_added": "2024-06-11",
+        "date_updated": "2024-06-11",
+        "md5": "86e0176e70ab0ddb0cf556b9b8555594",
+        "release_id": "2024-06-11_1523",
+        "repo": "main",
+        "size": 11750191,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-11_1523/nonstopspaceprobe.zip"
+      },
+      "version": 3
+    },
     "noparachute.zip": {
       "attr": {
         "arch": [
@@ -25587,12 +25879,12 @@
       "name": "rebound.zip",
       "source": {
         "date_added": "2024-06-05",
-        "date_updated": "2024-06-05",
-        "md5": "f402b2bd3f4d1d2e208efcbc80863ca8",
-        "release_id": "2024-06-05_1500",
+        "date_updated": "2024-06-11",
+        "md5": "67d2b345c9e6e3d71339ee60f210bbde",
+        "release_id": "2024-06-11_1523",
         "repo": "main",
-        "size": 2638137,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-05_1500/rebound.zip"
+        "size": 5160641,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-11_1523/rebound.zip"
       },
       "version": 3
     },
@@ -27695,12 +27987,12 @@
       "name": "serioussam-tfe.zip",
       "source": {
         "date_added": "2023-11-21",
-        "date_updated": "2024-05-29",
-        "md5": "1c6a4269ea21aa90275322b844d4c9c5",
-        "release_id": "2024-05-29_0749",
+        "date_updated": "2024-06-11",
+        "md5": "6d995ccd582bbbe91e3e10a894f325f6",
+        "release_id": "2024-06-11_1523",
         "repo": "main",
-        "size": 12707773,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-29_0749/serioussam-tfe.zip"
+        "size": 12708150,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-11_1523/serioussam-tfe.zip"
       },
       "version": 3
     },
@@ -27768,12 +28060,12 @@
       "name": "serioussam-tse.zip",
       "source": {
         "date_added": "2023-11-21",
-        "date_updated": "2024-05-29",
-        "md5": "c690dad4e55f55c9d0a771288f12eea4",
-        "release_id": "2024-05-29_0749",
+        "date_updated": "2024-06-11",
+        "md5": "f42690ac55d1f39cf0b5daa17608aeeb",
+        "release_id": "2024-06-11_1523",
         "repo": "main",
-        "size": 14329785,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-29_0749/serioussam-tse.zip"
+        "size": 14330158,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-11_1523/serioussam-tse.zip"
       },
       "version": 3
     },
