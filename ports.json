@@ -1177,12 +1177,12 @@
       "name": "anodyne.zip",
       "source": {
         "date_added": "2023-10-28",
-        "date_updated": "2024-04-01",
-        "md5": "24fc01822aca47a6278400cf5399832f",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-06-15",
+        "md5": "1d362cd09d0b209332c30966e5ebae60",
+        "release_id": "2024-06-15_1740",
         "repo": "main",
-        "size": 1582885,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/anodyne.zip"
+        "size": 1582900,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/anodyne.zip"
       },
       "version": 3
     },
@@ -2584,12 +2584,12 @@
       "name": "bleed.zip",
       "source": {
         "date_added": "2023-11-02",
-        "date_updated": "2024-04-01",
-        "md5": "ec80c86967f7d5341008817a235dca02",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-06-15",
+        "md5": "68385e866010831bc683c35799196bba",
+        "release_id": "2024-06-15_1740",
         "repo": "main",
-        "size": 3046210,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/bleed.zip"
+        "size": 3046227,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/bleed.zip"
       },
       "version": 3
     },
@@ -2658,12 +2658,12 @@
       "name": "bleed2.zip",
       "source": {
         "date_added": "2023-11-02",
-        "date_updated": "2024-04-01",
-        "md5": "92d3db7b8b50131bb8fb72b7439d4bc7",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-06-15",
+        "md5": "8b9a36a742b06bb1a774647665be30cd",
+        "release_id": "2024-06-15_1740",
         "repo": "main",
-        "size": 2492723,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/bleed2.zip"
+        "size": 2492742,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/bleed2.zip"
       },
       "version": 3
     },
@@ -5964,12 +5964,12 @@
       "name": "chasm.zip",
       "source": {
         "date_added": "2023-08-02",
-        "date_updated": "2024-04-01",
-        "md5": "ed931308757ef9f5e7b21c854a78802f",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-06-15",
+        "md5": "98891f61e61f06df801994b4cf36e2f7",
+        "release_id": "2024-06-15_1740",
         "repo": "main",
-        "size": 1984934,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/chasm.zip"
+        "size": 1984947,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/chasm.zip"
       },
       "version": 3
     },
@@ -8027,6 +8027,78 @@
         "repo": "main",
         "size": 16558687,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-13_0111/descent2.zip"
+      },
+      "version": 3
+    },
+    "destructivator.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Destructivator is a retro styled platform shooter for the gamer that enjoys a challenge - 20 levels of fast and furious arcade action. Blast your way to Zallagor's lair to rid the world of this evil monster, blah blah blah etc...\n\nBasically just shoot all the bad guys.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from https://pugfuglygames.itch.io/destructivator and place the contents of the zip into the /gamedata folder",
+        "inst_md": null,
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Destructivator"
+      },
+      "items": [
+        "Destructivator.sh",
+        "destructivator"
+      ],
+      "items_opt": null,
+      "name": "destructivator.zip",
+      "source": {
+        "date_added": "2024-06-15",
+        "date_updated": "2024-06-15",
+        "md5": "57e0704540d209dd431bac9ac83625e1",
+        "release_id": "2024-06-15_1740",
+        "repo": "main",
+        "size": 5606704,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/destructivator.zip"
       },
       "version": 3
     },
@@ -13201,9 +13273,9 @@
         ],
         "image": {
           "covers": [
-            "cover.png",
             "cover.opposingforce.png",
-            "cover.blueshift.png"
+            "cover.blueshift.png",
+            "cover.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -13730,8 +13802,8 @@
         ],
         "image": {
           "covers": [
-            "cover.hexen2.png",
-            "cover.hexen2portalofpraevus.png"
+            "cover.hexen2portalofpraevus.png",
+            "cover.hexen2.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -15860,6 +15932,79 @@
         "repo": "main",
         "size": 6564215,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-17_1453/jumpoffthebridge.zip"
+      },
+      "version": 3
+    },
+    "justanotherpong.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "It's just another pong game. Play alone or with a friend, each holding one side of your handheld!",
+        "desc_md": "It's just another pong game. Play alone or with a friend, each holding one side of your handheld!",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is ready to run.",
+        "inst_md": "This port is ready to run.",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Just Another Pong"
+      },
+      "items": [
+        "Just Another Pong.sh",
+        "justanotherpong"
+      ],
+      "items_opt": null,
+      "name": "justanotherpong.zip",
+      "source": {
+        "date_added": "2024-06-15",
+        "date_updated": "2024-06-15",
+        "md5": "9d82c18fa97e37cc13e9bcdc0586a002",
+        "release_id": "2024-06-15_1740",
+        "repo": "main",
+        "size": 4009075,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/justanotherpong.zip"
       },
       "version": 3
     },
@@ -21990,6 +22135,78 @@
       },
       "version": 3
     },
+    "omegastrike.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Omega Strike is a metroidvania game with a vast, open ended world and multiple playable characters. Explore the world, learn new abilities, upgrade your weapons and defeat Doctor Omega and his mutant armies!",
+        "desc_md": "*\"Omega Strike is a metroidvania game with a vast, open ended world and multiple playable characters. Explore the world, learn new abilities, upgrade your weapons and defeat Doctor Omega and his mutant armies!\"*",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam. Add the assets to the gamedata folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/680340/Omega_Strike/). Add the assets to the gamedata folder.",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Omega Strike"
+      },
+      "items": [
+        "Omega Strike.sh",
+        "omegastrike"
+      ],
+      "items_opt": null,
+      "name": "omegastrike.zip",
+      "source": {
+        "date_added": "2024-06-15",
+        "date_updated": "2024-06-15",
+        "md5": "e0cfe354339db3598c83acb0967e88e0",
+        "release_id": "2024-06-15_1740",
+        "repo": "main",
+        "size": 5855747,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/omegastrike.zip"
+      },
+      "version": 3
+    },
     "openblok.zip": {
       "attr": {
         "arch": [
@@ -23534,12 +23751,12 @@
       "name": "panzerpaladin.zip",
       "source": {
         "date_added": "2024-04-09",
-        "date_updated": "2024-05-06",
-        "md5": "f98a47891dec0d018b675e3757fff977",
-        "release_id": "2024-05-06_2128",
+        "date_updated": "2024-06-15",
+        "md5": "2c743139328971d1073ece8ff5eb6587",
+        "release_id": "2024-06-15_1740",
         "repo": "main",
-        "size": 3067280,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/panzerpaladin.zip"
+        "size": 3067286,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/panzerpaladin.zip"
       },
       "version": 3
     },
@@ -27621,12 +27838,12 @@
       "name": "savant.zip",
       "source": {
         "date_added": "2024-03-06",
-        "date_updated": "2024-04-14",
-        "md5": "d77d948bcb701e1492f272c48d2f8abe",
-        "release_id": "2024-04-14_0641",
+        "date_updated": "2024-06-15",
+        "md5": "48af440037a3a1aeaf2324b4ca1d8ff7",
+        "release_id": "2024-06-15_1740",
         "repo": "main",
-        "size": 11733845,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-14_0641/savant.zip"
+        "size": 11733857,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/savant.zip"
       },
       "version": 3
     },
@@ -28646,12 +28863,12 @@
       "name": "simonsqrev.zip",
       "source": {
         "date_added": "2023-10-31",
-        "date_updated": "2024-04-07",
-        "md5": "63a558ba053a18edd3b748f97b996910",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-06-15",
+        "md5": "a49b68b6471e857f67699458ca7aa4dd",
+        "release_id": "2024-06-15_1740",
         "repo": "main",
-        "size": 20337578,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/simonsqrev.zip"
+        "size": 20337592,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/simonsqrev.zip"
       },
       "version": 3
     },
@@ -29899,12 +30116,12 @@
       "name": "sorr.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-07",
-        "md5": "c2f40f40f45db69a5ee899bdc0afaad9",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-06-15",
+        "md5": "a9067fd98a45c89ebc7413ef93b49ef1",
+        "release_id": "2024-06-15_1740",
         "repo": "main",
-        "size": 2375010,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/sorr.zip"
+        "size": 3893690,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/sorr.zip"
       },
       "version": 3
     },
@@ -29981,6 +30198,79 @@
         "repo": "main",
         "size": 746885,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/space.cadet.pinball.zip"
+      },
+      "version": 3
+    },
+    "spacewingwar.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Blast through adorable enemies in this side scrolling shmup that's sure to remind you of a gameboy classic game, only, this game has over 40 color pallets to choose from. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase from Steam, Pneuma Games https://store.steampowered.com/app/1979470/Spacewing_War  Locate data.win plus audiogroup1 & audiogroup2 files and place them inside the gamedata folder. ",
+        "inst_md": "Purchase from Steam, [Pneuma Games](https://store.steampowered.com/app/1979470/Spacewing_War)  Locate data.win plus audiogroup1 & audiogroup2 files and place them inside the gamedata folder. ",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Spacewing War"
+      },
+      "items": [
+        "Spacewing War.sh",
+        "spacewingwar/"
+      ],
+      "items_opt": null,
+      "name": "spacewingwar.zip",
+      "source": {
+        "date_added": "2024-06-15",
+        "date_updated": "2024-06-15",
+        "md5": "31a7ac229e5dcdc9c2571acd1c8ff177",
+        "release_id": "2024-06-15_1740",
+        "repo": "main",
+        "size": 9314534,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/spacewingwar.zip"
       },
       "version": 3
     },
@@ -33454,12 +33744,12 @@
       "name": "tmntsr.zip",
       "source": {
         "date_added": "2024-03-08",
-        "date_updated": "2024-04-01",
-        "md5": "0446b25c170b8fae5a1fa4f90d98719e",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-06-15",
+        "md5": "335b1f240a2f3bd9d4d90fcc9ef0bdde",
+        "release_id": "2024-06-15_1740",
         "repo": "main",
-        "size": 10568933,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/tmntsr.zip"
+        "size": 10568950,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/tmntsr.zip"
       },
       "version": 3
     },
@@ -34408,12 +34698,12 @@
       "name": "ubermoshcollection.zip",
       "source": {
         "date_added": "2023-09-22",
-        "date_updated": "2024-04-01",
-        "md5": "3f1d633c73320810bc6c2691d355372e",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-06-15",
+        "md5": "36a990dca9d849db4a74bbd5ab504172",
+        "release_id": "2024-06-15_1740",
         "repo": "main",
-        "size": 103995562,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/ubermoshcollection.zip"
+        "size": 103995576,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/ubermoshcollection.zip"
       },
       "version": 3
     },
