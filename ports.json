@@ -3248,12 +3248,12 @@
       "name": "bluerevolver.zip",
       "source": {
         "date_added": "2024-06-11",
-        "date_updated": "2024-06-11",
-        "md5": "065e44aa551a905a5ce1c3d2f66f153e",
-        "release_id": "2024-06-11_1523",
+        "date_updated": "2024-06-18",
+        "md5": "cae6ec8a32c9c22eb6300fa767e2c620",
+        "release_id": "2024-06-18_1327",
         "repo": "main",
-        "size": 164801548,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-11_1523/bluerevolver.zip"
+        "size": 164801635,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-18_1327/bluerevolver.zip"
       },
       "version": 3
     },
@@ -5228,6 +5228,81 @@
       },
       "version": 3
     },
+    "catacomb89.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Catacomb (1989-1990 DOS) contains 10 levels in this first release. Petton Everhail is contacted by Terexin, High Wizard of the Kieralon. Terexin informs him the Kieralon Empire has fallen. Petton must travel to the Kieralon Palace to collect the lost treasures of Terexin, who has offered to split them fifty-fifty. Petton agrees, puts down his cup of Orange Pekoe tea, and marches off for the Catacombs under the Kieralon Palace.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy your *.CAT files into ports/catacomb89/ and filenames should be uppercase.  If game files are lowercase, the launcher will attempt to convert them to uppercase automatically.  Both the floppy disk and GOG versions are compatible.",
+        "inst_md": null,
+        "porter": [
+          "Slayer366"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Catacomb (1989)"
+      },
+      "items": [
+        "Catacomb89.sh",
+        "catacomb89/"
+      ],
+      "items_opt": null,
+      "name": "catacomb89.zip",
+      "source": {
+        "date_added": "2024-06-18",
+        "date_updated": "2024-06-18",
+        "md5": "2b54c3fd139027d7edccd73b62d1ae37",
+        "release_id": "2024-06-18_1327",
+        "repo": "main",
+        "size": 349602,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-18_1327/catacomb89.zip"
+      },
+      "version": 3
+    },
     "cattactics.zip": {
       "attr": {
         "arch": [],
@@ -7147,6 +7222,79 @@
       },
       "version": 3
     },
+    "darksheep.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Dark Sheep is a block-pushing puzzle game with horror elements, and a love letter to the Commodore 64, both in visuals and audio! Plays like classic Sokoban with new twists that force you to find creative solutions!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Grab the windows version from https://daisy-games.itch.io/dark-sheep\nand copy DarkSheep.pck into ports/darksheep/gamedata\n\nText is harder to read on 320p, but playable. Works best on 480p and up.",
+        "inst_md": "Grab the windows version from [itch.io](https://daisy-games.itch.io/dark-sheep)\nand copy `DarkSheep.pck` into `/roms/ports/darksheep/gamedata`\n\nText is harder to read on 320p, but playable. Works best on 480p and up.",
+        "porter": [
+          "Kompaan"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.3.4.squashfs",
+        "title": "Dark Sheep"
+      },
+      "items": [
+        "Dark Sheep.sh",
+        "darksheep"
+      ],
+      "items_opt": null,
+      "name": "darksheep.zip",
+      "source": {
+        "date_added": "2024-06-18",
+        "date_updated": "2024-06-18",
+        "md5": "b53600bf89904c1cda3d6881fb0a504a",
+        "release_id": "2024-06-18_1327",
+        "repo": "main",
+        "size": 25552,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-18_1327/darksheep.zip"
+      },
+      "version": 3
+    },
     "davegnukem.zip": {
       "attr": {
         "arch": [
@@ -8099,6 +8247,69 @@
         "repo": "main",
         "size": 5606704,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/destructivator.zip"
+      },
+      "version": 3
+    },
+    "destructivator2.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "ace:ALL"
+        ],
+        "desc": "A platform shooter that brings 90's gaming smashing into your face! Blast and insta-melee your way through hordes of alien soldiers, robots, bosses and loads more. Fight on foot, in a fighter or in a bomber. Take on bosses and ensure that the alien menace won't threaten Earth ever again!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from steam: https://store.steampowered.com/app/1124990/Destructivator_2/\nDownload the game and from your Steam library, right click on Destructivator 2>  Manage > Browse local files. Copy the data.win to /ports/destructivator2/gamedata",
+        "inst_md": null,
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Destructivator 2"
+      },
+      "items": [
+        "Destructivator 2.sh",
+        "destructivator2"
+      ],
+      "items_opt": null,
+      "name": "destructivator2.zip",
+      "source": {
+        "date_added": "2024-06-18",
+        "date_updated": "2024-06-18",
+        "md5": "6598005527c883d11e721d317fbd0324",
+        "release_id": "2024-06-18_1327",
+        "repo": "main",
+        "size": 5872438,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-18_1327/destructivator2.zip"
       },
       "version": 3
     },
@@ -15437,6 +15648,78 @@
       },
       "version": 3
     },
+    "ironferret.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Iron Ferret Is a small game where you play as a ferret riding a tank. Ultimately it's one giant escort mission, but at least your escortee is much more tankier than you and can shoot bullets.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run ",
+        "inst_md": null,
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "IRON FERRET "
+      },
+      "items": [
+        "IRON FERRET.sh",
+        "ironferret/"
+      ],
+      "items_opt": null,
+      "name": "ironferret.zip",
+      "source": {
+        "date_added": "2024-06-18",
+        "date_updated": "2024-06-18",
+        "md5": "d7c0a40246f44437d4cb8621bf218c84",
+        "release_id": "2024-06-18_1327",
+        "repo": "main",
+        "size": 14901520,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-18_1327/ironferret.zip"
+      },
+      "version": 3
+    },
     "jazz2.zip": {
       "attr": {
         "arch": [
@@ -16889,6 +17172,76 @@
         "repo": "main",
         "size": 5960303,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/liltanks.zip"
+      },
+      "version": 3
+    },
+    "lineoff.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Clean the dangerous line machine from ancient dust!  \u273f unlockable colour palettes \u273f",
+        "desc_md": "*\"clean the dangerous line machine from ancient dust!  \u273f unlockable colour palettes \u273f\"*",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is ready to run.",
+        "inst_md": "This port is ready to run.",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Lineoff"
+      },
+      "items": [
+        "Lineoff.sh",
+        "lineoff"
+      ],
+      "items_opt": null,
+      "name": "lineoff.zip",
+      "source": {
+        "date_added": "2024-06-18",
+        "date_updated": "2024-06-18",
+        "md5": "fb50e7373890a8a99f01d791fa61b852",
+        "release_id": "2024-06-18_1327",
+        "repo": "main",
+        "size": 4428809,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-18_1327/lineoff.zip"
       },
       "version": 3
     },
@@ -29172,6 +29525,78 @@
       },
       "version": 2
     },
+    "smoothiegalaxy.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Smoothie Galaxy is an adventure game inspired a lot by Zelda 2D games, you play a spacenaut crashed on an unknown planet and you need to find fours pieces of ship scattered in the world, for repair your ship and escape the planet..",
+        "desc_md": "*\"Smoothie Galaxy is an adventure game inspired a lot by Zelda 2D games, you play a spacenaut crashed on an unknown planet and you need to find fours pieces of ship scattered in the world, for repair your ship and escape the planet..\"*",
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is ready to run.",
+        "inst_md": "This port is ready to run.",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Smoothie Galaxy"
+      },
+      "items": [
+        "Smoothie Galaxy.sh",
+        "smoothiegalaxy"
+      ],
+      "items_opt": null,
+      "name": "smoothiegalaxy.zip",
+      "source": {
+        "date_added": "2024-06-18",
+        "date_updated": "2024-06-18",
+        "md5": "ea3f1a3cc41e2878b509ce9c865e0923",
+        "release_id": "2024-06-18_1327",
+        "repo": "main",
+        "size": 5246919,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-18_1327/smoothiegalaxy.zip"
+      },
+      "version": 3
+    },
     "smworld.zip": {
       "attr": {
         "arch": [
@@ -36975,6 +37400,78 @@
         "repo": "main",
         "size": 10938683,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-14_0641/youhave10s2023.zip"
+      },
+      "version": 3
+    },
+    "z-warp.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Z-Warp is an intense vertical shoot\u2019em up presented in retro pixel art style, featuring frenetic arcade-inspired action where blasters, bombs and KILLER specials are your only allies.\n",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase from Steam https://store.steampowered.com/app/1990820/ZWarp/\nLocate data.win and place it inside the corresponding gamedata folder. ",
+        "inst_md": "Purchase from [Steam](https://store.steampowered.com/app/1990820/ZWarp/) \nLocate data.win and place it inside the corresponding gamedata folder. ",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Z-Warp"
+      },
+      "items": [
+        "Z-Warp.sh",
+        "z-warp/"
+      ],
+      "items_opt": null,
+      "name": "z-warp.zip",
+      "source": {
+        "date_added": "2024-06-18",
+        "date_updated": "2024-06-18",
+        "md5": "5d5cb75dcdcc8b3af55f8dd28f81dbbd",
+        "release_id": "2024-06-18_1327",
+        "repo": "main",
+        "size": 7275068,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-18_1327/z-warp.zip"
       },
       "version": 3
     },
