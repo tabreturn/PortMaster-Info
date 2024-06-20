@@ -9708,6 +9708,78 @@
       },
       "version": 3
     },
+    "elecdude.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "\"Dr. Darkglass\" wants to Conquer the World, so he stole all the Energy supplies to create his Evil Robots. There is only one benign and that is \"Elec Dude\", he is the last Hope to save Mankind.\nThis Game is about collecting all the Energy per Level and there by getting to the next Level. But be careful not to collide with Enemy Robots.\n\nNote: Only works with the steam version for now!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Itch: Download ElecDude.zip from https://misteryjay.itch.io/elec-dude-full and unzip the contents to /ports/elecdude/gamedata\n\nSteam: Claim the game from steam: https://store.steampowered.com/app/1907980/Elec_Dude/\nDownload the game and from your Steam library,  right click on Elec Dude>  Manage > Browse local files. Copy the all the game files from /Elec Dude to /ports/elecdude/gamedata",
+        "inst_md": null,
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Elec Dude"
+      },
+      "items": [
+        "Elec Dude.sh",
+        "elecdude"
+      ],
+      "items_opt": null,
+      "name": "elecdude.zip",
+      "source": {
+        "date_added": "2024-06-20",
+        "date_updated": "2024-06-20",
+        "md5": "2861a4507628fc24faded2f9c7b7bd18",
+        "release_id": "2024-06-20_0908",
+        "repo": "main",
+        "size": 5919748,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-20_0908/elecdude.zip"
+      },
+      "version": 3
+    },
     "emojimerge.zip": {
       "attr": {
         "arch": [
@@ -17245,6 +17317,79 @@
       },
       "version": 3
     },
+    "lisathebashful.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Lisa the Bashful is a Fangame set in the lisa universe made by DoYouSellVHS",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "download the game from gamejolt,https://gamejolt.com/games/Lisathebashful/430290 tested with Windows version. Copy all assets to the gamedata folder.\n\nNote: This game is not ideal for devices with low resolution displays and/or absent joysticks.",
+        "inst_md": null,
+        "porter": [
+          "TheLaggyPyro"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "LISA: The Bashful"
+      },
+      "items": [
+        "LISA The Bashful.sh",
+        "lisathebashful"
+      ],
+      "items_opt": null,
+      "name": "lisathebashful.zip",
+      "source": {
+        "date_added": "2024-06-20",
+        "date_updated": "2024-06-20",
+        "md5": "7af7807b1ec69205591e541ff3fcae07",
+        "release_id": "2024-06-20_0908",
+        "repo": "main",
+        "size": 5164052,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-20_0908/lisathebashful.zip"
+      },
+      "version": 3
+    },
     "lisathehopeful.zip": {
       "attr": {
         "arch": [
@@ -21311,12 +21456,12 @@
       "name": "ner.zip",
       "source": {
         "date_added": "2024-05-13",
-        "date_updated": "2024-05-13",
-        "md5": "5249a178d991e840a4e4a9e30a84a033",
-        "release_id": "2024-05-13_1155",
+        "date_updated": "2024-06-20",
+        "md5": "52c6d1ae22354f4671a4b19d15ba32ab",
+        "release_id": "2024-06-20_0908",
         "repo": "main",
-        "size": 2806862,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-13_1155/ner.zip"
+        "size": 2806936,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-20_0908/ner.zip"
       },
       "version": 3
     },
