@@ -5228,6 +5228,81 @@
       },
       "version": 3
     },
+    "catacomb.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Catacomb II (Renamed to The Catacomb in 1991) contains 30 new levels and a few new monsters in this follow-up to the 1989-1990 release. Petton Everhail is contacted by Terexin, High Wizard of the Kieralon. Terexin informs him the Kieralon Empire has fallen. Petton must travel to the Kieralon Palace to collect the lost treasures of Terexin, who has offerd to split them fifty-fifty. Petton agrees, puts down his cup of Orange Pekoe tea, and marches off for the Catacombs under the Kieralon Palace.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy your *.CA2 files into ports/catacomb/ and filenames should be uppercase.  If game files are lowercase, the launcher will attempt to convert them to uppercase automatically.  Both the floppy disk and GOG versions are compatible.",
+        "inst_md": null,
+        "porter": [
+          "Slayer366"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Catacomb II"
+      },
+      "items": [
+        "Catacomb.sh",
+        "catacomb/"
+      ],
+      "items_opt": null,
+      "name": "catacomb.zip",
+      "source": {
+        "date_added": "2024-06-21",
+        "date_updated": "2024-06-21",
+        "md5": "458f76f30797f34f0b1b0153cef8b0a7",
+        "release_id": "2024-06-21_1031",
+        "repo": "main",
+        "size": 235266,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-21_1031/catacomb.zip"
+      },
+      "version": 3
+    },
     "catacomb89.zip": {
       "attr": {
         "arch": [
@@ -15924,12 +15999,12 @@
       "name": "jediacademy.zip",
       "source": {
         "date_added": "2022-02-08",
-        "date_updated": "2024-05-09",
-        "md5": "8e1af234a454c1cb0fac7edcdd903d31",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-06-21",
+        "md5": "cc69c5bec70b66be37ddd297f6fbbc7a",
+        "release_id": "2024-06-21_1031",
         "repo": "main",
-        "size": 7496348,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/jediacademy.zip"
+        "size": 7496240,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-21_1031/jediacademy.zip"
       },
       "version": 3
     },
@@ -15990,12 +16065,12 @@
       "name": "jedioutcast.zip",
       "source": {
         "date_added": "2022-02-08",
-        "date_updated": "2024-05-09",
-        "md5": "e394d88da6db115b6075b553b86462aa",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-06-21",
+        "md5": "5cd09578640f84c15a7253d10a718403",
+        "release_id": "2024-06-21_1031",
         "repo": "main",
-        "size": 4119230,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/jedioutcast.zip"
+        "size": 4119125,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-21_1031/jedioutcast.zip"
       },
       "version": 3
     },
