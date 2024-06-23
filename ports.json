@@ -1454,13 +1454,13 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game https://store.steampowered.com/app/2688600/Descent_from_Arkovs_tower_Prologue/ and copy the exe file into game folder.",
-        "inst_md": "Download [Descent from Arkov's tower Prologue](https://store.steampowered.com/app/2688600/Descent_from_Arkovs_tower_Prologue/) from Steam and copy the exe file into game folder.",
+        "inst": "Includes the Arkovs Tower Prologue version.  If you enjoy the game, please consider adding the full version to your steam wishlist: https://store.steampowered.com/app/2876720/Descent_from_Arkovs_Tower/",
+        "inst_md": "Includes the [Arkovs Tower Prologue](https://store.steampowered.com/app/2688600/Descent_from_Arkovs_tower_Prologue/) version.  If you enjoy the game, please consider adding the [full version](https://store.steampowered.com/app/2876720/Descent_from_Arkovs_Tower/) to your steam wishlist",
         "porter": [
           "Troidem"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": null,
         "title": "Arkovs Tower"
       },
@@ -1472,12 +1472,12 @@
       "name": "arkovstower.zip",
       "source": {
         "date_added": "2024-04-25",
-        "date_updated": "2024-05-06",
-        "md5": "0d0023aa4b5fee260b28dbb38495815a",
-        "release_id": "2024-05-06_2128",
+        "date_updated": "2024-06-23",
+        "md5": "171c2b8ed14689c16186863c9c238924",
+        "release_id": "2024-06-23_2100",
         "repo": "main",
-        "size": 2833704,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/arkovstower.zip"
+        "size": 20436490,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-23_2100/arkovstower.zip"
       },
       "version": 3
     },
@@ -3966,6 +3966,78 @@
         "repo": "main",
         "size": 10986777,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/bravedogsroad.zip"
+      },
+      "version": 3
+    },
+    "breaker.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "a blend of BREAKOUT, SPACE INVADERS and IKARUGA",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download BREAKER.exe from https://managore.itch.io/breaker and place it in the /ports/breaker/gamedata ",
+        "inst_md": null,
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Breaker"
+      },
+      "items": [
+        "Breaker.sh",
+        "breaker"
+      ],
+      "items_opt": null,
+      "name": "breaker.zip",
+      "source": {
+        "date_added": "2024-06-23",
+        "date_updated": "2024-06-23",
+        "md5": "ca6e15bcb6f02ca6a3526d42e85de895",
+        "release_id": "2024-06-23_2100",
+        "repo": "main",
+        "size": 5685929,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-23_2100/breaker.zip"
       },
       "version": 3
     },
@@ -7077,6 +7149,79 @@
       },
       "version": 3
     },
+    "crystalsamalgam.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Your ship has been pulled into an interdimensional gap and is now trapped within a field of crystal orbs.\n\nMatch 3 or more orbs to destroy them. Mix primary colors to get a secondary color, or secondary colors to get a silver orb!\n\nSilver orbs will give you special powers when you match them.\n\nBut be aware that time is your enemy. Don't let the orb wall reach the limit range or your ship will be destroyed.\n",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run",
+        "inst_md": null,
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Crystals of Amalgam"
+      },
+      "items": [
+        "Crystals of Amalgam.sh",
+        "crystalsamalgam/"
+      ],
+      "items_opt": null,
+      "name": "crystalsamalgam.zip",
+      "source": {
+        "date_added": "2024-06-23",
+        "date_updated": "2024-06-23",
+        "md5": "cd40fc561ca9b9ff3001fe21479d9f31",
+        "release_id": "2024-06-23_2100",
+        "repo": "main",
+        "size": 25061606,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-23_2100/crystalsamalgam.zip"
+      },
+      "version": 3
+    },
     "curseball.zip": {
       "attr": {
         "arch": [
@@ -8970,6 +9115,79 @@
         "repo": "main",
         "size": 2244526,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/drally.zip"
+      },
+      "version": 3
+    },
+    "drbloodshot.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Dr. Bloodshot is a short survival horror game. It's set in an old mansion filled with monsters that the player has to avoid (either by running away or by hiding in cabinets). The objective is to reach the well secured laboratory of Dr. Bloodshot, which can be done by sabotaging various power stations across the mansion.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run",
+        "inst_md": null,
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Dr. Bloodshot "
+      },
+      "items": [
+        "Dr. Bloodshot.sh ",
+        "drbloodshot/"
+      ],
+      "items_opt": null,
+      "name": "drbloodshot.zip",
+      "source": {
+        "date_added": "2024-06-23",
+        "date_updated": "2024-06-23",
+        "md5": "2c7503888c7217f560e1e1d4087963ac",
+        "release_id": "2024-06-23_2100",
+        "repo": "main",
+        "size": 13534448,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-23_2100/drbloodshot.zip"
       },
       "version": 3
     },
@@ -25338,6 +25556,79 @@
         "repo": "main",
         "size": 17577633,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/powerlevel.zip"
+      },
+      "version": 3
+    },
+    "ppengui.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "It looks like the penguin is having a bad day. Flaming thugs have cut off your nap and now are destroying the silent cave.\n\nHelp the penguin to end the party before things get too hot!\n\n \n\nHOW TO PLAY\n\nEliminate all invaders using your egg bomb, but beware of hot areas as you will have difficulty moving through them.\n\nYou can restore the ice using your snotty sneeze. It will undo the heat and can also block enemies.\n\nIn case you end up getting stuck, sneeze over a block to break it. Use the bomb timer to your advantage.. also it is possible to push it forward in order to make a surprise attack!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "READY to RUN ",
+        "inst_md": null,
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Pepper Pengui"
+      },
+      "items": [
+        "Pepper Pengui.sh",
+        "ppengui/"
+      ],
+      "items_opt": null,
+      "name": "ppengui.zip",
+      "source": {
+        "date_added": "2024-06-23",
+        "date_updated": "2024-06-23",
+        "md5": "f3456439d2f9579e08fb64c9cb95020a",
+        "release_id": "2024-06-23_2100",
+        "repo": "main",
+        "size": 10742069,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-23_2100/ppengui.zip"
       },
       "version": 3
     },
