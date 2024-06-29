@@ -1481,6 +1481,79 @@
       },
       "version": 3
     },
+    "armagetronad.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "3D Tron-like high speed game",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run! Control Player 1 via DPAD and Player 2 via ABY",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Armagetron Advanced"
+      },
+      "items": [
+        "Armagetron Advanced.sh",
+        "armagetronad"
+      ],
+      "items_opt": null,
+      "name": "armagetronad.zip",
+      "source": {
+        "date_added": "2024-06-29",
+        "date_updated": "2024-06-29",
+        "md5": "9f78662691c46772a3da021a334a24f5",
+        "release_id": "2024-06-29_0905",
+        "repo": "main",
+        "size": 5277968,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_0905/armagetronad.zip"
+      },
+      "version": 3
+    },
     "asylum.zip": {
       "attr": {
         "arch": [
@@ -2075,6 +2148,79 @@
         "repo": "main",
         "size": 20511263,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/bananaguyclassic.zip"
+      },
+      "version": 3
+    },
+    "barbarian.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Barbarian is a fighting game that gives players control over sword-wielding barbarians.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Go to https://www.tdbsoft.com/html/projects/barbarian.html, download the linux version and extract the files to the barbarian gamedata folder.",
+        "inst_md": "Go to [Barbarian Website](https://www.tdbsoft.com/html/projects/barbarian.html), download the linux version and extract the files to the barbarian gamedata folder.",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Barbarian"
+      },
+      "items": [
+        "Barbarian.sh",
+        "barbarian"
+      ],
+      "items_opt": null,
+      "name": "barbarian.zip",
+      "source": {
+        "date_added": "2024-06-29",
+        "date_updated": "2024-06-29",
+        "md5": "db9436b07a7a4d0a7120a239c04e332e",
+        "release_id": "2024-06-29_0905",
+        "repo": "main",
+        "size": 3230847,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_0905/barbarian.zip"
       },
       "version": 3
     },
@@ -7069,12 +7215,12 @@
       "name": "cromagrally.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2024-05-15",
-        "md5": "2281813e8fdeb720b2d1292c39641710",
-        "release_id": "2024-05-15_1207",
+        "date_updated": "2024-06-29",
+        "md5": "97a65c99d6bc69ff0abb38f1b385b05d",
+        "release_id": "2024-06-29_0905",
         "repo": "main",
         "size": 129889773,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/cromagrally.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_0905/cromagrally.zip"
       },
       "version": 3
     },
@@ -12418,6 +12564,79 @@
       },
       "version": 3
     },
+    "freesiege.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "An intense tetris-like wargame",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": "For instructions how to play visit: https://freesiege.sourceforge.net/\n",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "FreeSiege"
+      },
+      "items": [
+        "FreeSiege.sh",
+        "freesiege"
+      ],
+      "items_opt": null,
+      "name": "freesiege.zip",
+      "source": {
+        "date_added": "2024-06-29",
+        "date_updated": "2024-06-29",
+        "md5": "71deca46c13ab623839fd28ceec0cacc",
+        "release_id": "2024-06-29_0905",
+        "repo": "main",
+        "size": 20599946,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_0905/freesiege.zip"
+      },
+      "version": 3
+    },
     "freesynd.zip": {
       "attr": {
         "arch": [
@@ -13849,9 +14068,9 @@
         ],
         "image": {
           "covers": [
-            "cover.opposingforce.png",
+            "cover.png",
             "cover.blueshift.png",
-            "cover.png"
+            "cover.opposingforce.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -14378,8 +14597,8 @@
         ],
         "image": {
           "covers": [
-            "cover.hexen2portalofpraevus.png",
-            "cover.hexen2.png"
+            "cover.hexen2.png",
+            "cover.hexen2portalofpraevus.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -14983,6 +15202,79 @@
         "repo": "main",
         "size": 5376974,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/hoverboard.zip"
+      },
+      "version": 3
+    },
+    "hovertank3d.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "In Hovertank you play mercenary Brick Sledge, hired to rescue people from cities targeted for nuclear strikes. Get in your Hovertank and get them before the missile hits.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "fps"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Place the original dos game datafiles in the hovertank3d folder.",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Hovertank 3D"
+      },
+      "items": [
+        "Hovertank 3D.sh",
+        "hovertank3d"
+      ],
+      "items_opt": null,
+      "name": "hovertank3d.zip",
+      "source": {
+        "date_added": "2024-06-29",
+        "date_updated": "2024-06-29",
+        "md5": "acdc1ead89ac5c24844a1b29a5cbb12b",
+        "release_id": "2024-06-29_0905",
+        "repo": "main",
+        "size": 547852,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_0905/hovertank3d.zip"
       },
       "version": 3
     },
@@ -20014,12 +20306,12 @@
       "name": "minetest.zip",
       "source": {
         "date_added": "2024-04-24",
-        "date_updated": "2024-05-06",
-        "md5": "cb4f24b00ebe7efd7970218f4f77464d",
-        "release_id": "2024-05-06_2128",
+        "date_updated": "2024-06-29",
+        "md5": "83c258be937d647c8c6034a3ea2add2c",
+        "release_id": "2024-06-29_0905",
         "repo": "main",
-        "size": 44310448,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/minetest.zip"
+        "size": 44310528,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_0905/minetest.zip"
       },
       "version": 3
     },
@@ -22701,6 +22993,78 @@
         "repo": "main",
         "size": 5578313,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-20_1331/nulldrifter.zip"
+      },
+      "version": 3
+    },
+    "nvpw.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Push the enemy off the island in a three-out-of-five series",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "sports"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run",
+        "inst_md": null,
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "NOT VERY PRO WRESTLING"
+      },
+      "items": [
+        "NOT VERY PRO WRESTLING.sh",
+        "nvpw/"
+      ],
+      "items_opt": null,
+      "name": "nvpw.zip",
+      "source": {
+        "date_added": "2024-06-29",
+        "date_updated": "2024-06-29",
+        "md5": "aad8a88608aaf200b3f4c98b980ae196",
+        "release_id": "2024-06-29_0905",
+        "repo": "main",
+        "size": 10112798,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_0905/nvpw.zip"
       },
       "version": 3
     },
@@ -33729,6 +34093,81 @@
         "repo": "main",
         "size": 31661452,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-08_0940/swapwoodquestr.zip"
+      },
+      "version": 3
+    },
+    "tailsadventure.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Tails Adventure is a Sonic the Hedgehog spin-off adventure game, released for Sega Game Gear in 1995. Unlike classic Sonic gameplay, Tails Adventure is a slow-paced platformer with focus on solving puzzles, backtracking and collecting items, much like metroidvania games.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Tails Adventure Remake"
+      },
+      "items": [
+        "Tails Adventure Remake.sh",
+        "tailsadventure"
+      ],
+      "items_opt": null,
+      "name": "tailsadventure.zip",
+      "source": {
+        "date_added": "2024-06-29",
+        "date_updated": "2024-06-29",
+        "md5": "8a71abca35961ab1d53c8174885b71d8",
+        "release_id": "2024-06-29_0905",
+        "repo": "main",
+        "size": 15706232,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_0905/tailsadventure.zip"
       },
       "version": 3
     },
