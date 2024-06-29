@@ -65,12 +65,12 @@
       "name": "2048.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-05-02",
-        "md5": "7088aabc6e2cfbe890a56126d91ef9fb",
-        "release_id": "2024-05-02_0733",
+        "date_updated": "2024-06-29",
+        "md5": "b4b564727c1f174fa254a89c3c75d93b",
+        "release_id": "2024-06-29_1117",
         "repo": "main",
-        "size": 62966,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-02_0733/2048.zip"
+        "size": 62979,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_1117/2048.zip"
       },
       "version": 3
     },
@@ -2221,6 +2221,79 @@
         "repo": "main",
         "size": 3230847,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_0905/barbarian.zip"
+      },
+      "version": 3
+    },
+    "battalion.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Your lands have been invaded by General Mustache and his infamous armored division!\nNothing seems to stop him, except perhaps for Commander Joe and his old companion \"G-080 Justice\" tank destroyer.\nEngage in 8 exciting battles through the liberation campaign.\nFight in cities, forests, riverbanks, military bases and more...\nCollect the powerup to experience ultimate defense and crush obstacles on the way.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "READY to RUN ",
+        "inst_md": null,
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Battalion"
+      },
+      "items": [
+        "Battalion.sh",
+        "battalion/"
+      ],
+      "items_opt": null,
+      "name": "battalion.zip",
+      "source": {
+        "date_added": "2024-06-29",
+        "date_updated": "2024-06-29",
+        "md5": "d4c58bcbecb2238933d66f8c41313952",
+        "release_id": "2024-06-29_1117",
+        "repo": "main",
+        "size": 9045089,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_1117/battalion.zip"
       },
       "version": 3
     },
@@ -5072,12 +5145,12 @@
       "name": "cannonball-lr.zip",
       "source": {
         "date_added": "2023-11-21",
-        "date_updated": "2024-04-01",
-        "md5": "b7ce02315be9bfcc55445cd01e439606",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-06-29",
+        "md5": "6e7c8534c9e1a781a870536dd1c9e611",
+        "release_id": "2024-06-29_1117",
         "repo": "main",
-        "size": 335087,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/cannonball-lr.zip"
+        "size": 335074,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_1117/cannonball-lr.zip"
       },
       "version": 3
     },
@@ -5812,12 +5885,12 @@
       "name": "cave.story.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "9821e9d1ab78ae55767fdac4f2605234",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-06-29",
+        "md5": "aa5c8af8d99662f6c420630fa95fdd8c",
+        "release_id": "2024-06-29_1117",
         "repo": "main",
-        "size": 1615527,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/cave.story.zip"
+        "size": 1615512,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_1117/cave.story.zip"
       },
       "version": 3
     },
@@ -8895,12 +8968,12 @@
       "name": "dinothawr.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "c3c846ab5fa48bc43365666239d2d91b",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-06-29",
+        "md5": "6408b8477fdc1297ea1f39f6e1deac9b",
+        "release_id": "2024-06-29_1117",
         "repo": "main",
-        "size": 7740770,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/dinothawr.zip"
+        "size": 7740753,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_1117/dinothawr.zip"
       },
       "version": 3
     },
@@ -20888,12 +20961,12 @@
       "name": "mr.boom.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "86863532f9ab0a3e0b6cd056c62cbf81",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-06-29",
+        "md5": "eaf69a272f5f832637f627d6749e3a69",
+        "release_id": "2024-06-29_1117",
         "repo": "main",
-        "size": 3356724,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/mr.boom.zip"
+        "size": 3356709,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_1117/mr.boom.zip"
       },
       "version": 3
     },
@@ -26868,12 +26941,12 @@
       "name": "quake.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-17",
-        "md5": "4f3d694d3fad0ea42ad502ee20365e86",
-        "release_id": "2024-04-17_0840",
+        "date_updated": "2024-06-29",
+        "md5": "35c141b24f7c684850ca9ff843528ed1",
+        "release_id": "2024-06-29_1117",
         "repo": "main",
-        "size": 9020258,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-17_0840/quake.zip"
+        "size": 9020190,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_1117/quake.zip"
       },
       "version": 3
     },
@@ -27826,6 +27899,78 @@
       },
       "version": 3
     },
+    "revbros.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Make way for both characters reach the prize\n\nRULES\nWhite character only walks on black tiles and vice versa;\nWhite character turns black tiles into whites and vice versa;",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run ",
+        "inst_md": null,
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Reverse Bros "
+      },
+      "items": [
+        "Reverse Bros.sh",
+        "revbros/"
+      ],
+      "items_opt": null,
+      "name": "revbros.zip",
+      "source": {
+        "date_added": "2024-06-29",
+        "date_updated": "2024-06-29",
+        "md5": "51c488257fccba57ee9d35b76bad473f",
+        "release_id": "2024-06-29_1117",
+        "repo": "main",
+        "size": 7551202,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_1117/revbros.zip"
+      },
+      "version": 3
+    },
     "ri_li.zip": {
       "attr": {
         "arch": [
@@ -27968,12 +28113,12 @@
       "name": "rick.dangerous.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "4e7bc40c54fec204be3223963cab0c53",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-06-29",
+        "md5": "3781de62ee7994e048680c6868b20759",
+        "release_id": "2024-06-29_1117",
         "repo": "main",
-        "size": 3106770,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/rick.dangerous.zip"
+        "size": 3106753,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_1117/rick.dangerous.zip"
       },
       "version": 3
     },
