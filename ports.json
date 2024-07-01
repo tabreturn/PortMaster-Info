@@ -8617,6 +8617,82 @@
       },
       "version": 3
     },
+    "descent3.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Play the exciting final installment in the Descent trilogy! Saved by amateur do-gooders, the Material Defender sets out to stop the robot virus and Dravis' evil plans once and for all! Pilot through 3D space, navigating through familiar indoor mines and outdoor open space terrain. It's a big universe, but fortunately they threw in a guidebot.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "fps"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the full game from GOG or Steam, or use CD game data patched to v1.4. Then, add data files to `descent3/gamedata`. See the readme for specific files needed.",
+        "inst_md": null,
+        "porter": [
+          "Jeod",
+          "fpasteau"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Descent III"
+      },
+      "items": [
+        "Descent 3.sh",
+        "descent3"
+      ],
+      "items_opt": null,
+      "name": "descent3.zip",
+      "source": {
+        "date_added": "2024-07-01",
+        "date_updated": "2024-07-01",
+        "md5": "8d053e74fba64704394e5cbb8963eb1a",
+        "release_id": "2024-07-01_0723",
+        "repo": "main",
+        "size": 7113795,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-01_0723/descent3.zip"
+      },
+      "version": 3
+    },
     "destructivator.zip": {
       "attr": {
         "arch": [
@@ -27775,6 +27851,81 @@
         "repo": "main",
         "size": 614231,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/reminiscence.zip"
+      },
+      "version": 3
+    },
+    "render96ex.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Super Mario 64 is the first Super Mario game to feature 3D. Discover the precursor to Mario Odyssey in this boosted version with the support of enhanced 3d models, HD textures, HQ musics and sounds, 60 fps.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Super Mario 64 rom must be present in the render96ex folder during first launch to install the assets.",
+        "inst_md": null,
+        "porter": [
+          "kotzebuedog"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Render96ex"
+      },
+      "items": [
+        "render96ex.sh",
+        "render96ex"
+      ],
+      "items_opt": null,
+      "name": "render96ex.zip",
+      "source": {
+        "date_added": "2024-07-01",
+        "date_updated": "2024-07-01",
+        "md5": "f4b0d750cfc9b787a4cb53e89612d4d6",
+        "release_id": "2024-07-01_0723",
+        "repo": "main",
+        "size": 145145912,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-01_0723/render96ex.zip"
       },
       "version": 3
     },
