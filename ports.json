@@ -16724,12 +16724,12 @@
       "name": "jedioutcast.zip",
       "source": {
         "date_added": "2022-02-08",
-        "date_updated": "2024-06-21",
-        "md5": "5cd09578640f84c15a7253d10a718403",
-        "release_id": "2024-06-21_1031",
+        "date_updated": "2024-07-02",
+        "md5": "1d4b25e56cd3fdbb85edeaa5c6b1ee70",
+        "release_id": "2024-07-02_1935",
         "repo": "main",
-        "size": 4119125,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-21_1031/jedioutcast.zip"
+        "size": 4119117,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-02_1935/jedioutcast.zip"
       },
       "version": 3
     },
