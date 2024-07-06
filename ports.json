@@ -818,6 +818,79 @@
       },
       "version": 3
     },
+    "aliensquatter.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "You are a homeless extraterrestrial living in a futuristic version of Japan. Humans are nearly extinct and Earth is a cesspool of pollution, urban decay, and economic inequality. Struggle to survive in this new style of RPG.",
+        "desc_md": "You are a homeless extraterrestrial living in a futuristic version of Japan. Humans are nearly extinct and Earth is a cesspool of pollution, urban decay, and economic inequality. Struggle to survive in this new style of RPG.\n\nKey Features:\n\n- Choose from 3 alien species. All of them are weird aliens with cool abilities.\n- Romance and befriend over 20 characters including a gangster, a breakdancer, a priest, a giant ooze, and a robot serial killer.\n- Gain one of 5 pets, each with different abilities and unique personalities.\n- Grow your physical, mental, and social stats, and use them to overcome obstacles.\n- Do what it takes to survive. Forage, fight, fish, steal, salvage, sneak, shop, beg, get a job, sell your organs, party, get high, gamble, mutate, use psychic powers. - There are many paths to success.\n- Be a good person or a scoundrel. The karma system tracks it all.\n- Dozens of endings and achievements.\n- Evocative descriptions bring the dystopian world to life. It's a really terrible place!",
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download any version of the game from Steam or [Itch.io](https://willyelektrix.itch.io/alien-squatter), extract the zip file and copy the asquatter.rpg file into the the  aliensquatter port folder.",
+        "inst_md": "Download any version of the game from [Steam](https://store.steampowered.com/app/1131750/Alien_Squatter/) or itch.io, extract the zip file and copy the asquatter.rpg file into the the  aliensquatter port folder.",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Alien Squatter"
+      },
+      "items": [
+        "Alien Squatter.sh",
+        "aliensquatter"
+      ],
+      "items_opt": null,
+      "name": "aliensquatter.zip",
+      "source": {
+        "date_added": "2024-07-06",
+        "date_updated": "2024-07-06",
+        "md5": "50230e0145917cd9dd628cb7205b6905",
+        "release_id": "2024-07-06_0646",
+        "repo": "main",
+        "size": 2713314,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-06_0646/aliensquatter.zip"
+      },
+      "version": 3
+    },
     "am2r.zip": {
       "attr": {
         "arch": [
@@ -8659,7 +8732,7 @@
         ],
         "image": {
           "covers": [
-            "cover.jpg"
+            "cover.png"
           ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
@@ -8684,12 +8757,12 @@
       "name": "descent3.zip",
       "source": {
         "date_added": "2024-07-01",
-        "date_updated": "2024-07-01",
-        "md5": "8d053e74fba64704394e5cbb8963eb1a",
-        "release_id": "2024-07-01_0723",
+        "date_updated": "2024-07-06",
+        "md5": "6cf16799c1899337f65f1781d39c5fe9",
+        "release_id": "2024-07-06_0646",
         "repo": "main",
-        "size": 7113795,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-01_0723/descent3.zip"
+        "size": 7308376,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-06_0646/descent3.zip"
       },
       "version": 3
     },
@@ -10880,6 +10953,79 @@
         "repo": "main",
         "size": 56816294,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-21_1211/exult.zip"
+      },
+      "version": 3
+    },
+    "ez.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "E.Z is a simple hardcore platformer game the goal being get across to the other side of each of the 100 levels while each death throws you back to the previous levels.",
+        "desc_md": "E.Z is a simple hardcore platformer game the goal being get across to the other side of each of the 100 levels while each death throws you back to the previous levels.\n\nWith a semi-random level sequence, level variability and quick level swapping, E.Z is hard to get used to. It will bring a challenge to your skill, reaction, and adaptability.\n\nNote: Text may be unreadable on smaller devices but this does not affect gameplay!",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase and download the game and from your Steam library and copy the data.win to /ports/ez/gamedata",
+        "inst_md": "Purchase the game from steam: https://store.steampowered.com/app/795040/EZ/\nDownload the game and from your Steam library,  right click on E.Z > Manage > \nBrowse local files. \nCopy the data.win from the assets folder to /ports/ez/gamedata",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "E.Z"
+      },
+      "items": [
+        "E.Z.sh",
+        "ez"
+      ],
+      "items_opt": null,
+      "name": "ez.zip",
+      "source": {
+        "date_added": "2024-07-06",
+        "date_updated": "2024-07-06",
+        "md5": "1b4aabfb9e5a3659991fe53238da5754",
+        "release_id": "2024-07-06_0646",
+        "repo": "main",
+        "size": 4230056,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-06_0646/ez.zip"
       },
       "version": 3
     },
@@ -13586,6 +13732,79 @@
         "repo": "main",
         "size": 9094370,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/goinghomerevisited.zip"
+      },
+      "version": 3
+    },
+    "grafx2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "GrafX2 is a bitmap paint program inspired by the Amiga programs \u200bDeluxe Paint and Brilliance. Specialized in 256-color drawing, it includes a very large number of tools and effects that make it particularly suitable for pixel art, game graphics, and generally any detailed graphics painted with a mouse.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready for painting!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Grafx2"
+      },
+      "items": [
+        "Grafx2.sh",
+        "grafx2"
+      ],
+      "items_opt": null,
+      "name": "grafx2.zip",
+      "source": {
+        "date_added": "2024-07-06",
+        "date_updated": "2024-07-06",
+        "md5": "c7faf6508f0edd50a4ceb69ecb1c8888",
+        "release_id": "2024-07-06_0646",
+        "repo": "main",
+        "size": 4201229,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-06_0646/grafx2.zip"
       },
       "version": 3
     },
@@ -16658,12 +16877,12 @@
       "name": "jediacademy.zip",
       "source": {
         "date_added": "2022-02-08",
-        "date_updated": "2024-06-21",
-        "md5": "cc69c5bec70b66be37ddd297f6fbbc7a",
-        "release_id": "2024-06-21_1031",
+        "date_updated": "2024-07-06",
+        "md5": "9f3a98f0e41073fbc42705ff1684743b",
+        "release_id": "2024-07-06_0646",
         "repo": "main",
-        "size": 7496240,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-21_1031/jediacademy.zip"
+        "size": 8342883,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-06_0646/jediacademy.zip"
       },
       "version": 3
     },
@@ -31203,6 +31422,83 @@
       },
       "version": 3
     },
+    "sneggpit.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Oh no, your friend Cursy has fallen into a pit full of dangerous snakes! Help Cursy to evade the hungry reptiles, steal the snakes' eggs and prevent them from spawning. \nSneggpit is a charming little arcade game that could have rocked the early eighties - but is brand-new from 2024! While taking some inspiration from all-time classics such as Pacman or Nibbler/Snake, Sneggpit stands out with its unique and highly addictive gameplay and instantly runs on almost any modern device.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Cursy's movements can be controlled using the cursor keys (of course!), by any game controller, or via swipe gestures on mobile touch devices.",
+        "inst_md": null,
+        "porter": [
+          "eludi"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Sneggpit"
+      },
+      "items": [
+        "Sneggpit.sh",
+        "sneggpit"
+      ],
+      "items_opt": null,
+      "name": "sneggpit.zip",
+      "source": {
+        "date_added": "2024-07-06",
+        "date_updated": "2024-07-06",
+        "md5": "ebc373bbf54f2cfa4bc111d09633805f",
+        "release_id": "2024-07-06_0646",
+        "repo": "main",
+        "size": 2698336,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-06_0646/sneggpit.zip"
+      },
+      "version": 3
+    },
     "snkrx.zip": {
       "attr": {
         "arch": [
@@ -34101,6 +34397,78 @@
         "repo": "main",
         "size": 3189589,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-29_0749/supermeatboy.zip"
+      },
+      "version": 3
+    },
+    "supermegazero.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Super Mega Zero is a tight precision and puzzle platformer with shoot 'em up elements. Simply touch an upgrade and switch forms to go from classic, straight-forward platforming to the more puzzle-like action number system or Shoot' Em Up gameplay.",
+        "desc_md": "Miss Undefined has been whisked away by the dastardly Kill Screen. Go from Zero to Hero in this fast-paced platformer, chasing time, the high score, and eventually the Kill Screen itself.\n\nSuper Mega Zero is a tight precision and puzzle platformer with shoot 'em up elements. Simply touch an upgrade and switch forms to go from classic, straight-forward platforming to the more puzzle-like action number system or Shoot' Em Up gameplay.\n\nNote: Poor readability on small screens and options menu does not work",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase and download the game from steam. Use steam console to download the correct version and copy the files over to /ports/supermegazero/gamedata",
+        "inst_md": "Purchase the game from: https://store.steampowered.com/app/1581880/Super_Mega_Zero/\\nRun steam console via Windows+R: Type: steam://open/console. \\nDownload the 20 April 2022 version by typing: download_depot 1581880 1581881 8562910234793311857 in the console, when the download is complete, it will tell you the location of the folder,  copy all the files from the download folder to /ports/supermegazero/gamedata",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Super Mega Zero"
+      },
+      "items": [
+        "Super Mega Zero.sh",
+        "supermegazero"
+      ],
+      "items_opt": null,
+      "name": "supermegazero.zip",
+      "source": {
+        "date_added": "2024-07-06",
+        "date_updated": "2024-07-06",
+        "md5": "c7007c2bdef5b6b988a5413117b08dca",
+        "release_id": "2024-07-06_0646",
+        "repo": "main",
+        "size": 6719406,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-06_0646/supermegazero.zip"
       },
       "version": 3
     },
@@ -40023,12 +40391,12 @@
       "name": "zeroranger.zip",
       "source": {
         "date_added": "2023-09-06",
-        "date_updated": "2024-04-07",
-        "md5": "e12fdf1862f82add9078f88353d8c9e6",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-06",
+        "md5": "5c0651e7835dd1198a03294208d8ccdd",
+        "release_id": "2024-07-06_0646",
         "repo": "main",
-        "size": 16627689,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/zeroranger.zip"
+        "size": 5648688,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-06_0646/zeroranger.zip"
       },
       "version": 3
     },
