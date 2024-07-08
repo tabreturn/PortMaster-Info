@@ -7586,6 +7586,81 @@
       },
       "version": 3
     },
+    "curseofthearrow.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Explore areas, solve puzzles, and fight against the curse that was imposed on you by an ancient statue! Your only weapon is a bow and a single arrow to defend yourself against your own corruption! Use your arrows as platforms, fight against enemies, toggle switches, and push boxes, and die (over and over)! ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This game is ready to run!",
+        "inst_md": null,
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Curse of the Arrow"
+      },
+      "items": [
+        "Curse of the Arrow.sh",
+        "curseofthearrow"
+      ],
+      "items_opt": null,
+      "name": "curseofthearrow.zip",
+      "source": {
+        "date_added": "2024-07-08",
+        "date_updated": "2024-07-08",
+        "md5": "b0ffb9ff3a2d0f33e0c668a0813413c6",
+        "release_id": "2024-07-08_2057",
+        "repo": "main",
+        "size": 26862949,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-08_2057/curseofthearrow.zip"
+      },
+      "version": 3
+    },
     "cybarian.zip": {
       "attr": {
         "arch": [
@@ -16877,12 +16952,12 @@
       "name": "jediacademy.zip",
       "source": {
         "date_added": "2022-02-08",
-        "date_updated": "2024-07-06",
-        "md5": "9f3a98f0e41073fbc42705ff1684743b",
-        "release_id": "2024-07-06_0646",
+        "date_updated": "2024-07-08",
+        "md5": "96712e989723198a6bf6e3e4da9fcf5d",
+        "release_id": "2024-07-08_2057",
         "repo": "main",
-        "size": 8342883,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-06_0646/jediacademy.zip"
+        "size": 8342871,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-08_2057/jediacademy.zip"
       },
       "version": 3
     },
@@ -16943,12 +17018,12 @@
       "name": "jedioutcast.zip",
       "source": {
         "date_added": "2022-02-08",
-        "date_updated": "2024-07-02",
-        "md5": "1d4b25e56cd3fdbb85edeaa5c6b1ee70",
-        "release_id": "2024-07-02_1935",
+        "date_updated": "2024-07-08",
+        "md5": "7b31028232aadd9c6ba249218e417bad",
+        "release_id": "2024-07-08_2057",
         "repo": "main",
-        "size": 4119117,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-02_1935/jedioutcast.zip"
+        "size": 4119106,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-08_2057/jedioutcast.zip"
       },
       "version": 3
     },
@@ -32161,6 +32236,222 @@
         "repo": "main",
         "size": 2326820,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/sonic.mania.zip"
+      },
+      "version": 3
+    },
+    "sonic1sms.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "This game mixes Sonic Chaos and Sonic Triple Trouble in a new universe. Inspired in the Master System games series, released by SEGA between 1993/94.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This game is ready to run.",
+        "inst_md": null,
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Sonic 1 SMS Remake"
+      },
+      "items": [
+        "Sonic 1 SMS Remake.sh",
+        "sonic1sms"
+      ],
+      "items_opt": null,
+      "name": "sonic1sms.zip",
+      "source": {
+        "date_added": "2024-07-08",
+        "date_updated": "2024-07-08",
+        "md5": "56cf2c8c1c8471f61c5752394e248d82",
+        "release_id": "2024-07-08_2057",
+        "repo": "main",
+        "size": 39584242,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-08_2057/sonic1sms.zip"
+      },
+      "version": 3
+    },
+    "sonic2sms.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "This game is a new universe, inspired in the Master System games series, released by SEGA at 1992.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This game is ready to run.",
+        "inst_md": null,
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Sonic 2 SMS Remake"
+      },
+      "items": [
+        "Sonic 2 SMS Remake.sh",
+        "sonic2sms"
+      ],
+      "items_opt": null,
+      "name": "sonic2sms.zip",
+      "source": {
+        "date_added": "2024-07-08",
+        "date_updated": "2024-07-08",
+        "md5": "9adcfbd0c44cb68746b452ff1d93a285",
+        "release_id": "2024-07-08_2057",
+        "repo": "main",
+        "size": 49997635,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-08_2057/sonic2sms.zip"
+      },
+      "version": 3
+    },
+    "sonic3sms.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "This game mixes Sonic Chaos and Sonic Triple Trouble in a new universe. Inspired in the Master System games series, released by SEGA between 1993/94.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This game is ready to run.",
+        "inst_md": null,
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Sonic 3 SMS Remake"
+      },
+      "items": [
+        "Sonic 3 SMS Remake.sh",
+        "sonic3sms"
+      ],
+      "items_opt": null,
+      "name": "sonic3sms.zip",
+      "source": {
+        "date_added": "2024-07-08",
+        "date_updated": "2024-07-08",
+        "md5": "74707be2baaa8a21d2e339bdd0ee114e",
+        "release_id": "2024-07-08_2057",
+        "repo": "main",
+        "size": 21421078,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-08_2057/sonic3sms.zip"
       },
       "version": 3
     },
