@@ -7361,12 +7361,12 @@
       "name": "cromagrally.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2024-06-29",
-        "md5": "97a65c99d6bc69ff0abb38f1b385b05d",
-        "release_id": "2024-06-29_0905",
+        "date_updated": "2024-07-12",
+        "md5": "e96cd17d97bb2ded07bf48adf4a6cf98",
+        "release_id": "2024-07-12_0230",
         "repo": "main",
         "size": 129889773,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_0905/cromagrally.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-12_0230/cromagrally.zip"
       },
       "version": 3
     },
@@ -14583,9 +14583,9 @@
         ],
         "image": {
           "covers": [
-            "cover.png",
             "cover.blueshift.png",
-            "cover.opposingforce.png"
+            "cover.opposingforce.png",
+            "cover.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -15112,8 +15112,8 @@
         ],
         "image": {
           "covers": [
-            "cover.hexen2.png",
-            "cover.hexen2portalofpraevus.png"
+            "cover.hexen2portalofpraevus.png",
+            "cover.hexen2.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -23918,8 +23918,8 @@
         ],
         "image": {
           "covers": [
-            "cover.oddworldabesoddysee.png",
-            "cover.oddworldabesexoddus.png"
+            "cover.oddworldabesexoddus.png",
+            "cover.oddworldabesoddysee.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -28624,12 +28624,12 @@
       "name": "restore.portmaster.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-05-15",
-        "md5": "092e6c79d7aa7cff2485e65ab493f238",
-        "release_id": "2024-05-15_1207",
+        "date_updated": "2024-07-12",
+        "md5": "39f774650cbeabfabfcaa49c5651abf9",
+        "release_id": "2024-07-12_0230",
         "repo": "main",
-        "size": 12057015,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/restore.portmaster.zip"
+        "size": 12179921,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-12_0230/restore.portmaster.zip"
       },
       "version": 3
     },
@@ -31710,12 +31710,12 @@
       "name": "sneggpit.zip",
       "source": {
         "date_added": "2024-07-06",
-        "date_updated": "2024-07-06",
-        "md5": "ebc373bbf54f2cfa4bc111d09633805f",
-        "release_id": "2024-07-06_0646",
+        "date_updated": "2024-07-12",
+        "md5": "54f8fe3498a3231ffd1da1ca458d139e",
+        "release_id": "2024-07-12_0230",
         "repo": "main",
-        "size": 2698336,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-06_0646/sneggpit.zip"
+        "size": 2698337,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-12_0230/sneggpit.zip"
       },
       "version": 3
     },
@@ -36561,7 +36561,9 @@
           "adventure"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
@@ -36584,12 +36586,12 @@
       "name": "to_the_moon.zip",
       "source": {
         "date_added": "2024-02-06",
-        "date_updated": "2024-04-01",
-        "md5": "d6e1d222b1cd75c1c951f02ff1583b1d",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-12",
+        "md5": "4f4f5713c8b7379ba0dca3e305ec8c8d",
+        "release_id": "2024-07-12_0230",
         "repo": "main",
-        "size": 5179591,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/to_the_moon.zip"
+        "size": 9118753,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-12_0230/to_the_moon.zip"
       },
       "version": 3
     },
