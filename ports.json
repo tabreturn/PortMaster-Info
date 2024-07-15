@@ -818,6 +818,79 @@
       },
       "version": 3
     },
+    "alienpogs.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "This Bullet Heaven Survival game was made for GBJam11 from Sept 15-25 2023 .",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from itch , extract zip file and copy .rpg file into the alienpogs port folder.",
+        "inst_md": "Download any version of the game from  Itch.io , extract the zip file and copy the .rpg file into the alienpogs port folder ",
+        "porter": [
+          "TheLaggyPyro"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Alien Pogs From Outer Space"
+      },
+      "items": [
+        "Alien Pogs From Outer Space.sh",
+        "alienpogs"
+      ],
+      "items_opt": null,
+      "name": "alienpogs.zip",
+      "source": {
+        "date_added": "2024-07-15",
+        "date_updated": "2024-07-15",
+        "md5": "878330fe5c7f2003c292f7b7ecd70a75",
+        "release_id": "2024-07-15_1238",
+        "repo": "main",
+        "size": 2761440,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-15_1238/alienpogs.zip"
+      },
+      "version": 3
+    },
     "aliensquatter.zip": {
       "attr": {
         "arch": [
@@ -29006,6 +29079,80 @@
       },
       "version": 3
     },
+    "riptale.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Riptale is a challenging 2D roguelike action game aiming to make sword combat be as bloody and impactful as possible. The player collects gems that allow them to execute different attacks in the order of their choosing. All this results in a symphony of combos that fill the screen with blood and guts.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase from Steam Using only the latest Steam or Windows version, locate game.unx/data.win, audiogroup1.dat & audiogroup2.dat, and all 8 folders. Place each of those files and folders inside the gamedata folder. Note: no need to rename game.unx",
+        "inst_md": "Purchase from [Steam](https://store.steampowered.com/app/616000/Riptale/) Using only the latest Steam or Windows version, locate game.unx/data.win, audiogroup1.dat & audiogroup2.dat, plus all 8 folders. Place each of those files and folders inside the gamedata folder. Note: no need to rename game.unx",
+        "porter": [
+          "Slayer366",
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Riptale"
+      },
+      "items": [
+        "Riptale.sh",
+        "riptale/"
+      ],
+      "items_opt": null,
+      "name": "riptale.zip",
+      "source": {
+        "date_added": "2024-07-15",
+        "date_updated": "2024-07-15",
+        "md5": "246f3411b5314fc978dfde1aff10e477",
+        "release_id": "2024-07-15_1238",
+        "repo": "main",
+        "size": 11066532,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-15_1238/riptale.zip"
+      },
+      "version": 3
+    },
     "rite.zip": {
       "attr": {
         "arch": [
@@ -30826,12 +30973,12 @@
       "name": "shovel.knight.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-06-10",
-        "md5": "d2312b2f9b0014d56251bbb5bd2dd0d7",
-        "release_id": "2024-06-10_2144",
+        "date_updated": "2024-07-15",
+        "md5": "fc34cc27dc8e4e880e48f50158f8f9b1",
+        "release_id": "2024-07-15_1238",
         "repo": "main",
-        "size": 3971827,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-10_2144/shovel.knight.zip"
+        "size": 3569043,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-15_1238/shovel.knight.zip"
       },
       "version": 3
     },
@@ -31710,12 +31857,12 @@
       "name": "sneggpit.zip",
       "source": {
         "date_added": "2024-07-06",
-        "date_updated": "2024-07-12",
-        "md5": "54f8fe3498a3231ffd1da1ca458d139e",
-        "release_id": "2024-07-12_0230",
+        "date_updated": "2024-07-15",
+        "md5": "404fb604fdc1bbc34a54cdaaecfc4ed8",
+        "release_id": "2024-07-15_1238",
         "repo": "main",
-        "size": 2698337,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-12_0230/sneggpit.zip"
+        "size": 2698308,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-15_1238/sneggpit.zip"
       },
       "version": 3
     },
@@ -33672,12 +33819,12 @@
       "name": "stardewvalley.zip",
       "source": {
         "date_added": "2022-07-03",
-        "date_updated": "2024-05-15",
-        "md5": "1838a39fb92c290a86216e5356b43e9b",
-        "release_id": "2024-05-15_1207",
+        "date_updated": "2024-07-15",
+        "md5": "ae51381b00fc2e0aca0511a6c0aa626b",
+        "release_id": "2024-07-15_1238",
         "repo": "main",
-        "size": 4151646,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/stardewvalley.zip"
+        "size": 3930521,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-15_1238/stardewvalley.zip"
       },
       "version": 3
     },
