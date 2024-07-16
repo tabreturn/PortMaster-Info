@@ -13228,6 +13228,79 @@
       },
       "version": 3
     },
+    "frozen-bubble.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Frozen Bubble is a free software clone of Puzzle Bobble. Frozen Bubble's protagonist is a penguin a la Tux, the mascot of Linux and popular feature in many free software/open-source games. In this game, Tux has to shoot colored frozen bubbles to form groups of the same color. Such groups disappear and the object is to clear the whole screen in this way before a bubble passes a line at the bottom. There is a single player mode and a multiplayer mode via Split screen, LAN and Internet. The game features 100 levels and includes a level editor. (source: wikipedia)",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "kotzebuedog"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Frozen Bubble"
+      },
+      "items": [
+        "Frozen Bubble.sh",
+        "frozen-bubble"
+      ],
+      "items_opt": null,
+      "name": "frozen-bubble.zip",
+      "source": {
+        "date_added": "2024-07-16",
+        "date_updated": "2024-07-16",
+        "md5": "53b1272be4b2855217f4bce564649fe6",
+        "release_id": "2024-07-16_0755",
+        "repo": "main",
+        "size": 37146677,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-16_0755/frozen-bubble.zip"
+      },
+      "version": 3
+    },
     "fungusreaper.zip": {
       "attr": {
         "arch": [
