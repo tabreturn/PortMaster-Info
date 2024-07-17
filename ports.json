@@ -11208,10 +11208,11 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "The call has echoed throughout the universe once again: the F-Zero Grand Prix is back! Select one of the 30 most skillful drivers of all-time and boost your way to the top in F-Zero Pocket, a racing fan-game made as a tribute to both the GameBoy Color and the F-Zero series. 20 tracks divided in 4 cups and 4 levels of difficulty: are you up to the task?",
+        "desc": "Select one of the 30 most skillful drivers of all-time and boost your way to the top in F-Zero Pocket, a racing fan-game made as a tribute to both the GameBoy Color and the F-Zero series.",
         "desc_md": null,
         "exp": false,
         "genres": [
+          "arcade",
           "racing"
         ],
         "image": {
@@ -11222,15 +11223,15 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game at https://linky439.itch.io/f-zero-pocket and unzip the Tracks folder and the EXE to the f-zeropocket/gamedata folder. An install script will take care of the rest.",
+        "inst": "Ready to Run",
         "inst_md": null,
         "porter": [
+          "Tekkenfede",
           "MadShmupper",
-          "Jeod",
-          "Tekkenfede"
+          "Jeod"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": null,
         "title": "F-Zero Pocket"
       },
@@ -11242,12 +11243,12 @@
       "name": "f-zeropocket.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-04-07",
-        "md5": "5582c476f3e10d18118c46ecfd50ee81",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-17",
+        "md5": "dbb4c2b7de3c54191e3f8dee3d8f6c7c",
+        "release_id": "2024-07-17_1729",
         "repo": "main",
-        "size": 13271347,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/f-zeropocket.zip"
+        "size": 38749598,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-17_1729/f-zeropocket.zip"
       },
       "version": 3
     },
@@ -16512,12 +16513,12 @@
       "name": "iconoclasts.zip",
       "source": {
         "date_added": "2021-11-16",
-        "date_updated": "2024-06-10",
-        "md5": "fcc197d067ef0f3156896a37dd9b11f7",
-        "release_id": "2024-06-10_2144",
+        "date_updated": "2024-07-17",
+        "md5": "533aee30af6d2908266cccbb794ce7bf",
+        "release_id": "2024-07-17_1729",
         "repo": "main",
-        "size": 4533296,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-10_2144/iconoclasts.zip"
+        "size": 4533295,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-17_1729/iconoclasts.zip"
       },
       "version": 3
     },
@@ -28724,12 +28725,12 @@
       "name": "render96ex.zip",
       "source": {
         "date_added": "2024-07-01",
-        "date_updated": "2024-07-01",
-        "md5": "f4b0d750cfc9b787a4cb53e89612d4d6",
-        "release_id": "2024-07-01_0723",
+        "date_updated": "2024-07-17",
+        "md5": "12b03cbd09f8dc217dd5b154713e81a9",
+        "release_id": "2024-07-17_1729",
         "repo": "main",
-        "size": 145145912,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-01_0723/render96ex.zip"
+        "size": 145147258,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-17_1729/render96ex.zip"
       },
       "version": 3
     },
@@ -28770,12 +28771,12 @@
       "name": "restore.portmaster.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-07-12",
-        "md5": "39f774650cbeabfabfcaa49c5651abf9",
-        "release_id": "2024-07-12_0230",
+        "date_updated": "2024-07-17",
+        "md5": "ec410bd5906f7972a8327d6284ead85d",
+        "release_id": "2024-07-17_1729",
         "repo": "main",
-        "size": 12179921,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-12_0230/restore.portmaster.zip"
+        "size": 12180175,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-17_1729/restore.portmaster.zip"
       },
       "version": 3
     },
@@ -36731,12 +36732,12 @@
       "name": "tmntsr.zip",
       "source": {
         "date_added": "2024-03-08",
-        "date_updated": "2024-06-15",
-        "md5": "335b1f240a2f3bd9d4d90fcc9ef0bdde",
-        "release_id": "2024-06-15_1740",
+        "date_updated": "2024-07-17",
+        "md5": "b4504cff97ed3cf26df0528bb2aef009",
+        "release_id": "2024-07-17_1729",
         "repo": "main",
-        "size": 10568950,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/tmntsr.zip"
+        "size": 10574808,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-17_1729/tmntsr.zip"
       },
       "version": 3
     },
