@@ -510,12 +510,12 @@
       "name": "alchemyquest.zip",
       "source": {
         "date_added": "2023-10-18",
-        "date_updated": "2024-04-01",
-        "md5": "38a7ea594d76ab33b4cd74da225263ff",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "2f3c0f667997b52817f5e303b9acad14",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 18074130,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/alchemyquest.zip"
+        "size": 18074032,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/alchemyquest.zip"
       },
       "version": 3
     },
@@ -1029,12 +1029,12 @@
       "name": "am2r.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-07",
-        "md5": "156f26f442a47859349eedfc531f69e4",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "377282f8fd21151d905c79b9c04d4b6a",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 1474962,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/am2r.zip"
+        "size": 1474978,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/am2r.zip"
       },
       "version": 3
     },
@@ -1103,12 +1103,12 @@
       "name": "anarch.zip",
       "source": {
         "date_added": "2023-03-23",
-        "date_updated": "2024-04-01",
-        "md5": "58c455e4ecfcfcedff2014d9851e87db",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "828f768c43a8bf1c7cfc09e957fedca8",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 16853066,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/anarch.zip"
+        "size": 16853079,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/anarch.zip"
       },
       "version": 3
     },
@@ -1251,12 +1251,12 @@
       "name": "annalynn.zip",
       "source": {
         "date_added": "2024-05-06",
-        "date_updated": "2024-05-06",
-        "md5": "985e6e2da76f3874f89cbd0ea23b9544",
-        "release_id": "2024-05-06_2128",
+        "date_updated": "2024-07-18",
+        "md5": "94d29744d9ebf3187115e80ee8cf4a38",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 13128709,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/annalynn.zip"
+        "size": 13128713,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/annalynn.zip"
       },
       "version": 3
     },
@@ -1395,12 +1395,12 @@
       "name": "apocrunner.zip",
       "source": {
         "date_added": "2023-10-19",
-        "date_updated": "2024-04-07",
-        "md5": "74cb483e76c1174b931a9fcfebfbfafc",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "c5d8a3be1a00f12e58e5e5810576f138",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 11766147,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/apocrunner.zip"
+        "size": 11766161,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/apocrunner.zip"
       },
       "version": 3
     },
@@ -1543,12 +1543,12 @@
       "name": "apricots.zip",
       "source": {
         "date_added": "2024-03-08",
-        "date_updated": "2024-04-01",
-        "md5": "ab13a172cb2b56389d087ab24731863b",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "bc0d107137c25b30e0e7b5899c6880fa",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 1540639,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/apricots.zip"
+        "size": 1540654,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/apricots.zip"
       },
       "version": 3
     },
@@ -1842,12 +1842,12 @@
       "name": "augustus.zip",
       "source": {
         "date_added": "2023-02-26",
-        "date_updated": "2024-04-01",
-        "md5": "da2bdddd1ec67d4d04a42fc56e918bf2",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "cf7d6ff1cc8dcd0cdf401250e434e2af",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 12972711,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/augustus.zip"
+        "size": 12972681,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/augustus.zip"
       },
       "version": 3
     },
@@ -1918,12 +1918,12 @@
       "name": "avp.zip",
       "source": {
         "date_added": "2022-11-06",
-        "date_updated": "2024-04-01",
-        "md5": "43a56a8bfe2773e10904f4a37e56bb06",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "3aad84c660a3ee6251bc3569347844bc",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 1257060,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/avp.zip"
+        "size": 1257092,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/avp.zip"
       },
       "version": 3
     },
@@ -2146,12 +2146,12 @@
       "name": "banana.duck.zip",
       "source": {
         "date_added": "2023-09-12",
-        "date_updated": "2024-04-01",
-        "md5": "be2dd7276fc4a53219865b096c054bc3",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "6b0bc492a41bfe8e56ffd76ad7964d02",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 7583353,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/banana.duck.zip"
+        "size": 7583384,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/banana.duck.zip"
       },
       "version": 3
     },
@@ -2434,12 +2434,12 @@
       "name": "battalion.zip",
       "source": {
         "date_added": "2024-06-29",
-        "date_updated": "2024-06-29",
-        "md5": "d4c58bcbecb2238933d66f8c41313952",
-        "release_id": "2024-06-29_1117",
+        "date_updated": "2024-07-18",
+        "md5": "b3726d68d0150e1d06dbd05c6092cb84",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 9045089,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_1117/battalion.zip"
+        "size": 9045094,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/battalion.zip"
       },
       "version": 3
     },
@@ -2582,12 +2582,12 @@
       "name": "beat2x.zip",
       "source": {
         "date_added": "2023-07-17",
-        "date_updated": "2024-04-01",
-        "md5": "759d01805cfc3a8f7105c884d0ef8a6c",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "2a89b37f1c71f2d59521ce4dbb49fe5d",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 43235446,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/beat2x.zip"
+        "size": 43235459,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/beat2x.zip"
       },
       "version": 3
     },
@@ -2875,12 +2875,12 @@
       "name": "blastius.zip",
       "source": {
         "date_added": "2023-10-31",
-        "date_updated": "2024-04-07",
-        "md5": "c9a6424c1e92aafae5e3281bbaf317a7",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "e5e9c28975bd69579ce49e3d674cafc5",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 13545582,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/blastius.zip"
+        "size": 13545594,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/blastius.zip"
       },
       "version": 3
     },
@@ -3688,12 +3688,12 @@
       "name": "blues.brothers.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "d1ccf0d2d5b1eb8719f38a11ce3aa005",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "356adb4383a2fb1ba9d648dee2e2aaac",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 760941,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/blues.brothers.zip"
+        "size": 760971,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/blues.brothers.zip"
       },
       "version": 3
     },
@@ -3900,12 +3900,12 @@
       "name": "boneraiserminions.zip",
       "source": {
         "date_added": "2024-04-24",
-        "date_updated": "2024-04-24",
-        "md5": "4fc1f759c560fee3ecc07f9704e13c74",
-        "release_id": "2024-04-24_1323",
+        "date_updated": "2024-07-18",
+        "md5": "94ee9fa0a2e6803cca6ab848e503c60a",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 11655173,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/boneraiserminions.zip"
+        "size": 11655187,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/boneraiserminions.zip"
       },
       "version": 3
     },
@@ -4113,12 +4113,12 @@
       "name": "botbreak.zip",
       "source": {
         "date_added": "2023-11-13",
-        "date_updated": "2024-04-07",
-        "md5": "d211f509a8741ab8ac931106be30df55",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "495c21c1eb10063b4279d3c69b20e726",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 32642885,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/botbreak.zip"
+        "size": 32642897,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/botbreak.zip"
       },
       "version": 3
     },
@@ -4183,12 +4183,12 @@
       "name": "botvice.zip",
       "source": {
         "date_added": "2024-02-12",
-        "date_updated": "2024-04-07",
-        "md5": "961a7f720a680af7dbbcc1c4858a81dd",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "a9729eec2e30c357540051e11b7e0227",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 16179365,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/botvice.zip"
+        "size": 16179378,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/botvice.zip"
       },
       "version": 3
     },
@@ -4253,12 +4253,12 @@
       "name": "bowlingcross.zip",
       "source": {
         "date_added": "2023-11-11",
-        "date_updated": "2024-04-07",
-        "md5": "ea02b0e23646894fcb9ba3bec50bca55",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "e073d953bf6b0c418c5e9e9dcb3d4708",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 15259257,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/bowlingcross.zip"
+        "size": 15259268,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/bowlingcross.zip"
       },
       "version": 3
     },
@@ -4325,12 +4325,12 @@
       "name": "bravedogsroad.zip",
       "source": {
         "date_added": "2023-10-31",
-        "date_updated": "2024-04-07",
-        "md5": "ce1a50824b741c1f5cfcf850aab8aee6",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "7c73090dac83501e3f11bcbcdb0f6667",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 10986777,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/bravedogsroad.zip"
+        "size": 10986788,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/bravedogsroad.zip"
       },
       "version": 3
     },
@@ -4397,12 +4397,12 @@
       "name": "breaker.zip",
       "source": {
         "date_added": "2024-06-23",
-        "date_updated": "2024-06-23",
-        "md5": "ca6e15bcb6f02ca6a3526d42e85de895",
-        "release_id": "2024-06-23_2100",
+        "date_updated": "2024-07-18",
+        "md5": "1e4cc6d7daa1d662cd0cb49c63d5e0f7",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5685929,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-23_2100/breaker.zip"
+        "size": 5685932,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/breaker.zip"
       },
       "version": 3
     },
@@ -4471,12 +4471,12 @@
       "name": "brogue.zip",
       "source": {
         "date_added": "2023-10-14",
-        "date_updated": "2024-04-01",
-        "md5": "70f570409ecc792a2c9d0128f85609b9",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "005e6b6d5d0139ae7023b389e0f1daf7",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 966825,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/brogue.zip"
+        "size": 966839,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/brogue.zip"
       },
       "version": 3
     },
@@ -4783,12 +4783,12 @@
       "name": "bugscraper.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-04-01",
-        "md5": "7de8c358a3455ec55f2bfb1d447b5a74",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "eac7c57876d139e9e60a3b195eb0a061",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 38554829,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/bugscraper.zip"
+        "size": 38554858,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/bugscraper.zip"
       },
       "version": 3
     },
@@ -4853,12 +4853,12 @@
       "name": "bumpersbroadswords.zip",
       "source": {
         "date_added": "2023-11-04",
-        "date_updated": "2024-04-07",
-        "md5": "be035668f0de02d689754e00118a7920",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "d5f98b142c5fac8f8da5c856a5980563",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 11384797,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/bumpersbroadswords.zip"
+        "size": 11384807,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/bumpersbroadswords.zip"
       },
       "version": 3
     },
@@ -4923,12 +4923,12 @@
       "name": "bunnysflowers.zip",
       "source": {
         "date_added": "2024-04-24",
-        "date_updated": "2024-04-24",
-        "md5": "5c059c425b464afcb3be26701bf6762e",
-        "release_id": "2024-04-24_1323",
+        "date_updated": "2024-07-18",
+        "md5": "bf761219aea6f69195e8af2a95b0f610",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5340011,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/bunnysflowers.zip"
+        "size": 5340026,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/bunnysflowers.zip"
       },
       "version": 3
     },
@@ -5141,12 +5141,12 @@
       "name": "bzflag.zip",
       "source": {
         "date_added": "2023-10-26",
-        "date_updated": "2024-04-01",
-        "md5": "b469edfbc367a6db40d26e0033ccd7c3",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "4446527f001baf09930a90b1dbdc6e21",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 12236981,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/bzflag.zip"
+        "size": 12237013,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/bzflag.zip"
       },
       "version": 3
     },
@@ -5364,12 +5364,12 @@
       "name": "cannonball-st.zip",
       "source": {
         "date_added": "2023-11-21",
-        "date_updated": "2024-04-24",
-        "md5": "d85e42af8841174dfc09fbc8270bbb34",
-        "release_id": "2024-04-24_1323",
+        "date_updated": "2024-07-18",
+        "md5": "39e5e2d3b84e027b52acafe55015a779",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 419823,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/cannonball-st.zip"
+        "size": 419837,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/cannonball-st.zip"
       },
       "version": 3
     },
@@ -5582,12 +5582,12 @@
       "name": "carriesorderup.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-04-07",
-        "md5": "e5b5113bfec2a8cbb1417045e24f850b",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "c735bacb9d7c6cca4b782bc8f4a0132e",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 12207558,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/carriesorderup.zip"
+        "size": 12207571,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/carriesorderup.zip"
       },
       "version": 3
     },
@@ -5877,12 +5877,12 @@
       "name": "cattactics.zip",
       "source": {
         "date_added": "2024-02-05",
-        "date_updated": "2024-04-01",
-        "md5": "151cf77b84030fae1206a32ede7bb857",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "e11fefb68057996ce197d3333fe29617",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 93957053,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/cattactics.zip"
+        "size": 93957063,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/cattactics.zip"
       },
       "version": 3
     },
@@ -5954,12 +5954,12 @@
       "name": "cave.story-evo.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "efc1b5b19e8e253f7e6b18fdaf344a4f",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "8587f088369f19e033dbf0e7e345901c",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 9519237,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/cave.story-evo.zip"
+        "size": 9519252,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/cave.story-evo.zip"
       },
       "version": 3
     },
@@ -6401,12 +6401,12 @@
       "name": "cceleste.zip",
       "source": {
         "date_added": "2023-05-11",
-        "date_updated": "2024-04-01",
-        "md5": "7c32d7717e993583a8db32e3d76c5f2c",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "3bef664ebd45ceb3fa91a751682f332c",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 1621583,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/cceleste.zip"
+        "size": 1621553,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/cceleste.zip"
       },
       "version": 3
     },
@@ -6621,12 +6621,12 @@
       "name": "chessisstupid.zip",
       "source": {
         "date_added": "2023-11-13",
-        "date_updated": "2024-04-07",
-        "md5": "266b49993534d0a6f5f2b41330ab6d02",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "69ea25ade6e0c232b7038b46d484981b",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 18133478,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/chessisstupid.zip"
+        "size": 18133490,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/chessisstupid.zip"
       },
       "version": 3
     },
@@ -6981,12 +6981,12 @@
       "name": "climb.zip",
       "source": {
         "date_added": "2024-02-05",
-        "date_updated": "2024-04-07",
-        "md5": "610b6fe690e593dfbc2329a62099acaa",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "98fd093f92e8be1d755df0f64271bd21",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 18118118,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/climb.zip"
+        "size": 18118131,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/climb.zip"
       },
       "version": 3
     },
@@ -7130,12 +7130,12 @@
       "name": "colorlines.zip",
       "source": {
         "date_added": "2023-09-14",
-        "date_updated": "2024-04-01",
-        "md5": "a74fd1938aca30e06f657fe6aab8b3f0",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "0bb0a0722eb61d583a4fa1b2561814dc",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 4179844,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/colorlines.zip"
+        "size": 4179828,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/colorlines.zip"
       },
       "version": 3
     },
@@ -7284,12 +7284,12 @@
       "name": "corsixth.zip",
       "source": {
         "date_added": "2021-11-01",
-        "date_updated": "2024-05-21",
-        "md5": "74d0199191adf915ef236a31c794dc23",
-        "release_id": "2024-05-21_1211",
+        "date_updated": "2024-07-18",
+        "md5": "d6a14b5714a6a834bba639f3c37c9297",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 17347978,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-21_1211/corsixth.zip"
+        "size": 17347983,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/corsixth.zip"
       },
       "version": 3
     },
@@ -7360,12 +7360,12 @@
       "name": "cosmo-engine.zip",
       "source": {
         "date_added": "2023-04-12",
-        "date_updated": "2024-04-01",
-        "md5": "497b2cbbe057cb713afe178d4a231d54",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "7c72afc14fcc8c6314a474b3edfc8202",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 596761,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/cosmo-engine.zip"
+        "size": 596717,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/cosmo-engine.zip"
       },
       "version": 3
     },
@@ -7578,12 +7578,12 @@
       "name": "crystalsamalgam.zip",
       "source": {
         "date_added": "2024-06-23",
-        "date_updated": "2024-06-23",
-        "md5": "cd40fc561ca9b9ff3001fe21479d9f31",
-        "release_id": "2024-06-23_2100",
+        "date_updated": "2024-07-18",
+        "md5": "1ccd307b3c2bf9f75be240905e056de0",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 25061606,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-23_2100/crystalsamalgam.zip"
+        "size": 25061610,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/crystalsamalgam.zip"
       },
       "version": 3
     },
@@ -7650,12 +7650,12 @@
       "name": "curseball.zip",
       "source": {
         "date_added": "2024-06-11",
-        "date_updated": "2024-06-11",
-        "md5": "3d9f6812a1e2541222e9e2d6e5da14b4",
-        "release_id": "2024-06-11_1523",
+        "date_updated": "2024-07-18",
+        "md5": "b84b4284abf63608a1c1c458be1dba0b",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 14657039,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-11_1523/curseball.zip"
+        "size": 14657044,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/curseball.zip"
       },
       "version": 3
     },
@@ -7797,12 +7797,12 @@
       "name": "cybarian.zip",
       "source": {
         "date_added": "2023-11-15",
-        "date_updated": "2024-04-07",
-        "md5": "b0f08c68f2902fcb6743954377a27e8c",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "6d71f7fa658fd9a774f6e1f57267905e",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 13519784,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/cybarian.zip"
+        "size": 13519797,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/cybarian.zip"
       },
       "version": 3
     },
@@ -8022,12 +8022,12 @@
       "name": "davegnukem.zip",
       "source": {
         "date_added": "2023-03-27",
-        "date_updated": "2024-04-01",
-        "md5": "113afa95cae61a09602c61478d342b6a",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "4a0e5650eb73c105ac9556cebc070f61",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 199418,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/davegnukem.zip"
+        "size": 199373,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/davegnukem.zip"
       },
       "version": 3
     },
@@ -8095,12 +8095,12 @@
       "name": "daydreamer.zip",
       "source": {
         "date_added": "2024-05-22",
-        "date_updated": "2024-05-22",
-        "md5": "bbedf958c4ae504c6ff34d705774a37b",
-        "release_id": "2024-05-22_2326",
+        "date_updated": "2024-07-18",
+        "md5": "e10c1ebdaeb2f270fbc2b2e4635c8d58",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 6303331,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-22_2326/daydreamer.zip"
+        "size": 6303335,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/daydreamer.zip"
       },
       "version": 3
     },
@@ -8165,12 +8165,12 @@
       "name": "deadicedeluxe.zip",
       "source": {
         "date_added": "2023-11-13",
-        "date_updated": "2024-04-07",
-        "md5": "6965350209809eedb1c7761b711ecc42",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "f7e981392b9bba8acbeed19b49100d8f",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 17751071,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/deadicedeluxe.zip"
+        "size": 17751081,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/deadicedeluxe.zip"
       },
       "version": 3
     },
@@ -8673,19 +8673,20 @@
       "name": "derclou.zip",
       "source": {
         "date_added": "2023-03-05",
-        "date_updated": "2024-04-01",
-        "md5": "8e1aab65735a9ae88f4986f3e2bebdc2",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "d5715315ccef75237c0418d4a985f614",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 3368254,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/derclou.zip"
+        "size": 3368288,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/derclou.zip"
       },
       "version": 3
     },
     "descent.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf"
         ],
         "avail": [
           "rg353m:ALL",
@@ -8693,9 +8694,7 @@
           "rg351mp:ALL",
           "rg503:ALL",
           "rg552:ALL",
-          "rg35xx-plus:ALL",
           "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
           "rg351p:ALL",
           "rg351v:ALL",
           "rgb10:ALL",
@@ -8712,7 +8711,6 @@
           "chi:ALL",
           "trimui-smart-pro:ALL",
           "xu10:ALL",
-          "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
@@ -8738,7 +8736,9 @@
           "Tekkenfede",
           "krishenriksen"
         ],
-        "reqs": [],
+        "reqs": [
+          "analog_1|analog_2"
+        ],
         "rtr": true,
         "runtime": null,
         "title": "Descent"
@@ -8751,19 +8751,20 @@
       "name": "descent.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2024-04-13",
-        "md5": "846d0e8ad09b9d33b14bad6c8691ca15",
-        "release_id": "2024-04-13_0111",
+        "date_updated": "2024-07-18",
+        "md5": "80dcfffc461f4b3a5186588249cb763a",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 16706425,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-13_0111/descent.zip"
+        "size": 16706535,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/descent.zip"
       },
       "version": 3
     },
     "descent2.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "armhf"
         ],
         "avail": [
           "rg353m:ALL",
@@ -8771,9 +8772,7 @@
           "rg351mp:ALL",
           "rg503:ALL",
           "rg552:ALL",
-          "rg35xx-plus:ALL",
           "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
           "rg351p:ALL",
           "rg351v:ALL",
           "rgb10:ALL",
@@ -8790,7 +8789,6 @@
           "chi:ALL",
           "trimui-smart-pro:ALL",
           "xu10:ALL",
-          "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
@@ -8816,7 +8814,9 @@
           "Tekkenfede",
           "krishenriksen"
         ],
-        "reqs": [],
+        "reqs": [
+          "analog_1|analog_2"
+        ],
         "rtr": true,
         "runtime": null,
         "title": "Descent II"
@@ -8829,12 +8829,12 @@
       "name": "descent2.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2024-04-13",
-        "md5": "117100e5932aa3a26d96b119665cf601",
-        "release_id": "2024-04-13_0111",
+        "date_updated": "2024-07-18",
+        "md5": "dc14a122490df4793cb9b53b3671a78c",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 16558687,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-13_0111/descent2.zip"
+        "size": 16558820,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/descent2.zip"
       },
       "version": 3
     },
@@ -8849,9 +8849,7 @@
           "rg351mp:ALL",
           "rg503:ALL",
           "rg552:ALL",
-          "rg35xx-plus:ALL",
           "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
           "rg351p:ALL",
           "rg351v:ALL",
           "rgb10:ALL",
@@ -8868,7 +8866,6 @@
           "chi:ALL",
           "trimui-smart-pro:ALL",
           "xu10:ALL",
-          "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
@@ -8892,7 +8889,9 @@
           "Jeod",
           "fpasteau"
         ],
-        "reqs": [],
+        "reqs": [
+          "analog_1|analog_2"
+        ],
         "rtr": false,
         "runtime": null,
         "title": "Descent III"
@@ -8905,12 +8904,12 @@
       "name": "descent3.zip",
       "source": {
         "date_added": "2024-07-01",
-        "date_updated": "2024-07-06",
-        "md5": "6cf16799c1899337f65f1781d39c5fe9",
-        "release_id": "2024-07-06_0646",
+        "date_updated": "2024-07-18",
+        "md5": "3e21ba5b301d0f2bc1ad45db79724923",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 7308376,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-06_0646/descent3.zip"
+        "size": 7308386,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/descent3.zip"
       },
       "version": 3
     },
@@ -8977,12 +8976,12 @@
       "name": "destructivator.zip",
       "source": {
         "date_added": "2024-06-15",
-        "date_updated": "2024-06-15",
-        "md5": "57e0704540d209dd431bac9ac83625e1",
-        "release_id": "2024-06-15_1740",
+        "date_updated": "2024-07-18",
+        "md5": "c7d0c615d28a1cdf047dc95ad1a68b23",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5606704,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/destructivator.zip"
+        "size": 5606708,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/destructivator.zip"
       },
       "version": 3
     },
@@ -9040,12 +9039,12 @@
       "name": "destructivator2.zip",
       "source": {
         "date_added": "2024-06-18",
-        "date_updated": "2024-06-18",
-        "md5": "6598005527c883d11e721d317fbd0324",
-        "release_id": "2024-06-18_1327",
+        "date_updated": "2024-07-18",
+        "md5": "6fe26a6e52ff00e43a06a23d60a7a78a",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5872438,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-18_1327/destructivator2.zip"
+        "size": 5872442,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/destructivator2.zip"
       },
       "version": 3
     },
@@ -9117,12 +9116,12 @@
       "name": "devilutionx.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "a0ec09aa0ff56d9bc5272a48ff34dce3",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "e40930b7e046e1e250fc60bf1567fecc",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 58660008,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/devilutionx.zip"
+        "size": 58659995,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/devilutionx.zip"
       },
       "version": 3
     },
@@ -9625,12 +9624,12 @@
       "name": "drally.zip",
       "source": {
         "date_added": "2023-11-27",
-        "date_updated": "2024-04-01",
-        "md5": "b148386d06d33853d99e67aa33fbd07a",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "6287b9c354f5621295b4d1c4e232e3db",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 2244526,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/drally.zip"
+        "size": 2244496,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/drally.zip"
       },
       "version": 3
     },
@@ -9698,12 +9697,12 @@
       "name": "drbloodshot.zip",
       "source": {
         "date_added": "2024-06-23",
-        "date_updated": "2024-06-23",
-        "md5": "2c7503888c7217f560e1e1d4087963ac",
-        "release_id": "2024-06-23_2100",
+        "date_updated": "2024-07-18",
+        "md5": "cc02a3b8e13dcc74846a0a7980cf9890",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 13534448,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-23_2100/drbloodshot.zip"
+        "size": 13534452,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/drbloodshot.zip"
       },
       "version": 3
     },
@@ -9846,12 +9845,12 @@
       "name": "drinkndrive.zip",
       "source": {
         "date_added": "2024-04-25",
-        "date_updated": "2024-04-26",
-        "md5": "19b259041f0bb08482f52427f7f2f576",
-        "release_id": "2024-04-26_2100",
+        "date_updated": "2024-07-18",
+        "md5": "1c80f41100107a3c6086686b2af2250c",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 7008661,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-26_2100/drinkndrive.zip"
+        "size": 7008674,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/drinkndrive.zip"
       },
       "version": 3
     },
@@ -10144,12 +10143,12 @@
       "name": "dungeonrush.zip",
       "source": {
         "date_added": "2023-03-23",
-        "date_updated": "2024-04-01",
-        "md5": "3d0923274a04ac8f9bd230eda45bceb1",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "633e49725eece5163eaddf0a5f788d1e",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 10097682,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/dungeonrush.zip"
+        "size": 10097678,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/dungeonrush.zip"
       },
       "version": 3
     },
@@ -10216,12 +10215,12 @@
       "name": "dungeonsouls.zip",
       "source": {
         "date_added": "2023-11-02",
-        "date_updated": "2024-04-07",
-        "md5": "c66448088a97f703475c9276fd0380b6",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "13bc41cdf8c8cf47c959a842cfb3d30c",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 16895510,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/dungeonsouls.zip"
+        "size": 16895521,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/dungeonsouls.zip"
       },
       "version": 3
     },
@@ -10508,12 +10507,12 @@
       "name": "eity.zip",
       "source": {
         "date_added": "2023-04-30",
-        "date_updated": "2024-04-01",
-        "md5": "a541ce578c85a543cd9dd45b9fb4c821",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "13271c5874460e855ba7c51dba0fa319",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 70385087,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/eity.zip"
+        "size": 70385121,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/eity.zip"
       },
       "version": 3
     },
@@ -10580,12 +10579,12 @@
       "name": "elecdude.zip",
       "source": {
         "date_added": "2024-06-20",
-        "date_updated": "2024-06-20",
-        "md5": "2861a4507628fc24faded2f9c7b7bd18",
-        "release_id": "2024-06-20_0908",
+        "date_updated": "2024-07-18",
+        "md5": "ed7cc479111039769ae8dccd9e853000",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5919748,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-20_0908/elecdude.zip"
+        "size": 5919752,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/elecdude.zip"
       },
       "version": 3
     },
@@ -10799,12 +10798,12 @@
       "name": "enigma.zip",
       "source": {
         "date_added": "2023-03-25",
-        "date_updated": "2024-04-01",
-        "md5": "4c488f37224699c5b74fcda1341f9d8a",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "fac44562f047ee0e41d170013ea7ff91",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 54212016,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/enigma.zip"
+        "size": 54211971,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/enigma.zip"
       },
       "version": 3
     },
@@ -10872,12 +10871,12 @@
       "name": "escape.zip",
       "source": {
         "date_added": "2023-09-27",
-        "date_updated": "2024-04-01",
-        "md5": "c0ae1040fa7e0a6e07eff5de8dada27b",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "312b45033302a7082e0781627281fce0",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 3452449,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/escape.zip"
+        "size": 3452475,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/escape.zip"
       },
       "version": 3
     },
@@ -10945,12 +10944,12 @@
       "name": "everpatch.zip",
       "source": {
         "date_added": "2024-05-22",
-        "date_updated": "2024-05-22",
-        "md5": "e271e688734273838a078ed8dc1056ef",
-        "release_id": "2024-05-22_2326",
+        "date_updated": "2024-07-18",
+        "md5": "4d4fa05ad2c531d474d4fdf274be0e3b",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5518262,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-22_2326/everpatch.zip"
+        "size": 5518266,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/everpatch.zip"
       },
       "version": 3
     },
@@ -11095,12 +11094,12 @@
       "name": "exult.zip",
       "source": {
         "date_added": "2021-12-09",
-        "date_updated": "2024-05-21",
-        "md5": "b75773cfd3502a42d3c6c19051aa589d",
-        "release_id": "2024-05-21_1211",
+        "date_updated": "2024-07-18",
+        "md5": "b5b3cff34131ac85021230bbf6291daf",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 56816294,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-21_1211/exult.zip"
+        "size": 56816303,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/exult.zip"
       },
       "version": 3
     },
@@ -11168,12 +11167,12 @@
       "name": "ez.zip",
       "source": {
         "date_added": "2024-07-06",
-        "date_updated": "2024-07-06",
-        "md5": "1b4aabfb9e5a3659991fe53238da5754",
-        "release_id": "2024-07-06_0646",
+        "date_updated": "2024-07-18",
+        "md5": "bf4eb2fe2093f58c63b7b05cdd0d7531",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 4230056,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-06_0646/ez.zip"
+        "size": 4230059,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/ez.zip"
       },
       "version": 3
     },
@@ -11243,12 +11242,12 @@
       "name": "f-zeropocket.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-07-17",
-        "md5": "dbb4c2b7de3c54191e3f8dee3d8f6c7c",
-        "release_id": "2024-07-17_1729",
+        "date_updated": "2024-07-18",
+        "md5": "7ef9d92b6f59a94b04a6cabe2f42280e",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 38749598,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-17_1729/f-zeropocket.zip"
+        "size": 36579900,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/f-zeropocket.zip"
       },
       "version": 3
     },
@@ -11318,12 +11317,12 @@
       "name": "f1race.zip",
       "source": {
         "date_added": "2023-05-19",
-        "date_updated": "2024-04-01",
-        "md5": "a4dc84696881ddc22aa9d1920e1f365e",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "8193182af5a83c04d1ac2288b63f77cd",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 195816,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/f1race.zip"
+        "size": 195758,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/f1race.zip"
       },
       "version": 3
     },
@@ -11540,12 +11539,12 @@
       "name": "faithdemonsiege.zip",
       "source": {
         "date_added": "2024-05-29",
-        "date_updated": "2024-05-29",
-        "md5": "1c8e31ebecf93b182924c9529f907ad4",
-        "release_id": "2024-05-29_0749",
+        "date_updated": "2024-07-18",
+        "md5": "202b1eb71db0306bdcd60e26011d93a4",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 6381946,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-29_0749/faithdemonsiege.zip"
+        "size": 6381950,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/faithdemonsiege.zip"
       },
       "version": 3
     },
@@ -11613,12 +11612,12 @@
       "name": "falling_time.zip",
       "source": {
         "date_added": "2022-10-24",
-        "date_updated": "2024-04-01",
-        "md5": "26554f900a09cf87314b53d02c065bee",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "69aa9ad07fd0664088c6368e06073c46",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 1728786,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/falling_time.zip"
+        "size": 1728818,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/falling_time.zip"
       },
       "version": 3
     },
@@ -12204,12 +12203,12 @@
       "name": "finding_paradise.zip",
       "source": {
         "date_added": "2024-02-07",
-        "date_updated": "2024-04-01",
-        "md5": "b6f5ca3200577377a2ab80b6e4f9d3c9",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "cabc8a8094d3a4bccfc1a01d2d6a01f1",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5181138,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/finding_paradise.zip"
+        "size": 5181152,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/finding_paradise.zip"
       },
       "version": 3
     },
@@ -12349,12 +12348,12 @@
       "name": "firearrow.zip",
       "source": {
         "date_added": "2023-09-22",
-        "date_updated": "2024-04-07",
-        "md5": "f01ffaf5c659ed6b7c95024f5b52eac4",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "4aafa0352d8bda2e626750147f41818b",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 13724243,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/firearrow.zip"
+        "size": 13724214,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/firearrow.zip"
       },
       "version": 3
     },
@@ -12499,12 +12498,12 @@
       "name": "flywrench.zip",
       "source": {
         "date_added": "2024-07-09",
-        "date_updated": "2024-07-09",
-        "md5": "13f307187324adc90481df980de077eb",
-        "release_id": "2024-07-09_0405",
+        "date_updated": "2024-07-18",
+        "md5": "787fe0a8abb4a9fc36e837b807bc4ad9",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 4878977,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-09_0405/flywrench.zip"
+        "size": 4878979,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/flywrench.zip"
       },
       "version": 3
     },
@@ -12556,12 +12555,12 @@
       "name": "forager.zip",
       "source": {
         "date_added": "2024-03-30",
-        "date_updated": "2024-04-07",
-        "md5": "b8fd2476665cc971b1e0e799350b8d54",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "c12c47cc3c605d71fa27eab1f30bd19a",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5749666,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/forager.zip"
+        "size": 5749680,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/forager.zip"
       },
       "version": 3
     },
@@ -12628,12 +12627,12 @@
       "name": "forgodden.zip",
       "source": {
         "date_added": "2024-05-13",
-        "date_updated": "2024-05-13",
-        "md5": "df8062b5b10760390814f75b8f1e8c11",
-        "release_id": "2024-05-13_1155",
+        "date_updated": "2024-07-18",
+        "md5": "3ddf92b6cf0ffeed0c149c5138427593",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 53159052,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-13_1155/forgodden.zip"
+        "size": 53159056,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/forgodden.zip"
       },
       "version": 3
     },
@@ -12995,12 +12994,12 @@
       "name": "freegemas.zip",
       "source": {
         "date_added": "2023-03-25",
-        "date_updated": "2024-04-01",
-        "md5": "dd33bf93e058afe5f4d37695d47a1509",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "4e84242b3e20b6cc99b25c5b4fafe93f",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 3540592,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/freegemas.zip"
+        "size": 3540538,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/freegemas.zip"
       },
       "version": 3
     },
@@ -13071,12 +13070,12 @@
       "name": "freeserf.zip",
       "source": {
         "date_added": "2023-03-07",
-        "date_updated": "2024-04-01",
-        "md5": "c71fe3ab9437e39341960f8982e001e7",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "28807e378ff7cbd4467d3f6f4b9d46d6",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 921007,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/freeserf.zip"
+        "size": 920947,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/freeserf.zip"
       },
       "version": 3
     },
@@ -13293,12 +13292,12 @@
       "name": "frozen-bubble.zip",
       "source": {
         "date_added": "2024-07-16",
-        "date_updated": "2024-07-16",
-        "md5": "53b1272be4b2855217f4bce564649fe6",
-        "release_id": "2024-07-16_0755",
+        "date_updated": "2024-07-18",
+        "md5": "38ee91c815658478c318bd74e1eef526",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 37146677,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-16_0755/frozen-bubble.zip"
+        "size": 37146679,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/frozen-bubble.zip"
       },
       "version": 3
     },
@@ -13509,12 +13508,12 @@
       "name": "gaurodan.zip",
       "source": {
         "date_added": "2024-04-08",
-        "date_updated": "2024-04-08",
-        "md5": "4489cf551b729be414034f0d3c674198",
-        "release_id": "2024-04-08_0126",
+        "date_updated": "2024-07-18",
+        "md5": "9c6977705927b9e6b83b7e61becb08d1",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 42076891,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-08_0126/gaurodan.zip"
+        "size": 42076904,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/gaurodan.zip"
       },
       "version": 3
     },
@@ -13579,12 +13578,12 @@
       "name": "gcrash.zip",
       "source": {
         "date_added": "2024-05-20",
-        "date_updated": "2024-05-20",
-        "md5": "2f055888cb249c50679ce398e8e7b5c1",
-        "release_id": "2024-05-20_1328",
+        "date_updated": "2024-07-18",
+        "md5": "0fdf67998bd9ee36edd126efbfc33bcb",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 13734984,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/gcrash.zip"
+        "size": 13734988,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/gcrash.zip"
       },
       "version": 3
     },
@@ -13799,12 +13798,12 @@
       "name": "gigalomania.zip",
       "source": {
         "date_added": "2022-11-11",
-        "date_updated": "2024-04-01",
-        "md5": "4b5c40196a09b5871533af25267840b0",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "8459953a4627487fd0ea40fb662b8694",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 23625958,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/gigalomania.zip"
+        "size": 23625992,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/gigalomania.zip"
       },
       "version": 3
     },
@@ -13947,12 +13946,12 @@
       "name": "gnurobbo.zip",
       "source": {
         "date_added": "2023-09-02",
-        "date_updated": "2024-04-01",
-        "md5": "0a37c841810ce71c640ddcf81043991c",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "371e8911e9884ba5b8bed436720dd379",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 4461253,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/gnurobbo.zip"
+        "size": 4461197,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/gnurobbo.zip"
       },
       "version": 3
     },
@@ -14239,12 +14238,12 @@
       "name": "grimstorm.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-04-07",
-        "md5": "b985203d74a070bdebed803764d2a7fe",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "9aa4392fa0c4dc3b65b7b20295323780",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 12310744,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/grimstorm.zip"
+        "size": 12310756,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/grimstorm.zip"
       },
       "version": 3
     },
@@ -14532,12 +14531,12 @@
       "name": "gumgirlgb.zip",
       "source": {
         "date_added": "2024-05-29",
-        "date_updated": "2024-05-29",
-        "md5": "9c2c661192e3ba36281d6f6d7f5d69a4",
-        "release_id": "2024-05-29_0749",
+        "date_updated": "2024-07-18",
+        "md5": "f7f1dd6342e35eecd4a67370e3350181",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 29644524,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-29_0749/gumgirlgb.zip"
+        "size": 29644528,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/gumgirlgb.zip"
       },
       "version": 3
     },
@@ -14604,12 +14603,12 @@
       "name": "gunsandguns.zip",
       "source": {
         "date_added": "2024-05-13",
-        "date_updated": "2024-05-13",
-        "md5": "b4e603944ca4ae8858bef6e3619d7899",
-        "release_id": "2024-05-13_1155",
+        "date_updated": "2024-07-18",
+        "md5": "4f35dde7ba2f950693abc3c57bc0346f",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 14344238,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-13_1155/gunsandguns.zip"
+        "size": 14344242,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/gunsandguns.zip"
       },
       "version": 3
     },
@@ -14907,12 +14906,12 @@
       "name": "hawkthorne.zip",
       "source": {
         "date_added": "2023-05-11",
-        "date_updated": "2024-04-01",
-        "md5": "330683a032e46188bac1a9eeda434033",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "4b16ff44faf63db6f3e965122faf2d69",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 70848614,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/hawkthorne.zip"
+        "size": 70848644,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/hawkthorne.zip"
       },
       "version": 3
     },
@@ -15057,12 +15056,12 @@
       "name": "heboris-sdl.zip",
       "source": {
         "date_added": "2023-10-31",
-        "date_updated": "2024-04-01",
-        "md5": "0407a17bd17bbd35453c52a18452f0b6",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "7c6b4adc1d97979eb78bc0ebdf9bd57a",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 12040539,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/heboris-sdl.zip"
+        "size": 12040504,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/heboris-sdl.zip"
       },
       "version": 3
     },
@@ -15205,12 +15204,12 @@
       "name": "hex-a-hop.zip",
       "source": {
         "date_added": "2022-10-24",
-        "date_updated": "2024-04-01",
-        "md5": "5d2d046f1592f493f0cb7d2833af9360",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "daa1a1977173e48ace42cabae5d9c31b",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 11891023,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/hex-a-hop.zip"
+        "size": 11891052,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/hex-a-hop.zip"
       },
       "version": 3
     },
@@ -15358,12 +15357,12 @@
       "name": "hftsr.zip",
       "source": {
         "date_added": "2023-09-22",
-        "date_updated": "2024-04-01",
-        "md5": "bc3dd96f5a646d6538e37d88f1c0e7dd",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "db7d5321ad1d9eede368d143e3475387",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 31715805,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/hftsr.zip"
+        "size": 31715822,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/hftsr.zip"
       },
       "version": 3
     },
@@ -15508,12 +15507,12 @@
       "name": "hocoslamfy.zip",
       "source": {
         "date_added": "2022-10-14",
-        "date_updated": "2024-04-01",
-        "md5": "70d4f37bc429e761c82d954c66f0abd4",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "9fc86d7860930c2bb4b4539c382f0531",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 15548654,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/hocoslamfy.zip"
+        "size": 15548684,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/hocoslamfy.zip"
       },
       "version": 3
     },
@@ -15729,12 +15728,12 @@
       "name": "hota.zip",
       "source": {
         "date_added": "2023-09-03",
-        "date_updated": "2024-04-01",
-        "md5": "5e4d13df86241d4162c1f4ff4995f3e9",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "7ad2bc2918fb7a29bd6a948984b79149",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 216553,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/hota.zip"
+        "size": 216495,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/hota.zip"
       },
       "version": 3
     },
@@ -15783,12 +15782,12 @@
       "name": "hotlinesanzu.zip",
       "source": {
         "date_added": "2023-11-11",
-        "date_updated": "2024-04-07",
-        "md5": "f5155d7989d8ce9707f327683d58f2f4",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "478959041412a7376dd491c99f9ceacc",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 8693790,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/hotlinesanzu.zip"
+        "size": 8693802,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/hotlinesanzu.zip"
       },
       "version": 3
     },
@@ -15858,12 +15857,12 @@
       "name": "hoverboard.zip",
       "source": {
         "date_added": "2023-06-11",
-        "date_updated": "2024-04-01",
-        "md5": "d127d6e506737dcec41b16638d8457f6",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "667aacab04f7fa2b434b23ebca3f756d",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5376974,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/hoverboard.zip"
+        "size": 5376915,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/hoverboard.zip"
       },
       "version": 3
     },
@@ -16072,12 +16071,12 @@
       "name": "hunters.zip",
       "source": {
         "date_added": "2023-11-15",
-        "date_updated": "2024-04-07",
-        "md5": "0bd4474da8cb6221d551943588a848f5",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "1b84793943e89f008cdc553e44931401",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 11560156,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/hunters.zip"
+        "size": 11560168,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/hunters.zip"
       },
       "version": 3
     },
@@ -16219,12 +16218,12 @@
       "name": "hydorah.zip",
       "source": {
         "date_added": "2023-09-22",
-        "date_updated": "2024-05-06",
-        "md5": "fa56a85efe30d038122147e32b0e31f8",
-        "release_id": "2024-05-06_2128",
+        "date_updated": "2024-07-18",
+        "md5": "78cd9319b97c869688bbbf431515a13c",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 4953736,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/hydorah.zip"
+        "size": 4953739,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/hydorah.zip"
       },
       "version": 3
     },
@@ -16588,12 +16587,12 @@
       "name": "iichantra_pear.zip",
       "source": {
         "date_added": "2023-03-17",
-        "date_updated": "2024-05-09",
-        "md5": "f22beba91c1344ab699e93395a280536",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-07-18",
+        "md5": "7187a1773f31b0fab9c4fe84d3421aa1",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 6170185,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/iichantra_pear.zip"
+        "size": 6169987,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/iichantra_pear.zip"
       },
       "version": 3
     },
@@ -16735,12 +16734,12 @@
       "name": "infra_arcana.zip",
       "source": {
         "date_added": "2023-10-14",
-        "date_updated": "2024-04-01",
-        "md5": "007dd0e01c08ca028a40fc8f29d5a384",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "757dede756839cc61ddda75bc03d8947",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 43806813,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/infra_arcana.zip"
+        "size": 43806835,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/infra_arcana.zip"
       },
       "version": 3
     },
@@ -17030,12 +17029,12 @@
       "name": "ironferret.zip",
       "source": {
         "date_added": "2024-06-18",
-        "date_updated": "2024-06-18",
-        "md5": "d7c0a40246f44437d4cb8621bf218c84",
-        "release_id": "2024-06-18_1327",
+        "date_updated": "2024-07-18",
+        "md5": "c51df9309dd3a26f7f120ba463bb9a14",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 14901520,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-18_1327/ironferret.zip"
+        "size": 14901524,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/ironferret.zip"
       },
       "version": 3
     },
@@ -17456,12 +17455,12 @@
       "name": "jumpnbump.zip",
       "source": {
         "date_added": "2024-02-07",
-        "date_updated": "2024-04-01",
-        "md5": "eef3f1a3b8d944e5e7d1052097771e2b",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "d3b2b98b493674e1cb2419786eae5cda",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 1722341,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/jumpnbump.zip"
+        "size": 1722356,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/jumpnbump.zip"
       },
       "version": 3
     },
@@ -17528,12 +17527,12 @@
       "name": "jumpoffthebridge.zip",
       "source": {
         "date_added": "2024-05-17",
-        "date_updated": "2024-05-17",
-        "md5": "eeda1c89827c0135168ad0fcb95e8cd7",
-        "release_id": "2024-05-17_1453",
+        "date_updated": "2024-07-18",
+        "md5": "b01a88914decef3025fe10e69ca20d21",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 6564215,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-17_1453/jumpoffthebridge.zip"
+        "size": 6564219,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/jumpoffthebridge.zip"
       },
       "version": 3
     },
@@ -17674,12 +17673,12 @@
       "name": "kemonorogue.zip",
       "source": {
         "date_added": "2024-02-05",
-        "date_updated": "2024-04-01",
-        "md5": "5c7f88042ee8ef715e717cb06bdc361b",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "e8e7122c300c0f94245be1198ed75f88",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 91677,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/kemonorogue.zip"
+        "size": 91690,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/kemonorogue.zip"
       },
       "version": 3
     },
@@ -17822,12 +17821,12 @@
       "name": "kingofmachines.zip",
       "source": {
         "date_added": "2023-11-11",
-        "date_updated": "2024-04-07",
-        "md5": "d4d3f5f9d1d63991f5b5318f3bec160b",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "7168abe524c8370f6c507a9b2d1db8c4",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 20945719,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/kingofmachines.zip"
+        "size": 20945729,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/kingofmachines.zip"
       },
       "version": 3
     },
@@ -17892,12 +17891,12 @@
       "name": "klorets.zip",
       "source": {
         "date_added": "2023-11-04",
-        "date_updated": "2024-04-07",
-        "md5": "cb223d8ddc2f820ddb1651712c2c4f6a",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "c366f8964df6b3952047c26bf351a31c",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 15327824,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/klorets.zip"
+        "size": 15327835,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/klorets.zip"
       },
       "version": 3
     },
@@ -17967,12 +17966,12 @@
       "name": "kobodeluxe.zip",
       "source": {
         "date_added": "2023-10-24",
-        "date_updated": "2024-04-01",
-        "md5": "f247209490ed4575637baa4fd143eb99",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "e4f216e8c23f44c90c911afd75659d40",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 3540211,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/kobodeluxe.zip"
+        "size": 3540149,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/kobodeluxe.zip"
       },
       "version": 3
     },
@@ -18189,12 +18188,12 @@
       "name": "laserkombat.zip",
       "source": {
         "date_added": "2023-05-18",
-        "date_updated": "2024-04-01",
-        "md5": "5754d951a61d63be91f596456ad3afba",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "cc8a9634031ac7fb2f3fe05739267040",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 1169709,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/laserkombat.zip"
+        "size": 1169649,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/laserkombat.zip"
       },
       "version": 3
     },
@@ -18262,12 +18261,12 @@
       "name": "lawnbusterforhire.zip",
       "source": {
         "date_added": "2024-05-22",
-        "date_updated": "2024-05-22",
-        "md5": "8e02f7450dce07e463b7e2715fab70ac",
-        "release_id": "2024-05-22_2326",
+        "date_updated": "2024-07-18",
+        "md5": "5555bac8b0ea8ac0fe1391e2be2b698a",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 12428799,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-22_2326/lawnbusterforhire.zip"
+        "size": 12428801,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/lawnbusterforhire.zip"
       },
       "version": 3
     },
@@ -18337,12 +18336,12 @@
       "name": "lbreakouthd.zip",
       "source": {
         "date_added": "2023-05-17",
-        "date_updated": "2024-04-01",
-        "md5": "691f8922efeb952c66dc8d720e6f92b0",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "ee9148b72a61e05ecc6445f0bd867591",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 4689111,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/lbreakouthd.zip"
+        "size": 4689078,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/lbreakouthd.zip"
       },
       "version": 3
     },
@@ -18485,12 +18484,12 @@
       "name": "liltanks.zip",
       "source": {
         "date_added": "2024-05-20",
-        "date_updated": "2024-05-20",
-        "md5": "b1acd2473f32d83733e33a29ab854790",
-        "release_id": "2024-05-20_1328",
+        "date_updated": "2024-07-18",
+        "md5": "e23462a3b80b1bb3386d70df48373791",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5960303,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/liltanks.zip"
+        "size": 5960307,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/liltanks.zip"
       },
       "version": 3
     },
@@ -18555,12 +18554,12 @@
       "name": "lineoff.zip",
       "source": {
         "date_added": "2024-06-18",
-        "date_updated": "2024-06-18",
-        "md5": "fb50e7373890a8a99f01d791fa61b852",
-        "release_id": "2024-06-18_1327",
+        "date_updated": "2024-07-18",
+        "md5": "08f1c3223d13910c76da242f6b0aaf3a",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 4428809,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-18_1327/lineoff.zip"
+        "size": 4428813,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/lineoff.zip"
       },
       "version": 3
     },
@@ -18774,12 +18773,12 @@
       "name": "lisathejoyful.zip",
       "source": {
         "date_added": "2024-03-02",
-        "date_updated": "2024-04-01",
-        "md5": "9dbd23bc2e0259596345d905c3dbac21",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "3c9c0f33c876d77c5d5f0db626fe1df2",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5186662,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/lisathejoyful.zip"
+        "size": 5186675,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/lisathejoyful.zip"
       },
       "version": 3
     },
@@ -18847,12 +18846,12 @@
       "name": "lisathepainful.zip",
       "source": {
         "date_added": "2024-03-02",
-        "date_updated": "2024-04-01",
-        "md5": "ea0d537d8601fb5b1c27871e6f639f18",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "eff84bc19fd9f4aba68ada3a0c88fbd4",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5162844,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/lisathepainful.zip"
+        "size": 5162858,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/lisathepainful.zip"
       },
       "version": 3
     },
@@ -19355,12 +19354,12 @@
       "name": "lode.zip",
       "source": {
         "date_added": "2023-11-21",
-        "date_updated": "2024-04-07",
-        "md5": "3c667a012608fc3f90bbe751f1731fd7",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "2d539a62d9de4a1830d9138797f6395a",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 7343957,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/lode.zip"
+        "size": 7343970,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/lode.zip"
       },
       "version": 3
     },
@@ -19496,12 +19495,12 @@
       "name": "loopcat.zip",
       "source": {
         "date_added": "2024-03-02",
-        "date_updated": "2024-04-07",
-        "md5": "1122b14d4e72be1d03dbcdf0a7d0b331",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "8305672c3ed7840234eacfa85f7ae6ba",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 31639837,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/loopcat.zip"
+        "size": 31639849,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/loopcat.zip"
       },
       "version": 3
     },
@@ -19566,12 +19565,12 @@
       "name": "love.zip",
       "source": {
         "date_added": "2024-02-13",
-        "date_updated": "2024-04-07",
-        "md5": "fa51a94fc3b57c03ddd200690073a8b2",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "8fe08b6d254edd66d8ab69add742d572",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5687289,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/love.zip"
+        "size": 5687300,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/love.zip"
       },
       "version": 3
     },
@@ -19638,12 +19637,12 @@
       "name": "love3.zip",
       "source": {
         "date_added": "2024-04-24",
-        "date_updated": "2024-04-24",
-        "md5": "2e59a565f7e38fba896ee8c04dfe9b2d",
-        "release_id": "2024-04-24_1323",
+        "date_updated": "2024-07-18",
+        "md5": "ca10fe383f2ebb515cd594184ee078f7",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 8384455,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/love3.zip"
+        "size": 8384470,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/love3.zip"
       },
       "version": 3
     },
@@ -19710,12 +19709,12 @@
       "name": "luck.be.a.landlord.zip",
       "source": {
         "date_added": "2024-01-15",
-        "date_updated": "2024-04-01",
-        "md5": "4f309cb93711fb1e3a5ddb090300e6b8",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "c613e7a688f1e7d0e2d72878bf257218",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 577794,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/luck.be.a.landlord.zip"
+        "size": 577810,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/luck.be.a.landlord.zip"
       },
       "version": 3
     },
@@ -19782,12 +19781,12 @@
       "name": "luminousslash.zip",
       "source": {
         "date_added": "2024-06-06",
-        "date_updated": "2024-06-06",
-        "md5": "58fb81fb82054ccfbf5feaf7c14869bf",
-        "release_id": "2024-06-06_1155",
+        "date_updated": "2024-07-18",
+        "md5": "6e575597ecdaa49e09b4cfc71baad8db",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 16036515,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-06_1155/luminousslash.zip"
+        "size": 16036518,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/luminousslash.zip"
       },
       "version": 3
     },
@@ -19853,12 +19852,12 @@
       "name": "mableandthewood.zip",
       "source": {
         "date_added": "2024-05-17",
-        "date_updated": "2024-05-20",
-        "md5": "da5c64430f25e854bd3a5b049604b672",
-        "release_id": "2024-05-20_1328",
+        "date_updated": "2024-07-18",
+        "md5": "c984a7d8de1aaa617374a728b9548369",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 31402666,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/mableandthewood.zip"
+        "size": 31402669,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/mableandthewood.zip"
       },
       "version": 3
     },
@@ -19925,12 +19924,12 @@
       "name": "magicvigilante.zip",
       "source": {
         "date_added": "2023-10-07",
-        "date_updated": "2024-04-07",
-        "md5": "f7760c03c7807fb4b85809151bc67031",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "b2fafefee66cf3d746241f967903508d",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 10986344,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/magicvigilante.zip"
+        "size": 10986357,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/magicvigilante.zip"
       },
       "version": 3
     },
@@ -19997,12 +19996,12 @@
       "name": "magnibox.zip",
       "source": {
         "date_added": "2024-03-27",
-        "date_updated": "2024-04-07",
-        "md5": "213532dd52c99928709fafeca2763d3e",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "96d004c03c79ff01412d41141c1f8b6b",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5113901,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/magnibox.zip"
+        "size": 5113915,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/magnibox.zip"
       },
       "version": 3
     },
@@ -20070,12 +20069,12 @@
       "name": "maldita.castilla.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-07-12",
-        "md5": "f1c225b8b1bd603ba48b97e153e25ea6",
-        "release_id": "2024-07-12_1443",
+        "date_updated": "2024-07-18",
+        "md5": "888cf2ab298458fe4c5dfdc71ad34b44",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 50101343,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-12_1443/maldita.castilla.zip"
+        "size": 50101347,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/maldita.castilla.zip"
       },
       "version": 3
     },
@@ -20440,12 +20439,12 @@
       "name": "meandmyshadow.zip",
       "source": {
         "date_added": "2023-05-29",
-        "date_updated": "2024-04-01",
-        "md5": "69e12755a445ee188f9e701aefb3b4ff",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "49b83c07aeb7fd7ab786793da344627b",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 24377514,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/meandmyshadow.zip"
+        "size": 24377453,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/meandmyshadow.zip"
       },
       "version": 3
     },
@@ -20589,12 +20588,12 @@
       "name": "meritous.zip",
       "source": {
         "date_added": "2022-10-15",
-        "date_updated": "2024-04-01",
-        "md5": "654ac7c4acac2321e567ed83a2d82042",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "02f91250fa899a834597565faca89df2",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 3355817,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/meritous.zip"
+        "size": 3355845,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/meritous.zip"
       },
       "version": 3
     },
@@ -21038,12 +21037,12 @@
       "name": "minit.zip",
       "source": {
         "date_added": "2023-11-02",
-        "date_updated": "2024-04-07",
-        "md5": "da1496b5eed1b825b9dd4873f6cbc398",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "d338b68050821e7663df5156310b3d26",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 10079769,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/minit.zip"
+        "size": 10079782,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/minit.zip"
       },
       "version": 3
     },
@@ -21111,12 +21110,12 @@
       "name": "mirrormagic.zip",
       "source": {
         "date_added": "2023-03-27",
-        "date_updated": "2024-04-01",
-        "md5": "75754ddfcb0b37beac86c0a68c0b46a6",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "90812eaab500ad8f194d6f5bb75a506c",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 3503141,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/mirrormagic.zip"
+        "size": 3503082,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/mirrormagic.zip"
       },
       "version": 3
     },
@@ -21184,12 +21183,12 @@
       "name": "missdriller.zip",
       "source": {
         "date_added": "2023-10-08",
-        "date_updated": "2024-04-01",
-        "md5": "33eee216222a2076ddbf013d9e95d3ba",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "69193b66cf0f34124ee34f9f6000d0a6",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 1507036,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/missdriller.zip"
+        "size": 1506975,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/missdriller.zip"
       },
       "version": 3
     },
@@ -21255,12 +21254,12 @@
       "name": "missiledancer.zip",
       "source": {
         "date_added": "2024-03-30",
-        "date_updated": "2024-04-07",
-        "md5": "4da671602aaf81dd0eae4fbd438aad54",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "26e9429189e96de186999de9bae65ada",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 10630373,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/missiledancer.zip"
+        "size": 10630385,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/missiledancer.zip"
       },
       "version": 3
     },
@@ -21325,12 +21324,12 @@
       "name": "mobility.zip",
       "source": {
         "date_added": "2024-02-23",
-        "date_updated": "2024-04-07",
-        "md5": "0e56ef1fce8b048e45a0e784327424df",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "dc87fbd6a24eb2aec5a1df7b0ddbcd38",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 12520111,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/mobility.zip"
+        "size": 12520123,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/mobility.zip"
       },
       "version": 3
     },
@@ -21414,33 +21413,22 @@
           "aarch64"
         ],
         "avail": [
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
+          "rg353m:arkos",
+          "rg353ps:arkos",
+          "rg351mp:arkos",
+          "rg503:arkos",
+          "rg351v:arkos",
+          "rgb10:arkos",
+          "rgb30:arkos",
+          "rk2023:arkos",
+          "oga:arkos",
+          "ogs:arkos",
+          "ogu:arkos",
+          "chi:arkos",
+          "xu10:arkos",
+          "r33s:arkos",
+          "r35s:arkos",
+          "r36s:arkos"
         ],
         "desc": "A free, open-source NVIDIA Gamestream Client.  For more info on the setup needs at https://github.com/christianhaitian/arkos/wiki/ArkOS-Emulators-and-Ports-information#moonlight-nvidia-gamestreaming-app-available-through-portmaster.",
         "desc_md": null,
@@ -21461,10 +21449,12 @@
         "porter": [
           "Christian_Haitian"
         ],
-        "reqs": [],
+        "reqs": [
+          "arkos"
+        ],
         "rtr": true,
         "runtime": null,
-        "title": "Moonlight"
+        "title": "Moonlight Old"
       },
       "items": [
         "moonlight/",
@@ -21474,12 +21464,12 @@
       "name": "moonlight.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "669729c8e04a678908d3e21301020a8d",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "360f837b963172ac7efac6600d4076c7",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 7225350,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/moonlight.zip"
+        "size": 7225370,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/moonlight.zip"
       },
       "version": 3
     },
@@ -21920,12 +21910,12 @@
       "name": "multris.zip",
       "source": {
         "date_added": "2023-03-27",
-        "date_updated": "2024-04-01",
-        "md5": "a7a7a8562e45721cbaa38c153030410a",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "27d779553fe542d8da2bae3b4121f659",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 370976,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/multris.zip"
+        "size": 370917,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/multris.zip"
       },
       "version": 3
     },
@@ -22066,12 +22056,12 @@
       "name": "mutant_tank_knights.zip",
       "source": {
         "date_added": "2024-01-28",
-        "date_updated": "2024-04-01",
-        "md5": "9149724381983e20483349a0f910a20a",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "f0d64fa7806254f7f23b32d16d91ed8c",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 4213678,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/mutant_tank_knights.zip"
+        "size": 4213693,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/mutant_tank_knights.zip"
       },
       "version": 3
     },
@@ -22275,12 +22265,12 @@
       "name": "nainainights.zip",
       "source": {
         "date_added": "2024-06-09",
-        "date_updated": "2024-06-09",
-        "md5": "36ff5e5e869425c804a86bf14aacf22e",
-        "release_id": "2024-06-09_1946",
+        "date_updated": "2024-07-18",
+        "md5": "aee84ac3de7784426bdc3c0834549dd9",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 10268246,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-09_1946/nainainights.zip"
+        "size": 10268250,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/nainainights.zip"
       },
       "version": 3
     },
@@ -22652,12 +22642,12 @@
       "name": "nebulus.zip",
       "source": {
         "date_added": "2023-11-20",
-        "date_updated": "2024-04-01",
-        "md5": "3a3170493096a3f25a7bd2b2e332e5ff",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "b8422fce50142225ba3af469a56ca9fb",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 4411877,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/nebulus.zip"
+        "size": 4411815,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/nebulus.zip"
       },
       "version": 3
     },
@@ -22724,12 +22714,12 @@
       "name": "neogensokyo.zip",
       "source": {
         "date_added": "2023-10-19",
-        "date_updated": "2024-04-07",
-        "md5": "b710a6a713115bef5ead676c2ab26d5f",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "8904b9f5e0cd2ae41afa9ff8fc36c022",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 40580039,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/neogensokyo.zip"
+        "size": 40580052,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/neogensokyo.zip"
       },
       "version": 3
     },
@@ -22778,12 +22768,12 @@
       "name": "neoncityriders.zip",
       "source": {
         "date_added": "2023-10-11",
-        "date_updated": "2024-04-07",
-        "md5": "cf452a2397f69435b778c781924f02b0",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "8c1a2f6482245c07869222e22880078d",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 17886050,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/neoncityriders.zip"
+        "size": 17886064,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/neoncityriders.zip"
       },
       "version": 3
     },
@@ -22925,12 +22915,12 @@
       "name": "neverball.zip",
       "source": {
         "date_added": "2023-04-22",
-        "date_updated": "2024-04-01",
-        "md5": "b1ec5e07d700af02d2b8b5a42d4f8f62",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "c8aba7b7a28eef7309a5ca8791d030fa",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 74787011,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/neverball.zip"
+        "size": 74786888,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/neverball.zip"
       },
       "version": 3
     },
@@ -23067,12 +23057,12 @@
       "name": "nidhogg.zip",
       "source": {
         "date_added": "2024-04-20",
-        "date_updated": "2024-04-26",
-        "md5": "8de62a10374474a548aca1ca499fad7f",
-        "release_id": "2024-04-26_2100",
+        "date_updated": "2024-07-18",
+        "md5": "bb4a88abe8bfb7513c6ea7b566af640e",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 11807192,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-26_2100/nidhogg.zip"
+        "size": 11807206,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/nidhogg.zip"
       },
       "version": 3
     },
@@ -23216,12 +23206,12 @@
       "name": "nonny.zip",
       "source": {
         "date_added": "2023-04-25",
-        "date_updated": "2024-04-01",
-        "md5": "785ac3e1d3b293332b528b19bd5f5d19",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "7c5558828ff0e034690eaaf66e18eb22",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 2503535,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/nonny.zip"
+        "size": 2503477,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/nonny.zip"
       },
       "version": 3
     },
@@ -23288,12 +23278,12 @@
       "name": "nonstopspaceprobe.zip",
       "source": {
         "date_added": "2024-06-11",
-        "date_updated": "2024-06-11",
-        "md5": "86e0176e70ab0ddb0cf556b9b8555594",
-        "release_id": "2024-06-11_1523",
+        "date_updated": "2024-07-18",
+        "md5": "b8b68e4c8726dc151bb44189ceee1b19",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 11750191,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-11_1523/nonstopspaceprobe.zip"
+        "size": 11750193,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/nonstopspaceprobe.zip"
       },
       "version": 3
     },
@@ -23507,12 +23497,12 @@
       "name": "notransmission.zip",
       "source": {
         "date_added": "2024-05-02",
-        "date_updated": "2024-05-02",
-        "md5": "b062b85d7cb635b24261e6dbbe0c0c5d",
-        "release_id": "2024-05-02_0733",
+        "date_updated": "2024-07-18",
+        "md5": "b7f0036829d8f7c1b90e6a5f879a5ce2",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 10172441,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-02_0733/notransmission.zip"
+        "size": 10172444,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/notransmission.zip"
       },
       "version": 3
     },
@@ -23580,12 +23570,12 @@
       "name": "nova_pinball.zip",
       "source": {
         "date_added": "2023-05-23",
-        "date_updated": "2024-04-01",
-        "md5": "f2136ecf6804c85eff68f42a9f496976",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "5ad1b459b64e4dc40708b970a8b8336d",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 17624900,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/nova_pinball.zip"
+        "size": 17624929,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/nova_pinball.zip"
       },
       "version": 3
     },
@@ -23653,12 +23643,12 @@
       "name": "npuzzle.zip",
       "source": {
         "date_added": "2023-05-22",
-        "date_updated": "2024-04-01",
-        "md5": "f8f52a6bb6869c2107a09dc8642b8b7d",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "c0bdd3f6431a15a1e9eb0eb83cb5f23f",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 8760575,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/npuzzle.zip"
+        "size": 8760541,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/npuzzle.zip"
       },
       "version": 3
     },
@@ -23725,12 +23715,12 @@
       "name": "nuclearthronemobile.zip",
       "source": {
         "date_added": "2023-10-21",
-        "date_updated": "2024-04-07",
-        "md5": "d755774286f620009f51d9ccc89f992e",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "cf18ba9b0763f18ac3b1be7e532057eb",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 123939283,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/nuclearthronemobile.zip"
+        "size": 123939296,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/nuclearthronemobile.zip"
       },
       "version": 3
     },
@@ -23797,12 +23787,12 @@
       "name": "nulldrifter.zip",
       "source": {
         "date_added": "2024-04-20",
-        "date_updated": "2024-04-20",
-        "md5": "aed8e1a052d32bf31a6f262219913620",
-        "release_id": "2024-04-20_1331",
+        "date_updated": "2024-07-18",
+        "md5": "285cbcddf5d2f2b278c1ad3efc3a8c60",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5578313,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-20_1331/nulldrifter.zip"
+        "size": 5578327,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/nulldrifter.zip"
       },
       "version": 3
     },
@@ -23869,12 +23859,12 @@
       "name": "nvpw.zip",
       "source": {
         "date_added": "2024-06-29",
-        "date_updated": "2024-06-29",
-        "md5": "aad8a88608aaf200b3f4c98b980ae196",
-        "release_id": "2024-06-29_0905",
+        "date_updated": "2024-07-18",
+        "md5": "08cb42029819a4908fdd2435320bd456",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 10112798,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_0905/nvpw.zip"
+        "size": 10112801,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/nvpw.zip"
       },
       "version": 3
     },
@@ -23941,12 +23931,12 @@
       "name": "ocda.zip",
       "source": {
         "date_added": "2024-04-24",
-        "date_updated": "2024-04-24",
-        "md5": "9c9490b1034e02de0eb6a476f8b737f8",
-        "release_id": "2024-04-24_1323",
+        "date_updated": "2024-07-18",
+        "md5": "77bca5561f1f3973261afc812bfcbd34",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5152480,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/ocda.zip"
+        "size": 5152493,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/ocda.zip"
       },
       "version": 3
     },
@@ -24091,12 +24081,12 @@
       "name": "oddworld.zip",
       "source": {
         "date_added": "2023-02-28",
-        "date_updated": "2024-04-01",
-        "md5": "a930f54c70b8ab22155e25a1715d76af",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "ffbb4095635a3b213e96ca59984b13d5",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 3058003,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/oddworld.zip"
+        "size": 3058023,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/oddworld.zip"
       },
       "version": 3
     },
@@ -24163,12 +24153,12 @@
       "name": "omegastrike.zip",
       "source": {
         "date_added": "2024-06-15",
-        "date_updated": "2024-06-15",
-        "md5": "e0cfe354339db3598c83acb0967e88e0",
-        "release_id": "2024-06-15_1740",
+        "date_updated": "2024-07-18",
+        "md5": "a783450c4c6a78afee1a9f2eaa071346",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5855747,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/omegastrike.zip"
+        "size": 5855750,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/omegastrike.zip"
       },
       "version": 3
     },
@@ -24236,12 +24226,12 @@
       "name": "openblok.zip",
       "source": {
         "date_added": "2023-03-27",
-        "date_updated": "2024-04-01",
-        "md5": "a2afccee7797fe8dc575a2c86b730884",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "81024088212b25c8177fd36a1070e53d",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5998771,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/openblok.zip"
+        "size": 5998711,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/openblok.zip"
       },
       "version": 3
     },
@@ -24311,12 +24301,12 @@
       "name": "openclaw.zip",
       "source": {
         "date_added": "2021-11-19",
-        "date_updated": "2024-04-01",
-        "md5": "5768e713aaf8ff904e60d675cc6e200a",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "e5c9f8f758e74465d34a16a7637ab7ac",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 88375591,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/openclaw.zip"
+        "size": 88375622,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/openclaw.zip"
       },
       "version": 3
     },
@@ -24459,12 +24449,12 @@
       "name": "openggs.zip",
       "source": {
         "date_added": "2023-05-14",
-        "date_updated": "2024-04-01",
-        "md5": "622bed20f1f1e0f998c966cbc0b5f0e5",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "606b1548838525e9586a2288c9a22641",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 1524761,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/openggs.zip"
+        "size": 1524703,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/openggs.zip"
       },
       "version": 3
     },
@@ -24682,12 +24672,12 @@
       "name": "openomf.zip",
       "source": {
         "date_added": "2021-11-06",
-        "date_updated": "2024-04-01",
-        "md5": "79fe71c789d7c65e1c5a756917d6f5a3",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "063f65e63a55c7d979cd92e2ce52c5b1",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 6616480,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/openomf.zip"
+        "size": 6616509,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/openomf.zip"
       },
       "version": 3
     },
@@ -24829,12 +24819,12 @@
       "name": "opensupaplex.zip",
       "source": {
         "date_added": "2023-05-21",
-        "date_updated": "2024-04-01",
-        "md5": "5640c1c92ac52d0e27295d13c1999822",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "2bc6556ccb875d33737ff3a456375aaf",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 3696815,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/opensupaplex.zip"
+        "size": 3696757,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/opensupaplex.zip"
       },
       "version": 3
     },
@@ -24904,12 +24894,12 @@
       "name": "opensyobon.zip",
       "source": {
         "date_added": "2023-07-06",
-        "date_updated": "2024-04-01",
-        "md5": "7cfe5d724348ca02a93a736547731820",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "a1f72665912aeeb83847a891ebfbef0b",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 2645282,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/opensyobon.zip"
+        "size": 2645224,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/opensyobon.zip"
       },
       "version": 3
     },
@@ -25052,12 +25042,12 @@
       "name": "openxcom.zip",
       "source": {
         "date_added": "2022-03-31",
-        "date_updated": "2024-05-21",
-        "md5": "64d8bff84527506d8fd0bc9321527bd7",
-        "release_id": "2024-05-21_1211",
+        "date_updated": "2024-07-18",
+        "md5": "6a9b7dffb288df158a210e2dc6132b51",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 11959946,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-21_1211/openxcom.zip"
+        "size": 11959951,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/openxcom.zip"
       },
       "version": 3
     },
@@ -25347,12 +25337,12 @@
       "name": "outofammo.zip",
       "source": {
         "date_added": "2023-10-31",
-        "date_updated": "2024-04-07",
-        "md5": "27b69f442713d6213e2787c91eae942f",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "0ad20bd75b2464e47603c291e1444bd5",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 19264246,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/outofammo.zip"
+        "size": 19264257,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/outofammo.zip"
       },
       "version": 3
     },
@@ -25421,12 +25411,12 @@
       "name": "overgun.zip",
       "source": {
         "date_added": "2024-05-29",
-        "date_updated": "2024-05-29",
-        "md5": "78b1a8c063588e3ebfe161d0166ede19",
-        "release_id": "2024-05-29_0749",
+        "date_updated": "2024-07-18",
+        "md5": "d12f4cdc042d1e57e4f47bb9de7cd218",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 10371043,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-29_0749/overgun.zip"
+        "size": 10371048,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/overgun.zip"
       },
       "version": 3
     },
@@ -25495,12 +25485,12 @@
       "name": "owlboy.zip",
       "source": {
         "date_added": "2022-03-18",
-        "date_updated": "2024-04-01",
-        "md5": "fc6080a6c88fe0ca3915ab693a3d39e8",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "2f9c09fd99325c162008167a35dbd6cd",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 2589368,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/owlboy.zip"
+        "size": 2589382,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/owlboy.zip"
       },
       "version": 3
     },
@@ -25642,12 +25632,12 @@
       "name": "panicroom.zip",
       "source": {
         "date_added": "2024-02-23",
-        "date_updated": "2024-04-07",
-        "md5": "ec81a0d63887e71ac2c788fa0ba1b4b6",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "fb5c54ff94a96a86ffa50eb34fee34a8",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 14321144,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/panicroom.zip"
+        "size": 14321155,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/panicroom.zip"
       },
       "version": 3
     },
@@ -25791,12 +25781,12 @@
       "name": "paused.zip",
       "source": {
         "date_added": "2023-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "420ddab7dd70600d756e5913c10b1919",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "66f18ac1df31ed741d656cbbc3c17d0f",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 9746102,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/paused.zip"
+        "size": 9746131,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/paused.zip"
       },
       "version": 3
     },
@@ -25864,12 +25854,12 @@
       "name": "pekka-kana-2.zip",
       "source": {
         "date_added": "2023-04-18",
-        "date_updated": "2024-04-01",
-        "md5": "da2afda292bf36407d2303e690019de9",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "6369b3d7e3c8519fc87d3ac11bfedaec",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 7669278,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/pekka-kana-2.zip"
+        "size": 7669308,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/pekka-kana-2.zip"
       },
       "version": 3
     },
@@ -26082,12 +26072,12 @@
       "name": "pingo.zip",
       "source": {
         "date_added": "2024-03-02",
-        "date_updated": "2024-05-06",
-        "md5": "47977f7c7a653bba52d52d04c7ac1af4",
-        "release_id": "2024-05-06_2128",
+        "date_updated": "2024-07-18",
+        "md5": "44ec8645ac9523b28397215180696dbf",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 44441476,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/pingo.zip"
+        "size": 44441478,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/pingo.zip"
       },
       "version": 3
     },
@@ -26517,12 +26507,12 @@
       "name": "pocketwondersport.zip",
       "source": {
         "date_added": "2023-11-15",
-        "date_updated": "2024-04-07",
-        "md5": "fea311f565cd3fd6828f2e65cddd9f4e",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "7d607db49e35a60d7dd6a4e60cea730d",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 19721504,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/pocketwondersport.zip"
+        "size": 19721515,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/pocketwondersport.zip"
       },
       "version": 3
     },
@@ -26581,12 +26571,12 @@
       "name": "postvoid.zip",
       "source": {
         "date_added": "2024-03-09",
-        "date_updated": "2024-04-14",
-        "md5": "6e7da79478ea683001163e996aee7155",
-        "release_id": "2024-04-14_0641",
+        "date_updated": "2024-07-18",
+        "md5": "2165a9bd9d3b263eb06e320d931dd586",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 7162013,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-14_0641/postvoid.zip"
+        "size": 7162026,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/postvoid.zip"
       },
       "version": 3
     },
@@ -26654,12 +26644,12 @@
       "name": "powder.zip",
       "source": {
         "date_added": "2022-10-27",
-        "date_updated": "2024-04-01",
-        "md5": "c2e0519f27d8934595883af88472763e",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "47928641e1c7a760e90486d4ddd790a1",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 3524535,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/powder.zip"
+        "size": 3524564,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/powder.zip"
       },
       "version": 3
     },
@@ -26724,12 +26714,12 @@
       "name": "powerlevel.zip",
       "source": {
         "date_added": "2024-02-01",
-        "date_updated": "2024-04-07",
-        "md5": "29e8f5085935591fb4ae0ee913cf1f07",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "ee8bbb3194daa388057633f6bc980789",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 17577633,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/powerlevel.zip"
+        "size": 17577645,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/powerlevel.zip"
       },
       "version": 3
     },
@@ -26797,12 +26787,12 @@
       "name": "ppengui.zip",
       "source": {
         "date_added": "2024-06-23",
-        "date_updated": "2024-06-23",
-        "md5": "f3456439d2f9579e08fb64c9cb95020a",
-        "release_id": "2024-06-23_2100",
+        "date_updated": "2024-07-18",
+        "md5": "558f4775d87e87295e4a8cb4a9fab6d7",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 10742069,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-23_2100/ppengui.zip"
+        "size": 10742073,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/ppengui.zip"
       },
       "version": 3
     },
@@ -26948,12 +26938,12 @@
       "name": "profadeluxe.zip",
       "source": {
         "date_added": "2023-02-15",
-        "date_updated": "2024-04-01",
-        "md5": "007f93571f6dfcb4a2628666bf1d5912",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "f8dddcdcbb2a8d473f03c46f6d7b46dd",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 7134539,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/profadeluxe.zip"
+        "size": 7134567,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/profadeluxe.zip"
       },
       "version": 3
     },
@@ -27096,12 +27086,12 @@
       "name": "psebay.zip",
       "source": {
         "date_added": "2023-10-26",
-        "date_updated": "2024-04-07",
-        "md5": "855e0b80a6357dc39151dac0ee6d74f5",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "23845977c5292ddb24ca00288349fa4d",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 1587349,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/psebay.zip"
+        "size": 1587363,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/psebay.zip"
       },
       "version": 3
     },
@@ -27166,12 +27156,12 @@
       "name": "pulstario.zip",
       "source": {
         "date_added": "2024-02-19",
-        "date_updated": "2024-04-07",
-        "md5": "a828af3f1ed4dd14506c76c31a88dd27",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "57295e061f40af543c61f59e1e2fc744",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 17773319,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/pulstario.zip"
+        "size": 17773331,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/pulstario.zip"
       },
       "version": 3
     },
@@ -27238,12 +27228,12 @@
       "name": "pupaipospacedx.zip",
       "source": {
         "date_added": "2024-05-08",
-        "date_updated": "2024-05-10",
-        "md5": "8b2489dcf2fc5b1d8694e76ee7fceecb",
-        "release_id": "2024-05-10_0144",
+        "date_updated": "2024-07-18",
+        "md5": "a48136082f5f8661fdf0f3125b5c78ac",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5736572,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-10_0144/pupaipospacedx.zip"
+        "size": 5736576,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/pupaipospacedx.zip"
       },
       "version": 3
     },
@@ -27310,12 +27300,12 @@
       "name": "puremetal.zip",
       "source": {
         "date_added": "2023-09-22",
-        "date_updated": "2024-04-07",
-        "md5": "7f359d254d557a90ec9bb23756103f84",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "80f583d53550780de9574e10d126a590",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 16557390,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/puremetal.zip"
+        "size": 16557402,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/puremetal.zip"
       },
       "version": 3
     },
@@ -27528,12 +27518,12 @@
       "name": "pyk.zip",
       "source": {
         "date_added": "2024-02-25",
-        "date_updated": "2024-04-01",
-        "md5": "ff35ca540475569eaf4fdecfdf5a7b0e",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "d702ea0cce082721d07ce0c500503427",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 234554,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/pyk.zip"
+        "size": 234573,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/pyk.zip"
       },
       "version": 3
     },
@@ -27912,12 +27902,12 @@
       "name": "rakuen.zip",
       "source": {
         "date_added": "2024-02-08",
-        "date_updated": "2024-04-01",
-        "md5": "6d46196dc40dd51d5a7fb5516507fb07",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "6276440c66255b2a89e724d682733ad2",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5195983,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/rakuen.zip"
+        "size": 5195997,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/rakuen.zip"
       },
       "version": 3
     },
@@ -28056,12 +28046,12 @@
       "name": "raptor.zip",
       "source": {
         "date_added": "2023-07-01",
-        "date_updated": "2024-04-01",
-        "md5": "b860fff4609138f98369bef596af0afc",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "836db703113ffe889302ba29778b1033",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 2240674,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/raptor.zip"
+        "size": 2240614,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/raptor.zip"
       },
       "version": 3
     },
@@ -28278,12 +28268,12 @@
       "name": "redhandsomehood.zip",
       "source": {
         "date_added": "2024-04-01",
-        "date_updated": "2024-04-07",
-        "md5": "bf25ba7bd84eab4c1f27e91dbc4c74c1",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "d264b6464fe211f7e8d1648b325801da",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 41405121,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/redhandsomehood.zip"
+        "size": 41405133,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/redhandsomehood.zip"
       },
       "version": 3
     },
@@ -28573,12 +28563,12 @@
       "name": "relichunters.zip",
       "source": {
         "date_added": "2024-02-15",
-        "date_updated": "2024-04-07",
-        "md5": "52a90726ced3e54116a0f59fc3dd142a",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "9bd65081ed36928b565a9619bc12bcf0",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 7292501,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/relichunters.zip"
+        "size": 7292512,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/relichunters.zip"
       },
       "version": 3
     },
@@ -28725,12 +28715,12 @@
       "name": "render96ex.zip",
       "source": {
         "date_added": "2024-07-01",
-        "date_updated": "2024-07-17",
-        "md5": "12b03cbd09f8dc217dd5b154713e81a9",
-        "release_id": "2024-07-17_1729",
+        "date_updated": "2024-07-18",
+        "md5": "1b5a69b6744d20e279ccce4817f8c14e",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 145147258,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-17_1729/render96ex.zip"
+        "size": 145147383,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/render96ex.zip"
       },
       "version": 3
     },
@@ -28846,12 +28836,12 @@
       "name": "retrotime.zip",
       "source": {
         "date_added": "2023-05-26",
-        "date_updated": "2024-04-01",
-        "md5": "204ed81baa23202d5043d92de05c2e85",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "8fcef091964d1025d6e27359723e2822",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 22819564,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/retrotime.zip"
+        "size": 22819504,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/retrotime.zip"
       },
       "version": 3
     },
@@ -28918,12 +28908,12 @@
       "name": "revbros.zip",
       "source": {
         "date_added": "2024-06-29",
-        "date_updated": "2024-06-29",
-        "md5": "51c488257fccba57ee9d35b76bad473f",
-        "release_id": "2024-06-29_1117",
+        "date_updated": "2024-07-18",
+        "md5": "b107fdd17bf3a3cfb19856fa29214bea",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 7551202,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_1117/revbros.zip"
+        "size": 7551206,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/revbros.zip"
       },
       "version": 3
     },
@@ -28993,12 +28983,12 @@
       "name": "ri_li.zip",
       "source": {
         "date_added": "2023-02-16",
-        "date_updated": "2024-04-01",
-        "md5": "c71d9043fa955dadd70d17cdfa6c367d",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "9378048a03fe01c092574172a5fec766",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 38680965,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/ri_li.zip"
+        "size": 38680994,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/ri_li.zip"
       },
       "version": 3
     },
@@ -29291,12 +29281,12 @@
       "name": "rite.zip",
       "source": {
         "date_added": "2024-04-11",
-        "date_updated": "2024-04-11",
-        "md5": "234ebae6b10f84f685b64284e7220923",
-        "release_id": "2024-04-11_1200",
+        "date_updated": "2024-07-18",
+        "md5": "16fa66d9be2e02dc9da8c7806b3991b3",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 4220685,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-11_1200/rite.zip"
+        "size": 4220698,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/rite.zip"
       },
       "version": 3
     },
@@ -29513,12 +29503,12 @@
       "name": "road.invaders.zip",
       "source": {
         "date_added": "2023-12-06",
-        "date_updated": "2024-04-01",
-        "md5": "75422ecc7609772814594f04941c8df9",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "6c3212183df267b128dbb5bc279c8ae8",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 6814516,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/road.invaders.zip"
+        "size": 6814545,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/road.invaders.zip"
       },
       "version": 3
     },
@@ -29660,12 +29650,12 @@
       "name": "roguelight.zip",
       "source": {
         "date_added": "2023-10-11",
-        "date_updated": "2024-04-07",
-        "md5": "3412ffda092ea025ddfa2dd81e69454a",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "263c3ce12e589bb32332bab7e26055fa",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 10984903,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/roguelight.zip"
+        "size": 10984916,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/roguelight.zip"
       },
       "version": 3
     },
@@ -29803,12 +29793,12 @@
       "name": "rotationalshift.zip",
       "source": {
         "date_added": "2023-11-02",
-        "date_updated": "2024-04-07",
-        "md5": "10ef88e38ac9e5b58296cc62d5d1315a",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "9bf5cf744f754bfc955b65347fe5634e",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 17315484,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/rotationalshift.zip"
+        "size": 17315496,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/rotationalshift.zip"
       },
       "version": 3
     },
@@ -29948,12 +29938,12 @@
       "name": "russiansubwaydogs.zip",
       "source": {
         "date_added": "2023-10-11",
-        "date_updated": "2024-04-07",
-        "md5": "8b468327b50e540b9750f93acc03cca4",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "acccd00c19c7a24011347813412d8e3c",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 11162718,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/russiansubwaydogs.zip"
+        "size": 11162731,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/russiansubwaydogs.zip"
       },
       "version": 3
     },
@@ -30098,12 +30088,12 @@
       "name": "rwatch.zip",
       "source": {
         "date_added": "2024-05-06",
-        "date_updated": "2024-05-06",
-        "md5": "228da241d6149a10d44aaa6f718cd2e5",
-        "release_id": "2024-05-06_2128",
+        "date_updated": "2024-07-18",
+        "md5": "f3c75dc8115e2c334174640a34fa2be4",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 11544195,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/rwatch.zip"
+        "size": 11544199,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/rwatch.zip"
       },
       "version": 3
     },
@@ -30461,12 +30451,12 @@
       "name": "sdlsopwith.zip",
       "source": {
         "date_added": "2023-06-01",
-        "date_updated": "2024-04-01",
-        "md5": "4d0c62e066a16da464d6061dd6ab91e2",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "5cdf70b132dfd1aadc14c7cb0b0b56eb",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 60451,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/sdlsopwith.zip"
+        "size": 60389,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/sdlsopwith.zip"
       },
       "version": 3
     },
@@ -31120,12 +31110,12 @@
       "name": "shrubnaut.zip",
       "source": {
         "date_added": "2024-03-22",
-        "date_updated": "2024-04-13",
-        "md5": "9d1bba57a2b1b005ce062ea9934f2b7b",
-        "release_id": "2024-04-13_0111",
+        "date_updated": "2024-07-18",
+        "md5": "09c4d9336edfc791ea3156a6fd352e17",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5708581,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-13_0111/shrubnaut.zip"
+        "size": 5708592,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/shrubnaut.zip"
       },
       "version": 3
     },
@@ -31192,12 +31182,12 @@
       "name": "siegeofosaka.zip",
       "source": {
         "date_added": "2023-11-04",
-        "date_updated": "2024-04-07",
-        "md5": "fcc28c35918eee5e6c91d0f4e186d712",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "ad6406b33e0ff5b128a46e9e4292fc82",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 14270205,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/siegeofosaka.zip"
+        "size": 14270216,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/siegeofosaka.zip"
       },
       "version": 3
     },
@@ -31266,12 +31256,12 @@
       "name": "simonsqrev.zip",
       "source": {
         "date_added": "2023-10-31",
-        "date_updated": "2024-06-15",
-        "md5": "a49b68b6471e857f67699458ca7aa4dd",
-        "release_id": "2024-06-15_1740",
+        "date_updated": "2024-07-18",
+        "md5": "d96662e2286e2efd3a597b4d1d0e146f",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 20337592,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/simonsqrev.zip"
+        "size": 20337594,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/simonsqrev.zip"
       },
       "version": 3
     },
@@ -31339,12 +31329,12 @@
       "name": "simplesokoban.zip",
       "source": {
         "date_added": "2023-04-15",
-        "date_updated": "2024-04-01",
-        "md5": "a645bee6fe240dc08b3d5fc1489f515d",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "8fb2aab192529b89fa4a624512a125e8",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 1021562,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/simplesokoban.zip"
+        "size": 1021500,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/simplesokoban.zip"
       },
       "version": 3
     },
@@ -31491,12 +31481,12 @@
       "name": "skijump3.zip",
       "source": {
         "date_added": "2021-12-02",
-        "date_updated": "2024-05-21",
-        "md5": "4c0701f9825887ccc5ddeb7d41ae7c9e",
-        "release_id": "2024-05-21_1211",
+        "date_updated": "2024-07-18",
+        "md5": "d23af556067f680e56cde07b3264296a",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 2390583,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-21_1211/skijump3.zip"
+        "size": 2390587,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/skijump3.zip"
       },
       "version": 3
     },
@@ -31638,12 +31628,12 @@
       "name": "smoothiegalaxy.zip",
       "source": {
         "date_added": "2024-06-18",
-        "date_updated": "2024-06-18",
-        "md5": "ea3f1a3cc41e2878b509ce9c865e0923",
-        "release_id": "2024-06-18_1327",
+        "date_updated": "2024-07-18",
+        "md5": "4b79c0e28856ebfe2ce570b69478236f",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5246919,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-18_1327/smoothiegalaxy.zip"
+        "size": 5246923,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/smoothiegalaxy.zip"
       },
       "version": 3
     },
@@ -31784,12 +31774,12 @@
       "name": "snaklipse.zip",
       "source": {
         "date_added": "2023-11-21",
-        "date_updated": "2024-04-07",
-        "md5": "0c54d5a8385d49a66b4d3a9f7f1eed61",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "06fd6dc0e616ece7753c0188ea289e1e",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 10107088,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/snaklipse.zip"
+        "size": 10107100,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/snaklipse.zip"
       },
       "version": 3
     },
@@ -31854,12 +31844,12 @@
       "name": "sneakr.zip",
       "source": {
         "date_added": "2024-02-05",
-        "date_updated": "2024-04-07",
-        "md5": "c88c50f67535cc5e12da95bbb5d40016",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "bbf20793b4ddf2b1a2dd9be1c7fc8660",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 11644090,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/sneakr.zip"
+        "size": 11644101,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/sneakr.zip"
       },
       "version": 3
     },
@@ -32076,12 +32066,12 @@
       "name": "snout.zip",
       "source": {
         "date_added": "2024-03-15",
-        "date_updated": "2024-04-14",
-        "md5": "b178a56cc44264ca22435463cd286f61",
-        "release_id": "2024-04-14_0641",
+        "date_updated": "2024-07-18",
+        "md5": "769ac6a01f4706aa2a1a2d848e20e031",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 42110534,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-14_0641/snout.zip"
+        "size": 42110548,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/snout.zip"
       },
       "version": 3
     },
@@ -32296,12 +32286,12 @@
       "name": "sokobrawn.zip",
       "source": {
         "date_added": "2024-04-22",
-        "date_updated": "2024-04-22",
-        "md5": "b14ed253dffffb00984ff928ddf8437c",
-        "release_id": "2024-04-22_2125",
+        "date_updated": "2024-07-18",
+        "md5": "0e2576bed707566db22f352cdc2e4791",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 4335444,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-22_2125/sokobrawn.zip"
+        "size": 4335458,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/sokobrawn.zip"
       },
       "version": 3
     },
@@ -32521,12 +32511,12 @@
       "name": "sonic.cd.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "db3580277ac80ab6a36e20d984528048",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "85ff3606115a8f4d0fe3fe18f8e2b6eb",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 2999150,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/sonic.cd.zip"
+        "size": 2999175,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/sonic.cd.zip"
       },
       "version": 3
     },
@@ -32596,12 +32586,12 @@
       "name": "sonic.mania.zip",
       "source": {
         "date_added": "2022-10-24",
-        "date_updated": "2024-04-01",
-        "md5": "7fe6a0e6310382479ceab0048c9e1dff",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "fa538c4f29ef384ce3d82a6a75ce1a2c",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 2326820,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/sonic.mania.zip"
+        "size": 2326849,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/sonic.mania.zip"
       },
       "version": 3
     },
@@ -32668,12 +32658,12 @@
       "name": "sonic1sms.zip",
       "source": {
         "date_added": "2024-07-08",
-        "date_updated": "2024-07-08",
-        "md5": "56cf2c8c1c8471f61c5752394e248d82",
-        "release_id": "2024-07-08_2057",
+        "date_updated": "2024-07-18",
+        "md5": "b005afb5bab93803407130ee3dd7e30f",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 39584242,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-08_2057/sonic1sms.zip"
+        "size": 39584247,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/sonic1sms.zip"
       },
       "version": 3
     },
@@ -32740,12 +32730,12 @@
       "name": "sonic2sms.zip",
       "source": {
         "date_added": "2024-07-08",
-        "date_updated": "2024-07-08",
-        "md5": "9adcfbd0c44cb68746b452ff1d93a285",
-        "release_id": "2024-07-08_2057",
+        "date_updated": "2024-07-18",
+        "md5": "6593304630e18a13faf3704f0b235fe5",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 49997635,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-08_2057/sonic2sms.zip"
+        "size": 49997639,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/sonic2sms.zip"
       },
       "version": 3
     },
@@ -32812,12 +32802,12 @@
       "name": "sonic3sms.zip",
       "source": {
         "date_added": "2024-07-08",
-        "date_updated": "2024-07-08",
-        "md5": "74707be2baaa8a21d2e339bdd0ee114e",
-        "release_id": "2024-07-08_2057",
+        "date_updated": "2024-07-18",
+        "md5": "29e14a49c8cf3b8c057053fac5d03441",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 21421078,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-08_2057/sonic3sms.zip"
+        "size": 21421082,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/sonic3sms.zip"
       },
       "version": 3
     },
@@ -32884,12 +32874,12 @@
       "name": "sorr.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-06-15",
-        "md5": "a9067fd98a45c89ebc7413ef93b49ef1",
-        "release_id": "2024-06-15_1740",
+        "date_updated": "2024-07-18",
+        "md5": "e17f873b9e4159a5d2841eb773a99e7c",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 3893690,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/sorr.zip"
+        "size": 3893694,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/sorr.zip"
       },
       "version": 3
     },
@@ -33033,12 +33023,12 @@
       "name": "spacewingwar.zip",
       "source": {
         "date_added": "2024-06-15",
-        "date_updated": "2024-06-15",
-        "md5": "31a7ac229e5dcdc9c2571acd1c8ff177",
-        "release_id": "2024-06-15_1740",
+        "date_updated": "2024-07-18",
+        "md5": "2413764fe2c016d3f38ee0d177f87e99",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 9314534,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/spacewingwar.zip"
+        "size": 9314538,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/spacewingwar.zip"
       },
       "version": 3
     },
@@ -33104,12 +33094,12 @@
       "name": "spearmintmountain.zip",
       "source": {
         "date_added": "2024-02-10",
-        "date_updated": "2024-04-07",
-        "md5": "ef571d5bcaf8970ec6875dbd74a26c26",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "d617751ef44bbd9296644dc66a99334e",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 10913881,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/spearmintmountain.zip"
+        "size": 10913980,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/spearmintmountain.zip"
       },
       "version": 3
     },
@@ -33447,12 +33437,12 @@
       "name": "spinch.zip",
       "source": {
         "date_added": "2023-10-11",
-        "date_updated": "2024-04-07",
-        "md5": "640cf03c35a8e208c386a5edda1c4999",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "ecf4e987172fb6c16b6fc5f5c9801666",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 16371861,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/spinch.zip"
+        "size": 16371876,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/spinch.zip"
       },
       "version": 3
     },
@@ -33521,12 +33511,12 @@
       "name": "spooky.zip",
       "source": {
         "date_added": "2023-09-22",
-        "date_updated": "2024-04-01",
-        "md5": "e8bfd655e6ae54af454a2ed329f6c850",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "ed897523ad69c5cd96b2fc3660fd44bd",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 8919306,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/spooky.zip"
+        "size": 8919299,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/spooky.zip"
       },
       "version": 3
     },
@@ -33596,12 +33586,12 @@
       "name": "srb2.zip",
       "source": {
         "date_added": "2021-12-02",
-        "date_updated": "2024-05-21",
-        "md5": "66f7e072b4d1ed7896aa5dc3a67dc3f4",
-        "release_id": "2024-05-21_1211",
+        "date_updated": "2024-07-18",
+        "md5": "fb9477553462cef693384e02fe3c1914",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 190881673,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-21_1211/srb2.zip"
+        "size": 190881676,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/srb2.zip"
       },
       "version": 3
     },
@@ -33669,12 +33659,12 @@
       "name": "srb2kart.zip",
       "source": {
         "date_added": "2021-11-21",
-        "date_updated": "2024-04-01",
-        "md5": "38db2a23c6fc679f3cb96bf897f10bfa",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "7b6bd60dd7a33370ab015b37b5fe9724",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 221179807,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/srb2kart.zip"
+        "size": 221179829,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/srb2kart.zip"
       },
       "version": 3
     },
@@ -33893,12 +33883,12 @@
       "name": "stardewvalley.zip",
       "source": {
         "date_added": "2022-07-03",
-        "date_updated": "2024-07-15",
-        "md5": "ae51381b00fc2e0aca0511a6c0aa626b",
-        "release_id": "2024-07-15_1238",
+        "date_updated": "2024-07-18",
+        "md5": "6941fe86b85b56555c68869fc0fbf83a",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 3930521,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-15_1238/stardewvalley.zip"
+        "size": 3930526,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/stardewvalley.zip"
       },
       "version": 3
     },
@@ -33965,12 +33955,12 @@
       "name": "stargrovescramble.zip",
       "source": {
         "date_added": "2024-03-09",
-        "date_updated": "2024-04-07",
-        "md5": "dc7e5cac0d8b19d61d8cb11cd8c4633a",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "92c87b4cf86119e6034c2c0d04b2433f",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 26325629,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/stargrovescramble.zip"
+        "size": 26325643,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/stargrovescramble.zip"
       },
       "version": 3
     },
@@ -34037,12 +34027,12 @@
       "name": "starvsthegame.zip",
       "source": {
         "date_added": "2024-02-05",
-        "date_updated": "2024-04-07",
-        "md5": "804ca77e85b4104cb473a99f59fd5f66",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "60aa6c3a4f259c92f3a71ec23d801b91",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 7873456,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/starvsthegame.zip"
+        "size": 7873470,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/starvsthegame.zip"
       },
       "version": 3
     },
@@ -34320,12 +34310,12 @@
       "name": "streetsofclaus.zip",
       "source": {
         "date_added": "2024-06-25",
-        "date_updated": "2024-06-25",
-        "md5": "f6ba3538d915510f6d25f19b916e7b80",
-        "release_id": "2024-06-25_1138",
+        "date_updated": "2024-07-18",
+        "md5": "c4eedd7e2da01b5265afef826b58ca3b",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 10578685,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-25_1138/streetsofclaus.zip"
+        "size": 10578689,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/streetsofclaus.zip"
       },
       "version": 3
     },
@@ -34390,12 +34380,12 @@
       "name": "strikeysisters.zip",
       "source": {
         "date_added": "2024-03-09",
-        "date_updated": "2024-04-14",
-        "md5": "93fea932a062752d86fb854bb910e331",
-        "release_id": "2024-04-14_0641",
+        "date_updated": "2024-07-18",
+        "md5": "ca0c084aa360f4ca187860d23e3b15c7",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 24634915,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-14_0641/strikeysisters.zip"
+        "size": 24634928,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/strikeysisters.zip"
       },
       "version": 3
     },
@@ -34537,12 +34527,12 @@
       "name": "sulka.zip",
       "source": {
         "date_added": "2023-10-19",
-        "date_updated": "2024-04-07",
-        "md5": "4454b5e66e887b7d65faee9aa22b59de",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "da84d2afbe7c0a8aa0996cd11a5ed607",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 12609525,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/sulka.zip"
+        "size": 12609539,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/sulka.zip"
       },
       "version": 3
     },
@@ -34610,12 +34600,12 @@
       "name": "sunsetshaped.zip",
       "source": {
         "date_added": "2024-02-19",
-        "date_updated": "2024-04-01",
-        "md5": "3da22c6f0782817d27979bd8865421ec",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "92ba9a33066ab53ff794e51f5ea05c1f",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 36602845,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/sunsetshaped.zip"
+        "size": 36602859,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/sunsetshaped.zip"
       },
       "version": 3
     },
@@ -34683,12 +34673,12 @@
       "name": "sunsetwitchclassic.zip",
       "source": {
         "date_added": "2024-03-06",
-        "date_updated": "2024-04-14",
-        "md5": "32ff50cbf6af72a8693c55fe47e6fab5",
-        "release_id": "2024-04-14_0641",
+        "date_updated": "2024-07-18",
+        "md5": "2c4f6538c9016b4fecec44c85a7f1552",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 4511786,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-14_0641/sunsetwitchclassic.zip"
+        "size": 4511800,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/sunsetwitchclassic.zip"
       },
       "version": 3
     },
@@ -34758,12 +34748,12 @@
       "name": "super.mario.war.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-03-03",
-        "md5": "186895786ecfeb8259def206c9fb8957",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-07-18",
+        "md5": "525a2f809502c054781f2cf278c7f794",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 38505605,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/super.mario.war.zip"
+        "size": 38506029,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/super.mario.war.zip"
       },
       "version": 3
     },
@@ -34830,12 +34820,12 @@
       "name": "supercakeboy.zip",
       "source": {
         "date_added": "2024-06-06",
-        "date_updated": "2024-06-06",
-        "md5": "1e59efcc82053e31e1fd58f9a5b461e9",
-        "release_id": "2024-06-06_1155",
+        "date_updated": "2024-07-18",
+        "md5": "b270709c01aa7f8290a3014ab75518d6",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 11717701,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-06_1155/supercakeboy.zip"
+        "size": 11717704,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/supercakeboy.zip"
       },
       "version": 3
     },
@@ -34903,12 +34893,12 @@
       "name": "supercratebox.zip",
       "source": {
         "date_added": "2024-05-06",
-        "date_updated": "2024-05-06",
-        "md5": "0055622118d544c4b442a60df57dbdea",
-        "release_id": "2024-05-06_2128",
+        "date_updated": "2024-07-18",
+        "md5": "9c928a810304654527d03c7487915a59",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 25900773,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/supercratebox.zip"
+        "size": 25900777,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/supercratebox.zip"
       },
       "version": 3
     },
@@ -35120,12 +35110,12 @@
       "name": "supermegazero.zip",
       "source": {
         "date_added": "2024-07-06",
-        "date_updated": "2024-07-06",
-        "md5": "c7007c2bdef5b6b988a5413117b08dca",
-        "release_id": "2024-07-06_0646",
+        "date_updated": "2024-07-18",
+        "md5": "8d3875a0ac855a77576a69df272bb3fb",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 6719406,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-06_0646/supermegazero.zip"
+        "size": 6719408,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/supermegazero.zip"
       },
       "version": 3
     },
@@ -35192,12 +35182,12 @@
       "name": "superraftboatclassic.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-04-07",
-        "md5": "30c4fa9466cfdcae7e2788274fafdb34",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "42e8ea7a2d320570a9602b7345fed882",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 18730172,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/superraftboatclassic.zip"
+        "size": 18730184,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/superraftboatclassic.zip"
       },
       "version": 3
     },
@@ -35264,12 +35254,12 @@
       "name": "superrobotninjagirl.zip",
       "source": {
         "date_added": "2023-11-21",
-        "date_updated": "2024-04-07",
-        "md5": "886550043f234a11ea81b290e51a4c81",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "4b10942bf42554f1555e5912175ec1c2",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 12082591,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/superrobotninjagirl.zip"
+        "size": 12082604,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/superrobotninjagirl.zip"
       },
       "version": 3
     },
@@ -35334,12 +35324,12 @@
       "name": "superstarpath.zip",
       "source": {
         "date_added": "2024-02-19",
-        "date_updated": "2024-04-07",
-        "md5": "d67b39e39e0d7464fd30f0ff520239b2",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "06cd020c18d2c4bec59c960c8ffb33ee",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 16028708,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/superstarpath.zip"
+        "size": 16028720,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/superstarpath.zip"
       },
       "version": 3
     },
@@ -35409,12 +35399,12 @@
       "name": "supertux.zip",
       "source": {
         "date_added": "2021-11-03",
-        "date_updated": "2024-03-03",
-        "md5": "1ef4d7bf2dd76d89d7200fba1fab66f1",
-        "release_id": "2024-03-03_1539",
+        "date_updated": "2024-07-18",
+        "md5": "525417de73b894e3e471ce858045ff9b",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 186502618,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-03-03_1539/supertux.zip"
+        "size": 186491349,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/supertux.zip"
       },
       "version": 3
     },
@@ -35482,12 +35472,12 @@
       "name": "supertuxkart.zip",
       "source": {
         "date_added": "2023-06-08",
-        "date_updated": "2024-04-01",
-        "md5": "71d0cc45599dba238a7484b6d60761d8",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "2f6e83cb0e22925d387030b98cffd1ca",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 130271743,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/supertuxkart.zip"
+        "size": 130271694,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/supertuxkart.zip"
       },
       "version": 2
     },
@@ -35554,12 +35544,12 @@
       "name": "superxyx.zip",
       "source": {
         "date_added": "2023-09-22",
-        "date_updated": "2024-04-07",
-        "md5": "2dce7b3841c0b55753c7c5f27f804c66",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "8fb3c024e6d543118c3c34143661a9fa",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5246009,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/superxyx.zip"
+        "size": 5246021,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/superxyx.zip"
       },
       "version": 3
     },
@@ -35627,12 +35617,12 @@
       "name": "swapwoodquestr.zip",
       "source": {
         "date_added": "2024-05-08",
-        "date_updated": "2024-05-08",
-        "md5": "94c7d81a813652ebeb0fd2bb68cff6ad",
-        "release_id": "2024-05-08_0940",
+        "date_updated": "2024-07-18",
+        "md5": "c2fd08b7454113a05fa6aefd94034076",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 31661452,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-08_0940/swapwoodquestr.zip"
+        "size": 31661457,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/swapwoodquestr.zip"
       },
       "version": 3
     },
@@ -35851,12 +35841,12 @@
       "name": "thecurseofissyos.zip",
       "source": {
         "date_added": "2023-09-06",
-        "date_updated": "2024-04-07",
-        "md5": "3c402569ed9ba1640ce19d927a6362ae",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "63f546be0931ed0d3fbab09760d172ce",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 12576218,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/thecurseofissyos.zip"
+        "size": 12576231,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/thecurseofissyos.zip"
       },
       "version": 3
     },
@@ -36002,12 +35992,12 @@
       "name": "thermomorph.zip",
       "source": {
         "date_added": "2023-05-03",
-        "date_updated": "2024-04-01",
-        "md5": "108ccf4127a5d2196cddb0d6c1f48721",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "1f4271980245ae90ea75e6b4ea2ff3f8",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 22775994,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/thermomorph.zip"
+        "size": 22776025,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/thermomorph.zip"
       },
       "version": 3
     },
@@ -36072,12 +36062,12 @@
       "name": "thestarlitescape.zip",
       "source": {
         "date_added": "2024-02-07",
-        "date_updated": "2024-04-07",
-        "md5": "42c5651260d2709e8764164a714eb0b0",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "ea7f33a0e48162d4113e17938357b19c",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 10900450,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/thestarlitescape.zip"
+        "size": 10900461,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/thestarlitescape.zip"
       },
       "version": 3
     },
@@ -36142,12 +36132,12 @@
       "name": "thesunandmoon.zip",
       "source": {
         "date_added": "2024-03-22",
-        "date_updated": "2024-04-14",
-        "md5": "c644fd6e7cfa8b539f086d8893e89024",
-        "release_id": "2024-04-14_0641",
+        "date_updated": "2024-07-18",
+        "md5": "c554ef9a683936de90f19018d8d0ebd3",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 12770491,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-14_0641/thesunandmoon.zip"
+        "size": 12770501,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/thesunandmoon.zip"
       },
       "version": 3
     },
@@ -36286,12 +36276,12 @@
       "name": "thwack.zip",
       "source": {
         "date_added": "2023-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "709442d3ac06c98bfaa76d3b83d494f5",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "8366902dbdb6b7f385e7e5181499b570",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 7496714,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/thwack.zip"
+        "size": 7496734,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/thwack.zip"
       },
       "version": 3
     },
@@ -36587,12 +36577,12 @@
       "name": "tinystg.zip",
       "source": {
         "date_added": "2024-02-05",
-        "date_updated": "2024-04-01",
-        "md5": "6e6f5629edf979f4c63e7e968cfc7aa6",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "fb3123651f1d1128c5ae9976338205ac",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 89696,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/tinystg.zip"
+        "size": 89711,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/tinystg.zip"
       },
       "version": 3
     },
@@ -36807,12 +36797,12 @@
       "name": "to_the_moon.zip",
       "source": {
         "date_added": "2024-02-06",
-        "date_updated": "2024-07-12",
-        "md5": "4f4f5713c8b7379ba0dca3e305ec8c8d",
-        "release_id": "2024-07-12_0230",
+        "date_updated": "2024-07-18",
+        "md5": "e2b4112bd9a1bb516aabcfeb345d1b42",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 9118753,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-12_0230/to_the_moon.zip"
+        "size": 9118757,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/to_the_moon.zip"
       },
       "version": 3
     },
@@ -37030,12 +37020,12 @@
       "name": "towerfortress.zip",
       "source": {
         "date_added": "2024-05-02",
-        "date_updated": "2024-05-02",
-        "md5": "95736b021a781f65401672fb4052bead",
-        "release_id": "2024-05-02_0733",
+        "date_updated": "2024-07-18",
+        "md5": "fce983abd863af4f7297679959d851f0",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 3824753,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-02_0733/towerfortress.zip"
+        "size": 3824757,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/towerfortress.zip"
       },
       "version": 3
     },
@@ -37688,12 +37678,12 @@
       "name": "ubermoshcollection.zip",
       "source": {
         "date_added": "2023-09-22",
-        "date_updated": "2024-06-15",
-        "md5": "36a990dca9d849db4a74bbd5ab504172",
-        "release_id": "2024-06-15_1740",
+        "date_updated": "2024-07-18",
+        "md5": "9f2af6229c9a5139c1fb3015788866d3",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 103995576,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/ubermoshcollection.zip"
+        "size": 103995600,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/ubermoshcollection.zip"
       },
       "version": 3
     },
@@ -37909,12 +37899,12 @@
       "name": "ultimatetapankaikki.zip",
       "source": {
         "date_added": "2023-02-15",
-        "date_updated": "2024-04-01",
-        "md5": "c0e3c64d6119c9406eba1ccb985ae13f",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "a3822a89ec173aaac92670f57384b02d",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 6211964,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/ultimatetapankaikki.zip"
+        "size": 6211993,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/ultimatetapankaikki.zip"
       },
       "version": 3
     },
@@ -38057,12 +38047,12 @@
       "name": "upo.zip",
       "source": {
         "date_added": "2023-05-04",
-        "date_updated": "2024-04-01",
-        "md5": "fb52718da7f97906ea725fc2b4e8f80b",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "410918448eabf437385a28ea09fd6780",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 40381563,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/upo.zip"
+        "size": 40381594,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/upo.zip"
       },
       "version": 3
     },
@@ -38203,12 +38193,12 @@
       "name": "valhalla.zip",
       "source": {
         "date_added": "2023-09-06",
-        "date_updated": "2024-04-07",
-        "md5": "fe0d8be5177e6778bc4701b982c08211",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "9129dc513175c735ea113aae1e724116",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 12019360,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/valhalla.zip"
+        "size": 12019374,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/valhalla.zip"
       },
       "version": 3
     },
@@ -38433,12 +38423,12 @@
       "name": "vcmi.zip",
       "source": {
         "date_added": "2023-04-01",
-        "date_updated": "2024-04-01",
-        "md5": "a82caa2c5eb74b36e9296ac672ce7366",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "6ef4fa1343e952b1dc09c148777d9539",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 26456504,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/vcmi.zip"
+        "size": 26456458,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/vcmi.zip"
       },
       "version": 3
     },
@@ -38650,12 +38640,12 @@
       "name": "wakingmars.zip",
       "source": {
         "date_added": "2024-02-07",
-        "date_updated": "2024-05-29",
-        "md5": "db04de37734dd48a62a0d302c0d66989",
-        "release_id": "2024-05-29_0749",
+        "date_updated": "2024-07-18",
+        "md5": "488bbe0c2a5d04834b5fd18149cb4545",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5328607,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-29_0749/wakingmars.zip"
+        "size": 5328613,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/wakingmars.zip"
       },
       "version": 3
     },
@@ -38723,12 +38713,12 @@
       "name": "waternet.zip",
       "source": {
         "date_added": "2024-02-15",
-        "date_updated": "2024-04-01",
-        "md5": "0e48e7629f513af7f1de124c9855a6ff",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "5f5e988c9943a9de95f5464423f4e5f9",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5245004,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/waternet.zip"
+        "size": 5244961,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/waternet.zip"
       },
       "version": 3
     },
@@ -38798,12 +38788,12 @@
       "name": "wetspot2.zip",
       "source": {
         "date_added": "2023-02-14",
-        "date_updated": "2024-04-01",
-        "md5": "ddb04d3f44d353d37f7a17346ba44368",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "624c8a128e37fdc4e4fb14fafc689b60",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 1051377,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/wetspot2.zip"
+        "size": 1051409,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/wetspot2.zip"
       },
       "version": 3
     },
@@ -39309,12 +39299,12 @@
       "name": "wordswithfreds.zip",
       "source": {
         "date_added": "2024-06-05",
-        "date_updated": "2024-06-05",
-        "md5": "eeb36aec06ce6600c3eaa623a3b0c81a",
-        "release_id": "2024-06-05_1500",
+        "date_updated": "2024-07-18",
+        "md5": "7d96807a7df2c736fd4dac2dfe9b307f",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 104719673,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-05_1500/wordswithfreds.zip"
+        "size": 104719675,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/wordswithfreds.zip"
       },
       "version": 3
     },
@@ -39530,12 +39520,12 @@
       "name": "worship_vector.zip",
       "source": {
         "date_added": "2023-02-02",
-        "date_updated": "2024-04-01",
-        "md5": "2b8c0f93dab0a3389148ae1205563052",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "d5976e7af9adfbee6a27fac36213bf14",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 3446814,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/worship_vector.zip"
+        "size": 3446841,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/worship_vector.zip"
       },
       "version": 3
     },
@@ -39602,12 +39592,12 @@
       "name": "xenonvalkyrie.zip",
       "source": {
         "date_added": "2023-10-11",
-        "date_updated": "2024-04-07",
-        "md5": "cdd27f50e9c93aa8dd9ce32c9fa1dd7e",
-        "release_id": "2024-04-07_0255",
+        "date_updated": "2024-07-18",
+        "md5": "a005b4e4623a12e70f339df4ad369854",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 16553153,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/xenonvalkyrie.zip"
+        "size": 16553167,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/xenonvalkyrie.zip"
       },
       "version": 3
     },
@@ -39746,12 +39736,12 @@
       "name": "yatka.zip",
       "source": {
         "date_added": "2023-07-31",
-        "date_updated": "2024-05-09",
-        "md5": "d724576ff0457d9b26ccf92a10b7b393",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-07-18",
+        "md5": "aefc90ade9769c71c9d68fb614d13124",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 15862677,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/yatka.zip"
+        "size": 15862685,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/yatka.zip"
       },
       "version": 3
     },
@@ -39816,12 +39806,12 @@
       "name": "yellowjacket.zip",
       "source": {
         "date_added": "2024-04-09",
-        "date_updated": "2024-04-11",
-        "md5": "c10b348e62e23b15709e76339643c887",
-        "release_id": "2024-04-11_1200",
+        "date_updated": "2024-07-18",
+        "md5": "1b67e88d3c064e5ca4676948f9934caa",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 18938360,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-11_1200/yellowjacket.zip"
+        "size": 18938375,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/yellowjacket.zip"
       },
       "version": 3
     },
@@ -39889,12 +39879,12 @@
       "name": "youdiedbanry.zip",
       "source": {
         "date_added": "2024-05-02",
-        "date_updated": "2024-05-09",
-        "md5": "b0325a9cf38c8f40da7b21b1523a3e88",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-07-18",
+        "md5": "ce9e8cce289389a26547c5a72bc29f65",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5195500,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/youdiedbanry.zip"
+        "size": 5195503,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/youdiedbanry.zip"
       },
       "version": 3
     },
@@ -39959,12 +39949,12 @@
       "name": "youhave10s2023.zip",
       "source": {
         "date_added": "2024-03-15",
-        "date_updated": "2024-04-14",
-        "md5": "52e94574f317a9cc68153fd3b7f3cd4f",
-        "release_id": "2024-04-14_0641",
+        "date_updated": "2024-07-18",
+        "md5": "ee5b5266a20056d6a984909bd1593ce2",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 10938683,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-14_0641/youhave10s2023.zip"
+        "size": 10938693,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/youhave10s2023.zip"
       },
       "version": 3
     },
@@ -40031,12 +40021,12 @@
       "name": "z-warp.zip",
       "source": {
         "date_added": "2024-06-18",
-        "date_updated": "2024-06-18",
-        "md5": "5d5cb75dcdcc8b3af55f8dd28f81dbbd",
-        "release_id": "2024-06-18_1327",
+        "date_updated": "2024-07-18",
+        "md5": "468bd50f942ca0e1e2b00032775c9445",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 7275068,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-18_1327/z-warp.zip"
+        "size": 7275072,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/z-warp.zip"
       },
       "version": 3
     },
@@ -40539,12 +40529,12 @@
       "name": "zelda3t.zip",
       "source": {
         "date_added": "2023-11-06",
-        "date_updated": "2024-05-15",
-        "md5": "77f0067076f11c25b26241e0933e6b06",
-        "release_id": "2024-05-15_1207",
+        "date_updated": "2024-07-18",
+        "md5": "846d8ca2ed4f5e5b3bb3a3602be67291",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 31226454,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/zelda3t.zip"
+        "size": 31226460,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/zelda3t.zip"
       },
       "version": 3
     },
@@ -40613,12 +40603,12 @@
       "name": "zelda_roth.zip",
       "source": {
         "date_added": "2023-11-06",
-        "date_updated": "2024-05-09",
-        "md5": "68d109a469143bfdb1144dc3cb718871",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-07-18",
+        "md5": "4214cca6ce3b4ae302ab871020149149",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 74539075,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/zelda_roth.zip"
+        "size": 74539078,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/zelda_roth.zip"
       },
       "version": 3
     },
@@ -40687,12 +40677,12 @@
       "name": "zeldansq.zip",
       "source": {
         "date_added": "2023-11-06",
-        "date_updated": "2024-05-09",
-        "md5": "edc1cee6279e05832680fcc2fdb0e939",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-07-18",
+        "md5": "29352389e763598f5faf272c48510ea6",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 21677563,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/zeldansq.zip"
+        "size": 21677567,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/zeldansq.zip"
       },
       "version": 3
     },
@@ -40761,12 +40751,12 @@
       "name": "zeldaolb.zip",
       "source": {
         "date_added": "2023-11-06",
-        "date_updated": "2024-04-01",
-        "md5": "706ad2110f914f48e5d73adb619d91fc",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "81b994ad7ea156c8487917ca3ae7bc64",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 132447377,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/zeldaolb.zip"
+        "size": 132447335,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/zeldaolb.zip"
       },
       "version": 3
     },
@@ -41050,12 +41040,12 @@
       "name": "zeroranger.zip",
       "source": {
         "date_added": "2023-09-06",
-        "date_updated": "2024-07-06",
-        "md5": "5c0651e7835dd1198a03294208d8ccdd",
-        "release_id": "2024-07-06_0646",
+        "date_updated": "2024-07-18",
+        "md5": "3cc23ef7c62c0e9c9908b53be2176955",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 5648688,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-06_0646/zeroranger.zip"
+        "size": 5648694,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/zeroranger.zip"
       },
       "version": 3
     },
@@ -41123,12 +41113,12 @@
       "name": "zgloom.zip",
       "source": {
         "date_added": "2023-05-09",
-        "date_updated": "2024-04-01",
-        "md5": "70bb817aa1724fe36b0b407eb59570a5",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "ff662297dfaa10256f12250f1b4e99eb",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 18054615,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/zgloom.zip"
+        "size": 18054570,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/zgloom.zip"
       },
       "version": 3
     },
@@ -41195,12 +41185,12 @@
       "name": "ziggurat.zip",
       "source": {
         "date_added": "2024-02-25",
-        "date_updated": "2024-04-01",
-        "md5": "0357dcdf0cbe2aa839771135807ef8d0",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "fffa6b8dd7ddd52b0c396bc294236716",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 162150,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/ziggurat.zip"
+        "size": 162168,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/ziggurat.zip"
       },
       "version": 3
     },
@@ -41268,12 +41258,12 @@
       "name": "znax.zip",
       "source": {
         "date_added": "2023-05-15",
-        "date_updated": "2024-04-01",
-        "md5": "0c0b50f400141f06da57a933ba076739",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-18",
+        "md5": "a4593f987f30f1c407886fc75f193c68",
+        "release_id": "2024-07-18_2225",
         "repo": "main",
-        "size": 3988201,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/znax.zip"
+        "size": 3988196,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/znax.zip"
       },
       "version": 3
     }
