@@ -445,6 +445,72 @@
       },
       "version": 3
     },
+    "air.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rk2023:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "'AIR' follows Yukito Kunisaki, a traveling puppeteer searching for a winged girl from a childhood legend, who arrives in a small seaside town. There, he meets various girls, each with their own unique stories and supernatural abilities. As Yukito unravels their pasts and the town's mysteries, he discovers connections that transcend time and space, leading to poignant revelations about love, loss, and the human spirit.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "visual novel"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Add your game assets to `ports/air/gamedata`.",
+        "inst_md": null,
+        "porter": [
+          "Jeod",
+          "kloptops"
+        ],
+        "reqs": [
+          "4:3"
+        ],
+        "rtr": false,
+        "runtime": "rlvm.squashfs",
+        "title": "Air"
+      },
+      "items": [
+        "Air.sh",
+        "air/"
+      ],
+      "items_opt": null,
+      "name": "air.zip",
+      "source": {
+        "date_added": "2024-07-21",
+        "date_updated": "2024-07-21",
+        "md5": "3bf6415f7bb7266011f2661041df2522",
+        "release_id": "2024-07-21_2233",
+        "repo": "main",
+        "size": 729953,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-21_2233/air.zip"
+      },
+      "version": 3
+    },
     "alchemyquest.zip": {
       "attr": {
         "arch": [
@@ -6777,6 +6843,82 @@
       },
       "version": 3
     },
+    "clannad.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "The story follows the life of Tomoya Okazaki, a high school delinquent who meets many people in his last year at school, including five girls, and helps resolve their individual problems. Follows a branching plot line which offers pre-determined scenarios with courses of interaction, and focuses on the appeal of the five female main characters by the player character.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "visual novel"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Add your game assets to `ports/clannad/gamedata`.",
+        "inst_md": null,
+        "porter": [
+          "Jeod",
+          "kloptops"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "rlvm.squashfs",
+        "title": "Clannad"
+      },
+      "items": [
+        "Clannad.sh",
+        "clannad/"
+      ],
+      "items_opt": null,
+      "name": "clannad.zip",
+      "source": {
+        "date_added": "2024-07-21",
+        "date_updated": "2024-07-21",
+        "md5": "b715aab39180411bfdd7a2c70cf97564",
+        "release_id": "2024-07-21_2233",
+        "repo": "main",
+        "size": 616576,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-21_2233/clannad.zip"
+      },
+      "version": 3
+    },
     "cleavingcaliber.zip": {
       "attr": {
         "arch": [
@@ -11242,12 +11384,12 @@
       "name": "f-zeropocket.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-07-18",
-        "md5": "7ef9d92b6f59a94b04a6cabe2f42280e",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-07-21",
+        "md5": "a959aac477dd3efa38a9151fe130148e",
+        "release_id": "2024-07-21_2233",
         "repo": "main",
-        "size": 36579900,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/f-zeropocket.zip"
+        "size": 36753603,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-21_2233/f-zeropocket.zip"
       },
       "version": 3
     },
@@ -17609,6 +17751,72 @@
       },
       "version": 3
     },
+    "kanon.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rk2023:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Kanon is a visual novel that follows Yuichi Aizawa's return to a town where he reconnects with childhood friends and encounters new ones, each with hidden pasts and supernatural ties. As Yuichi unravels their stories, themes of love, forgiveness, and second chances intertwine in this emotionally charged narrative.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "visual novel"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Add your game assets to `ports/kanon/gamedata`.",
+        "inst_md": null,
+        "porter": [
+          "Jeod",
+          "kloptops"
+        ],
+        "reqs": [
+          "4:3"
+        ],
+        "rtr": false,
+        "runtime": "rlvm.squashfs",
+        "title": "Kanon"
+      },
+      "items": [
+        "Kanon.sh",
+        "kanon/"
+      ],
+      "items_opt": null,
+      "name": "kanon.zip",
+      "source": {
+        "date_added": "2024-07-21",
+        "date_updated": "2024-07-21",
+        "md5": "39aeff1a744b5b4ddefadfc1fa5ef951",
+        "release_id": "2024-07-21_2233",
+        "repo": "main",
+        "size": 317521,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-21_2233/kanon.zip"
+      },
+      "version": 3
+    },
     "kemonorogue.zip": {
       "attr": {
         "arch": [
@@ -19144,6 +19352,82 @@
         "repo": "main",
         "size": 5154418,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/lisatheundone.zip"
+      },
+      "version": 3
+    },
+    "littlebusters.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "'Little Busters!' follows Riki Naoe and his group of childhood friends, the titular Little Busters, as they form a baseball team and navigate through various personal struggles and mysteries. As the story unfolds, Riki uncovers deeper secrets about his friends and the world around him, leading to poignant revelations and emotional growth for the characters.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "visual novel"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Add your game assets to `ports/littlebusters/gamedata`.",
+        "inst_md": null,
+        "porter": [
+          "Jeod",
+          "kloptops"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "rlvm.squashfs",
+        "title": "Little Busters!"
+      },
+      "items": [
+        "Little Busters!.sh",
+        "littlebusters/"
+      ],
+      "items_opt": null,
+      "name": "littlebusters.zip",
+      "source": {
+        "date_added": "2024-07-21",
+        "date_updated": "2024-07-21",
+        "md5": "81aff187de281366163f16ad99cd1537",
+        "release_id": "2024-07-21_2233",
+        "repo": "main",
+        "size": 684492,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-21_2233/littlebusters.zip"
       },
       "version": 3
     },
@@ -26152,6 +26436,81 @@
       },
       "version": 3
     },
+    "planetarian.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Planetarian is a visual novel set in a post-apocalyptic world where a lone survivor encounters a malfunctioning robot attendant named Yumemi Hoshino in an abandoned planetarium. Through their interactions, themes of hope, humanity, and the enduring power of memories are explored.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "visual novel"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Add your game assets to `ports/planetarian/gamedata`.",
+        "inst_md": null,
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "rlvm.squashfs",
+        "title": "Planetarian"
+      },
+      "items": [
+        "Planetarian.sh",
+        "planetarian/"
+      ],
+      "items_opt": null,
+      "name": "planetarian.zip",
+      "source": {
+        "date_added": "2024-07-21",
+        "date_updated": "2024-07-21",
+        "md5": "35a4038af85e5db0c87be2760eaca20d",
+        "release_id": "2024-07-21_2233",
+        "repo": "main",
+        "size": 608647,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-21_2233/planetarian.zip"
+      },
+      "version": 3
+    },
     "planetwaves.zip": {
       "attr": {
         "arch": [],
@@ -29397,9 +29756,9 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Rlvm is a Free Software reimplementation of the Key RealLive interpreter for Visual Novels. Notable games include CLANNAD, AIR, & KANON.",
+        "desc": "Rlvm is a Free Software reimplementation of the Key RealLive interpreter for Visual Novels. Notable games include CLANNAD, AIR, & KANON. (Superseeded by dedicated ports for each VN).",
         "desc_md": null,
-        "exp": false,
+        "exp": true,
         "genres": [
           "simulation",
           "visual novel"
@@ -29418,7 +29777,7 @@
         "reqs": [],
         "rtr": false,
         "runtime": null,
-        "title": "Rlvm"
+        "title": "Rlvm (deprecated)"
       },
       "items": [
         "Rlvm.sh",
@@ -29428,12 +29787,12 @@
       "name": "rlvm.zip",
       "source": {
         "date_added": "2023-02-06",
-        "date_updated": "2024-05-09",
-        "md5": "31649d7f97c52a60cc3838a8031dbcee",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-07-21",
+        "md5": "487b043b24e11bed0302893edc5a2f71",
+        "release_id": "2024-07-21_2233",
         "repo": "main",
-        "size": 12096694,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/rlvm.zip"
+        "size": 12096951,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-21_2233/rlvm.zip"
       },
       "version": 3
     },
@@ -29836,7 +30195,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "An open source port of Rise of the Triad by icculus.",
+        "desc": "An open source port of Rise of the Triad by icculus.  The shareware files for the first episode are included.  The registered game files will be required to play Dark War.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -29850,30 +30209,32 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "The demo files are already included.",
+        "inst": "The demo files are already included for the first episode.  To play Dark War you will need to provide your DARKWAR.WAD, DARKWAR.RTC, and DARKWAR.RTL game files in the /ports/rott/ directory.",
         "inst_md": null,
         "porter": [
-          "romadu"
+          "romadu",
+          "Slayer366"
         ],
         "reqs": [],
         "rtr": true,
         "runtime": null,
-        "title": "Rise Of The Triad"
+        "title": "Rise of the Triad"
       },
       "items": [
-        "rott/",
-        "ROTT.sh"
+        "Rise of the Triad - The Hunt Begins.sh",
+        "Rise of the Triad - Dark War.sh",
+        "rott/"
       ],
       "items_opt": null,
       "name": "rott.zip",
       "source": {
         "date_added": "2021-10-24",
-        "date_updated": "2024-04-01",
-        "md5": "0090713534baacddcf80146e80c67e75",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-07-21",
+        "md5": "a9a2cabef3483735d8d3a78eea377568",
+        "release_id": "2024-07-21_2233",
         "repo": "main",
-        "size": 3677613,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/rott.zip"
+        "size": 18977102,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-21_2233/rott.zip"
       },
       "version": 3
     },
@@ -36797,12 +37158,12 @@
       "name": "to_the_moon.zip",
       "source": {
         "date_added": "2024-02-06",
-        "date_updated": "2024-07-18",
-        "md5": "e2b4112bd9a1bb516aabcfeb345d1b42",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-07-21",
+        "md5": "79e06e93e45635c18533ca562a59be9f",
+        "release_id": "2024-07-21_2233",
         "repo": "main",
-        "size": 9118757,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/to_the_moon.zip"
+        "size": 9119149,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-21_2233/to_the_moon.zip"
       },
       "version": 3
     },
@@ -36879,6 +37240,81 @@
         "repo": "main",
         "size": 688674,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/tomb.raider.1.zip"
+      },
+      "version": 3
+    },
+    "tomoyo_after.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Tomoyo After continues the story of Tomoyo Sakagami after the events of Clannad, focusing on her relationship with Tomoya Okazaki and the challenges they face together. It explores themes of love, loss, and redemption against a backdrop of personal growth and emotional healing.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "visual novel"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Add your game assets to `ports/tomoyo_after/gamedata`.",
+        "inst_md": null,
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "rlvm.squashfs",
+        "title": "Clannad: Tomoyo After - It's A Wonderful Life"
+      },
+      "items": [
+        "Clannad Tomoyo After.sh.sh",
+        "tomoyo_after/"
+      ],
+      "items_opt": null,
+      "name": "tomoyo_after.zip",
+      "source": {
+        "date_added": "2024-07-21",
+        "date_updated": "2024-07-21",
+        "md5": "add909321457159cef6e84db806321c9",
+        "release_id": "2024-07-21_2233",
+        "repo": "main",
+        "size": 541095,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-21_2233/tomoyo_after.zip"
       },
       "version": 3
     },
