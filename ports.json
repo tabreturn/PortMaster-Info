@@ -7656,6 +7656,80 @@
       },
       "version": 3
     },
+    "crysalis.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Crysalis \u2013 the water of life. For generations, people lived their lives, blessed by the divine water. After finding out from the king that the town Ciuna\u2019s Crysalis spring has run dry, Mio, a Crysalis researcher, is called in.\n\nGo on an epic journey with Mio, and friends. Beautiful maps, elegant music, and fun areas to explore!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy Crysalis.exe (extract it from crysalis.zip) and RPGVXAce_RTP.zip in the roms/ports/crysalis folder.",
+        "inst_md": null,
+        "porter": [
+          "TheLaggyPyro",
+          "kotzebuedog"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Crysalis"
+      },
+      "items": [
+        "Crysalis.sh",
+        "crysalis"
+      ],
+      "items_opt": null,
+      "name": "crysalis.zip",
+      "source": {
+        "date_added": "2024-07-28",
+        "date_updated": "2024-07-28",
+        "md5": "99ae7b8522410303cd44e2b5470aa57f",
+        "release_id": "2024-07-28_0519",
+        "repo": "main",
+        "size": 6192629,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-28_0519/crysalis.zip"
+      },
+      "version": 3
+    },
     "crystalsamalgam.zip": {
       "attr": {
         "arch": [
@@ -8893,12 +8967,12 @@
       "name": "descent.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2024-07-18",
-        "md5": "80dcfffc461f4b3a5186588249cb763a",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-07-28",
+        "md5": "47ee90849aba6e159bc0963457e77ec6",
+        "release_id": "2024-07-28_0519",
         "repo": "main",
-        "size": 16706535,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/descent.zip"
+        "size": 16706516,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-28_0519/descent.zip"
       },
       "version": 3
     },
@@ -22403,12 +22477,12 @@
       "name": "mystikbelle.zip",
       "source": {
         "date_added": "2024-02-03",
-        "date_updated": "2024-06-10",
-        "md5": "11bbde7508885119fc11eb81ecb62977",
-        "release_id": "2024-06-10_2144",
+        "date_updated": "2024-07-28",
+        "md5": "5d29960cc16a20fa76bd7944936ac730",
+        "release_id": "2024-07-28_0519",
         "repo": "main",
-        "size": 8905830,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-10_2144/mystikbelle.zip"
+        "size": 8858648,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-28_0519/mystikbelle.zip"
       },
       "version": 3
     },
@@ -33172,6 +33246,85 @@
       },
       "version": 3
     },
+    "sonictt16b.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "What if Sonic Triple Trouble had been originally released on the Sega Genesis / MegaDrive, after Sonic 3 &amp; Knuckles?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure",
+          "arcade",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the 64-bit android apk from Gamejolt and put it in `ports/sonictt16b` as `game.apk`.",
+        "inst_md": null,
+        "porter": [
+          "Jeod",
+          "Jantrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Sonic Triple Trouble - 16-Bit"
+      },
+      "items": [
+        "Sonic Triple Trouble - 16-Bit.sh",
+        "sonictt16b/"
+      ],
+      "items_opt": null,
+      "name": "sonictt16b.zip",
+      "source": {
+        "date_added": "2024-07-28",
+        "date_updated": "2024-07-28",
+        "md5": "5a4944a4acccf2a813f40f2f41df4bfe",
+        "release_id": "2024-07-28_0519",
+        "repo": "main",
+        "size": 5571278,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-28_0519/sonictt16b.zip"
+      },
+      "version": 3
+    },
     "sorr.zip": {
       "attr": {
         "arch": [
@@ -38385,14 +38538,15 @@
           "covers": [
             "cover.png"
           ],
-          "screenshot": "screenshot.jpg",
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
-        "inst": "If you have a copy of the Undertale Linux version, copy its `game.unx`, `credits.txt`, `splash.png` and various `.ogg` files to the `ports/undertale/assets` folder.\n\nIf you don't have the Linux version, simply rename Undertale's `data.win` file into `game.unx`, and drag it and the other aforementioned files into the same folder as mentioned above.",
+        "inst": "Copy the contents of your Steam or GOG installation to ports/undertale/gamedata.",
         "inst_md": null,
         "porter": [
-          "krishenriksen"
+          "krishenriksen",
+          "Jeod"
         ],
         "reqs": [],
         "rtr": false,
@@ -38407,12 +38561,12 @@
       "name": "undertale.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-06-10",
-        "md5": "9922ccb7773da77494b6c853c84302a7",
-        "release_id": "2024-06-10_2144",
+        "date_updated": "2024-07-28",
+        "md5": "d2a8d61a0f17a5b3ffac9d1034b8a45d",
+        "release_id": "2024-07-28_0519",
         "repo": "main",
-        "size": 5271168,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-10_2144/undertale.zip"
+        "size": 4032483,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-28_0519/undertale.zip"
       },
       "version": 3
     },
@@ -39883,12 +40037,12 @@
       "name": "worldofgoo.zip",
       "source": {
         "date_added": "2024-02-03",
-        "date_updated": "2024-05-09",
-        "md5": "e4aa0c99be240ffaa68dc727a58b9cd4",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-07-28",
+        "md5": "ab3fa09a97c5cd9c2865ae0ba1c67c45",
+        "release_id": "2024-07-28_0519",
         "repo": "main",
-        "size": 4894758,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/worldofgoo.zip"
+        "size": 4895017,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-28_0519/worldofgoo.zip"
       },
       "version": 3
     },
