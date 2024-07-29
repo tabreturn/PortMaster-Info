@@ -2657,6 +2657,78 @@
       },
       "version": 3
     },
+    "benboquest.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "\ud83d\udd25THE GATES OF HELL\ud83d\udd25 have opened, the Infinite Skeleton Hell Army from Hell has began the Ultimate InvasionWorld leaders come together to combat the Skeleton Menacehot new indie retro anime pixel platformer that all the cool kids are talking about. Smash your way through a handful of levels and defeat all of the bad dudes, THE GAME SUPER BENBO QUEST TURBO DELUX/SUPER BENBO QUERST CLASSIC",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Benbo Quest"
+      },
+      "items": [
+        "benboquest/",
+        "Benbo Quest.sh"
+      ],
+      "items_opt": null,
+      "name": "benboquest.zip",
+      "source": {
+        "date_added": "2024-07-29",
+        "date_updated": "2024-07-29",
+        "md5": "a6af458cd609de710262cb9575970461",
+        "release_id": "2024-07-29_1123",
+        "repo": "main",
+        "size": 286439946,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-29_1123/benboquest.zip"
+      },
+      "version": 3
+    },
     "bermuda_syndrome.zip": {
       "attr": {
         "arch": [
