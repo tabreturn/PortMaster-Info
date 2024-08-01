@@ -65,12 +65,12 @@
       "name": "2048.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-06-29",
-        "md5": "b4b564727c1f174fa254a89c3c75d93b",
-        "release_id": "2024-06-29_1117",
+        "date_updated": "2024-08-01",
+        "md5": "44dfcae5c0b0089387f511cd7a537db8",
+        "release_id": "2024-08-01_1058",
         "repo": "main",
-        "size": 62979,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_1117/2048.zip"
+        "size": 62930,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-01_1058/2048.zip"
       },
       "version": 3
     },
@@ -4689,12 +4689,12 @@
       "name": "bstone-aog.zip",
       "source": {
         "date_added": "2021-11-05",
-        "date_updated": "2024-05-06",
-        "md5": "4f308059d372ce2a36a32202ffc43455",
-        "release_id": "2024-05-06_2128",
+        "date_updated": "2024-08-01",
+        "md5": "7d29b86e7e28d620d385b9d8aa137d6b",
+        "release_id": "2024-08-01_1058",
         "repo": "main",
-        "size": 6484924,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/bstone-aog.zip"
+        "size": 7662877,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-01_1058/bstone-aog.zip"
       },
       "version": 3
     },
@@ -4768,12 +4768,12 @@
       "name": "bstone-ps.zip",
       "source": {
         "date_added": "2021-11-05",
-        "date_updated": "2024-05-06",
-        "md5": "063fb0e63a671781159edb98aff52210",
-        "release_id": "2024-05-06_2128",
+        "date_updated": "2024-08-01",
+        "md5": "674c683b4fd776a7dad989e203cbdd52",
+        "release_id": "2024-08-01_1058",
         "repo": "main",
-        "size": 6500571,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/bstone-ps.zip"
+        "size": 6500579,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-01_1058/bstone-ps.zip"
       },
       "version": 3
     },
@@ -9842,6 +9842,82 @@
         "repo": "main",
         "size": 41866152,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/doom3.zip"
+      },
+      "version": 3
+    },
+    "downwell.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Downwell is a curious game about a young person venturing down a well in search of untold treasures with only his Gunboots for protection. Make your way further and further down into the darkness filled with nasty creatures and mysterious secrets to collect the spectacular red gems scattered about the rocks. Step into precariously placed shops and buy some helpful items or level up between levels to battle well-dwelling monsters and uncover hidden caves filled with riches and relics. No two trips down the well are ever the same!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase and download the game from: https://store.steampowered.com/app/360740/Downwell/ OR  https://www.gog.com/en/game/downwell.\nLocate your gamefolder and copy all the files from the folder to /ports/downwell/gamedata.",
+        "inst_md": null,
+        "porter": [
+          "Fraxinus88",
+          "Kompaan"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Downwell"
+      },
+      "items": [
+        "Downwell.sh",
+        "downwell"
+      ],
+      "items_opt": null,
+      "name": "downwell.zip",
+      "source": {
+        "date_added": "2024-08-01",
+        "date_updated": "2024-08-01",
+        "md5": "b1804ca406f2fd4a9b60f66ae2adba8c",
+        "release_id": "2024-08-01_1058",
+        "repo": "main",
+        "size": 14627183,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-01_1058/downwell.zip"
       },
       "version": 3
     },
@@ -30819,6 +30895,81 @@
       },
       "version": 3
     },
+    "sdlpal.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "armhf",
+          "x86_64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "The Legend of Sword and Fairy, is a Chinese language fantasy video game series and media franchise centered on a series of nine Chinese mythology/xianxia-themed adventure role-playing computer games created by Yao Zhuangxian.\u200b",
+        "desc_md": "The Legend of Sword and Fairy (Chinese: \u4ed9\u528d\u5947\u4fe0\u50b3; pinyin: Xi\u0101nji\u00e0n Q\u00edxi\u00e1 Zhu\u00e0n), also known as Sword and Fairy (\u4ed9\u528d) or Chinese Paladin, is a Chinese language fantasy video game series and media franchise centered on a series of nine Chinese mythology/xianxia-themed adventure role-playing computer games created by Yao Zhuangxian. The eponymous first game in the series is released for MS-DOS CLI in 1995 by the 'Crazy Boyz' team (\u72c2\u5f92\u5275\u4f5c\u7fa4) of the Taiwanese game developing and publishing company Softstar Entertainment (\u5927\u5b87\u8cc7\u8a0a). It is one of the so-called 'Twin Swords of Softstar' (\u5927\u5b87\u96d9\u528d) along with the sister Xuan-Yuan Sword series, and has been widely regarded as one of the (if not the) most iconic Chinese RPG series ever made.\u200b",
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from Steam: https://store.steampowered.com/app/1546570/Sword_and_Fairy/ and put all files into the sdlpal/gamedata folder",
+        "inst_md": null,
+        "porter": [
+          "feserr"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "The Legend of Sword and Fairy"
+      },
+      "items": [
+        "sdlpal/",
+        "The Legend of Sword and Fairy.sh"
+      ],
+      "items_opt": null,
+      "name": "sdlpal.zip",
+      "source": {
+        "date_added": "2024-08-01",
+        "date_updated": "2024-08-01",
+        "md5": "29c4291cc805e1dea366202c66c1c3a2",
+        "release_id": "2024-08-01_1058",
+        "repo": "main",
+        "size": 14201267,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-01_1058/sdlpal.zip"
+      },
+      "version": 3
+    },
     "sdlpop.zip": {
       "attr": {
         "arch": [
@@ -33324,35 +33475,61 @@
           "aarch64"
         ],
         "avail": [
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
+          "rg353m:jelos",
+          "rg353ps:jelos",
+          "rg353ps:rocknix",
+          "rg351mp:amberelec",
+          "rg351mp:jelos",
+          "rg351mp:thera",
+          "rg503:jelos",
+          "rg503:rocknix",
           "rg552:ALL",
           "rg35xx-plus:ALL",
           "rg35xx-h:ALL",
           "rg35xx-sp:ALL",
           "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
+          "rg351v:amberelec",
+          "rg351v:jelos",
+          "rg351v:rocknix",
+          "rgb10:jelos",
+          "rgb10:rocknix",
           "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
+          "rgb30:jelos",
+          "rgb30:rocknix",
+          "rk2023:jelos",
+          "rk2023:rocknix",
           "x55:ALL",
           "rgb10max3:ALL",
           "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
+          "oga:amberelec",
+          "oga:emuelec",
+          "oga:jelos",
+          "oga:rocknix",
+          "ogs:amberelec",
+          "ogs:emuelec",
+          "ogs:jelos",
+          "ogs:rocknix",
+          "ogu:amberelec",
+          "ogu:emuelec",
+          "ogu:jelos",
+          "ogu:rocknix",
           "ace:ALL",
-          "chi:ALL",
+          "chi:emuelec",
           "trimui-smart-pro:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
+          "xu10:amberelec",
+          "xu10:jelos",
+          "xu10:rocknix",
+          "r33s:amberelec",
+          "r33s:jelos",
+          "r33s:rocknix",
+          "r35s:amberelec",
+          "r35s:jelos",
+          "r35s:rocknix",
+          "r36s:amberelec",
+          "r36s:jelos",
+          "r36s:rocknix"
         ],
-        "desc": "What if Sonic Triple Trouble had been originally released on the Sega Genesis / MegaDrive, after Sonic 3 &amp; Knuckles?",
+        "desc": "What if Sonic Triple Trouble had been originally released on the Sega Genesis / MegaDrive, after Sonic 3 & Knuckles?",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -33373,9 +33550,11 @@
         "inst_md": null,
         "porter": [
           "Jeod",
-          "Jantrueno"
+          "JanTrueno"
         ],
-        "reqs": [],
+        "reqs": [
+          "!arkos"
+        ],
         "rtr": false,
         "runtime": null,
         "title": "Sonic Triple Trouble - 16-Bit"
@@ -33388,12 +33567,12 @@
       "name": "sonictt16b.zip",
       "source": {
         "date_added": "2024-07-28",
-        "date_updated": "2024-07-28",
-        "md5": "5a4944a4acccf2a813f40f2f41df4bfe",
-        "release_id": "2024-07-28_0519",
+        "date_updated": "2024-08-01",
+        "md5": "6de89ae83944e24ee32cc7ae35eeee0b",
+        "release_id": "2024-08-01_1058",
         "repo": "main",
-        "size": 5571278,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-28_0519/sonictt16b.zip"
+        "size": 5571312,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-01_1058/sonictt16b.zip"
       },
       "version": 3
     },
@@ -36359,6 +36538,79 @@
         "repo": "main",
         "size": 1014329,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/tamatool.zip"
+      },
+      "version": 3
+    },
+    "templeofkashteki.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A short platformer where the player upgrades the environment!\nEscape the Temple of Kashteki!\nMade for the Pursuing Pixels James Jam Game Gam",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the kashteki_linux.zip from: https://securas.itch.io/temple-of-kashteki.\nUnzip and place kashteki_linux.x86_64 into ports/templeofkashteki/gamedata.",
+        "inst_md": null,
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Temple of Kashteki"
+      },
+      "items": [
+        "Temple of Kashteki.sh",
+        "templeofkashteki"
+      ],
+      "items_opt": null,
+      "name": "templeofkashteki.zip",
+      "source": {
+        "date_added": "2024-08-01",
+        "date_updated": "2024-08-01",
+        "md5": "278f241af260a76d5d8243b859663a82",
+        "release_id": "2024-08-01_1058",
+        "repo": "main",
+        "size": 238597,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-01_1058/templeofkashteki.zip"
       },
       "version": 3
     },
