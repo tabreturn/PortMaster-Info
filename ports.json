@@ -33690,7 +33690,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the 64-bit android apk from Gamejolt and put it in `ports/sonictt16b` as `game.apk`.",
+        "inst": "Download the 32-bit or 64-bit android apk from Gamejolt and put it in `ports/sonictt16b`.",
         "inst_md": null,
         "porter": [
           "Jeod",
@@ -33711,12 +33711,12 @@
       "name": "sonictt16b.zip",
       "source": {
         "date_added": "2024-07-28",
-        "date_updated": "2024-08-01",
-        "md5": "6de89ae83944e24ee32cc7ae35eeee0b",
-        "release_id": "2024-08-01_1058",
+        "date_updated": "2024-08-06",
+        "md5": "538bf734c582e0c5198d34afc7358f82",
+        "release_id": "2024-08-06_1441",
         "repo": "main",
-        "size": 5571312,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-01_1058/sonictt16b.zip"
+        "size": 21165406,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_1441/sonictt16b.zip"
       },
       "version": 3
     },
@@ -39189,6 +39189,81 @@
       },
       "version": 3
     },
+    "utyellow.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "When a child named Clover sets out on a mission, they find themself deep within the Underground. In this foreign land, monsters lurk around every corner, but are they friend or foe?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from Gamejolt and add the contents to ports/utyellow/assets. Game is ready to play after a brief first-time setup.",
+        "inst_md": null,
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Undertale Yellow"
+      },
+      "items": [
+        "Undertale Yellow.sh",
+        "utyellow/"
+      ],
+      "items_opt": null,
+      "name": "utyellow.zip",
+      "source": {
+        "date_added": "2024-08-06",
+        "date_updated": "2024-08-06",
+        "md5": "7d0cefc3da94fc5987b4dec6a8c67fec",
+        "release_id": "2024-08-06_1441",
+        "repo": "main",
+        "size": 14059931,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_1441/utyellow.zip"
+      },
+      "version": 3
+    },
     "valhalla.zip": {
       "attr": {
         "arch": [
@@ -39597,7 +39672,7 @@
         ],
         "desc": "A sokoban-style puzzle adventure. Traverse a forgotten labyrinth in search of your memories. Do you remember why you are here?",
         "desc_md": "*Void Stranger* is a 2D sokoban-style puzzle game where every step counts. Descend into the forgotten labyrinth teeming with fiendish foes and traps that defy reason. A swift defeat lurks at every corner for those who neither study their surroundings nor think their moves through with care.\nTrust you wits and slowly, surely, you will conquer the mysteries before you.\n\nYou do remember why you are here, right? Or have you lost something? Something very important to you.",
-        "exp": true,
+        "exp": false,
         "genres": [
           "puzzle",
           "adventure"
@@ -39630,11 +39705,11 @@
       "source": {
         "date_added": "2024-08-06",
         "date_updated": "2024-08-06",
-        "md5": "56b76e5779b6ec34ab193589671ff6b1",
-        "release_id": "2024-08-06_0203",
+        "md5": "569c4f7d656bb185f13fffbff59379f3",
+        "release_id": "2024-08-06_1441",
         "repo": "main",
-        "size": 22281170,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/voidstranger.zip"
+        "size": 22281168,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_1441/voidstranger.zip"
       },
       "version": 3
     },
