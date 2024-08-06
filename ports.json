@@ -10434,12 +10434,12 @@
       "name": "duke3dawo.zip",
       "source": {
         "date_added": "2024-04-11",
-        "date_updated": "2024-04-14",
-        "md5": "b591e4eb3634de7025e0207f024f7a0e",
-        "release_id": "2024-04-14_0641",
+        "date_updated": "2024-08-06",
+        "md5": "df166cebca1c08d5e9697a6db587ca7a",
+        "release_id": "2024-08-06_0203",
         "repo": "main",
-        "size": 5914754,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-14_0641/duke3dawo.zip"
+        "size": 5914776,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/duke3dawo.zip"
       },
       "version": 3
     },
@@ -13137,12 +13137,12 @@
       "name": "foxtower.zip",
       "source": {
         "date_added": "2024-05-17",
-        "date_updated": "2024-05-17",
-        "md5": "16956b7ceb6ea7c2696ec25ecdc99c7c",
-        "release_id": "2024-05-17_1453",
+        "date_updated": "2024-08-06",
+        "md5": "a7da9387e58a7c280fd6dcdd132c8b92",
+        "release_id": "2024-08-06_0203",
         "repo": "main",
-        "size": 7932178,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-17_1453/foxtower.zip"
+        "size": 7932177,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/foxtower.zip"
       },
       "version": 3
     },
@@ -15355,6 +15355,77 @@
       },
       "version": 3
     },
+    "hebihebi.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Mean Bean Machine meets Snake in a mind-bending puzzle game!",
+        "desc_md": "*Mean Bean Machine* meets *Snake* in a mind-bending puzzle game!",
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "All files included and ready to run. Thanks to Taylor Ritenour (https://taylorritenour.itch.io) for the fantastic game and permission to distribute the files.",
+        "inst_md": "All files included and ready to run. Thanks to [Taylor Ritenour](https://taylorritenour.itch.io) for the fantastic game and permission to distribute the files.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_3.2.3.squashfs",
+        "title": "Hebi Hebi"
+      },
+      "items": [
+        "Hebi Hebi.sh",
+        "hebihebi"
+      ],
+      "items_opt": null,
+      "name": "hebihebi.zip",
+      "source": {
+        "date_added": "2024-08-06",
+        "date_updated": "2024-08-06",
+        "md5": "da148552bc0105e50ef8f377d28c385e",
+        "release_id": "2024-08-06_0203",
+        "repo": "main",
+        "size": 18838896,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/hebihebi.zip"
+      },
+      "version": 3
+    },
     "heboris-sdl.zip": {
       "attr": {
         "arch": [
@@ -15649,12 +15720,12 @@
       "name": "hexen2.zip",
       "source": {
         "date_added": "2022-11-17",
-        "date_updated": "2024-05-02",
-        "md5": "36fecdce28292abb7a731d423aaab607",
-        "release_id": "2024-05-02_0733",
+        "date_updated": "2024-08-06",
+        "md5": "b4168119f6607f47f32ea8ca2c06ded3",
+        "release_id": "2024-08-06_0203",
         "repo": "main",
-        "size": 45384388,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-02_0733/hexen2.zip"
+        "size": 45384407,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/hexen2.zip"
       },
       "version": 3
     },
@@ -18179,12 +18250,12 @@
       "name": "kenslabyrinth.zip",
       "source": {
         "date_added": "2023-12-14",
-        "date_updated": "2024-05-02",
-        "md5": "aa59daa1852e2c97cb2567fc48fb4422",
-        "release_id": "2024-05-02_0733",
+        "date_updated": "2024-08-06",
+        "md5": "b9d70dab694c297d7fe3ebe8ec311015",
+        "release_id": "2024-08-06_0203",
         "repo": "main",
-        "size": 9838617,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-02_0733/kenslabyrinth.zip"
+        "size": 9838632,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/kenslabyrinth.zip"
       },
       "version": 3
     },
@@ -25623,12 +25694,12 @@
       "name": "oquonie.zip",
       "source": {
         "date_added": "2024-02-03",
-        "date_updated": "2024-04-24",
-        "md5": "a90984f33efb2c9826f002f802081703",
-        "release_id": "2024-04-24_1323",
+        "date_updated": "2024-08-06",
+        "md5": "1528bad08197a0d6275302a651edcffe",
+        "release_id": "2024-08-06_0203",
         "repo": "main",
-        "size": 55112,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/oquonie.zip"
+        "size": 55124,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/oquonie.zip"
       },
       "version": 3
     },
@@ -28410,12 +28481,12 @@
       "name": "quakespasm.zip",
       "source": {
         "date_added": "2023-10-23",
-        "date_updated": "2024-05-20",
-        "md5": "5c12ef1dbcf438bfe2c3cf1c853a7740",
-        "release_id": "2024-05-20_1328",
+        "date_updated": "2024-08-06",
+        "md5": "3c04592e528e29da7cc82d5b5595a65e",
+        "release_id": "2024-08-06_0203",
         "repo": "main",
-        "size": 41829718,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/quakespasm.zip"
+        "size": 41829844,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/quakespasm.zip"
       },
       "version": 3
     },
@@ -29798,6 +29869,79 @@
       },
       "version": 3
     },
+    "riskofrain.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Risk of Rain is an action platformer with roguelike elements. With permanent death as a primary feature, players will have to play their best to get as far as possible. Fight on a mysterious planet with randomly spawning enemies and bosses.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy the game on Steam and place all windows assets in the \"riskofrain\" portfolder.",
+        "inst_md": null,
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Risk of Rain (2013)"
+      },
+      "items": [
+        "Risk of Rain (2013).sh",
+        "riskofrain"
+      ],
+      "items_opt": null,
+      "name": "riskofrain.zip",
+      "source": {
+        "date_added": "2024-08-06",
+        "date_updated": "2024-08-06",
+        "md5": "3fbd63c50455d80ab341197d3d13db88",
+        "release_id": "2024-08-06_0203",
+        "repo": "main",
+        "size": 7559174,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/riskofrain.zip"
+      },
+      "version": 3
+    },
     "rite.zip": {
       "attr": {
         "arch": [
@@ -30949,7 +31093,7 @@
           "feserr"
         ],
         "reqs": [],
-        "rtr": true,
+        "rtr": false,
         "runtime": null,
         "title": "The Legend of Sword and Fairy"
       },
@@ -30961,12 +31105,12 @@
       "name": "sdlpal.zip",
       "source": {
         "date_added": "2024-08-01",
-        "date_updated": "2024-08-01",
-        "md5": "29c4291cc805e1dea366202c66c1c3a2",
-        "release_id": "2024-08-01_1058",
+        "date_updated": "2024-08-06",
+        "md5": "ca427e389627436381f5fb609e35af42",
+        "release_id": "2024-08-06_0203",
         "repo": "main",
-        "size": 14201267,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-01_1058/sdlpal.zip"
+        "size": 14201266,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/sdlpal.zip"
       },
       "version": 3
     },
@@ -31255,12 +31399,12 @@
       "name": "serioussam-tfe.zip",
       "source": {
         "date_added": "2023-11-21",
-        "date_updated": "2024-06-11",
-        "md5": "6d995ccd582bbbe91e3e10a894f325f6",
-        "release_id": "2024-06-11_1523",
+        "date_updated": "2024-08-06",
+        "md5": "36ae11510aa8149ec6d628d7483ad076",
+        "release_id": "2024-08-06_0203",
         "repo": "main",
-        "size": 12708150,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-11_1523/serioussam-tfe.zip"
+        "size": 12708164,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/serioussam-tfe.zip"
       },
       "version": 3
     },
@@ -31328,12 +31472,12 @@
       "name": "serioussam-tse.zip",
       "source": {
         "date_added": "2023-11-21",
-        "date_updated": "2024-06-11",
-        "md5": "f42690ac55d1f39cf0b5daa17608aeeb",
-        "release_id": "2024-06-11_1523",
+        "date_updated": "2024-08-06",
+        "md5": "2abc5f3c69db668fdb97ab3be1277a8d",
+        "release_id": "2024-08-06_0203",
         "repo": "main",
-        "size": 14330158,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-11_1523/serioussam-tse.zip"
+        "size": 14330172,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/serioussam-tse.zip"
       },
       "version": 3
     },
@@ -39417,6 +39561,83 @@
       },
       "version": 3
     },
+    "voidstranger.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A sokoban-style puzzle adventure. Traverse a forgotten labyrinth in search of your memories. Do you remember why you are here?",
+        "desc_md": "*Void Stranger* is a 2D sokoban-style puzzle game where every step counts. Descend into the forgotten labyrinth teeming with fiendish foes and traps that defy reason. A swift defeat lurks at every corner for those who neither study their surroundings nor think their moves through with care.\nTrust you wits and slowly, surely, you will conquer the mysteries before you.\n\nYou do remember why you are here, right? Or have you lost something? Something very important to you.",
+        "exp": true,
+        "genres": [
+          "puzzle",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Place game .png, .dat, .csv, and .win files in the \"gamedata\" folder. Game must be v1.1.1, Steam or Itch supported. The game will take 3-5 minutes to boot for the first time only.",
+        "inst_md": "Purchase the game via [Steam](https://store.steampowered.com/app/2121980/Void_Stranger/) or [Itch](https://system-erasure.itch.io/void-stranger).\nCurrently supporting v1.1.1 off Steam and Itch.\nPlace all `.png`, `.dat`, `.csv`, and `.win` files in the `gamedata` folder.\nThe game will take 3-5 minutes to boot for the first time only.",
+        "porter": [
+          "nate_____",
+          "gooeyPhantasm"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Void Stranger"
+      },
+      "items": [
+        "Void Stranger.sh",
+        "voidstranger/"
+      ],
+      "items_opt": null,
+      "name": "voidstranger.zip",
+      "source": {
+        "date_added": "2024-08-06",
+        "date_updated": "2024-08-06",
+        "md5": "56b76e5779b6ec34ab193589671ff6b1",
+        "release_id": "2024-08-06_0203",
+        "repo": "main",
+        "size": 22281170,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/voidstranger.zip"
+      },
+      "version": 3
+    },
     "vvvvvv.zip": {
       "attr": {
         "arch": [
@@ -42105,6 +42326,80 @@
         "repo": "main",
         "size": 162168,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/ziggurat.zip"
+      },
+      "version": 3
+    },
+    "ziiaol.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Zelda II Enhanced adds a ton of QoL improvements, widescreen, new areas, and new collectibles. The game is arguably much easier to play through.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the .zip from https://hoverbat.itch.io/ziiaol and put in the gamedata folder.",
+        "inst_md": "Download the .zip from https://hoverbat.itch.io/ziiaol and put in the gamedata folder.",
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Zelda II: Enhanced"
+      },
+      "items": [
+        "Zelda II: Enhanced.sh",
+        "ziiaol"
+      ],
+      "items_opt": null,
+      "name": "ziiaol.zip",
+      "source": {
+        "date_added": "2024-08-06",
+        "date_updated": "2024-08-06",
+        "md5": "21b8b6a61e42fd9e4dbd5bbecc8c71a6",
+        "release_id": "2024-08-06_0203",
+        "repo": "main",
+        "size": 11027116,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/ziiaol.zip"
       },
       "version": 3
     },
