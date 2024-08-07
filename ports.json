@@ -32334,8 +32334,8 @@
         ],
         "image": {
           "covers": [
-            "cover.smredux.png",
-            "cover.sm.png"
+            "cover.sm.png",
+            "cover.smredux.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -32480,8 +32480,8 @@
         ],
         "image": {
           "covers": [
-            "cover.smbll.png",
-            "cover.smb1.png"
+            "cover.smb1.png",
+            "cover.smbll.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -32942,12 +32942,12 @@
       "name": "soh.zip",
       "source": {
         "date_added": "2024-04-10",
-        "date_updated": "2024-07-20",
-        "md5": "9fea93e87dc4c82e996d4345f642a1b1",
-        "release_id": "2024-07-20_1557",
+        "date_updated": "2024-08-07",
+        "md5": "9b1c253e5c4dac8917e015cb535a9d14",
+        "release_id": "2024-08-07_1157",
         "repo": "multiverse",
-        "size": 22704975,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-07-20_1557/soh.zip"
+        "size": 22704973,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-08-07_1157/soh.zip"
       },
       "version": 2
     },
@@ -33016,12 +33016,12 @@
       "name": "soh2.zip",
       "source": {
         "date_added": "2024-06-10",
-        "date_updated": "2024-07-20",
-        "md5": "e3425207c87994999bdaa64545f6cede",
-        "release_id": "2024-07-20_1557",
+        "date_updated": "2024-08-07",
+        "md5": "911f866c91b4466ed8d25f25332d186d",
+        "release_id": "2024-08-07_1157",
         "repo": "multiverse",
-        "size": 18300589,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-07-20_1557/soh2.zip"
+        "size": 18300617,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-08-07_1157/soh2.zip"
       },
       "version": 2
     },
