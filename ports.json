@@ -7648,12 +7648,12 @@
       "name": "cromagrally.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2024-07-12",
-        "md5": "e96cd17d97bb2ded07bf48adf4a6cf98",
-        "release_id": "2024-07-12_0230",
+        "date_updated": "2024-08-07",
+        "md5": "6b076a3d1572db34f8165dc9629945f9",
+        "release_id": "2024-08-07_1326",
         "repo": "main",
         "size": 129889773,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-12_0230/cromagrally.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-07_1326/cromagrally.zip"
       },
       "version": 3
     },
@@ -9333,6 +9333,79 @@
         "repo": "main",
         "size": 5872442,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/destructivator2.zip"
+      },
+      "version": 3
+    },
+    "devbootleg.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Devolver Bootleg contains 8 original rip offs of Devolver games.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase at Steam https://store.steampowered.com/app/1066260/Devolver_Bootleg/ Locate the data.win, MAP File, DUNGEON File, 2 folders and copy them into generate folder.",
+        "inst_md": "Purchase at [Steam](https://store.steampowered.com/app/1066260/Devolver_Bootleg/) Locate the data.win, MAP File, DUNGEON File, 2 folders and copy them into the gamedata folder.",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "DEVOLVER Bootleg"
+      },
+      "items": [
+        "DEVOLVER Bootleg.sh",
+        "devbootleg/"
+      ],
+      "items_opt": null,
+      "name": "devbootleg.zip",
+      "source": {
+        "date_added": "2024-08-07",
+        "date_updated": "2024-08-07",
+        "md5": "91c6019cf34a5b9fd4450b6203f2133b",
+        "release_id": "2024-08-07_1326",
+        "repo": "main",
+        "size": 5927356,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-07_1326/devbootleg.zip"
       },
       "version": 3
     },
@@ -15093,9 +15166,9 @@
         ],
         "image": {
           "covers": [
+            "cover.png",
             "cover.blueshift.png",
-            "cover.opposingforce.png",
-            "cover.png"
+            "cover.opposingforce.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -17677,6 +17750,78 @@
         "repo": "main",
         "size": 4119106,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-08_2057/jedioutcast.zip"
+      },
+      "version": 3
+    },
+    "jestershelper.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Collect all of the cherries before the executioners catch you.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run",
+        "inst_md": null,
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Jester's Helper"
+      },
+      "items": [
+        "Jester's Helper.sh",
+        "jestershelper/"
+      ],
+      "items_opt": null,
+      "name": "jestershelper.zip",
+      "source": {
+        "date_added": "2024-08-07",
+        "date_updated": "2024-08-07",
+        "md5": "aebdd9d580b10e3ad93ffbc050d644e0",
+        "release_id": "2024-08-07_1326",
+        "repo": "main",
+        "size": 8746267,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-07_1326/jestershelper.zip"
       },
       "version": 3
     },
@@ -37114,12 +37259,12 @@
       "name": "thesunandmoon.zip",
       "source": {
         "date_added": "2024-03-22",
-        "date_updated": "2024-07-18",
-        "md5": "c554ef9a683936de90f19018d8d0ebd3",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-08-07",
+        "md5": "b9ceb1a10759e5d39264e38aa4ae28a9",
+        "release_id": "2024-08-07_1326",
         "repo": "main",
-        "size": 12770501,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/thesunandmoon.zip"
+        "size": 12801332,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-07_1326/thesunandmoon.zip"
       },
       "version": 3
     },
