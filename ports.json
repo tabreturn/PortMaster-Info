@@ -25773,6 +25773,79 @@
       },
       "version": 3
     },
+    "operius.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Operius is a game where you shoot and dodge enemies inside a tunnel while going through an infinite amount of levels!\n",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run!",
+        "inst_md": null,
+        "porter": [
+          "mattyj513",
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Operius"
+      },
+      "items": [
+        "Operius.sh",
+        "operius"
+      ],
+      "items_opt": null,
+      "name": "operius.zip",
+      "source": {
+        "date_added": "2024-08-10",
+        "date_updated": "2024-08-10",
+        "md5": "cea67ac881ef99e839b22c406ca1f363",
+        "release_id": "2024-08-10_1307",
+        "repo": "main",
+        "size": 11046415,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-10_1307/operius.zip"
+      },
+      "version": 3
+    },
     "oquonie.zip": {
       "attr": {
         "arch": [
