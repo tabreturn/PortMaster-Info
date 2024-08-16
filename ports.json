@@ -5720,12 +5720,12 @@
       "name": "carriesorderup.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-07-18",
-        "md5": "c735bacb9d7c6cca4b782bc8f4a0132e",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-08-16",
+        "md5": "1319d640138bbaaebb7eee6d1846a9fe",
+        "release_id": "2024-08-16_1734",
         "repo": "main",
-        "size": 12207571,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/carriesorderup.zip"
+        "size": 12284509,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-16_1734/carriesorderup.zip"
       },
       "version": 3
     },
@@ -6991,6 +6991,82 @@
       },
       "version": 3
     },
+    "classicube.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "ClassiCube is a custom Minecraft Classic compatible client written in C from scratch.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download and run. If your device doesn't have wifi, install ClassiCube on your PC and copy the \"audio\" and \"texpacks\" folders to the port directory.",
+        "inst_md": null,
+        "porter": [
+          "Damienne",
+          "TheWalkingTaco"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "ClassiCube"
+      },
+      "items": [
+        "ClassiCube.sh",
+        "classicube"
+      ],
+      "items_opt": null,
+      "name": "classicube.zip",
+      "source": {
+        "date_added": "2024-08-16",
+        "date_updated": "2024-08-16",
+        "md5": "b1300bbc62a2518b6bac803cdb001643",
+        "release_id": "2024-08-16_1734",
+        "repo": "main",
+        "size": 2856220,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-16_1734/classicube.zip"
+      },
+      "version": 3
+    },
     "cleavingcaliber.zip": {
       "attr": {
         "arch": [
@@ -7648,12 +7724,12 @@
       "name": "cromagrally.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2024-08-07",
-        "md5": "6b076a3d1572db34f8165dc9629945f9",
-        "release_id": "2024-08-07_1326",
+        "date_updated": "2024-08-16",
+        "md5": "d385f3b34f4f4aece076f52b088a899c",
+        "release_id": "2024-08-16_1734",
         "repo": "main",
         "size": 129889773,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-07_1326/cromagrally.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-16_1734/cromagrally.zip"
       },
       "version": 3
     },
@@ -15167,8 +15243,8 @@
         "image": {
           "covers": [
             "cover.png",
-            "cover.blueshift.png",
-            "cover.opposingforce.png"
+            "cover.opposingforce.png",
+            "cover.blueshift.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -15766,8 +15842,8 @@
         ],
         "image": {
           "covers": [
-            "cover.hexen2portalofpraevus.png",
-            "cover.hexen2.png"
+            "cover.hexen2.png",
+            "cover.hexen2portalofpraevus.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -24777,8 +24853,8 @@
         ],
         "image": {
           "covers": [
-            "cover.oddworldabesexoddus.png",
-            "cover.oddworldabesoddysee.png"
+            "cover.oddworldabesoddysee.png",
+            "cover.oddworldabesexoddus.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -25246,12 +25322,12 @@
       "name": "openjazz.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "0c58c9062e81b4c865e2398fbee887b6",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-08-16",
+        "md5": "174d008ff99d0ca8b56d36c40cd5dada",
+        "release_id": "2024-08-16_1734",
         "repo": "main",
-        "size": 2189964,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/openjazz.zip"
+        "size": 2190031,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-16_1734/openjazz.zip"
       },
       "version": 3
     },
@@ -33451,12 +33527,12 @@
       "name": "sonic.1.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-07-02",
-        "md5": "a676dcaef9bda01b4442334a6fd7d693",
-        "release_id": "2024-07-02_1342",
+        "date_updated": "2024-08-16",
+        "md5": "cd64bc5feeb8ae03327d0553f9c67c48",
+        "release_id": "2024-08-16_1734",
         "repo": "main",
-        "size": 317869,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-02_1342/sonic.1.zip"
+        "size": 317926,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-16_1734/sonic.1.zip"
       },
       "version": 3
     },
@@ -33526,12 +33602,12 @@
       "name": "sonic.2.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-07-02",
-        "md5": "e7402e9b53ed9df42657e42b0532c014",
-        "release_id": "2024-07-02_1342",
+        "date_updated": "2024-08-16",
+        "md5": "2c2916e7ae01839ee3a747d6aab1c69b",
+        "release_id": "2024-08-16_1734",
         "repo": "main",
-        "size": 304864,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-02_1342/sonic.2.zip"
+        "size": 304921,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-16_1734/sonic.2.zip"
       },
       "version": 3
     },
@@ -34071,12 +34147,12 @@
       "name": "sorr.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-07-18",
-        "md5": "e17f873b9e4159a5d2841eb773a99e7c",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-08-16",
+        "md5": "19fc159d6a94d7c24b8e93ab818cc4b0",
+        "release_id": "2024-08-16_1734",
         "repo": "main",
-        "size": 3893694,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/sorr.zip"
+        "size": 3893750,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-16_1734/sorr.zip"
       },
       "version": 3
     },
