@@ -7059,11 +7059,11 @@
       "source": {
         "date_added": "2024-08-16",
         "date_updated": "2024-08-16",
-        "md5": "b1300bbc62a2518b6bac803cdb001643",
-        "release_id": "2024-08-16_1734",
+        "md5": "ece3f6a88f4a62215bc851dfe87e6a28",
+        "release_id": "2024-08-16_1846",
         "repo": "main",
-        "size": 2856220,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-16_1734/classicube.zip"
+        "size": 2856225,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-16_1846/classicube.zip"
       },
       "version": 3
     },
