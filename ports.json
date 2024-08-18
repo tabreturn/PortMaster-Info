@@ -27319,6 +27319,81 @@
       },
       "version": 3
     },
+    "pocketcrystalleague.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Pocket Crystal League (PCL) is a Poke-card game, although completely different to the Official TCG. The gameplay mechanics were partially inspired by Inscryption, being pretty straightforward and easy to learn.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "casino/card"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Game is ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Pocket Crystal League"
+      },
+      "items": [
+        "Pocket Crystal League.sh",
+        "pocketcrystalleague"
+      ],
+      "items_opt": null,
+      "name": "pocketcrystalleague.zip",
+      "source": {
+        "date_added": "2024-08-18",
+        "date_updated": "2024-08-18",
+        "md5": "eca65fa30bb73c3a4dd0d0d5252007b1",
+        "release_id": "2024-08-18_0624",
+        "repo": "multiverse",
+        "size": 23166198,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-08-18_0624/pocketcrystalleague.zip"
+      },
+      "version": 3
+    },
     "pockettactics.zip": {
       "attr": {
         "arch": [],
@@ -29732,11 +29807,11 @@
       "source": {
         "date_added": "2024-07-01",
         "date_updated": "2024-07-18",
-        "md5": "1b5a69b6744d20e279ccce4817f8c14e",
-        "release_id": "2024-07-18_2225",
-        "repo": "main",
+        "md5": "86b06b0abd214bc513cc3bb68abbf427",
+        "release_id": "2024-08-18_0624",
+        "repo": "multiverse",
         "size": 145147383,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/render96ex.zip"
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-08-18_0624/render96ex.zip"
       },
       "version": 3
     },
