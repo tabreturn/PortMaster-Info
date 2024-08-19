@@ -19067,6 +19067,77 @@
       },
       "version": 3
     },
+    "legbreaker.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A puzzle platformer where you can only jump twice.",
+        "desc_md": "A puzzle platformer where you can only jump twice.",
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You can download Legbreaker for free at: https://almbkn.itch.io/legbreaker -- grab the Legbreaker_Win.zip version and extract it. Among the extracted files, there's a file named Legbreaker.pck; copy this into the port's gamedata directory.",
+        "inst_md": "You can download Legbreaker for free at: https://almbkn.itch.io/legbreaker -- grab the *Legbreaker_Win.zip* version and extract it. Among the extracted files, there's a file named *Legbreaker.pck*; copy this into the port's *gamedata* directory.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.2.3.squashfs",
+        "title": "Legbreaker"
+      },
+      "items": [
+        "Legbreaker.sh",
+        "legbreaker"
+      ],
+      "items_opt": null,
+      "name": "legbreaker.zip",
+      "source": {
+        "date_added": "2024-08-19",
+        "date_updated": "2024-08-19",
+        "md5": "e3c2800f5c2e64c064ac06714a6c5f79",
+        "release_id": "2024-08-19_0815",
+        "repo": "main",
+        "size": 12956,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-19_0815/legbreaker.zip"
+      },
+      "version": 3
+    },
     "lierolibre.zip": {
       "attr": {
         "arch": [
@@ -36322,6 +36393,81 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/superdrome.bugs.zip"
       },
       "version": 2
+    },
+    "superdungeonmuncher.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Super Dungeon Muncher combines puzzles and rogue-like action with a unique twist. The Muncher chases you in real time as you progress through the world. Act fast and think quick or the Muncher will get you.",
+        "desc_md": "**Super Dungeon Muncher** combines the thrill of **puzzle-solving** with the intense challenge of **rogue-like action**\u2014all with a unique twist. As you journey through the world, the relentless *Muncher** will chase you in real time. Every second counts: **act fast** and **think quickly**, or risk being caught by the **Muncher**.",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game and extract it. Put the data.win from the extracted folder into your ports/superdungeonmuncher folder.",
+        "inst_md": "1. [Download the game](https://n-nexy.itch.io/super-dungeon-muncher) and extract it. 2. Move the `data.win` file from the extracted folder to your `ports/superdungeonmuncher` folder.",
+        "porter": [
+          "turbo_16bit"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Super Dungeon Muncher"
+      },
+      "items": [
+        "Super Dungeon Muncher.sh",
+        "superdungeonmuncher"
+      ],
+      "items_opt": null,
+      "name": "superdungeonmuncher.zip",
+      "source": {
+        "date_added": "2024-08-19",
+        "date_updated": "2024-08-19",
+        "md5": "55fb4a05dce4af3f3f9e2d49ef425ecf",
+        "release_id": "2024-08-19_0815",
+        "repo": "main",
+        "size": 16963744,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-19_0815/superdungeonmuncher.zip"
+      },
+      "version": 3
     },
     "supermeatboy.zip": {
       "attr": {
