@@ -147,6 +147,83 @@
       },
       "version": 3
     },
+    "abbayedesmorts.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "The plot is set in 13th century. The player takes a role of Jean Raymond \u2013 one of clerics who preached about the poverty of Christ and a life without material aspirations, and who were for this reason treated as heretics by the Catholic Church.\n\nJean is running away from crusaders who want him dead. He finds an old church and decides to hide there. He doesn't know what ancient evils hide in that place. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run",
+        "inst_md": null,
+        "porter": [
+          "Slayer366",
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "L'Abbaye des Morts"
+      },
+      "items": [
+        "L'Abbaye des Morts.sh",
+        "abbayedesmorts/"
+      ],
+      "items_opt": null,
+      "name": "abbayedesmorts.zip",
+      "source": {
+        "date_added": "2024-08-20",
+        "date_updated": "2024-08-20",
+        "md5": "68fcf45972b4297b7671a555ac6dd3b9",
+        "release_id": "2024-08-20_1038",
+        "repo": "main",
+        "size": 4510098,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-20_1038/abbayedesmorts.zip"
+      },
+      "version": 3
+    },
     "abes_adventure.zip": {
       "attr": {
         "arch": [
