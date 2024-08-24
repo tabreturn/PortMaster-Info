@@ -21467,6 +21467,79 @@
       },
       "version": 3
     },
+    "megamanx816-bit.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "The Mega Man X8 16-Bit Demake is a fan-made project that reimagines the original Mega Man X8 in the style of the classic 16-bit era. This demake brings the modern aesthetics and mechanics of the original game into a retro environment reminiscent of the SNES era, particularly the earlier Mega Man X titles on that system.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "https://sonicfangameshq.com/forums/showcase/mega-man-x8-16-bit-demo3.1504/ grab the zip from here, extract it and rename the File to \"Megaman X8 FC.pck\" after that put it in megamanx816-bit/gamedata folder",
+        "inst_md": null,
+        "porter": [
+          "Damian2809"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Megaman X8 16-bit"
+      },
+      "items": [
+        "Mega Man X8 16-bit.sh",
+        "megamanx816-bit"
+      ],
+      "items_opt": null,
+      "name": "megamanx816-bit.zip",
+      "source": {
+        "date_added": "2024-08-24",
+        "date_updated": "2024-08-24",
+        "md5": "e4033e8d37626986d34ad947d48e157e",
+        "release_id": "2024-08-24_0238",
+        "repo": "main",
+        "size": 133240,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-24_0238/megamanx816-bit.zip"
+      },
+      "version": 3
+    },
     "meritous.zip": {
       "attr": {
         "arch": [
@@ -33876,10 +33949,11 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Just add your own android Data.rsdk file to the ports/sonic1 folder.  See the wiki for more info on this.",
+        "inst": "Add your own Data.rsdk file to the ports/sonic1 folder.",
         "inst_md": null,
         "porter": [
-          "Christian_Haitian"
+          "Christian_Haitian",
+          "Jeod"
         ],
         "reqs": [],
         "rtr": false,
@@ -33888,18 +33962,18 @@
       },
       "items": [
         "Sonic 1.sh",
-        "sonic1/"
+        "sonic1"
       ],
       "items_opt": null,
       "name": "sonic.1.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-08-16",
-        "md5": "cd64bc5feeb8ae03327d0553f9c67c48",
-        "release_id": "2024-08-16_1734",
+        "date_updated": "2024-08-24",
+        "md5": "b6193ace4b080ebfdb08f54d6d875db6",
+        "release_id": "2024-08-24_0238",
         "repo": "main",
-        "size": 317926,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-16_1734/sonic.1.zip"
+        "size": 1905424,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-24_0238/sonic.1.zip"
       },
       "version": 3
     },
@@ -33951,10 +34025,11 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Just add your own android Data.rsdk file to the ports/sonic2 folder.  See the wiki for more info on this.",
+        "inst": "Add your own Data.rsdk file to the ports/sonic2 folder.",
         "inst_md": null,
         "porter": [
-          "Christian_Haitian"
+          "Christian_Haitian",
+          "Jeod"
         ],
         "reqs": [],
         "rtr": false,
@@ -33963,18 +34038,18 @@
       },
       "items": [
         "Sonic 2.sh",
-        "sonic2/"
+        "sonic2"
       ],
       "items_opt": null,
       "name": "sonic.2.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-08-16",
-        "md5": "2c2916e7ae01839ee3a747d6aab1c69b",
-        "release_id": "2024-08-16_1734",
+        "date_updated": "2024-08-24",
+        "md5": "228d34cc5f528097df1307b16e2782f5",
+        "release_id": "2024-08-24_0238",
         "repo": "main",
-        "size": 304921,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-16_1734/sonic.2.zip"
+        "size": 16333510,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-24_0238/sonic.2.zip"
       },
       "version": 3
     },
@@ -34012,7 +34087,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Sonic the Hedgehog CD decompilation by Rubberduckycooly.",
+        "desc": "Sonic CD decompilation by Rubberduckycooly.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -34026,10 +34101,11 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Just add your own android Data.rsdk file to the ports/soniccd folder.  See the wiki for more info on this.",
+        "inst": "Add your own Data.rsdk file to the ports/soniccd folder.",
         "inst_md": null,
         "porter": [
-          "Christian_Haitian"
+          "Christian_Haitian",
+          "Jeod"
         ],
         "reqs": [],
         "rtr": false,
@@ -34038,18 +34114,18 @@
       },
       "items": [
         "Sonic CD.sh",
-        "soniccd/"
+        "soniccd"
       ],
       "items_opt": null,
       "name": "sonic.cd.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-07-18",
-        "md5": "85ff3606115a8f4d0fe3fe18f8e2b6eb",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-08-24",
+        "md5": "04ad32def7f232940774ca14ef40f428",
+        "release_id": "2024-08-24_0238",
         "repo": "main",
-        "size": 2999175,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/sonic.cd.zip"
+        "size": 1596140,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-24_0238/sonic.cd.zip"
       },
       "version": 3
     },
@@ -34087,7 +34163,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Sonic the Hedgehog Mania decompilation by Rubberduckycooly.",
+        "desc": "Sonic Mania decompilation by Rubberduckycooly.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -34101,10 +34177,11 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Just add your own android Data.rsdk file to the ports/sonicmania folder.  See the wiki for more info on this.",
+        "inst": "Add your own Data.rsdk file to the ports/sonicmania folder.",
         "inst_md": null,
         "porter": [
-          "TheGammaSqueeze"
+          "TheGammaSqueeze",
+          "Jeod"
         ],
         "reqs": [],
         "rtr": false,
@@ -34113,18 +34190,18 @@
       },
       "items": [
         "Sonic Mania.sh",
-        "sonicmania/"
+        "sonicmania"
       ],
       "items_opt": null,
       "name": "sonic.mania.zip",
       "source": {
         "date_added": "2022-10-24",
-        "date_updated": "2024-07-18",
-        "md5": "fa538c4f29ef384ce3d82a6a75ce1a2c",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-08-24",
+        "md5": "57a8785a37b427b6f0cb2c378c2578c7",
+        "release_id": "2024-08-24_0238",
         "repo": "main",
-        "size": 2326849,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/sonic.mania.zip"
+        "size": 2377043,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-24_0238/sonic.mania.zip"
       },
       "version": 3
     },
@@ -40133,12 +40210,12 @@
       "name": "utyellow.zip",
       "source": {
         "date_added": "2024-08-06",
-        "date_updated": "2024-08-06",
-        "md5": "7d0cefc3da94fc5987b4dec6a8c67fec",
-        "release_id": "2024-08-06_1441",
+        "date_updated": "2024-08-24",
+        "md5": "3ad234e1577c670f09010cda0fe15b22",
+        "release_id": "2024-08-24_0238",
         "repo": "main",
-        "size": 14059931,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_1441/utyellow.zip"
+        "size": 14191994,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-24_0238/utyellow.zip"
       },
       "version": 3
     },
