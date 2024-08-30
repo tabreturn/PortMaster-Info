@@ -15394,9 +15394,9 @@
         ],
         "image": {
           "covers": [
-            "cover.png",
             "cover.opposingforce.png",
-            "cover.blueshift.png"
+            "cover.blueshift.png",
+            "cover.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -15994,8 +15994,8 @@
         ],
         "image": {
           "covers": [
-            "cover.hexen2.png",
-            "cover.hexen2portalofpraevus.png"
+            "cover.hexen2portalofpraevus.png",
+            "cover.hexen2.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -18629,6 +18629,78 @@
         "repo": "main",
         "size": 9838632,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/kenslabyrinth.zip"
+      },
+      "version": 3
+    },
+    "kikai.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "An irregularly scrolling shoot-em-up.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Read to run",
+        "inst_md": "Read to run",
+        "porter": [
+          "Zehmaluco"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Kikai"
+      },
+      "items": [
+        "Kikai.sh",
+        "kikai"
+      ],
+      "items_opt": null,
+      "name": "kikai.zip",
+      "source": {
+        "date_added": "2024-08-30",
+        "date_updated": "2024-08-30",
+        "md5": "4ee307ff7ba42cdd6bb7a90fa14358b3",
+        "release_id": "2024-08-30_0721",
+        "repo": "main",
+        "size": 23351296,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-30_0721/kikai.zip"
       },
       "version": 3
     },
@@ -22061,12 +22133,12 @@
       "name": "minetest.zip",
       "source": {
         "date_added": "2024-04-24",
-        "date_updated": "2024-06-29",
-        "md5": "83c258be937d647c8c6034a3ea2add2c",
-        "release_id": "2024-06-29_0905",
+        "date_updated": "2024-08-30",
+        "md5": "ee219afe8b0d2fb250345347baed07d1",
+        "release_id": "2024-08-30_0721",
         "repo": "main",
-        "size": 44310528,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_0905/minetest.zip"
+        "size": 44310574,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-30_0721/minetest.zip"
       },
       "version": 3
     },
@@ -25293,8 +25365,8 @@
         ],
         "image": {
           "covers": [
-            "cover.oddworldabesoddysee.png",
-            "cover.oddworldabesexoddus.png"
+            "cover.oddworldabesexoddus.png",
+            "cover.oddworldabesoddysee.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
