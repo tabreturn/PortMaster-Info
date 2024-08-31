@@ -23012,6 +23012,80 @@
       },
       "version": 3
     },
+    "mslugsbf.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Metal Slug SB Fanthology is a fan game developed by SuperBlinky, which has been in development since 2020. The latest version of the project is 0.7.2 The main goal of the project is to create 8 new Metal Slug experiences based on the 8 mainline games.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from  [GameJolt](https://gamejolt.com/games/MslugSBFan/478697) and put all the files from the `Files` folder (the one with all the audiogroups) into the `ports/mslugsbf/assets` folder.",
+        "inst_md": null,
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Metal Slug FB Fanthology"
+      },
+      "items": [
+        "Metal Slug FB Fanthology.sh",
+        "mslugsbf"
+      ],
+      "items_opt": null,
+      "name": "mslugsbf.zip",
+      "source": {
+        "date_added": "2024-08-31",
+        "date_updated": "2024-08-31",
+        "md5": "daa245118641623b0de9e7f3c6983729",
+        "release_id": "2024-08-31_1142",
+        "repo": "main",
+        "size": 14680050,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-31_1142/mslugsbf.zip"
+      },
+      "version": 3
+    },
     "multimanicminer.zip": {
       "attr": {
         "arch": [],
@@ -29368,6 +29442,78 @@
         "repo": "main",
         "size": 41829844,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/quakespasm.zip"
+      },
+      "version": 3
+    },
+    "ragingblasters.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Raging Blasters is a vertical scroll shmup featuring high speed scrolling and the exhilaration of destruction.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase and download the game from steam. Locate your gamefolder and copy all the files from the folder to /ports/ragingblasters/gamedata",
+        "inst_md": "Purchase and download the game from: https://store.steampowered.com/app/1464550/RagingBlasters/ \n\nLocate your gamefolder and copy all the files from the folder to /ports/ragingblasters/gamedata.",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "RagingBlasters"
+      },
+      "items": [
+        "RagingBlasters.sh",
+        "ragingblasters"
+      ],
+      "items_opt": null,
+      "name": "ragingblasters.zip",
+      "source": {
+        "date_added": "2024-08-31",
+        "date_updated": "2024-08-31",
+        "md5": "206c7abbb76830e21a6531fc0017af97",
+        "release_id": "2024-08-31_1142",
+        "repo": "main",
+        "size": 5956037,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-31_1142/ragingblasters.zip"
       },
       "version": 3
     },
