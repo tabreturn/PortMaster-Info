@@ -6244,12 +6244,12 @@
       "name": "cave.story-evo.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-07-18",
-        "md5": "8587f088369f19e033dbf0e7e345901c",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-09-04",
+        "md5": "9fe22891a2dbc0a8979ca4c89c1858bf",
+        "release_id": "2024-09-04_1203",
         "repo": "main",
-        "size": 9519252,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/cave.story-evo.zip"
+        "size": 9387457,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/cave.story-evo.zip"
       },
       "version": 3
     },
@@ -9267,12 +9267,12 @@
       "name": "descent.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2024-07-28",
-        "md5": "47ee90849aba6e159bc0963457e77ec6",
-        "release_id": "2024-07-28_0519",
+        "date_updated": "2024-09-04",
+        "md5": "7fcddc237e80af5a49b4c5fdbeb38368",
+        "release_id": "2024-09-04_1203",
         "repo": "main",
-        "size": 16706516,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-28_0519/descent.zip"
+        "size": 15279501,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/descent.zip"
       },
       "version": 3
     },
@@ -9345,12 +9345,12 @@
       "name": "descent2.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2024-07-18",
-        "md5": "dc14a122490df4793cb9b53b3671a78c",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-09-04",
+        "md5": "db36221a324ac9b979f68e74fdcd1265",
+        "release_id": "2024-09-04_1203",
         "repo": "main",
-        "size": 16558820,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/descent2.zip"
+        "size": 14953677,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/descent2.zip"
       },
       "version": 3
     },
@@ -9420,12 +9420,12 @@
       "name": "descent3.zip",
       "source": {
         "date_added": "2024-07-01",
-        "date_updated": "2024-07-18",
-        "md5": "3e21ba5b301d0f2bc1ad45db79724923",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-09-04",
+        "md5": "0c0de7951c2b24a8c1a86f4d9412be05",
+        "release_id": "2024-09-04_1203",
         "repo": "main",
-        "size": 7308386,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/descent3.zip"
+        "size": 7282529,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/descent3.zip"
       },
       "version": 3
     },
@@ -11907,12 +11907,12 @@
       "name": "f-zeropocket.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-07-21",
-        "md5": "a959aac477dd3efa38a9151fe130148e",
-        "release_id": "2024-07-21_2233",
+        "date_updated": "2024-09-04",
+        "md5": "33c0a396f8aa3bff086ac27ef9b71f98",
+        "release_id": "2024-09-04_1203",
         "repo": "main",
-        "size": 36753603,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-21_2233/f-zeropocket.zip"
+        "size": 36703432,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/f-zeropocket.zip"
       },
       "version": 3
     },
@@ -15472,7 +15472,9 @@
           "adventure"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
@@ -15495,12 +15497,12 @@
       "name": "hallowseve.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-04-01",
-        "md5": "642bc8a59f6069114280a4054adc1937",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-09-04",
+        "md5": "19b2fec37e9941e177df76598eeb8476",
+        "release_id": "2024-09-04_1203",
         "repo": "main",
-        "size": 336436,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/hallowseve.zip"
+        "size": 454008,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/hallowseve.zip"
       },
       "version": 3
     },
@@ -17181,6 +17183,78 @@
         "repo": "main",
         "size": 8359475,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/hyperfight.zip"
+      },
+      "version": 3
+    },
+    "hyperprincesspitch.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "The good Mecha Santa plans to spread happiness and cheer all over the world. Princess Pitch, previously just a sidekick in Garden Gnome Carnage, sets out to put an end to those silly plans.\n\nHyper Princess Pitch is sort of a remake of DOS Operation: Carnage, keeping the fast-paced arcade action, short completion time, high replay value and cheesy characters. Whether you tire of games with moral choices, or you've ever wanted to be made of equal halves explosions and piledrivers, this is the game for you",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run!",
+        "inst_md": null,
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Hyper Princess Pitch"
+      },
+      "items": [
+        "Hyper Princess Pitch.sh",
+        "hyperprincesspitch"
+      ],
+      "items_opt": null,
+      "name": "hyperprincesspitch.zip",
+      "source": {
+        "date_added": "2024-09-04",
+        "date_updated": "2024-09-04",
+        "md5": "cad4ada4ec9fe803d5e575ef74e1e280",
+        "release_id": "2024-09-04_1203",
+        "repo": "main",
+        "size": 27704469,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/hyperprincesspitch.zip"
       },
       "version": 3
     },
@@ -22531,20 +22605,22 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "In Mobility, every platform is a switch you activate upon contact. The goal in each level is to activate all platforms, making each level a little puzzle, especially when you're attempting to score a new record. In the story, these rooms are engine rooms on spaceships that you (a repairman in training) has to fix.",
+        "desc": "Mobility is an acrobatic precision platformer. Play as a spaceship mechanic in training, while climbing the ranks of the Mobility - a legendary union of repairsman, known all across the galaxy.",
         "desc_md": null,
         "exp": false,
         "genres": [
           "platformer"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download mobility-linux-tar.zip (32-bits) from https://auroriax.itch.io/mobility and place it (mobility.tar.gz) in /ports/mobility/ folder.\nOn first startup, the game will patch and put the files in the appropriate places.",
-        "inst_md": null,
+        "inst": "Download mobility-windows.zip from https://auroriax.itch.io/mobility. Unzip the contents to /ports/mobility/gamedata",
+        "inst_md": "Download mobility-windows.zip from https://auroriax.itch.io/mobility. Unzip the contents to /ports/mobility/gamedata",
         "porter": [
           "Fraxinus88"
         ],
@@ -22561,12 +22637,12 @@
       "name": "mobility.zip",
       "source": {
         "date_added": "2024-02-23",
-        "date_updated": "2024-07-18",
-        "md5": "dc87fbd6a24eb2aec5a1df7b0ddbcd38",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-09-04",
+        "md5": "08bc559e1941006325d2ba8a425484b2",
+        "release_id": "2024-09-04_1203",
         "repo": "main",
-        "size": 12520123,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/mobility.zip"
+        "size": 5340380,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/mobility.zip"
       },
       "version": 3
     },
@@ -25364,7 +25440,9 @@
           "adventure"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
@@ -25387,12 +25465,12 @@
       "name": "oceansheart.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-05-15",
-        "md5": "36cdf43f1d22fed033eddde2f43f0855",
-        "release_id": "2024-05-15_1207",
+        "date_updated": "2024-09-04",
+        "md5": "e29f63ed061aa2ae014b3f43decd44c6",
+        "release_id": "2024-09-04_1203",
         "repo": "main",
-        "size": 1002840,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/oceansheart.zip"
+        "size": 1165779,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/oceansheart.zip"
       },
       "version": 3
     },
@@ -26623,7 +26701,9 @@
           "adventure"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
@@ -26647,12 +26727,12 @@
       "name": "osanasrevenge.zip",
       "source": {
         "date_added": "2024-02-12",
-        "date_updated": "2024-04-01",
-        "md5": "236466681a35c5ab06bf492dd98bb251",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-09-04",
+        "md5": "140e2c6367340b1567b4d2d228fac26b",
+        "release_id": "2024-09-04_1203",
         "repo": "main",
-        "size": 292443,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/osanasrevenge.zip"
+        "size": 377394,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/osanasrevenge.zip"
       },
       "version": 3
     },
@@ -34261,12 +34341,12 @@
       "name": "sonic.1.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-08-24",
-        "md5": "b6193ace4b080ebfdb08f54d6d875db6",
-        "release_id": "2024-08-24_0238",
+        "date_updated": "2024-09-04",
+        "md5": "d01a1ad056ea58e2d094680a33b1181a",
+        "release_id": "2024-09-04_1203",
         "repo": "main",
-        "size": 1905424,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-24_0238/sonic.1.zip"
+        "size": 965776,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/sonic.1.zip"
       },
       "version": 3
     },
@@ -34337,12 +34417,12 @@
       "name": "sonic.2.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-08-24",
-        "md5": "228d34cc5f528097df1307b16e2782f5",
-        "release_id": "2024-08-24_0238",
+        "date_updated": "2024-09-04",
+        "md5": "141eb650175f6488bb72fc5875b49495",
+        "release_id": "2024-09-04_1203",
         "repo": "main",
-        "size": 16333510,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-24_0238/sonic.2.zip"
+        "size": 917878,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/sonic.2.zip"
       },
       "version": 3
     },
@@ -34413,12 +34493,12 @@
       "name": "sonic.cd.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-08-24",
-        "md5": "04ad32def7f232940774ca14ef40f428",
-        "release_id": "2024-08-24_0238",
+        "date_updated": "2024-09-04",
+        "md5": "6fa1b24bf1b790dc576e307a28687982",
+        "release_id": "2024-09-04_1203",
         "repo": "main",
-        "size": 1596140,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-24_0238/sonic.cd.zip"
+        "size": 1617143,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/sonic.cd.zip"
       },
       "version": 3
     },
@@ -34489,12 +34569,12 @@
       "name": "sonic.mania.zip",
       "source": {
         "date_added": "2022-10-24",
-        "date_updated": "2024-08-24",
-        "md5": "57a8785a37b427b6f0cb2c378c2578c7",
-        "release_id": "2024-08-24_0238",
+        "date_updated": "2024-09-04",
+        "md5": "467adbc775c36f79bce9a1f91add4799",
+        "release_id": "2024-09-04_1203",
         "repo": "main",
-        "size": 2377043,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-24_0238/sonic.mania.zip"
+        "size": 2550992,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/sonic.mania.zip"
       },
       "version": 3
     },
@@ -35395,12 +35475,12 @@
       "name": "spelunky.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-06-10",
-        "md5": "946365cbcc26a6a78b2ec26a9a9dce75",
-        "release_id": "2024-06-10_2144",
+        "date_updated": "2024-09-04",
+        "md5": "7d8a5d13b0fe74cff92afae56065af2a",
+        "release_id": "2024-09-04_1203",
         "repo": "main",
-        "size": 67436225,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-10_2144/spelunky.zip"
+        "size": 8956904,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/spelunky.zip"
       },
       "version": 3
     },
@@ -39740,7 +39820,9 @@
           "adventure"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
@@ -39763,12 +39845,12 @@
       "name": "tunics.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-04-01",
-        "md5": "b1a5dcf7986f20a05016f372bb2ba5b5",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-09-04",
+        "md5": "e7299368b298f4fda2f94af2dbcf19d2",
+        "release_id": "2024-09-04_1203",
         "repo": "main",
-        "size": 282968,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/tunics.zip"
+        "size": 338814,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/tunics.zip"
       },
       "version": 3
     },
@@ -42098,7 +42180,9 @@
           "action"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
@@ -42121,12 +42205,12 @@
       "name": "yarntown.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-04-01",
-        "md5": "a7f94a4e46bcb3d28969a196104eac97",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-09-04",
+        "md5": "eec9780f66009e75571dde88bea1549c",
+        "release_id": "2024-09-04_1203",
         "repo": "main",
-        "size": 334278,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/yarntown.zip"
+        "size": 482572,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/yarntown.zip"
       },
       "version": 3
     },
@@ -42672,7 +42756,9 @@
           "adventure"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
@@ -42695,12 +42781,12 @@
       "name": "zelda-mysteryofsolarusdx.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-04-01",
-        "md5": "3d9c295e38ef5eb934742387cd27d977",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-09-04",
+        "md5": "8354d918938027cc5de420c1b15cff45",
+        "release_id": "2024-09-04_1203",
         "repo": "main",
-        "size": 283203,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/zelda-mysteryofsolarusdx.zip"
+        "size": 373287,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/zelda-mysteryofsolarusdx.zip"
       },
       "version": 3
     },
@@ -43717,12 +43803,12 @@
       "name": "ziiaol.zip",
       "source": {
         "date_added": "2024-08-06",
-        "date_updated": "2024-08-06",
-        "md5": "21b8b6a61e42fd9e4dbd5bbecc8c71a6",
-        "release_id": "2024-08-06_0203",
+        "date_updated": "2024-09-04",
+        "md5": "e2e95786c3a172747030347ccf425a42",
+        "release_id": "2024-09-04_1203",
         "repo": "main",
-        "size": 11027116,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/ziiaol.zip"
+        "size": 11110973,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/ziiaol.zip"
       },
       "version": 3
     },
