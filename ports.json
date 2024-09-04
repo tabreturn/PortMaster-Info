@@ -4342,6 +4342,79 @@
       },
       "version": 3
     },
+    "boswars.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Bos Wars is a futuristic real time strategy game (RTS). In a RTS game, the player has to combat his enemies while developing his war economy. Everything runs in real-time, as opposed to turn-based games where the player always has to wait for his turn. The trick is to balance the effort put into building his economy and building an army to defend and attack the enemies.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Bos Wars"
+      },
+      "items": [
+        "Bos Wars.sh",
+        "boswars"
+      ],
+      "items_opt": null,
+      "name": "boswars.zip",
+      "source": {
+        "date_added": "2024-09-04",
+        "date_updated": "2024-09-04",
+        "md5": "a4403ff467f0987c7c20f2006d90934d",
+        "release_id": "2024-09-04_2145",
+        "repo": "main",
+        "size": 78263576,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_2145/boswars.zip"
+      },
+      "version": 3
+    },
     "botbreak.zip": {
       "attr": {
         "arch": [
@@ -7876,12 +7949,12 @@
       "name": "cromagrally.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2024-08-16",
-        "md5": "d385f3b34f4f4aece076f52b088a899c",
-        "release_id": "2024-08-16_1734",
+        "date_updated": "2024-09-04",
+        "md5": "b8aca7de6c8990f27faddd00da5feecf",
+        "release_id": "2024-09-04_2145",
         "repo": "main",
         "size": 129889773,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-16_1734/cromagrally.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_2145/cromagrally.zip"
       },
       "version": 3
     },
@@ -14536,12 +14609,12 @@
       "name": "gmu.music.player.zip",
       "source": {
         "date_added": "2023-07-23",
-        "date_updated": "2024-04-01",
-        "md5": "ae69e70eae99f3080909b910c8ce9241",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-09-04",
+        "md5": "4cf391f2ebb54a3f6fa86cbfdd7fb464",
+        "release_id": "2024-09-04_2145",
         "repo": "main",
-        "size": 1439262,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/gmu.music.player.zip"
+        "size": 1439312,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_2145/gmu.music.player.zip"
       },
       "version": 3
     },
@@ -15394,8 +15467,8 @@
         ],
         "image": {
           "covers": [
-            "cover.opposingforce.png",
             "cover.blueshift.png",
+            "cover.opposingforce.png",
             "cover.png"
           ],
           "screenshot": "screenshot.jpg",
@@ -15996,8 +16069,8 @@
         ],
         "image": {
           "covers": [
-            "cover.hexen2portalofpraevus.png",
-            "cover.hexen2.png"
+            "cover.hexen2.png",
+            "cover.hexen2portalofpraevus.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -17776,6 +17849,83 @@
       },
       "version": 3
     },
+    "iosas.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A fantastic, oceanic, open world puzzle adventure. Solve innovative block puzzles while unearthing a mystifying story and unlock powers that provide more options for how you choose to progress through the enigmatic Isles of Sea and Sky!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy the game data from your Steam installation to ports/iosas/assets",
+        "inst_md": null,
+        "porter": [
+          "Jeod",
+          "kotzebuedog"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Isles of Sea and Sky"
+      },
+      "items": [
+        "Isles of Sea and Sky.sh",
+        "iosas"
+      ],
+      "items_opt": null,
+      "name": "iosas.zip",
+      "source": {
+        "date_added": "2024-09-04",
+        "date_updated": "2024-09-04",
+        "md5": "e79576a52098df772a7f8f73c0dc39d5",
+        "release_id": "2024-09-04_2145",
+        "repo": "main",
+        "size": 12263538,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_2145/iosas.zip"
+      },
+      "version": 3
+    },
     "ironferret.zip": {
       "attr": {
         "arch": [
@@ -18488,6 +18638,79 @@
         "repo": "main",
         "size": 4009075,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/justanotherpong.zip"
+      },
+      "version": 3
+    },
+    "kaima.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "KAIMA is the story of a planet being eaten away by monsters, and a girl determined to survive.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from Itch,  https://nomnomnami.itch.io/kaima tested with Windows version. Copy all assets to the gamedata folder.\n\nNote: This game is not ideal for devices with low resolution displays.",
+        "inst_md": null,
+        "porter": [
+          "TheLaggyPyro"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Kaima"
+      },
+      "items": [
+        "Kaima.sh",
+        "kaima"
+      ],
+      "items_opt": null,
+      "name": "kaima.zip",
+      "source": {
+        "date_added": "2024-09-04",
+        "date_updated": "2024-09-04",
+        "md5": "61f8464b2137e71761401aae6964bf60",
+        "release_id": "2024-09-04_2145",
+        "repo": "main",
+        "size": 5160894,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_2145/kaima.zip"
       },
       "version": 3
     },
