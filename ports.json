@@ -34416,12 +34416,12 @@
       "name": "soh2.zip",
       "source": {
         "date_added": "2024-06-10",
-        "date_updated": "2024-09-07",
-        "md5": "6d75af0f7cfe7516a51f682455b1b2ae",
-        "release_id": "2024-09-07_1329",
+        "date_updated": "2024-09-08",
+        "md5": "58b2772fd1d7cdba7dc530ecf927434a",
+        "release_id": "2024-09-08_0144",
         "repo": "multiverse",
-        "size": 18296019,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-09-07_1329/soh2.zip"
+        "size": 18295961,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-09-08_0144/soh2.zip"
       },
       "version": 2
     },
@@ -38671,6 +38671,79 @@
         "repo": "main",
         "size": 12801332,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-07_1326/thesunandmoon.zip"
+      },
+      "version": 3
+    },
+    "thextech.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "This is a direct continuation of the SMBX 1.3 engine. Add assets, worlds and play Mario-style games with built-in world editor and many other features!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download assets from https://github.com/TheXTech/TheXTech and unpack them to ./thextech/assets/<asset_pack_name>.\nCheck README for more details!",
+        "inst_md": null,
+        "porter": [
+          "ddrsoul"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "TheXTech"
+      },
+      "items": [
+        "TheXtech.sh",
+        "thextech"
+      ],
+      "items_opt": null,
+      "name": "thextech.zip",
+      "source": {
+        "date_added": "2024-09-08",
+        "date_updated": "2024-09-08",
+        "md5": "3778ee31752258d0ab25d062a25b6010",
+        "release_id": "2024-09-08_0144",
+        "repo": "multiverse",
+        "size": 4109591,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-09-08_0144/thextech.zip"
       },
       "version": 3
     },
