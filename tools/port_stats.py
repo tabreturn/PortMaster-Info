@@ -120,6 +120,10 @@ def main():
         for port_name in raw_data['ports']:
             port_stats['ports'][port_name] += raw_data['release_data'][release].get(
                 port_name, 0)
+
+            if port_name.startswith('images.') or port_name in ('portmaster.zip', 'gameinfo.zip'):
+                continue
+
             port_stats['total_downloads'] += raw_data['release_data'][release].get(
                 port_name, 0)
 
