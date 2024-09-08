@@ -6019,12 +6019,12 @@
       "name": "cataclysm-dda.zip",
       "source": {
         "date_added": "2023-11-03",
-        "date_updated": "2024-04-01",
-        "md5": "aaab2a16eba5ea1ae57d60b51150b0be",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-09-08",
+        "md5": "db445866f5bbd9103f51944baac75c6e",
+        "release_id": "2024-09-08_0351",
         "repo": "main",
-        "size": 174327970,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/cataclysm-dda.zip"
+        "size": 174327979,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-08_0351/cataclysm-dda.zip"
       },
       "version": 3
     },
@@ -8020,12 +8020,12 @@
       "name": "cropsmare.zip",
       "source": {
         "date_added": "2024-03-19",
-        "date_updated": "2024-04-01",
-        "md5": "a8c617848f9a56148e80a2e1ea07e427",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-09-08",
+        "md5": "a54ec3613fe92c486c8b71005762fd78",
+        "release_id": "2024-09-08_0351",
         "repo": "main",
-        "size": 21104,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/cropsmare.zip"
+        "size": 21126,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-08_0351/cropsmare.zip"
       },
       "version": 3
     },
@@ -12690,12 +12690,11 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "A a recreation of Heroes of Might and Magic 2 game engine by Ihar Hubchyk.",
+        "desc": "fheroes2 is a recreation of the Heroes of Might and Magic II game engine",
         "desc_md": null,
         "exp": false,
         "genres": [
-          "strategy",
-          "rpg"
+          "strategy"
         ],
         "image": {
           "covers": [
@@ -12705,30 +12704,31 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Includes demo files, just add the data and maps folders from your full version GOG HOMM2 to the ports/fheroes2 folder for the full game.",
+        "inst": "Add your own data, maps, music, sound folders from HOMM2 GOG version to ports/fheroes2 folder. Folder names are case sensitive and should be lower case. Files inside folders should not be renamed.",
         "inst_md": null,
         "porter": [
-          "romadu"
+          "romadu",
+          "ddrsoul"
         ],
         "reqs": [],
-        "rtr": true,
+        "rtr": false,
         "runtime": null,
-        "title": "Free Heroes of Might and Magic II"
+        "title": "Fheroes 2"
       },
       "items": [
-        "fheroes2/",
-        "Fheroes2.sh"
+        "Fheroes2.sh",
+        "fheroes2"
       ],
       "items_opt": null,
       "name": "fheroes2.zip",
       "source": {
         "date_added": "2021-10-24",
-        "date_updated": "2024-04-01",
-        "md5": "8bbf0d9362507a6b683175d75586d352",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-09-08",
+        "md5": "e35b98381b28251c1371f5ec2b7e7ac2",
+        "release_id": "2024-09-08_0351",
         "repo": "main",
-        "size": 1511475,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/fheroes2.zip"
+        "size": 8172300,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-08_0351/fheroes2.zip"
       },
       "version": 3
     },
@@ -20599,12 +20599,12 @@
       "name": "littlefroggame.zip",
       "source": {
         "date_added": "2024-02-12",
-        "date_updated": "2024-04-01",
-        "md5": "b376b140aee97d2f7bcba0a74c8fa160",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-09-08",
+        "md5": "dd7ec123aa9c05ccc1d58d0c45e44489",
+        "release_id": "2024-09-08_0351",
         "repo": "main",
-        "size": 8127,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/littlefroggame.zip"
+        "size": 8151,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-08_0351/littlefroggame.zip"
       },
       "version": 3
     },
@@ -29428,12 +29428,12 @@
       "name": "pyk.zip",
       "source": {
         "date_added": "2024-02-25",
-        "date_updated": "2024-07-18",
-        "md5": "d702ea0cce082721d07ce0c500503427",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-09-08",
+        "md5": "937efda0c4a341ea8e7a743fde33f1a0",
+        "release_id": "2024-09-08_0351",
         "repo": "main",
-        "size": 234573,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/pyk.zip"
+        "size": 234584,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-08_0351/pyk.zip"
       },
       "version": 3
     },
@@ -32430,12 +32430,12 @@
       "name": "scaletheskulltower.zip",
       "source": {
         "date_added": "2024-02-12",
-        "date_updated": "2024-04-01",
-        "md5": "2f6b7dc1956aa27d933bf9bb54634d4e",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-09-08",
+        "md5": "f2d5e61c58ff8250ba2096dbd3e58519",
+        "release_id": "2024-09-08_0351",
         "repo": "main",
-        "size": 7651,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/scaletheskulltower.zip"
+        "size": 7674,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-08_0351/scaletheskulltower.zip"
       },
       "version": 3
     },
@@ -36346,6 +36346,78 @@
         "repo": "main",
         "size": 7873470,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/starvsthegame.zip"
+      },
+      "version": 3
+    },
+    "static.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Static is a fast paced puzzle platformer inspired by games such as 'Super Meat Boy' and 'N++'",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Get the game on https://martin-akehurst.itch.io/staticgame, rename the .exe to .zip, extract and place all game files in the ports/static/gamedata/ directory.",
+        "inst_md": "Get the game on the [LoneFoxAndDuck page]https://martin-akehurst.itch.io/staticgame), rename the .exe to .zip, extract and place game files in the ports/static/gamedata/ directory.",
+        "porter": [
+          "Zehmaluco"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Static"
+      },
+      "items": [
+        "Static.sh",
+        "static"
+      ],
+      "items_opt": null,
+      "name": "static.zip",
+      "source": {
+        "date_added": "2024-09-08",
+        "date_updated": "2024-09-08",
+        "md5": "af6b8026eb329d35d298e0a98e6297a7",
+        "release_id": "2024-09-08_0351",
+        "repo": "main",
+        "size": 11749582,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-08_0351/static.zip"
       },
       "version": 3
     },
@@ -41916,12 +41988,12 @@
       "name": "wizardorb.zip",
       "source": {
         "date_added": "2024-02-12",
-        "date_updated": "2024-04-01",
-        "md5": "9cbacd64148f90e71430d6588f49bed0",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-09-08",
+        "md5": "002189fefa5321381c16dad2e6a057f1",
+        "release_id": "2024-09-08_0351",
         "repo": "main",
-        "size": 4903,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/wizardorb.zip"
+        "size": 4926,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-08_0351/wizardorb.zip"
       },
       "version": 3
     },
@@ -44025,12 +44097,12 @@
       "name": "ziggurat.zip",
       "source": {
         "date_added": "2024-02-25",
-        "date_updated": "2024-07-18",
-        "md5": "fffa6b8dd7ddd52b0c396bc294236716",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-09-08",
+        "md5": "a1c7242dc8e45ec9060da0a9491c7df3",
+        "release_id": "2024-09-08_0351",
         "repo": "main",
-        "size": 162168,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/ziggurat.zip"
+        "size": 162178,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-08_0351/ziggurat.zip"
       },
       "version": 3
     },
