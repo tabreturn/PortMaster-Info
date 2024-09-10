@@ -13520,6 +13520,79 @@
       },
       "version": 3
     },
+    "freedink.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Dink Smallwood is an adventure/role-playing game, similar to classic Zelda, made by RTsoft. Besides twisted humor, it includes the actual game editor, allowing players to create hundreds of new adventures called Dink Modules or D-Mods for short.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Choose dink from the launcher for the base games.\nFor DMODS download the mod from https://www.dinknetwork.com/files/category_dmod/\n\nExtract the .dmod file and copy the extracted folder into the freedink folder",
+        "inst_md": "Choose dink from the launcher for the base games.\nFor DMODS download the mod from the [Website](https://www.dinknetwork.com/files/category_dmod/)\n\nExtract the .dmod file and copy the extracted folder into the freedink folder",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "FreeDink"
+      },
+      "items": [
+        "FreeDink.sh",
+        "freedink"
+      ],
+      "items_opt": null,
+      "name": "freedink.zip",
+      "source": {
+        "date_added": "2024-09-10",
+        "date_updated": "2024-09-10",
+        "md5": "773d0d308979325c8bc551379ba5bb1b",
+        "release_id": "2024-09-10_1619",
+        "repo": "main",
+        "size": 62548594,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-10_1619/freedink.zip"
+      },
+      "version": 3
+    },
     "freedom.planet.zip": {
       "attr": {
         "arch": [
@@ -14542,6 +14615,79 @@
         "repo": "main",
         "size": 23625992,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/gigalomania.zip"
+      },
+      "version": 3
+    },
+    "globeba.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Your magic tome has been stolen by the weather wizard Ogro! Use your summoning magic to plant helpful tubers and mandrakes to make your way through three handcrafted dungeons. Overcome foe after foe to retrieve what is rightfully yours and reunite with your floral friends!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is ready to run.",
+        "inst_md": null,
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Globeba"
+      },
+      "items": [
+        "Globeba.sh",
+        "globeba"
+      ],
+      "items_opt": null,
+      "name": "globeba.zip",
+      "source": {
+        "date_added": "2024-09-10",
+        "date_updated": "2024-09-10",
+        "md5": "74dc6cdcf18e09b443f367f49a481273",
+        "release_id": "2024-09-10_1619",
+        "repo": "main",
+        "size": 44822791,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-10_1619/globeba.zip"
       },
       "version": 3
     },
@@ -22436,6 +22582,78 @@
         "repo": "main",
         "size": 44310574,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-30_0721/minetest.zip"
+      },
+      "version": 3
+    },
+    "minidoom.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "MiniDOOM is very short tribute game based on Doom 1. It transforms the classic FPS into a 2D action platformer.  Collect keys and battle your way through 5 stages with the classic Doom weapons, powerups and enemies.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Get the game on https://gamejolt.com/games/mini-doom/206421, place Mini Doom V1.3.exe in the ports/minidoom/gamedata/ directory.",
+        "inst_md": "Get the game on the [MiniDoom page](https://gamejolt.com/games/mini-doom/206421), place Mini Doom V1.3.exe in the ports/minidoom/gamedata/ directory.",
+        "porter": [
+          "Zehmaluco"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "MiniDoom"
+      },
+      "items": [
+        "MiniDoom.sh",
+        "minidoom"
+      ],
+      "items_opt": null,
+      "name": "minidoom.zip",
+      "source": {
+        "date_added": "2024-09-10",
+        "date_updated": "2024-09-10",
+        "md5": "7441be34f3f46c14ede63fbf76ed12ca",
+        "release_id": "2024-09-10_1619",
+        "repo": "main",
+        "size": 10609443,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-10_1619/minidoom.zip"
       },
       "version": 3
     },
@@ -34942,6 +35160,79 @@
         "repo": "main",
         "size": 49997639,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/sonic2sms.zip"
+      },
+      "version": 3
+    },
+    "sonic3air.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A fan-made widescreen remaster of Sonic 3 & Knuckles.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy a rom of Sonic 3 & Knuckles to ports/sonic3air and rename it to 'Sonic_Knuckles_wSonic3.bin'.",
+        "inst_md": null,
+        "porter": [
+          "spec58"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Sonic 3 AIR"
+      },
+      "items": [
+        "Sonic 3 AIR.sh",
+        "sonic3air"
+      ],
+      "items_opt": null,
+      "name": "sonic3air.zip",
+      "source": {
+        "date_added": "2024-09-10",
+        "date_updated": "2024-09-10",
+        "md5": "2e674a2dea5ed90e60be5204dbf01f6d",
+        "release_id": "2024-09-10_1619",
+        "repo": "main",
+        "size": 138365909,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-10_1619/sonic3air.zip"
       },
       "version": 3
     },
