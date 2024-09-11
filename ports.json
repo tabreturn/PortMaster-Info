@@ -6773,6 +6773,81 @@
       },
       "version": 3
     },
+    "celeste.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight, hand-crafted platformer from the creators of multiplayer classic TowerFall.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "- Install the port via PortMaster.\n- Download the Linux DRM-Free version of the game:\n  - https://maddymakesgamesinc.itch.io/celeste\n- Copy the game's data into \"celeste/gamedata\".\n- Run the port, the first time setup will take a few minutes.\n- Enjoy!",
+        "inst_md": "- Install the port via PortMaster.\n- Download the Linux DRM-Free version of the game:\n  - [Itch.io Store: Celeste](https://maddymakesgamesinc.itch.io/celeste)\n- Copy the Celeste Linux files into `celeste/gamedata`.\n- Run the port, the first time setup will take a few minutes.\n- Enjoy!",
+        "porter": [
+          "Johnny on Flame"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "mono-6.12.0.122-aarch64.squashfs",
+        "title": "Celeste"
+      },
+      "items": [
+        "Celeste.sh",
+        "celeste"
+      ],
+      "items_opt": null,
+      "name": "celeste.zip",
+      "source": {
+        "date_added": "2024-09-11",
+        "date_updated": "2024-09-11",
+        "md5": "9d3598bc4223e5ac99b63d0b1e451faa",
+        "release_id": "2024-09-11_1523",
+        "repo": "main",
+        "size": 3056639,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-11_1523/celeste.zip"
+      },
+      "version": 3
+    },
     "chargekid.zip": {
       "attr": {
         "arch": [],
@@ -13584,12 +13659,12 @@
       "name": "freedink.zip",
       "source": {
         "date_added": "2024-09-10",
-        "date_updated": "2024-09-10",
-        "md5": "773d0d308979325c8bc551379ba5bb1b",
-        "release_id": "2024-09-10_1619",
+        "date_updated": "2024-09-11",
+        "md5": "90df775ed916ba9ef092b8cf1f87a3bc",
+        "release_id": "2024-09-11_1523",
         "repo": "main",
-        "size": 62548594,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-10_1619/freedink.zip"
+        "size": 63258104,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-11_1523/freedink.zip"
       },
       "version": 3
     },
@@ -22103,7 +22178,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "https://sonicfangameshq.com/forums/showcase/mega-man-x8-16-bit-demo3.1504/ grab the zip from here, extract it and rename the File to \"Megaman X8 FC.pck\" after that put it in megamanx816-bit/gamedata folder",
+        "inst": "https://sonicfangameshq.com/forums/showcase/mega-man-x8-16-bit.2184/?sfnsn=wa grab the zip from here, extract it and put the files in the megamanx816-bit/gamedata folder",
         "inst_md": null,
         "porter": [
           "Damian2809"
@@ -22121,12 +22196,12 @@
       "name": "megamanx816-bit.zip",
       "source": {
         "date_added": "2024-08-24",
-        "date_updated": "2024-08-24",
-        "md5": "e4033e8d37626986d34ad947d48e157e",
-        "release_id": "2024-08-24_0238",
+        "date_updated": "2024-09-11",
+        "md5": "f7b16540515e3e9a98023bed0f56db13",
+        "release_id": "2024-09-11_1523",
         "repo": "main",
-        "size": 133240,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-24_0238/megamanx816-bit.zip"
+        "size": 133227,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-11_1523/megamanx816-bit.zip"
       },
       "version": 3
     },
@@ -33457,12 +33532,12 @@
       "name": "shovel.knight.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-07-15",
-        "md5": "fc34cc27dc8e4e880e48f50158f8f9b1",
-        "release_id": "2024-07-15_1238",
+        "date_updated": "2024-09-11",
+        "md5": "e0fae51c57aa243370d246ab48337616",
+        "release_id": "2024-09-11_1523",
         "repo": "main",
-        "size": 3569043,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-15_1238/shovel.knight.zip"
+        "size": 3568991,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-11_1523/shovel.knight.zip"
       },
       "version": 3
     },
@@ -35209,7 +35284,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Copy a rom of Sonic 3 & Knuckles to ports/sonic3air and rename it to 'Sonic_Knuckles_wSonic3.bin'.",
+        "inst": "Copy a rom of Sonic 3 & Knuckles to ports/sonic3air and rename it to `Sonic_Knuckles_wSonic3.bin`.",
         "inst_md": null,
         "porter": [
           "spec58"
@@ -35227,12 +35302,12 @@
       "name": "sonic3air.zip",
       "source": {
         "date_added": "2024-09-10",
-        "date_updated": "2024-09-10",
-        "md5": "2e674a2dea5ed90e60be5204dbf01f6d",
-        "release_id": "2024-09-10_1619",
+        "date_updated": "2024-09-11",
+        "md5": "3d4a33eccf9833ca5809a44495e73997",
+        "release_id": "2024-09-11_1523",
         "repo": "main",
-        "size": 138365909,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-10_1619/sonic3air.zip"
+        "size": 138365908,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-11_1523/sonic3air.zip"
       },
       "version": 3
     },
@@ -35560,6 +35635,78 @@
         "repo": "main",
         "size": 746885,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/space.cadet.pinball.zip"
+      },
+      "version": 3
+    },
+    "spacegladiators.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Ever dreamt of being a space potato? Now\u2019s your chance! Space Gladiators is a 2D hand-drawn roguelite platformer following a bunch of captives fighting their way out of a planet prison. Defeat hordes of aliens in the gladiatorial arenas and earn your freedom!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from Steam. Copy all the files from the folder to /ports/spacegladiators/gamedata",
+        "inst_md": "Purchase the game from steam: https://store.steampowered.com/app/1144910/Space_Gladiators/\nDownload the game and from your Steam library,  right click on Space Gladiators >  Manage > Browse local files. Copy all the files from the folder to /ports/spacegladiators/gamedata",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Space Gladiators"
+      },
+      "items": [
+        "Space Gladiators.sh",
+        "spacegladiators"
+      ],
+      "items_opt": null,
+      "name": "spacegladiators.zip",
+      "source": {
+        "date_added": "2024-09-11",
+        "date_updated": "2024-09-11",
+        "md5": "4515b1f3726927562b95ac97b2507f3b",
+        "release_id": "2024-09-11_1523",
+        "repo": "main",
+        "size": 115030960,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-11_1523/spacegladiators.zip"
       },
       "version": 3
     },
