@@ -16170,6 +16170,80 @@
       },
       "version": 3
     },
+    "heroes.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Heroes is similar to the \"Tron\" and \"Nibbles\" games of yore, but includes many graphical improvements and new game features. In it, you must maneuver a small vehicle around a world and collect powerups while avoiding obstacles, your opponents' trails, and even your own trail.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Heroes"
+      },
+      "items": [
+        "Heroes.sh",
+        "heroes"
+      ],
+      "items_opt": null,
+      "name": "heroes.zip",
+      "source": {
+        "date_added": "2024-09-13",
+        "date_updated": "2024-09-13",
+        "md5": "5c6882095a1cdc44409a1842ec8dc7c0",
+        "release_id": "2024-09-13_1353",
+        "repo": "main",
+        "size": 4548657,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-13_1353/heroes.zip"
+      },
+      "version": 3
+    },
     "hex-a-hop.zip": {
       "attr": {
         "arch": [
@@ -19436,6 +19510,79 @@
         "repo": "main",
         "size": 3540162,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-27_0224/kobodeluxe.zip"
+      },
+      "version": 3
+    },
+    "kuklomenos.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "An abstract shoot-em-up. Minimalistic graphics, short game-length. Gameplay lies somewhere between Centipede and Starship Command. Very challenging at the higher difficulty levels. Can you make Elite?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Kuklomenos"
+      },
+      "items": [
+        "Kuklomenos.sh",
+        "kuklomenos"
+      ],
+      "items_opt": null,
+      "name": "kuklomenos.zip",
+      "source": {
+        "date_added": "2024-09-13",
+        "date_updated": "2024-09-13",
+        "md5": "1cf6d20620d4ca5879d584785cb3a9dd",
+        "release_id": "2024-09-13_1353",
+        "repo": "main",
+        "size": 1779070,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-13_1353/kuklomenos.zip"
       },
       "version": 3
     },
@@ -41698,6 +41845,78 @@
         "repo": "main",
         "size": 26456471,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-27_0224/vcmi.zip"
+      },
+      "version": 3
+    },
+    "verticaldropheroeshd.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Vertical Drop Heroes is a procedural platformer RPG hybrid with roguelike elements, where your hero adventures through randomly generated stages. Armed with a variety of skills and traits, you must use your cunning and reflexes to survive the dangers of each stage.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Place game files on the ports/verticaldropheroeshd/gamedata/ directory.",
+        "inst_md": "Place game files on the ports/verticaldropheroeshd/gamedata/ directory.",
+        "porter": [
+          "Zehmaluco"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Vertical Drop Heroes HD"
+      },
+      "items": [
+        "Vertical Drop Heroes HD.sh",
+        "verticaldropheroeshd"
+      ],
+      "items_opt": null,
+      "name": "verticaldropheroeshd.zip",
+      "source": {
+        "date_added": "2024-09-13",
+        "date_updated": "2024-09-13",
+        "md5": "077d6e425695877a774e0b025c9dc60e",
+        "release_id": "2024-09-13_1353",
+        "repo": "main",
+        "size": 12042588,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-13_1353/verticaldropheroeshd.zip"
       },
       "version": 3
     },
