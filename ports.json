@@ -15114,12 +15114,12 @@
       "name": "goldenhornet.zip",
       "source": {
         "date_added": "2024-09-14",
-        "date_updated": "2024-09-14",
-        "md5": "2705960d50d03f2c417482ca7bc3a400",
-        "release_id": "2024-09-14_2311",
+        "date_updated": "2024-09-15",
+        "md5": "01441832a29f8a7dd8b185c45d25faa1",
+        "release_id": "2024-09-15_1157",
         "repo": "main",
-        "size": 11355819,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-14_2311/goldenhornet.zip"
+        "size": 11355808,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-15_1157/goldenhornet.zip"
       },
       "version": 3
     },
@@ -36681,7 +36681,7 @@
           "kotzebuedog"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": null,
         "title": "Spookynakki"
       },
@@ -36693,12 +36693,12 @@
       "name": "spookynakki.zip",
       "source": {
         "date_added": "2024-09-14",
-        "date_updated": "2024-09-14",
-        "md5": "9b4368081b3546b1c72255e83e8a38a9",
-        "release_id": "2024-09-14_2311",
+        "date_updated": "2024-09-15",
+        "md5": "356262fb4dbeae9a1ae1be5a23f296b7",
+        "release_id": "2024-09-15_1157",
         "repo": "main",
-        "size": 23714865,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-14_2311/spookynakki.zip"
+        "size": 23714867,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-15_1157/spookynakki.zip"
       },
       "version": 3
     },
@@ -42196,12 +42196,12 @@
       "name": "vcmi.zip",
       "source": {
         "date_added": "2023-04-01",
-        "date_updated": "2024-07-27",
-        "md5": "48c511255ac0034ea19879ad61e9f55e",
-        "release_id": "2024-07-27_0224",
+        "date_updated": "2024-09-15",
+        "md5": "73881c63876ee059f429f2237a4181e8",
+        "release_id": "2024-09-15_1157",
         "repo": "main",
-        "size": 26456471,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-27_0224/vcmi.zip"
+        "size": 23618810,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-15_1157/vcmi.zip"
       },
       "version": 3
     },
