@@ -8537,12 +8537,12 @@
       "name": "daikatana.zip",
       "source": {
         "date_added": "2023-08-01",
-        "date_updated": "2024-05-09",
-        "md5": "54756fa4242b72c08f25258778ad3053",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-09-14",
+        "md5": "d4556669b50cc999582f0805a420f00c",
+        "release_id": "2024-09-14_2311",
         "repo": "main",
-        "size": 14218615,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/daikatana.zip"
+        "size": 14218611,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-14_2311/daikatana.zip"
       },
       "version": 3
     },
@@ -12361,6 +12361,70 @@
       },
       "version": 3
     },
+    "fallenleaf.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "ace:ALL"
+        ],
+        "desc": "Take control of Leaf, an eager treasure hunter tasked with putting a stop to a repressive, merciless ruler reawakened by his own hand! Aided by newfound magical gauntlets, and an ever-growing list of extended relatives, he'll venture high and low through dark caves, deep oceans, dense city skylines, and even the clouds just to find that one special item with the power to vanquish evil!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy data.win and audiogroup1.dat into the gamedata folder. The game is available on Steam https://store.steampowered.com/app/1459010/Fallen_Leaf/",
+        "inst_md": null,
+        "porter": [
+          "kotzebuedog",
+          "Xantics"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Fallen Leaf"
+      },
+      "items": [
+        "Fallen Leaf.sh",
+        "fallenleaf"
+      ],
+      "items_opt": null,
+      "name": "fallenleaf.zip",
+      "source": {
+        "date_added": "2024-09-14",
+        "date_updated": "2024-09-14",
+        "md5": "f21fc4692220ade095cd78e632d4ce78",
+        "release_id": "2024-09-14_2311",
+        "repo": "main",
+        "size": 11741146,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-14_2311/fallenleaf.zip"
+      },
+      "version": 3
+    },
     "falling_time.zip": {
       "attr": {
         "arch": [
@@ -14984,6 +15048,78 @@
         "repo": "main",
         "size": 9094370,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/goinghomerevisited.zip"
+      },
+      "version": 3
+    },
+    "goldenhornet.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Golden Hornet is a retro style twin-stick shooter. Become a pilot of the multipurpose helicopter 'Golden Hornet' \u2014 rescue hostages and destroy enemy outposts.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Place game files on the ports/goldenhornet/gamedata/ directory.",
+        "inst_md": "Place game files on the ports/goldenhornet/gamedata/ directory.",
+        "porter": [
+          "Zehmaluco"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Golden Hornet"
+      },
+      "items": [
+        "Golden Hornet.sh",
+        "goldenhornet"
+      ],
+      "items_opt": null,
+      "name": "goldenhornet.zip",
+      "source": {
+        "date_added": "2024-09-14",
+        "date_updated": "2024-09-14",
+        "md5": "2705960d50d03f2c417482ca7bc3a400",
+        "release_id": "2024-09-14_2311",
+        "repo": "main",
+        "size": 11355819,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-14_2311/goldenhornet.zip"
       },
       "version": 3
     },
@@ -35530,6 +35666,79 @@
       },
       "version": 3
     },
+    "sonictimetwisted.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Sonic Time Twisted is a fan-made game where Sonic must stop Dr. Eggman's plan to use time travel to resurrect Metal Sonic and conquer the world. Sonic travels through past, present, and future versions of levels, collecting Time Stones to thwart Eggman's scheme.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Jeod",
+          "tekkenfede"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Sonic Time Twisted"
+      },
+      "items": [
+        "Sonic Time Twisted.sh",
+        "sonictimetwisted/"
+      ],
+      "items_opt": null,
+      "name": "sonictimetwisted.zip",
+      "source": {
+        "date_added": "2024-09-14",
+        "date_updated": "2024-09-14",
+        "md5": "96495e402124b60f83e0f55e95bf6ea6",
+        "release_id": "2024-09-14_2311",
+        "repo": "main",
+        "size": 99022339,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-14_2311/sonictimetwisted.zip"
+      },
+      "version": 3
+    },
     "sonictt16b.zip": {
       "attr": {
         "arch": [
@@ -36415,6 +36624,81 @@
         "repo": "main",
         "size": 8919299,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/spooky.zip"
+      },
+      "version": 3
+    },
+    "spookynakki.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Spookynakki is the bone-chilling continuation of Grabanakki, featuring 3 new worlds, a variety of new and returning mechanics, and a completely new OST. Clear level after level of monsters, using the very blocks you stand on as your only weapon. Can you defeat every foe without falling through the shrinking foundation? Don't wait anymore and go clear the 24 spooky stages of block-throwing combat!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run !",
+        "inst_md": null,
+        "porter": [
+          "kotzebuedog"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Spookynakki"
+      },
+      "items": [
+        "Spookynakki.sh",
+        "spookynakki"
+      ],
+      "items_opt": null,
+      "name": "spookynakki.zip",
+      "source": {
+        "date_added": "2024-09-14",
+        "date_updated": "2024-09-14",
+        "md5": "9b4368081b3546b1c72255e83e8a38a9",
+        "release_id": "2024-09-14_2311",
+        "repo": "main",
+        "size": 23714865,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-14_2311/spookynakki.zip"
       },
       "version": 3
     },
@@ -41318,6 +41602,79 @@
         "repo": "main",
         "size": 4032483,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-28_0519/undertale.zip"
+      },
+      "version": 3
+    },
+    "unlikely.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Unlikely is a dice game with a hungry clown. Roll the dice to score points; reach 10 points to advance. If you exceed 10 points, you get an extra roll. You can also roll the big die for a bonus card, but there\u2019s only a 66.6% chance of success.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "casino/card"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the unlikely.rar from the Itch.io Page https://nachogames.itch.io/unlikely and extract it, Copy the Unlikely.pck in the unlikely/gamedata folder",
+        "inst_md": null,
+        "porter": [
+          "Damian2809"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Unlikely"
+      },
+      "items": [
+        "Unlikely.sh",
+        "unlikely"
+      ],
+      "items_opt": null,
+      "name": "unlikely.zip",
+      "source": {
+        "date_added": "2024-09-14",
+        "date_updated": "2024-09-14",
+        "md5": "fdff8b2becfc5ad9f199d3dff1f0cacd",
+        "release_id": "2024-09-14_2311",
+        "repo": "main",
+        "size": 411966,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-14_2311/unlikely.zip"
       },
       "version": 3
     },
