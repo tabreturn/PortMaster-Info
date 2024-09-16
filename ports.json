@@ -11401,6 +11401,81 @@
       },
       "version": 3
     },
+    "elechead.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "\u26a1\uff0b\ud83e\udd16\uff0b\ud83e\udde9",
+        "desc_md": "\u26a1\uff0b\ud83e\udd16\uff0b\ud83e\udde9",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from https://namatakahashi.itch.io/elechead or Steam or GOG\nDownload the game and copy over the files to ports/elechead/gamedata.",
+        "inst_md": "Purchase the game from https://namatakahashi.itch.io/elechead or Steam or GOG\nDownload the game and copy over the files to ports/elechead/gamedata.\n\nTested with itch.io (ElecHead(Win1.0.5).zip,), Steam and GOG (GOG elechead 1.0.5.1)",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "ElecHead"
+      },
+      "items": [
+        "ElecHead.sh",
+        "elechead"
+      ],
+      "items_opt": null,
+      "name": "elechead.zip",
+      "source": {
+        "date_added": "2024-09-16",
+        "date_updated": "2024-09-16",
+        "md5": "eb67a1aeeeac96b7157cd36674c6a8da",
+        "release_id": "2024-09-16_0810",
+        "repo": "main",
+        "size": 12473927,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-16_0810/elechead.zip"
+      },
+      "version": 3
+    },
     "emojimerge.zip": {
       "attr": {
         "arch": [
@@ -22639,47 +22714,67 @@
     },
     "mightymike.zip": {
       "attr": {
-        "arch": [
-          "aarch64"
-        ],
+        "arch": [],
         "avail": [
           "rg353m:jelos",
           "rg353ps:jelos",
           "rg353ps:rocknix",
+          "rg351mp:amberelec",
           "rg351mp:jelos",
+          "rg351mp:thera",
           "rg503:jelos",
           "rg503:rocknix",
-          "rg552:jelos",
-          "rg552:rocknix",
-          "rg351p:jelos",
-          "rg351p:rocknix",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:amberelec",
           "rg351v:jelos",
           "rg351v:rocknix",
-          "rgb10:ALL",
+          "rgb10:jelos",
+          "rgb10:rocknix",
+          "rgb20s:ALL",
+          "rgb30:jelos",
+          "rgb30:rocknix",
           "rk2023:jelos",
           "rk2023:rocknix",
+          "x55:ALL",
+          "rgb10max3:ALL",
           "rgb10max3pro:ALL",
+          "oga:amberelec",
+          "oga:emuelec",
           "oga:jelos",
           "oga:rocknix",
+          "ogs:amberelec",
+          "ogs:emuelec",
           "ogs:jelos",
           "ogs:rocknix",
+          "ogu:amberelec",
+          "ogu:emuelec",
           "ogu:jelos",
           "ogu:rocknix",
           "ace:ALL",
+          "chi:emuelec",
+          "trimui-smart-pro:ALL",
+          "xu10:amberelec",
           "xu10:jelos",
           "xu10:rocknix",
+          "r33s:amberelec",
           "r33s:jelos",
           "r33s:rocknix",
+          "r35s:amberelec",
           "r35s:jelos",
           "r35s:rocknix",
+          "r36s:amberelec",
           "r36s:jelos",
           "r36s:rocknix"
         ],
-        "desc": "This is Pangea Software's Mighty Mike (also known as Power Pete). Set in a toy store, this top-down action game is a staple of 90's Macintosh games.",
+        "desc": "This is Pangea Software's Mighty Mike (also known as Power Pete). \nSet in a toy store, this top-down action game is a staple of 90's Macintosh games.",
         "desc_md": null,
         "exp": false,
         "genres": [
-          "platformer"
+          "action"
         ],
         "image": {
           "covers": [],
@@ -22690,29 +22785,30 @@
         "inst": "Ready to run.",
         "inst_md": null,
         "porter": [
+          "Cebion",
           "brooksytech"
         ],
         "reqs": [
-          "opengl"
+          "!arkos"
         ],
         "rtr": true,
         "runtime": null,
         "title": "Mighty Mike"
       },
       "items": [
-        "MightyMike.sh",
-        "mightymike/"
+        "Mighty Mike.sh",
+        "mightymike"
       ],
       "items_opt": null,
       "name": "mightymike.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2024-04-01",
-        "md5": "6bd542dd0778b7717ac0d16db6db5dd9",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-09-16",
+        "md5": "04cc5403cc2d061094ae0dc5d9f1b955",
+        "release_id": "2024-09-16_0810",
         "repo": "main",
-        "size": 7818264,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/mightymike.zip"
+        "size": 7900993,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-16_0810/mightymike.zip"
       },
       "version": 3
     },
