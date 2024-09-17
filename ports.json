@@ -11435,8 +11435,8 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "\u26a1\uff0b\ud83e\udd16\uff0b\ud83e\udde9",
-        "desc_md": "\u26a1\uff0b\ud83e\udd16\uff0b\ud83e\udde9",
+        "desc": "In a world enshrouded by darkness, deep inside a factory, the light of hope still shines. ElecHead has you play as Elec, a small robot on a mission to bring light back to the world. When Elec touches walls, floors, platforms, switches, and more, he makes electricity run through them, activating them. He can also detach and throw his head to trigger things remotely, but be careful: if he doesn't get his head back within ten seconds, he will shut down. Elec will have to use his head, literally and figuratively, to find a way out of this trap-ridden facility.",
+        "desc_md": "\u26a1+\ud83e\udd16+\ud83e\udde9",
         "exp": false,
         "genres": [
           "platformer"
@@ -11449,8 +11449,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game from https://namatakahashi.itch.io/elechead or Steam or GOG\nDownload the game and copy over the files to ports/elechead/gamedata.",
-        "inst_md": "Purchase the game from https://namatakahashi.itch.io/elechead or Steam or GOG\nDownload the game and copy over the files to ports/elechead/gamedata.\n\nTested with itch.io (ElecHead(Win1.0.5).zip,), Steam and GOG (GOG elechead 1.0.5.1)",
+        "inst": "Purchase the game from https://namatakahashi.itch.io/elechead or Steam or GOG.\nDownload the game and copy over the files to ports/elechead/gamedata.",
+        "inst_md": "Purchase the game from https://namatakahashi.itch.io/elechead or Steam or GOG.\nDownload the game and copy over the files to ports/elechead/gamedata.\n\nTested with itch.io (ElecHead(Win1.0.5).zip,), Steam and GOG (GOG elechead 1.0.5.1)",
         "porter": [
           "Fraxinus88"
         ],
@@ -11467,12 +11467,12 @@
       "name": "elechead.zip",
       "source": {
         "date_added": "2024-09-16",
-        "date_updated": "2024-09-16",
-        "md5": "eb67a1aeeeac96b7157cd36674c6a8da",
-        "release_id": "2024-09-16_0810",
+        "date_updated": "2024-09-17",
+        "md5": "3c119b0ec6d98282c1f9af2708b4f626",
+        "release_id": "2024-09-17_0942",
         "repo": "main",
-        "size": 12473927,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-16_0810/elechead.zip"
+        "size": 12474517,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-17_0942/elechead.zip"
       },
       "version": 3
     },
@@ -20019,6 +20019,80 @@
       },
       "version": 3
     },
+    "lastmission.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "The Last Mission is a side-view arcade game without scrolling (viewpoint moves from screen to screen) with map of big dimensions. The game takes its inspiration from games such as Underwurlde and Starquake.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Last Mission"
+      },
+      "items": [
+        "Last Mission.sh",
+        "lastmission"
+      ],
+      "items_opt": null,
+      "name": "lastmission.zip",
+      "source": {
+        "date_added": "2024-09-17",
+        "date_updated": "2024-09-17",
+        "md5": "48ba41f5a754578b68470db715c86dde",
+        "release_id": "2024-09-17_0942",
+        "repo": "main",
+        "size": 5961178,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-17_0942/lastmission.zip"
+      },
+      "version": 3
+    },
     "lawnbusterforhire.zip": {
       "attr": {
         "arch": [
@@ -27703,6 +27777,79 @@
         "repo": "main",
         "size": 144077527,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/ottomatic.zip"
+      },
+      "version": 3
+    },
+    "outlawn.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Are you ready for 16 levels of OLD WEST LAWN MOWIN' ACTION!? Are you a bad enough buddeh to fight 4 types of lawmen AND snakes while takin' care of a LAWN?! Well, OutlawN is for you!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download free at itch.io https://programancer.itch.io/outlawn-retrogradejam2\nCopy data.win into gamedata folder.",
+        "inst_md": "Download free at [itch.io](https://programancer.itch.io/outlawn-retrogradejam2)\nCopy data.win into gamedata folder.",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "OutlawN"
+      },
+      "items": [
+        "OutlawN.sh",
+        "outlawn/"
+      ],
+      "items_opt": null,
+      "name": "outlawn.zip",
+      "source": {
+        "date_added": "2024-09-17",
+        "date_updated": "2024-09-17",
+        "md5": "6f883e7ae782f97a4eba8a30968fd7b3",
+        "release_id": "2024-09-17_0942",
+        "repo": "main",
+        "size": 5602679,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-17_0942/outlawn.zip"
       },
       "version": 3
     },
