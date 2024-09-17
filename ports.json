@@ -22788,7 +22788,9 @@
     },
     "mightymike.zip": {
       "attr": {
-        "arch": [],
+        "arch": [
+          "aarch64"
+        ],
         "avail": [
           "rg353m:jelos",
           "rg353ps:jelos",
@@ -22844,7 +22846,7 @@
           "r36s:jelos",
           "r36s:rocknix"
         ],
-        "desc": "This is Pangea Software's Mighty Mike (also known as Power Pete). \nSet in a toy store, this top-down action game is a staple of 90's Macintosh games.",
+        "desc": "This is Pangea Software's Mighty Mike (also known as Power Pete). \\nSet in a toy store, this top-down action game is a staple of 90's Macintosh games.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -22856,11 +22858,10 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Ready to run.",
+        "inst": "Ready to run!",
         "inst_md": null,
         "porter": [
-          "Cebion",
-          "brooksytech"
+          "Cebion"
         ],
         "reqs": [
           "!arkos"
@@ -22877,12 +22878,12 @@
       "name": "mightymike.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2024-09-16",
-        "md5": "04cc5403cc2d061094ae0dc5d9f1b955",
-        "release_id": "2024-09-16_0810",
+        "date_updated": "2024-09-17",
+        "md5": "f9cbb5fc0ceeb312e0804a99ad13f3d3",
+        "release_id": "2024-09-17_1035",
         "repo": "main",
-        "size": 7900993,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-16_0810/mightymike.zip"
+        "size": 7900990,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-17_1035/mightymike.zip"
       },
       "version": 3
     },
@@ -40744,6 +40745,79 @@
         "repo": "main",
         "size": 541302,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-12_1115/tomoyo_after.zip"
+      },
+      "version": 3
+    },
+    "towerbag.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Play as a little lonely skull, carry your TowerBag and face the evil creatures of the forest. This is a Tower Defense Game, but with only one Tower. Made by Matheus Cunegato and Rodolfo Salazar.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from https://matheuscunegato.itch.io/towerbag \nand extract the data.win into the game folder. \n",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "TowerBag"
+      },
+      "items": [
+        "TowerBag.sh",
+        "towerbag"
+      ],
+      "items_opt": null,
+      "name": "towerbag.zip",
+      "source": {
+        "date_added": "2024-09-17",
+        "date_updated": "2024-09-17",
+        "md5": "934740d39f946e6229f23989ee45f1a1",
+        "release_id": "2024-09-17_1035",
+        "repo": "main",
+        "size": 15368474,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-17_1035/towerbag.zip"
       },
       "version": 3
     },
