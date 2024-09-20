@@ -522,6 +522,81 @@
       },
       "version": 3
     },
+    "afternoonstalker.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Afternoon Stalker, a robot-killing video game. It is a clone of the 1982 Night Stalker video game for the Intellivision, from Mattel Electronics.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Afternoon Stalker"
+      },
+      "items": [
+        "Afternoon Stalker.sh",
+        "afternoonstalker"
+      ],
+      "items_opt": null,
+      "name": "afternoonstalker.zip",
+      "source": {
+        "date_added": "2024-09-20",
+        "date_updated": "2024-09-20",
+        "md5": "ce8cda0c373f85c13dd360b30c52c82b",
+        "release_id": "2024-09-20_1106",
+        "repo": "main",
+        "size": 995994,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-20_1106/afternoonstalker.zip"
+      },
+      "version": 3
+    },
     "air.zip": {
       "attr": {
         "arch": [
@@ -2360,12 +2435,12 @@
       "name": "bananaguy2.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-04-01",
-        "md5": "2d4c2f468baf085df416edea9063deca",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-09-20",
+        "md5": "54da093413720791c9c30292df337666",
+        "release_id": "2024-09-20_1106",
         "repo": "main",
-        "size": 98234166,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/bananaguy2.zip"
+        "size": 99906504,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-20_1106/bananaguy2.zip"
       },
       "version": 3
     },
@@ -15638,6 +15713,78 @@
       },
       "version": 2
     },
+    "gumchugirl.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Take on the role of Skye, a 10 yr old kid who lives for chewing and pew-pewing in this retro inspired platformer!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run",
+        "inst_md": null,
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "GUMCHU GIRL"
+      },
+      "items": [
+        "GUMCHU GIRL.sh",
+        "gumchugirl/"
+      ],
+      "items_opt": null,
+      "name": "gumchugirl.zip",
+      "source": {
+        "date_added": "2024-09-20",
+        "date_updated": "2024-09-20",
+        "md5": "df3047d7af0ecb416decf640400e1813",
+        "release_id": "2024-09-20_1106",
+        "repo": "main",
+        "size": 51587548,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-20_1106/gumchugirl.zip"
+      },
+      "version": 3
+    },
     "gumgem.zip": {
       "attr": {
         "arch": [],
@@ -16447,12 +16594,12 @@
       "name": "help.no.brake.zip",
       "source": {
         "date_added": "2023-09-14",
-        "date_updated": "2024-04-01",
-        "md5": "d5a9b235eb8842f402dd194ac1c12d5c",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-09-20",
+        "md5": "972b4748e8fef18d0488a5aeb1af3bfb",
+        "release_id": "2024-09-20_1106",
         "repo": "main",
-        "size": 10564610,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/help.no.brake.zip"
+        "size": 10564663,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-20_1106/help.no.brake.zip"
       },
       "version": 3
     },
@@ -17982,6 +18129,79 @@
         "repo": "main",
         "size": 4533295,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-17_1729/iconoclasts.zip"
+      },
+      "version": 3
+    },
+    "icytower.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Reach new heights by jumping from platform to platform in the Icy Tower game!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Icy Tower"
+      },
+      "items": [
+        "Icy Tower.sh",
+        "icytower"
+      ],
+      "items_opt": null,
+      "name": "icytower.zip",
+      "source": {
+        "date_added": "2024-09-20",
+        "date_updated": "2024-09-20",
+        "md5": "2305d34c5eb927758c53932595c6195d",
+        "release_id": "2024-09-20_1106",
+        "repo": "main",
+        "size": 6556564,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-20_1106/icytower.zip"
       },
       "version": 3
     },
@@ -27920,12 +28140,12 @@
       "name": "outlawn.zip",
       "source": {
         "date_added": "2024-09-17",
-        "date_updated": "2024-09-17",
-        "md5": "6f883e7ae782f97a4eba8a30968fd7b3",
-        "release_id": "2024-09-17_0942",
+        "date_updated": "2024-09-20",
+        "md5": "93fe183559fd766f2e2bbbf159fd64b3",
+        "release_id": "2024-09-20_1106",
         "repo": "main",
-        "size": 5602679,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-17_0942/outlawn.zip"
+        "size": 5602819,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-20_1106/outlawn.zip"
       },
       "version": 3
     },
@@ -32743,12 +32963,12 @@
       "name": "rota.zip",
       "source": {
         "date_added": "2023-07-25",
-        "date_updated": "2024-04-01",
-        "md5": "e30036f71b1d2cbfc80faec979d53c6b",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-09-20",
+        "md5": "aa55a4f1fb72ab1bfd30d7605bfdda35",
+        "release_id": "2024-09-20_1106",
         "repo": "main",
-        "size": 37177943,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/rota.zip"
+        "size": 37177992,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-20_1106/rota.zip"
       },
       "version": 3
     },
@@ -40869,13 +41089,13 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game from https://matheuscunegato.itch.io/towerbag \nand extract the data.win into the game folder. \n",
+        "inst": "Ready to run. \n",
         "inst_md": null,
         "porter": [
           "Ganimoth"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": null,
         "title": "TowerBag"
       },
@@ -40887,12 +41107,12 @@
       "name": "towerbag.zip",
       "source": {
         "date_added": "2024-09-17",
-        "date_updated": "2024-09-17",
-        "md5": "934740d39f946e6229f23989ee45f1a1",
-        "release_id": "2024-09-17_1035",
+        "date_updated": "2024-09-20",
+        "md5": "d594a5d4ed5ff225744e37323bfabee3",
+        "release_id": "2024-09-20_1106",
         "repo": "main",
-        "size": 15368474,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-17_1035/towerbag.zip"
+        "size": 15608663,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-20_1106/towerbag.zip"
       },
       "version": 3
     },
@@ -42061,12 +42281,12 @@
       "name": "unlikely.zip",
       "source": {
         "date_added": "2024-09-14",
-        "date_updated": "2024-09-14",
-        "md5": "fdff8b2becfc5ad9f199d3dff1f0cacd",
-        "release_id": "2024-09-14_2311",
+        "date_updated": "2024-09-20",
+        "md5": "94a3bd18258ffc6fccbafe0ce58dee59",
+        "release_id": "2024-09-20_1106",
         "repo": "main",
-        "size": 411966,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-14_2311/unlikely.zip"
+        "size": 913355,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-20_1106/unlikely.zip"
       },
       "version": 3
     },
