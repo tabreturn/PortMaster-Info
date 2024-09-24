@@ -13087,12 +13087,12 @@
       "name": "fheroes2.zip",
       "source": {
         "date_added": "2021-10-24",
-        "date_updated": "2024-09-08",
-        "md5": "e35b98381b28251c1371f5ec2b7e7ac2",
-        "release_id": "2024-09-08_0351",
+        "date_updated": "2024-09-24",
+        "md5": "7c27e023dfaf2bd863d0a428a415dc3b",
+        "release_id": "2024-09-24_0718",
         "repo": "main",
-        "size": 8172300,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-08_0351/fheroes2.zip"
+        "size": 8206955,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-24_0718/fheroes2.zip"
       },
       "version": 3
     },
@@ -28140,12 +28140,12 @@
       "name": "outlawn.zip",
       "source": {
         "date_added": "2024-09-17",
-        "date_updated": "2024-09-20",
-        "md5": "93fe183559fd766f2e2bbbf159fd64b3",
-        "release_id": "2024-09-20_1106",
+        "date_updated": "2024-09-24",
+        "md5": "af49476af81ac088b02f49cc798afa00",
+        "release_id": "2024-09-24_0718",
         "repo": "main",
-        "size": 5602819,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-20_1106/outlawn.zip"
+        "size": 5604404,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-24_0718/outlawn.zip"
       },
       "version": 3
     },
@@ -33847,6 +33847,77 @@
         "repo": "main",
         "size": 5882610,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-08_0940/secretteagarden.zip"
+      },
+      "version": 3
+    },
+    "septuple.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A precision platformer about the septuple jump paper! Created by NNB. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download septuple.x86_64 from https://nnbnh.itch.io/septuple and place it into gamedata folder. ",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Septuple"
+      },
+      "items": [
+        "Septuple.sh",
+        "septuple"
+      ],
+      "items_opt": null,
+      "name": "septuple.zip",
+      "source": {
+        "date_added": "2024-09-24",
+        "date_updated": "2024-09-24",
+        "md5": "5d96574f6daf4056456e978920f74cdf",
+        "release_id": "2024-09-24_0718",
+        "repo": "main",
+        "size": 37062,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-24_0718/septuple.zip"
       },
       "version": 3
     },
@@ -42957,6 +43028,79 @@
         "repo": "main",
         "size": 518149,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-22_2326/viralreload.zip"
+      },
+      "version": 3
+    },
+    "vitasnake.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A snake game with smooth rotation made for the PS Vita with LibVita2D. Turn left and right to collect as many apples as you can, but avoid biting your tail, or you will lose the game.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run !",
+        "inst_md": null,
+        "porter": [
+          "Slobters"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "vitaSnake"
+      },
+      "items": [
+        "vitasnake.sh",
+        "vitasnake"
+      ],
+      "items_opt": null,
+      "name": "vitasnake.zip",
+      "source": {
+        "date_added": "2024-09-24",
+        "date_updated": "2024-09-24",
+        "md5": "e3a57af70f6d73b9538344eef49ec315",
+        "release_id": "2024-09-24_0718",
+        "repo": "main",
+        "size": 13485785,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-24_0718/vitasnake.zip"
       },
       "version": 3
     },
