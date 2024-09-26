@@ -2809,6 +2809,81 @@
       },
       "version": 3
     },
+    "belleboomerang.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A fast-action platformer packed with beautiful pixel art and exciting variation in every level!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from steam. Download the game and copy the files to /ports/belleboomerang/gamedata",
+        "inst_md": "Purchase and download the game from: https://store.steampowered.com/app/1632170/Belle_Boomerang/\n\nLocate your gamefolder and copy all the files from the folder to /ports/belleboomerang/gamedata.",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Belle Boomerang"
+      },
+      "items": [
+        "Belle Boomerang.sh",
+        "belleboomerang"
+      ],
+      "items_opt": null,
+      "name": "belleboomerang.zip",
+      "source": {
+        "date_added": "2024-09-26",
+        "date_updated": "2024-09-26",
+        "md5": "9b5e3be67c9cae02b6a59720158b2865",
+        "release_id": "2024-09-26_1748",
+        "repo": "main",
+        "size": 14736213,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-26_1748/belleboomerang.zip"
+      },
+      "version": 3
+    },
     "benboquest.zip": {
       "attr": {
         "arch": [
@@ -8174,12 +8249,12 @@
       "name": "cromagrally.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2024-09-04",
-        "md5": "b8aca7de6c8990f27faddd00da5feecf",
-        "release_id": "2024-09-04_2145",
+        "date_updated": "2024-09-26",
+        "md5": "4a006eb4c2f96eafb699aa24d255bf1e",
+        "release_id": "2024-09-26_1748",
         "repo": "main",
         "size": 129889773,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_2145/cromagrally.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-26_1748/cromagrally.zip"
       },
       "version": 3
     },
@@ -11039,6 +11114,79 @@
         "repo": "main",
         "size": 5914776,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/duke3dawo.zip"
+      },
+      "version": 3
+    },
+    "dungeoncrawlstonesoup.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Dungeon Crawl Stone Soup is a game of dungeon exploration, combat and magic, involving characters of diverse skills, worshipping deities of great power and caprice. To win, you'll need to be a master of tactics and strategy, and prevail against overwhelming odds.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Game files are already included. Controls are rather complex, make sure to read the control sheet carefully.",
+        "inst_md": null,
+        "porter": [
+          "ohol-vitaliy"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Dungeon Crawl Stone Soup"
+      },
+      "items": [
+        "Dungeon Crawl Stone Soup.sh",
+        "dungeoncrawlstonesoup"
+      ],
+      "items_opt": null,
+      "name": "dungeoncrawlstonesoup.zip",
+      "source": {
+        "date_added": "2024-09-26",
+        "date_updated": "2024-09-26",
+        "md5": "768d5a0b59c239e6dd872103eb4c92a9",
+        "release_id": "2024-09-26_1748",
+        "repo": "main",
+        "size": 24755532,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-26_1748/dungeoncrawlstonesoup.zip"
       },
       "version": 3
     },
@@ -16122,8 +16270,8 @@
         "image": {
           "covers": [
             "cover.blueshift.png",
-            "cover.opposingforce.png",
-            "cover.png"
+            "cover.png",
+            "cover.opposingforce.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -26782,8 +26930,8 @@
         ],
         "image": {
           "covers": [
-            "cover.oddworldabesexoddus.png",
-            "cover.oddworldabesoddysee.png"
+            "cover.oddworldabesoddysee.png",
+            "cover.oddworldabesexoddus.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -29024,6 +29172,78 @@
         "repo": "main",
         "size": 44152972,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/pixelheat.zip"
+      },
+      "version": 3
+    },
+    "plague.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "PLAGUE is heavily inspired on Gargoyle's Quest for the original Gameboy. It's a platformer where you can control a plague doctor, throwing explosive potions and dashing mid-air.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready 2 Run",
+        "inst_md": null,
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Plague"
+      },
+      "items": [
+        "Plague.sh",
+        "plague/"
+      ],
+      "items_opt": null,
+      "name": "plague.zip",
+      "source": {
+        "date_added": "2024-09-26",
+        "date_updated": "2024-09-26",
+        "md5": "524760882de8eeb870256ba219c52c6c",
+        "release_id": "2024-09-26_1748",
+        "repo": "main",
+        "size": 18749190,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-26_1748/plague.zip"
       },
       "version": 3
     },
@@ -33482,6 +33702,78 @@
       },
       "version": 3
     },
+    "savingprincess.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "You are Portia Crane, Asset Recovery Specialist.\nAll you know about your mission is:\n\"IF THEY GET PRINCESS, THE WAR IS LOST.\nIT'S UP TO YOU.\"\nExplore a space station crawling with rogue machines and even rival bounty hunters with the same objective as you - but with far, far different intentions!\nExpand your arsenal as you collect upgrades to your trusty arm cannon and armor!\nTest your might against several bosses - including a FREAKING SPACE NINJA!\nCan you SAVE PRINCESS?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Head to https://brainos.itch.io/savingprincess.\nPurchase the game and download Saving Princess.exe and place it into ports/\nWorks with Saving Princess - DEMO - Windows.exe too!",
+        "inst_md": "Head to https://brainos.itch.io/savingprincess.\nPurchase the game and download Saving Princess.exe and place it into ports/\nWorks with Saving Princess - DEMO - Windows.exe too.",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Saving Princess"
+      },
+      "items": [
+        "Saving Princess.sh",
+        "savingprincess"
+      ],
+      "items_opt": null,
+      "name": "savingprincess.zip",
+      "source": {
+        "date_added": "2024-09-26",
+        "date_updated": "2024-09-26",
+        "md5": "036cd43955f521f69fc5d14240985a9b",
+        "release_id": "2024-09-26_1748",
+        "repo": "main",
+        "size": 7148498,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-26_1748/savingprincess.zip"
+      },
+      "version": 3
+    },
     "scaletheskulltower.zip": {
       "attr": {
         "arch": [],
@@ -37102,12 +37394,12 @@
       "name": "spelunky.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-09-04",
-        "md5": "7d8a5d13b0fe74cff92afae56065af2a",
-        "release_id": "2024-09-04_1203",
+        "date_updated": "2024-09-26",
+        "md5": "93896e98a1f4d184a0fe2c264e255d7b",
+        "release_id": "2024-09-26_1748",
         "repo": "main",
-        "size": 8956904,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/spelunky.zip"
+        "size": 8888319,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-26_1748/spelunky.zip"
       },
       "version": 3
     },
@@ -39341,6 +39633,79 @@
         "repo": "main",
         "size": 16028720,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/superstarpath.zip"
+      },
+      "version": 3
+    },
+    "supertransball2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Super Transball 2 is a game which was inspired by ZARA THRUSTA for the Amiga 500. In each level the goal is to find the SPHERE, to capture it and to carry it to the upper part of the level. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Super Transball 2"
+      },
+      "items": [
+        "Super Transball 2.sh",
+        "supertransball2"
+      ],
+      "items_opt": null,
+      "name": "supertransball2.zip",
+      "source": {
+        "date_added": "2024-09-26",
+        "date_updated": "2024-09-26",
+        "md5": "72814acd1d8a9b01fbe7f538fc28a7d4",
+        "release_id": "2024-09-26_1748",
+        "repo": "main",
+        "size": 1678434,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-26_1748/supertransball2.zip"
       },
       "version": 3
     },
