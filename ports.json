@@ -27472,12 +27472,12 @@
       "name": "openjazz.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-08-16",
-        "md5": "174d008ff99d0ca8b56d36c40cd5dada",
-        "release_id": "2024-08-16_1734",
+        "date_updated": "2024-09-27",
+        "md5": "f7ec8467823195e1439cf7a53332b8be",
+        "release_id": "2024-09-27_2150",
         "repo": "main",
-        "size": 2190031,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-16_1734/openjazz.zip"
+        "size": 2190051,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-27_2150/openjazz.zip"
       },
       "version": 3
     },
@@ -33912,12 +33912,12 @@
       "name": "savingprincess.zip",
       "source": {
         "date_added": "2024-09-26",
-        "date_updated": "2024-09-26",
-        "md5": "036cd43955f521f69fc5d14240985a9b",
-        "release_id": "2024-09-26_1748",
+        "date_updated": "2024-09-27",
+        "md5": "aaeab65e53f2f957ca4cc72690ec0b96",
+        "release_id": "2024-09-27_2150",
         "repo": "main",
-        "size": 7148498,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-26_1748/savingprincess.zip"
+        "size": 7148478,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-27_2150/savingprincess.zip"
       },
       "version": 3
     },
