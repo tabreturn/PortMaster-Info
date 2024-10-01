@@ -1246,13 +1246,13 @@
       "items_opt": null,
       "name": "am2r.zip",
       "source": {
-        "date_added": "2021-09-10",
-        "date_updated": "2024-07-18",
-        "md5": "377282f8fd21151d905c79b9c04d4b6a",
-        "release_id": "2024-07-18_2225",
-        "repo": "main",
-        "size": 1474978,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/am2r.zip"
+        "date_added": "2021-12-21",
+        "date_updated": "2024-10-01",
+        "md5": "cd86a99ec7f52fd13b88588050bbde9e",
+        "release_id": "2024-10-01_1015",
+        "repo": "multiverse",
+        "size": 1474969,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-01_1015/am2r.zip"
       },
       "version": 3
     },
@@ -4494,6 +4494,79 @@
       },
       "version": 3
     },
+    "boni.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Boni the skeleton is traveling across the Mexican 'Dia de Muertos', however, he needs to cross the spooky Iztepetl Cemetery. Help him get his skeletal body to the other side!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You can download Boni+ for free at: https://pistachoduck.itch.io/boniboni \n\nDownload the Boni_Linux64.zip version and extract it, and place the Boni_Linux.pck file in the gamedata directory.",
+        "inst_md": "You can download Boni+ for free at: https://pistachoduck.itch.io/boniboni \n\nDownload the *Boni\\_Linux64.zip* version and extract it, and place the *Boni\\_Linux.pck* file in the gamedata directory.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.3.4.squashfs",
+        "title": "Boni+"
+      },
+      "items": [
+        "Boni+.sh",
+        "boni"
+      ],
+      "items_opt": null,
+      "name": "boni.zip",
+      "source": {
+        "date_added": "2024-01-22",
+        "date_updated": "2024-10-01",
+        "md5": "ddc5067d4af7545e211f60539ed1a0c7",
+        "release_id": "2024-10-01_1021",
+        "repo": "main",
+        "size": 12679,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/boni.zip"
+      },
+      "version": 2
+    },
     "bootlegbox.zip": {
       "attr": {
         "arch": [
@@ -4698,12 +4771,12 @@
       "name": "botbreak.zip",
       "source": {
         "date_added": "2023-11-13",
-        "date_updated": "2024-07-18",
-        "md5": "495c21c1eb10063b4279d3c69b20e726",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-10-01",
+        "md5": "32aac6a0edf39bd37d9de5f4ed138604",
+        "release_id": "2024-10-01_1021",
         "repo": "main",
-        "size": 32642897,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/botbreak.zip"
+        "size": 32642723,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/botbreak.zip"
       },
       "version": 3
     },
@@ -5062,6 +5135,79 @@
         "repo": "main",
         "size": 966839,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/brogue.zip"
+      },
+      "version": 3
+    },
+    "brokenpipes.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Broken Pipes is a game created by cocawsugar during and for the GMTK Game Jam 2020. The jam's theme is out-of-control, so this game is a platformer where the flow of water is out-of-control and the water level increases and decreases constantly.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from https://cocawsugar-gj2020.itch.io/broken-pipes and extract the data.win file into the game folder. ",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Broken Pipes"
+      },
+      "items": [
+        "Broken Pipes.sh",
+        "brokenpipes"
+      ],
+      "items_opt": null,
+      "name": "brokenpipes.zip",
+      "source": {
+        "date_added": "2024-10-01",
+        "date_updated": "2024-10-01",
+        "md5": "974ea46b436d288dcc41d56bb7378eee",
+        "release_id": "2024-10-01_1021",
+        "repo": "main",
+        "size": 15253729,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/brokenpipes.zip"
       },
       "version": 3
     },
@@ -9708,12 +9854,12 @@
       "name": "descent.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2024-09-04",
-        "md5": "7fcddc237e80af5a49b4c5fdbeb38368",
-        "release_id": "2024-09-04_1203",
+        "date_updated": "2024-10-01",
+        "md5": "db276649f8aa35be2ec2f120d6937299",
+        "release_id": "2024-10-01_1021",
         "repo": "main",
-        "size": 15279501,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/descent.zip"
+        "size": 15280016,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/descent.zip"
       },
       "version": 3
     },
@@ -9786,12 +9932,12 @@
       "name": "descent2.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2024-09-04",
-        "md5": "db36221a324ac9b979f68e74fdcd1265",
-        "release_id": "2024-09-04_1203",
+        "date_updated": "2024-10-01",
+        "md5": "e8bb6906ee4aef5626be55c10e8ce099",
+        "release_id": "2024-10-01_1021",
         "repo": "main",
-        "size": 14953677,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/descent2.zip"
+        "size": 14954194,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/descent2.zip"
       },
       "version": 3
     },
@@ -10447,6 +10593,79 @@
       },
       "version": 3
     },
+    "donut.dodo.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "If a long lost arcade game from 1983 resurfaced today, it would be Donut Dodo -- a classic 2D platformer from the golden era, tough as nails and challenging for the whole family! Ready to top the high score table?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You can purchase Donut Dodo at: https://zapposh.itch.io/donut-dodo-retropie-edition. Download and extract it, and place the DonutDodo.pck file in the gamedata directory. This has been tested with DonutDodo_1_39.zip",
+        "inst_md": "You can purchase Donut Dodo at: https://zapposh.itch.io/donut-dodo-retropie-edition\n\nDownload and extract it, and place the DonutDodo.pck file in the gamedata directory. This has been tested with DonutDodo\\_1\\_39.zip",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Donut Dodo"
+      },
+      "items": [
+        "Donut Dodo.sh",
+        "donutdodo/"
+      ],
+      "items_opt": null,
+      "name": "donut.dodo.zip",
+      "source": {
+        "date_added": "2023-09-10",
+        "date_updated": "2024-10-01",
+        "md5": "eb58fd6ccce3fbeb55bbf0213484bebf",
+        "release_id": "2024-10-01_1021",
+        "repo": "main",
+        "size": 68585,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/donut.dodo.zip"
+      },
+      "version": 3
+    },
     "doom3.zip": {
       "attr": {
         "arch": [
@@ -10736,6 +10955,80 @@
         "repo": "main",
         "size": 13534452,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/drbloodshot.zip"
+      },
+      "version": 3
+    },
+    "drilbertiidiggeredoo.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Drilbert the Drill Boy is back! Help Drilbert fulfill his dream of drilling as deep as he can! A little puzzle game where you dig + push. Dig Deep; collect loot; get out.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You can download Drilbert II Diggeredoo for free at: https://wheybags.itch.io/drilbert-ii-diggeredoo \n\nDownload the Drilbert_II_Diggeredoo.zip version and extract it. Within the extracted files, there's a folder named linux with an assets.zip file; extract the contents of assets.zip into the port's gamedata directory.",
+        "inst_md": "You can download Drilbert II Diggeredoo for free at: https://wheybags.itch.io/drilbert-ii-diggeredoo \n\nDownload the Drilbert\\_II\\_Diggeredoo.zip version and extract it. Within the extracted files, there's a folder named linux with an assets.zip file; extract the contents of assets.zip into the port's gamedata directory.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Drilbert II Diggeredoo"
+      },
+      "items": [
+        "Drilbert II Diggeredoo.sh",
+        "drilbertiidiggeredoo"
+      ],
+      "items_opt": null,
+      "name": "drilbertiidiggeredoo.zip",
+      "source": {
+        "date_added": "2024-05-20",
+        "date_updated": "2024-10-01",
+        "md5": "025d4b10d425101dde5de2a48fab9df8",
+        "release_id": "2024-10-01_1021",
+        "repo": "main",
+        "size": 4585906,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/drilbertiidiggeredoo.zip"
       },
       "version": 3
     },
@@ -14761,6 +15054,75 @@
       },
       "version": 3
     },
+    "gaugeofrage.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Gauge Of Rage is a frantic and gory arcade style top down shooter that challenges you to build up and unleash your rage against a never ending onslaught of undead!",
+        "desc_md": "Gauge Of Rage is a frantic and gory arcade style top down shooter that challenges you to build up and unleash your rage against a never ending onslaught of undead!\nNote: Requires Twin Sticks!",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Claim the game from steam. Download it and copy the game files to ports/gaugeofrage/gamedata.",
+        "inst_md": "Claim the game from https://store.steampowered.com/app/917870/Gauge_Of_Rage/. \nDownload the game, copy over all the game files to ports/gaugeofrage/gamedata.",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [
+          "analog_2"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Guage Of Rage"
+      },
+      "items": [
+        "Guage Of Rage.sh",
+        "gaugeofrage"
+      ],
+      "items_opt": null,
+      "name": "gaugeofrage.zip",
+      "source": {
+        "date_added": "2024-10-01",
+        "date_updated": "2024-10-01",
+        "md5": "aeb6991ac1433b08e7e6d73ce6f0c10f",
+        "release_id": "2024-10-01_1021",
+        "repo": "main",
+        "size": 5951986,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/gaugeofrage.zip"
+      },
+      "version": 3
+    },
     "gaurodan.zip": {
       "attr": {
         "arch": [
@@ -15741,6 +16103,7 @@
           "r36s:ALL"
         ],
         "desc": "Welcome to Liberty City. Where it all began. The critically acclaimed blockbuster Grand Theft Auto III brings to life the dark and seedy underworld of Liberty City. With a massive and diverse open world, a wild cast of characters from every walk of life, and the freedom to explore at will, Grand Theft Auto III puts the dark, intriguing, and ruthless world of crime at your fingertips.",
+        "desc_md": null,
         "exp": false,
         "genres": [
           "action"
@@ -15754,6 +16117,7 @@
           "video": null
         },
         "inst": "Copy all files from the original game to roms/ports/gta3. The game requires assets from the classic version released in 2001 (not the Definitive Edition, 2021). Versions from Steam and Rockstar Store are confirmed to work fine.\n\nIf needed, readjust analog sticks sensitivity by changing LeftStickSens/RightStickSens values in re3.ini.",
+        "inst_md": null,
         "porter": [
           "Orson"
         ],
@@ -15777,7 +16141,7 @@
         "size": 6769441,
         "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-04-10_1445/gta3.zip"
       },
-      "version": 2
+      "version": 3
     },
     "gtavc.zip": {
       "attr": {
@@ -15814,6 +16178,7 @@
           "r36s:ALL"
         ],
         "desc": "Welcome to the 1980s. From the decade of big hair, excess, and pastel suits comes a story of one man's rise to the top of the criminal pile as Grand Theft Auto returns.",
+        "desc_md": null,
         "exp": false,
         "genres": [
           "action"
@@ -15827,6 +16192,7 @@
           "video": null
         },
         "inst": "Copy all files from the original game to roms/ports/gtavc. The game requires assets from the classic version released in 2002 (not the Definitive Edition, 2021). Versions from Steam and Rockstar Store are confirmed to work fine.\n\nIf needed, readjust analog sticks sensitivity by changing LeftStickSens/RightStickSens values in reVC.ini.",
+        "inst_md": null,
         "porter": [
           "Orson"
         ],
@@ -15850,7 +16216,7 @@
         "size": 6198815,
         "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-04-10_1445/gtavc.zip"
       },
-      "version": 2
+      "version": 3
     },
     "gumchugirl.zip": {
       "attr": {
@@ -17616,6 +17982,77 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_0905/hovertank3d.zip"
       },
       "version": 3
+    },
+    "humming.out.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A casual 2D pixel platformer adventure game with puzzle elements. You find yourself in a dark cave surrounded by crystals and hostile creatures. As a small and fragile hummingbird, you need to avoid all obstacles and navigate your way out of mysterious places and through challenging puzzles.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You can purchase Humming Out at: https://mfproject.itch.io/hummin-out \n\nDownload the Linux version and extract it, and place the HumminOut.x86_64.pck file in the gamedata directory. This has been tested with the HumminOut_Linux.zip, Dec 04 2022 release.",
+        "inst_md": "You can purchase Humming Out at: https://mfproject.itch.io/hummin-out \n\nDownload the Linux version and extract it, and place the *HumminOut.x86\\_64.pck* file in the gamedata directory. This has been tested with the *HumminOut\\_Linux.zip*, Dec 04 2022 release.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Humming Out"
+      },
+      "items": [
+        "Humming Out.sh",
+        "hummingout"
+      ],
+      "items_opt": null,
+      "name": "humming.out.zip",
+      "source": {
+        "date_added": "2023-10-11",
+        "date_updated": "2024-10-01",
+        "md5": "898a11d17442bb4a1b7d885c8f24f843",
+        "release_id": "2024-10-01_1021",
+        "repo": "main",
+        "size": 21867,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/humming.out.zip"
+      },
+      "version": 2
     },
     "hunters.zip": {
       "attr": {
@@ -21802,6 +22239,7 @@
           "r36s:ALL"
         ],
         "desc": "This project is a fan-made cross-platform clone of Lode Runner Online: The Mad Monks' Revenge.",
+        "desc_md": null,
         "exp": false,
         "genres": [
           "platformer",
@@ -21814,6 +22252,7 @@
           "video": null
         },
         "inst": "You can download Lode Runner Online free at: https://mmr.quarkrobot.com/ . Download the Linux version and extract it, and place the game files in the gamedata directory. This has been tested with the LODERUNN-LINUX-2402.tar.gz release.\n\nYou can change controls in the options (cog) menu, but you must **plug in a mouse to assign the gamepad inputs.**\n\nFor the CD soundtrack, download the DLC here: https://mmr.quarkrobot.com/manual/get-started#soundtrack, and place the LR_AUDIO.PRS file in the port's *savadata* folder.",
+        "inst_md": null,
         "porter": [
           "tabreturn",
           "Slayer366"
@@ -21838,7 +22277,7 @@
         "size": 30491428,
         "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-04-09_1309/loderunneronline.zip"
       },
-      "version": 2
+      "version": 3
     },
     "loopcat.zip": {
       "attr": {
@@ -22193,6 +22632,77 @@
         "repo": "main",
         "size": 16036518,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/luminousslash.zip"
+      },
+      "version": 3
+    },
+    "mableandthewood.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Mable and the Wood is a Metroidvania where you can take the form of the bosses you kill, changing how you're able to explore the interconnected world. It's also a Metroidvania where you don't have to kill anyone.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You can purchase Mable and the Wood at: https://graffiti-games.itch.io/mable-and-the-wood \n\nDownload the Linux version and extract it, and place the game.unx file in the port's gamedata directory. Tested using Mable_Linux_v4.zip, version 4 (Oct 03, 2019).",
+        "inst_md": "You can purchase Mable and the Wood at: https://graffiti-games.itch.io/mable-and-the-wood \n\nDownload the Linux version and extract it, and place the game.unx file in the port's gamedata directory. Tested using *Mable\\_Linux\\_v4.zip*, version 4 (Oct 03, 2019).",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Mable and the Wood"
+      },
+      "items": [
+        "Mable and the Wood.sh",
+        "mableandthewood"
+      ],
+      "items_opt": null,
+      "name": "mableandthewood.zip",
+      "source": {
+        "date_added": "2024-05-17",
+        "date_updated": "2024-10-01",
+        "md5": "6eab6aa25d461331af097178d0dc61cd",
+        "release_id": "2024-10-01_1021",
+        "repo": "main",
+        "size": 31402689,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/mableandthewood.zip"
       },
       "version": 3
     },
@@ -28658,6 +29168,79 @@
       },
       "version": 3
     },
+    "passage.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Passage is a five-minute experimental art game that metaphorically represents an entire human lifetime, allowing players to navigate a pixelated world while exploring themes of love, aging, and mortality.\n\nThe game only lasts 5 minutes. If you don't get the point at first, please keep playing.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Passage"
+      },
+      "items": [
+        "Passage.sh",
+        "passage"
+      ],
+      "items_opt": null,
+      "name": "passage.zip",
+      "source": {
+        "date_added": "2024-10-01",
+        "date_updated": "2024-10-01",
+        "md5": "0688b6cc81d189e801a39bd178193222",
+        "release_id": "2024-10-01_1021",
+        "repo": "main",
+        "size": 255953,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/passage.zip"
+      },
+      "version": 3
+    },
     "paused.zip": {
       "attr": {
         "arch": [
@@ -31401,7 +31984,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": " Rebound is a side scrolling rpg inspired by lisa the painful BBQ Quest and paper mario",
+        "desc": "Rebound is a side scrolling rpg inspired by Lisa the Painful, BBQ Quest, and Paper Mario.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -31413,7 +31996,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "download the game from Itch https://rebound.itch.io/rebound tested with Windows version. extract fishing update contents to the gamedata folder.\n\nNote: This game is not ideal for devices with low resolution displays and/or absent joysticks. ",
+        "inst": "Download the game from https://rebound.itch.io/rebound tested with Windows version. Extract fishing update contents to the gamedata folder.\n\nNote: This game is not ideal for devices with low resolution displays and/or absent joysticks.",
         "inst_md": null,
         "porter": [
           "TheLaggyPyro"
@@ -31431,12 +32014,12 @@
       "name": "rebound.zip",
       "source": {
         "date_added": "2024-06-05",
-        "date_updated": "2024-06-11",
-        "md5": "67d2b345c9e6e3d71339ee60f210bbde",
-        "release_id": "2024-06-11_1523",
+        "date_updated": "2024-10-01",
+        "md5": "e1b338490b92b124e3602d32d022c930",
+        "release_id": "2024-10-01_1021",
         "repo": "main",
-        "size": 5160641,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-11_1523/rebound.zip"
+        "size": 5161020,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/rebound.zip"
       },
       "version": 3
     },
@@ -35124,6 +35707,7 @@
           "r36s:ALL"
         ],
         "desc": "Super Metroid (\u30b9\u30fc\u30d1\u30fc\u30e1\u30c8\u30ed\u30a4\u30c9 S\u016bp\u0101 Metoroido?), also known as Metroid 3, is a video game developed by Nintendo R&D1 and published by Nintendo for the Super Nintendo Entertainment System. Super Metroid is the third installment in the Metroid series. With its 24-megabit (3 megabyte) cartridge size, it was the largest video game on the Super Nintendo at the time of its release\n",
+        "desc_md": null,
         "exp": false,
         "genres": [
           "action",
@@ -35139,6 +35723,7 @@
           "video": null
         },
         "inst": "To make it work just copy the Super Metroid US rom renamed as sm.smc in the root folder.\nFor redux same thing, but use the redux Rom",
+        "inst_md": null,
         "porter": [
           "Tekkenfede"
         ],
@@ -35271,6 +35856,7 @@
           "r36s:ALL"
         ],
         "desc": "Super Mario World is a 2D side-scrolling platform game in which the player controls Mario or Luigi, the protagonists of the game. The game has similar gameplay to earlier games in the Super Mario series \u2013 Super Mario Bros., Super Mario Bros. 2, and Super Mario Bros. 3 \u2013 but introduces new elements. As well as dashing and jumping, the player can also fly or float with the aid of the Cape Feather and P-Balloon and can execute the new Spin Jump move.[",
+        "desc_md": null,
         "exp": false,
         "genres": [
           "platformer"
@@ -35285,6 +35871,7 @@
           "video": null
         },
         "inst": "See Wiki",
+        "inst_md": null,
         "porter": [
           "Tekkenfede"
         ],
@@ -35709,6 +36296,7 @@
           "r36s:ALL"
         ],
         "desc": "A source port of Ocarina of Time &amp; Master Quest. Ship of Harkinian features extensive and significant enhancements over the original game, such as improved performance, increased frame-rate, native ultra-widescreen support, and extensive mod support (especially compared to emulated versions of the original), among other features.",
+        "desc_md": null,
         "exp": false,
         "genres": [
           "action",
@@ -35723,6 +36311,7 @@
           "video": null
         },
         "inst": "Follow the guide at https://www.shipofharkinian.com/setup-guide for your desired platform to create your oot.otr and/or oot-mq.otr files. Once created put in the ports/soh folder.",
+        "inst_md": null,
         "porter": [
           "Jeod"
         ],
@@ -35746,7 +36335,7 @@
         "size": 25569522,
         "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-09-27_1617/soh.zip"
       },
-      "version": 2
+      "version": 3
     },
     "soh2.zip": {
       "attr": {
@@ -35783,6 +36372,7 @@
           "r36s:ALL"
         ],
         "desc": "A source port of Majora's Mask. 2Ship2Harkinian (aka SoH2) features extensive and significant enhancements over the original game, such as improved performance, increased frame-rate, native ultra-widescreen support, and extensive mod support (especially compared to emulated versions of the original), among other features.",
+        "desc_md": null,
         "exp": false,
         "genres": [
           "action",
@@ -35797,6 +36387,7 @@
           "video": null
         },
         "inst": "Follow the guide in the readme to generate your mm.o2r file. Once created put in the ports/soh2 folder.",
+        "inst_md": null,
         "porter": [
           "Jeod"
         ],
@@ -35820,7 +36411,7 @@
         "size": 21170947,
         "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-09-27_1617/soh2.zip"
       },
-      "version": 2
+      "version": 3
     },
     "sokobrawn.zip": {
       "attr": {
@@ -37514,12 +38105,12 @@
       "name": "spookynakki.zip",
       "source": {
         "date_added": "2024-09-14",
-        "date_updated": "2024-09-15",
-        "md5": "356262fb4dbeae9a1ae1be5a23f296b7",
-        "release_id": "2024-09-15_1157",
+        "date_updated": "2024-10-01",
+        "md5": "eefaeb2cce4ffe98ff3a40309eafeff3",
+        "release_id": "2024-10-01_1021",
         "repo": "main",
-        "size": 23714867,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-15_1157/spookynakki.zip"
+        "size": 21271090,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/spookynakki.zip"
       },
       "version": 3
     },
@@ -37668,6 +38259,81 @@
         "repo": "main",
         "size": 221179829,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/srb2kart.zip"
+      },
+      "version": 3
+    },
+    "starboy.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "During its journey StarBoy crashed and got lost in an unknown planet, help him return back to its spaceship!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You can purchase StarBoy at: https://mrkdji.itch.io/starboy \n\nDownload and extract it, and place the starboy_linux.pck file in the gamedata directory. This has been tested with starboy_linux.zip, version 1.0.3",
+        "inst_md": "You can purchase StarBoy at: https://mrkdji.itch.io/starboy \n\nDownload and extract it, and place the *starboy\\_linux.pck* file in the gamedata directory. This has been tested with *starboy\\_linux.zip*, version 1.0.3",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.3.2.squashfs",
+        "title": "StarBoy"
+      },
+      "items": [
+        "StarBoy.sh",
+        "starboy/"
+      ],
+      "items_opt": null,
+      "name": "starboy.zip",
+      "source": {
+        "date_added": "2023-09-10",
+        "date_updated": "2024-10-01",
+        "md5": "f94e005f9b0380f6197e072d04fc8616",
+        "release_id": "2024-10-01_1021",
+        "repo": "main",
+        "size": 29486,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/starboy.zip"
       },
       "version": 3
     },
@@ -38747,13 +39413,13 @@
       "items_opt": null,
       "name": "super.mario.war.zip",
       "source": {
-        "date_added": "2021-09-10",
-        "date_updated": "2024-07-18",
-        "md5": "525a2f809502c054781f2cf278c7f794",
-        "release_id": "2024-07-18_2225",
-        "repo": "main",
-        "size": 38506029,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/super.mario.war.zip"
+        "date_added": "2021-12-21",
+        "date_updated": "2024-10-01",
+        "md5": "bb35768b14836a8f1f9b50444705f8d5",
+        "release_id": "2024-10-01_1015",
+        "repo": "multiverse",
+        "size": 38505494,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-01_1015/super.mario.war.zip"
       },
       "version": 3
     },
@@ -38901,6 +39567,79 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/supercratebox.zip"
       },
       "version": 3
+    },
+    "superdrome.bugs.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "One day, Simon Pray -- a pest extinguisher living in Mexico, where for some reason pests are nowhere to be found -- receives a call from a luxurious mansion offering him a job. Something doesn't seem right, but Simon doesn't have time to think about it, he needs the money!. Join S.Pray and help him get rid of the pests!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You can download SuperDome Bugs for free at: https://pistachoduck.itch.io/superdrome-bugs \n\nDownload the SuperDromerBugs_Linux64.zip version and extract it, and place the SuperDromerBugs_Linux64.pck file in the gamedata directory.",
+        "inst_md": "You can download SuperDome Bugs for free at: https://pistachoduck.itch.io/superdrome-bugs \n\nDownload the *SuperDromerBugs\\_Linux64.zip* version and extract it, and place the *SuperDromerBugs\\_Linux64.pck* file in the gamedata directory.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.3.4.squashfs",
+        "title": "SuperDrome Bugs"
+      },
+      "items": [
+        "SuperDrome Bugs.sh",
+        "Superdromebugs"
+      ],
+      "items_opt": null,
+      "name": "superdrome.bugs.zip",
+      "source": {
+        "date_added": "2024-01-22",
+        "date_updated": "2024-10-01",
+        "md5": "6148b92fc3f655cfe62483fd8eed7867",
+        "release_id": "2024-10-01_1021",
+        "repo": "main",
+        "size": 24046,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/superdrome.bugs.zip"
+      },
+      "version": 2
     },
     "superdungeonmuncher.zip": {
       "attr": {
@@ -41688,6 +42427,77 @@
       },
       "version": 3
     },
+    "trolley.delayma.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Trolley Delayma is a tiny puzzle game where you move around manipulating the tracks to save the victims and delay the inevitable fate forever. A combination of puzzle solving and fast reaction to save everyone, including you!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You can download Trolley Delayma free at: https://albertnez.itch.io/trolley-delayma \n\nDownload the Linux version version and extract it, and place the trolley_delayma.run.pck file in the gamedata directory. This has been tested with the linux_v1_0_1.zip release.",
+        "inst_md": "You can download Trolley Delayma free at: https://albertnez.itch.io/trolley-delayma \n\nDownload the Linux version version and extract it, and place the *trolley\\_delayma.run.pck* file in the gamedata directory. This has been tested with the *linux\\_v1\\_0\\_1.zip* release.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Trolley Delayma"
+      },
+      "items": [
+        "Trolley Delayma.sh",
+        "trolleydelayma/"
+      ],
+      "items_opt": null,
+      "name": "trolley.delayma.zip",
+      "source": {
+        "date_added": "2024-01-22",
+        "date_updated": "2024-10-01",
+        "md5": "f3b1663cc9f18d8bc71b33a60841d61c",
+        "release_id": "2024-10-01_1021",
+        "repo": "main",
+        "size": 10543991,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/trolley.delayma.zip"
+      },
+      "version": 3
+    },
     "tube64.zip": {
       "attr": {
         "arch": [
@@ -41827,12 +42637,12 @@
       "name": "tunics.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-09-04",
-        "md5": "e7299368b298f4fda2f94af2dbcf19d2",
-        "release_id": "2024-09-04_1203",
-        "repo": "main",
+        "date_updated": "2024-10-01",
+        "md5": "e24d67d9427b8a3b71462270ed3ded33",
+        "release_id": "2024-10-01_1015",
+        "repo": "multiverse",
         "size": 338814,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/tunics.zip"
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-01_1015/tunics.zip"
       },
       "version": 3
     },
@@ -43792,6 +44602,7 @@
           "r36s:ALL"
         ],
         "desc": "Wipeout is a racing game that is set in 2052, where players compete in the F3600 anti-gravity racing league. The game allows the player to pilot one of a selection of craft in races on several different tracks.",
+        "desc_md": null,
         "exp": false,
         "genres": [
           "racing"
@@ -43805,6 +44616,7 @@
           "video": null
         },
         "inst": "Copy the game data inside the wipeout folder. A prepackaged zip is avaiable on phoboslab site",
+        "inst_md": null,
         "porter": [
           "Tekkenfede"
         ],
@@ -45057,12 +45869,12 @@
       "name": "zelda-bookofmudora.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-04-01",
-        "md5": "07a38ef33a51afd9c393ad5307298045",
-        "release_id": "2024-04-01_0052",
-        "repo": "main",
-        "size": 287532,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/zelda-bookofmudora.zip"
+        "date_updated": "2024-10-01",
+        "md5": "d5fab8c255cba79f0eaaceb8d472f948",
+        "release_id": "2024-10-01_1015",
+        "repo": "multiverse",
+        "size": 287360,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-01_1015/zelda-bookofmudora.zip"
       },
       "version": 3
     },
@@ -45129,12 +45941,12 @@
       "name": "zelda-mercurischest.zip",
       "source": {
         "date_added": "2024-02-19",
-        "date_updated": "2024-04-01",
-        "md5": "9ea002b05b42205cbc7b69571638653d",
-        "release_id": "2024-04-01_0052",
-        "repo": "main",
-        "size": 295529,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/zelda-mercurischest.zip"
+        "date_updated": "2024-10-01",
+        "md5": "5caf2dee79c33bf97f73ec68b8500070",
+        "release_id": "2024-10-01_1015",
+        "repo": "multiverse",
+        "size": 295542,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-01_1015/zelda-mercurischest.zip"
       },
       "version": 3
     },
@@ -45203,12 +46015,12 @@
       "name": "zelda-mysteryofsolarusdx.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-09-04",
-        "md5": "8354d918938027cc5de420c1b15cff45",
-        "release_id": "2024-09-04_1203",
-        "repo": "main",
-        "size": 373287,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/zelda-mysteryofsolarusdx.zip"
+        "date_updated": "2024-10-01",
+        "md5": "c84140d07749fcc367a335b80f3400bc",
+        "release_id": "2024-10-01_1015",
+        "repo": "multiverse",
+        "size": 373102,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-01_1015/zelda-mysteryofsolarusdx.zip"
       },
       "version": 3
     },
@@ -45275,12 +46087,12 @@
       "name": "zelda-mysteryofsolarusxd.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-04-07",
-        "md5": "2f8846d41c69ab82d786d09df7ec522e",
-        "release_id": "2024-04-07_0255",
-        "repo": "main",
-        "size": 279422,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/zelda-mysteryofsolarusxd.zip"
+        "date_updated": "2024-10-01",
+        "md5": "aa4284f0c12b92513857051e237eb25b",
+        "release_id": "2024-10-01_1015",
+        "repo": "multiverse",
+        "size": 279249,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-01_1015/zelda-mysteryofsolarusxd.zip"
       },
       "version": 3
     },
@@ -45347,12 +46159,12 @@
       "name": "zelda-roth-se.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-04-01",
-        "md5": "b424e31e9cb30ebce60534eb76f7b6cb",
-        "release_id": "2024-04-01_0052",
-        "repo": "main",
-        "size": 281170,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/zelda-roth-se.zip"
+        "date_updated": "2024-10-01",
+        "md5": "b07253247fbf7720eac52365c1aa8d36",
+        "release_id": "2024-10-01_1015",
+        "repo": "multiverse",
+        "size": 280999,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-01_1015/zelda-roth-se.zip"
       },
       "version": 3
     },
@@ -45391,6 +46203,7 @@
           "r36s:ALL"
         ],
         "desc": "*For devices with lower resolution of 640x480 or weird low res aspect ratio you need to modify the zelda3.ini file* The game begins with series protagonist Link, the last descendant of the Knights of Hyrule, and his uncle, being awakened by a telepathic message from Zelda, who says that she has been locked in Hyrule Castle's dungeon by Agahnim and requires rescue. Link's uncle goes to rescue her first, and Link follows despite his uncle's orders to remain home. His uncle is slain, though beforehand, Link receives a sword and shield from him. Link infiltrates Hyrule Castle and successfully hides Zelda in the Sanctuary as his uncle's last wish.",
+        "desc_md": null,
         "exp": false,
         "genres": [
           "action",
@@ -45405,6 +46218,7 @@
           "video": null
         },
         "inst": "Copy  the zelda3_assets.dat file in the root of the zelda folder. The file can be obtained from the snes rom.",
+        "inst_md": null,
         "porter": [
           "Tekkenfede"
         ],
@@ -45495,12 +46309,12 @@
       "name": "zelda3t.zip",
       "source": {
         "date_added": "2023-11-06",
-        "date_updated": "2024-07-18",
-        "md5": "846d8ca2ed4f5e5b3bb3a3602be67291",
-        "release_id": "2024-07-18_2225",
-        "repo": "main",
-        "size": 31226460,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/zelda3t.zip"
+        "date_updated": "2024-10-01",
+        "md5": "c1d0ef6c17b5a8e8169689bc0e4be588",
+        "release_id": "2024-10-01_1015",
+        "repo": "multiverse",
+        "size": 31189414,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-01_1015/zelda3t.zip"
       },
       "version": 3
     },
@@ -45569,12 +46383,12 @@
       "name": "zelda_roth.zip",
       "source": {
         "date_added": "2023-11-06",
-        "date_updated": "2024-07-18",
-        "md5": "4214cca6ce3b4ae302ab871020149149",
-        "release_id": "2024-07-18_2225",
-        "repo": "main",
-        "size": 74539078,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/zelda_roth.zip"
+        "date_updated": "2024-10-01",
+        "md5": "b94ed8500dc0af59570cd2ea82776a83",
+        "release_id": "2024-10-01_1015",
+        "repo": "multiverse",
+        "size": 74527511,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-01_1015/zelda_roth.zip"
       },
       "version": 3
     },
@@ -45643,12 +46457,12 @@
       "name": "zeldansq.zip",
       "source": {
         "date_added": "2023-11-06",
-        "date_updated": "2024-07-18",
-        "md5": "29352389e763598f5faf272c48510ea6",
-        "release_id": "2024-07-18_2225",
-        "repo": "main",
-        "size": 21677567,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/zeldansq.zip"
+        "date_updated": "2024-10-01",
+        "md5": "cdf55095700bc1eaa48bbb0c8030e35a",
+        "release_id": "2024-10-01_1015",
+        "repo": "multiverse",
+        "size": 21663234,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-01_1015/zeldansq.zip"
       },
       "version": 3
     },
@@ -45717,12 +46531,12 @@
       "name": "zeldaolb.zip",
       "source": {
         "date_added": "2023-11-06",
-        "date_updated": "2024-07-27",
-        "md5": "2e89dacc9cc9335e79dbf761ed1f5c09",
-        "release_id": "2024-07-27_0224",
-        "repo": "main",
-        "size": 132447348,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-27_0224/zeldaolb.zip"
+        "date_updated": "2024-10-01",
+        "md5": "374abe87e49f43ea8df20d33261e4401",
+        "release_id": "2024-10-01_1015",
+        "repo": "multiverse",
+        "size": 132427922,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-01_1015/zeldaolb.zip"
       },
       "version": 3
     },
@@ -45789,12 +46603,12 @@
       "name": "zeldaxd-mercurischess.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-04-07",
-        "md5": "12ad4d6c9ef8a0a4c10315f18849c628",
-        "release_id": "2024-04-07_0255",
-        "repo": "main",
-        "size": 281211,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/zeldaxd-mercurischess.zip"
+        "date_updated": "2024-10-01",
+        "md5": "ecf9e1bb71e6dbede36b8b75ae35eabc",
+        "release_id": "2024-10-01_1015",
+        "repo": "multiverse",
+        "size": 281039,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-01_1015/zeldaxd-mercurischess.zip"
       },
       "version": 3
     },
@@ -45861,12 +46675,12 @@
       "name": "zeldoschallenge.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-04-01",
-        "md5": "3b982e43cc69249d718e55db4f0db568",
-        "release_id": "2024-04-01_0052",
-        "repo": "main",
-        "size": 307028,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/zeldoschallenge.zip"
+        "date_updated": "2024-10-01",
+        "md5": "faf829f572f6277ac1c3a206fcbf84a9",
+        "release_id": "2024-10-01_1015",
+        "repo": "multiverse",
+        "size": 306855,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-01_1015/zeldoschallenge.zip"
       },
       "version": 3
     },
@@ -45933,12 +46747,12 @@
       "name": "zeldoschallenge2.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-04-01",
-        "md5": "aeabf51a94ee964a33f2fa5ddfe94630",
-        "release_id": "2024-04-01_0052",
-        "repo": "main",
-        "size": 773423,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/zeldoschallenge2.zip"
+        "date_updated": "2024-10-01",
+        "md5": "24690919fcaa7da59e76483b711aae9c",
+        "release_id": "2024-10-01_1015",
+        "repo": "multiverse",
+        "size": 773251,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-01_1015/zeldoschallenge2.zip"
       },
       "version": 3
     },
@@ -46225,12 +47039,12 @@
       "name": "ziiaol.zip",
       "source": {
         "date_added": "2024-08-06",
-        "date_updated": "2024-09-04",
-        "md5": "e2e95786c3a172747030347ccf425a42",
-        "release_id": "2024-09-04_1203",
-        "repo": "main",
+        "date_updated": "2024-10-01",
+        "md5": "c23d59624003955882d286105eed58f5",
+        "release_id": "2024-10-01_1015",
+        "repo": "multiverse",
         "size": 11110973,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/ziiaol.zip"
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-01_1015/ziiaol.zip"
       },
       "version": 3
     },
