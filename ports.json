@@ -17923,6 +17923,79 @@
       },
       "version": 3
     },
+    "hordes.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "The Hordes is a shooter in the style of classic arcade titles from the 80s, with enemies that only get harder when you power up.  Max out your power up and you'll be firing an arc of ten bullets at at time, at enemies that are worth ten times as much! Developed by Pug Fugly Games. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from https://pugfuglygames.itch.io/the-hordes and copy data.win into the port folder. ",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "The Hordes"
+      },
+      "items": [
+        "The Hordes.sh",
+        "hordes"
+      ],
+      "items_opt": null,
+      "name": "hordes.zip",
+      "source": {
+        "date_added": "2024-10-03",
+        "date_updated": "2024-10-03",
+        "md5": "4600eb4612f2766e2a26985c6520db6f",
+        "release_id": "2024-10-03_1624",
+        "repo": "main",
+        "size": 15254828,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-03_1624/hordes.zip"
+      },
+      "version": 3
+    },
     "hota.zip": {
       "attr": {
         "arch": [
@@ -20163,6 +20236,79 @@
         "repo": "main",
         "size": 4009075,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/justanotherpong.zip"
+      },
+      "version": 3
+    },
+    "kaijubigbattel.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Giant monster mayhem! The evil Dr. Cube has used a forbidden weapon to tear apart time and space. It's up to the Kaiju Big Battel Heroes to travel through time and set things right!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from https://super-walrus-games.itch.io/kaiju-big-battel-fighto-fantasy and download the Windows version (Linux should work fine, and probably the Steam versions too). Copy the game file named kaiju.rpg to the port directory. Alternatively, you could play the DEMO version (also on the itch page) -- but using the file named kaijudemo.rpg",
+        "inst_md": "Purchase the game from [https://super-walrus-games.itch.io/kaiju-big-battel-fighto-fantasy](https://super-walrus-games.itch.io/kaiju-big-battel-fighto-fantasy) and download the Windows version (Linux should work fine, and probably the Steam versions too). Copy the game file named *kaiju.rpg* to the port directory. Alternatively, you could play the DEMO version (also on the itch page) -- but using the file named *kaijudemo.rpg*",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Kaiju Big Battel: Fighto Fantasy"
+      },
+      "items": [
+        "Kaiju Big Battel - Fighto Fantasy.sh",
+        "kaijubigbattel"
+      ],
+      "items_opt": null,
+      "name": "kaijubigbattel.zip",
+      "source": {
+        "date_added": "2024-10-03",
+        "date_updated": "2024-10-03",
+        "md5": "dfbf0e8af0e4e73fe3d58fd8a30a888c",
+        "release_id": "2024-10-03_1624",
+        "repo": "main",
+        "size": 2710918,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-03_1624/kaijubigbattel.zip"
       },
       "version": 3
     },
@@ -24198,12 +24344,12 @@
       "name": "minidoom.zip",
       "source": {
         "date_added": "2024-09-10",
-        "date_updated": "2024-09-10",
-        "md5": "7441be34f3f46c14ede63fbf76ed12ca",
-        "release_id": "2024-09-10_1619",
+        "date_updated": "2024-10-03",
+        "md5": "22fd38b99f0b2d40d2d7eb754f12396b",
+        "release_id": "2024-10-03_1624",
         "repo": "main",
-        "size": 10609443,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-10_1619/minidoom.zip"
+        "size": 11170383,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-03_1624/minidoom.zip"
       },
       "version": 3
     },
@@ -34761,7 +34907,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game from Steam: https://store.steampowered.com/app/1546570/Sword_and_Fairy/ and put all files into the sdlpal/gamedata folder",
+        "inst": "Purchase the game from Steam: https://store.steampowered.com/app/1546570/Sword_and_Fairy/ and put all files into the sdlpal/gamedata folder. Add the english translation into the sdlpal/gamedata from: https://www.romhacking.net/translations/2441/. If you want to play in other language, modify the variable 'MessageFileName' at the file sdlpal/sdlpal.cfg with the one you want or empty for original language.",
         "inst_md": null,
         "porter": [
           "feserr"
@@ -34779,12 +34925,12 @@
       "name": "sdlpal.zip",
       "source": {
         "date_added": "2024-08-01",
-        "date_updated": "2024-09-27",
-        "md5": "d375d52802f77f29aa274e6ac7e96f82",
-        "release_id": "2024-09-27_1324",
+        "date_updated": "2024-10-03",
+        "md5": "59edd017954e0ac28b312705831cf2bb",
+        "release_id": "2024-10-03_1624",
         "repo": "main",
-        "size": 14201294,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-27_1324/sdlpal.zip"
+        "size": 14201419,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-03_1624/sdlpal.zip"
       },
       "version": 3
     },
@@ -38476,6 +38622,79 @@
         "repo": "main",
         "size": 21271090,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/spookynakki.zip"
+      },
+      "version": 3
+    },
+    "squeek.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A game about a whimpy mouse who cant fight, who has to save his friends from orcs.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready 2 Run\n",
+        "inst_md": null,
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Squeek the Meek"
+      },
+      "items": [
+        "Squeek the Meek.sh",
+        "squeek/"
+      ],
+      "items_opt": null,
+      "name": "squeek.zip",
+      "source": {
+        "date_added": "2024-10-03",
+        "date_updated": "2024-10-03",
+        "md5": "7e0daf78ed6d5dc8a4a33126d8831992",
+        "release_id": "2024-10-03_1624",
+        "repo": "main",
+        "size": 48288067,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-03_1624/squeek.zip"
       },
       "version": 3
     },
@@ -42937,6 +43156,79 @@
       },
       "version": 3
     },
+    "tumbledown.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Drive, jump, and honk your way to the top of this exceedingly punishing platformer. Be careful, it's a long, long way down if you fall. Includes controller support, a speedrun timer, regular secrets, and secret secrets.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download from https://managore.itch.io/tumbledown-drive and copy data.win into port folder. ",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Tumbledown Drive"
+      },
+      "items": [
+        "Tumbledown Drive.sh",
+        "tumbledown"
+      ],
+      "items_opt": null,
+      "name": "tumbledown.zip",
+      "source": {
+        "date_added": "2024-10-03",
+        "date_updated": "2024-10-03",
+        "md5": "b60cfce55021938b6244d8198d89f85a",
+        "release_id": "2024-10-03_1624",
+        "repo": "main",
+        "size": 14114922,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-03_1624/tumbledown.zip"
+      },
+      "version": 3
+    },
     "tunics.zip": {
       "attr": {
         "arch": [],
@@ -44405,12 +44697,12 @@
       "name": "vitasnake.zip",
       "source": {
         "date_added": "2024-09-24",
-        "date_updated": "2024-09-24",
-        "md5": "e3a57af70f6d73b9538344eef49ec315",
-        "release_id": "2024-09-24_0718",
+        "date_updated": "2024-10-03",
+        "md5": "b9de72297f6aa3a3749c8ad0aec88045",
+        "release_id": "2024-10-03_1624",
         "repo": "main",
-        "size": 13485785,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-24_0718/vitasnake.zip"
+        "size": 13553971,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-03_1624/vitasnake.zip"
       },
       "version": 3
     },
