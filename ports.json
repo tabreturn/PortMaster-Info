@@ -17850,6 +17850,79 @@
       },
       "version": 3
     },
+    "holotzcastle.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A great mystery is hidden beyond the walls of Holotz's Castle. Will you be able to help Ybelle and Ludar to escape alive from the castle? Test your dexterity with this tremendously exciting platform game!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Holotz Castle"
+      },
+      "items": [
+        "Holotz Castle.sh",
+        "holotzcastle"
+      ],
+      "items_opt": null,
+      "name": "holotzcastle.zip",
+      "source": {
+        "date_added": "2024-10-04",
+        "date_updated": "2024-10-04",
+        "md5": "ea34ada47402517c8dda2aad38fe2aa7",
+        "release_id": "2024-10-04_1330",
+        "repo": "main",
+        "size": 5016691,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-04_1330/holotzcastle.zip"
+      },
+      "version": 3
+    },
     "honeyguardian.zip": {
       "attr": {
         "arch": [
@@ -24344,12 +24417,12 @@
       "name": "minidoom.zip",
       "source": {
         "date_added": "2024-09-10",
-        "date_updated": "2024-10-03",
-        "md5": "22fd38b99f0b2d40d2d7eb754f12396b",
-        "release_id": "2024-10-03_1624",
+        "date_updated": "2024-10-04",
+        "md5": "72f873caf42a3d6c3dbbc1fa998dece3",
+        "release_id": "2024-10-04_1330",
         "repo": "main",
-        "size": 11170383,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-03_1624/minidoom.zip"
+        "size": 10609443,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-04_1330/minidoom.zip"
       },
       "version": 3
     },
@@ -38616,12 +38689,12 @@
       "name": "spookynakki.zip",
       "source": {
         "date_added": "2024-09-14",
-        "date_updated": "2024-10-01",
-        "md5": "eefaeb2cce4ffe98ff3a40309eafeff3",
-        "release_id": "2024-10-01_1021",
+        "date_updated": "2024-10-04",
+        "md5": "a7acc56e7adc111c454a747623ef6cd9",
+        "release_id": "2024-10-04_1330",
         "repo": "main",
-        "size": 21271090,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/spookynakki.zip"
+        "size": 21271091,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-04_1330/spookynakki.zip"
       },
       "version": 3
     },
@@ -40274,7 +40347,7 @@
           "video": null
         },
         "inst": "Download the game and extract it. Put the data.win from the extracted folder into your ports/superdungeonmuncher folder.",
-        "inst_md": "1. [Download the game](https://n-nexy.itch.io/super-dungeon-muncher) and extract it. 2. Move the `data.win` file from the extracted folder to your `ports/superdungeonmuncher` folder.",
+        "inst_md": "1. [Download the game](https://n-nexy.itch.io/super-dungeon-muncher) and extract it. 2. Move the `data.win` and `options.ini` files from the extracted folder to your `ports/superdungeonmuncher/gamedata` folder.",
         "porter": [
           "turbo_16bit"
         ],
@@ -40291,12 +40364,12 @@
       "name": "superdungeonmuncher.zip",
       "source": {
         "date_added": "2024-08-19",
-        "date_updated": "2024-08-21",
-        "md5": "033e9fdc65a7f9effe9c67d86acdb6cf",
-        "release_id": "2024-08-21_2136",
+        "date_updated": "2024-10-04",
+        "md5": "14a0cc4ceebb430adf7495cdccb38f02",
+        "release_id": "2024-10-04_1330",
         "repo": "main",
-        "size": 16963618,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-21_2136/superdungeonmuncher.zip"
+        "size": 10037519,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-04_1330/superdungeonmuncher.zip"
       },
       "version": 3
     },
