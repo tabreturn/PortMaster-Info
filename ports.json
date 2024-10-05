@@ -14118,6 +14118,79 @@
       },
       "version": 3
     },
+    "flaskoman.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Flaskoman is a puzzle platformer in a steampunk laboratory. Use mysterious liquids to activate lab mechanism and your abilities.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from Steam (https://store.steampowered.com/app/1645940/Flaskoman) and copy the game files to the port gamedata directory.",
+        "inst_md": "Purchase the game from [Steam](https://store.steampowered.com/app/1645940/Flaskoman) and copy the game files to the port `gamedata` directory.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Flaskoman"
+      },
+      "items": [
+        "Flaskoman.sh",
+        "flaskoman"
+      ],
+      "items_opt": null,
+      "name": "flaskoman.zip",
+      "source": {
+        "date_added": "2024-10-05",
+        "date_updated": "2024-10-05",
+        "md5": "480dbefeff6d5f08a145e5ae856cd336",
+        "release_id": "2024-10-05_0853",
+        "repo": "main",
+        "size": 8868623,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-05_0853/flaskoman.zip"
+      },
+      "version": 3
+    },
     "flywrench.zip": {
       "attr": {
         "arch": [
@@ -22572,6 +22645,79 @@
       },
       "version": 3
     },
+    "locust.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Horror-Mystery-Exploration-Brick-Breaking with BOSS FIGHTS and 80s REFERENCES - fight a malevolent supercomputer, scour a dead guy's house for clues, collect keycards, banish a basement demon! From the master of breakout games Harley Wilson aka CURSED BOOTLEG INC. at https://hwilson.itch.io/locustusa2",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "LOCUST USA"
+      },
+      "items": [
+        "LOCUST USA.sh",
+        "locust"
+      ],
+      "items_opt": null,
+      "name": "locust.zip",
+      "source": {
+        "date_added": "2024-10-05",
+        "date_updated": "2024-10-05",
+        "md5": "026ddc53677065c40ae4e6b6aa59100d",
+        "release_id": "2024-10-05_0853",
+        "repo": "main",
+        "size": 31289439,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-05_0853/locust.zip"
+      },
+      "version": 3
+    },
     "lode.zip": {
       "attr": {
         "arch": [
@@ -26733,6 +26879,79 @@
         "repo": "main",
         "size": 11807206,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/nidhogg.zip"
+      },
+      "version": 3
+    },
+    "nikwi.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "You play the role of a 9 year old boy in his absolute dream: a world made of sweets! Guide Nikwi through his dream to eat everything in each of the 30 levels, while you avoid the monsters who try to turn Nikwi's dream into a nightmare.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Nikwi Deluxe"
+      },
+      "items": [
+        "Nikwi Deluxe.sh",
+        "nikwi"
+      ],
+      "items_opt": null,
+      "name": "nikwi.zip",
+      "source": {
+        "date_added": "2024-10-05",
+        "date_updated": "2024-10-05",
+        "md5": "ec1adb864d53ef565ea1fcd971863490",
+        "release_id": "2024-10-05_0853",
+        "repo": "main",
+        "size": 1382764,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-05_0853/nikwi.zip"
       },
       "version": 3
     },
