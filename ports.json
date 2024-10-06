@@ -19642,7 +19642,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Copy the game data from your Steam installation to ports/iosas/assets",
+        "inst": "Copy the game data from your Steam or Itch.io installation (v1.02a) to ports/iosas/gamedata",
         "inst_md": null,
         "porter": [
           "Jeod",
@@ -19661,12 +19661,12 @@
       "name": "iosas.zip",
       "source": {
         "date_added": "2024-09-04",
-        "date_updated": "2024-09-04",
-        "md5": "e79576a52098df772a7f8f73c0dc39d5",
-        "release_id": "2024-09-04_2145",
+        "date_updated": "2024-10-06",
+        "md5": "12808707601f067c65546ff5271ed5c4",
+        "release_id": "2024-10-06_1931",
         "repo": "main",
-        "size": 12263538,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_2145/iosas.zip"
+        "size": 12167595,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-06_1931/iosas.zip"
       },
       "version": 3
     },
@@ -22569,6 +22569,79 @@
         "repo": "main",
         "size": 8151,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-08_0351/littlefroggame.zip"
+      },
+      "version": 3
+    },
+    "littlegptracker.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "LittleGPTracker (a.k.a 'The piggy') is a music tracker optimised to run on portable game consoles.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "App files are already included.",
+        "inst_md": null,
+        "porter": [
+          "ohol-vitaliy"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "LittleGPTracker"
+      },
+      "items": [
+        "LittleGPTracker.sh",
+        "littlegptracker"
+      ],
+      "items_opt": null,
+      "name": "littlegptracker.zip",
+      "source": {
+        "date_added": "2024-10-06",
+        "date_updated": "2024-10-06",
+        "md5": "250b4a5501b63d6488d0233863156c3a",
+        "release_id": "2024-10-06_1931",
+        "repo": "main",
+        "size": 901338,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-06_1931/littlegptracker.zip"
       },
       "version": 3
     },
@@ -33453,12 +33526,12 @@
       "name": "restore.portmaster.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-07-17",
-        "md5": "ec410bd5906f7972a8327d6284ead85d",
-        "release_id": "2024-07-17_1729",
+        "date_updated": "2024-10-06",
+        "md5": "b4ae9c5ec250ffeb2c89a859dc1ffc07",
+        "release_id": "2024-10-06_1931",
         "repo": "main",
-        "size": 12180175,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-17_1729/restore.portmaster.zip"
+        "size": 17040011,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-06_1931/restore.portmaster.zip"
       },
       "version": 3
     },
@@ -43885,6 +43958,81 @@
         "repo": "main",
         "size": 13610576,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/udlrmodify.zip"
+      },
+      "version": 3
+    },
+    "ufo50.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "UFO 50 is a collection of 50 single and multiplayer games that span a variety of genres, from platformers and shoot 'em ups to puzzle games, roguelites, and RPGs. Our goal is to combine a familiar 8-bit aesthetic with new ideas and modern game design.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and add the game data to `ports/ufo50/gamedata`.",
+        "inst_md": null,
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "UFO 50"
+      },
+      "items": [
+        "UFO 50.sh",
+        "ufo50"
+      ],
+      "items_opt": null,
+      "name": "ufo50.zip",
+      "source": {
+        "date_added": "2024-10-06",
+        "date_updated": "2024-10-06",
+        "md5": "6723e25005b00c762108241f4675d3d5",
+        "release_id": "2024-10-06_1931",
+        "repo": "main",
+        "size": 32256258,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-06_1931/ufo50.zip"
       },
       "version": 3
     },
