@@ -8170,6 +8170,77 @@
       },
       "version": 3
     },
+    "cmdungeon.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "CMDungeon is a platform puzzle game where you need to \"cheat\" to win, using the terminals around the rooms planning your strategy based on your keys. Developed by Lucas \"Cuca\" Coelho.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Go to the game's itch site at https://cuca.itch.io/cmdungeon and download the cmdungeonv0.2.0_linux_x11.zip and place it into port folder. ",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.2.3.squashfs",
+        "title": "CMDungeon"
+      },
+      "items": [
+        "CMdungeon.sh",
+        "cmdungeon"
+      ],
+      "items_opt": null,
+      "name": "cmdungeon.zip",
+      "source": {
+        "date_added": "2024-10-07",
+        "date_updated": "2024-10-07",
+        "md5": "da15a8649bbb3ce568d88eb0ef8ab95f",
+        "release_id": "2024-10-07_1714",
+        "repo": "main",
+        "size": 7444,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-07_1714/cmdungeon.zip"
+      },
+      "version": 3
+    },
     "cognizance.zip": {
       "attr": {
         "arch": [
@@ -21623,6 +21694,81 @@
       },
       "version": 3
     },
+    "librespot.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Spotify Connect uses Librespot which allows you to stream music to your handheld via Spotify Premium. It even works in the background, allowing you to play music, no matter what your doing on your handheld!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is ready to run:\n- Install \"Spotify Connect\" port.\n- Open the port and toggle it on.\n- Select your handheld in Spotify devices on your Desktop or phone.\n- Close app if you want to play games. (L1 + R1)\n- The app dynamically registers if Spotify is running, so if you want to turn it off,  just open the port again and use the toggle switch.",
+        "inst_md": "This port is ready to run:\n- Install \"Spotify Connect\" port.\n- Open the port and toggle it on.\n- Select your handheld in Spotify devices on your Desktop or phone.\n- Close app if you want to play games. (L1 + R1)\n- The app dynamically registers if Spotify is running, so if you want to turn it off,  just open the port again and use the toggle switch.",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Spotify Connect"
+      },
+      "items": [
+        "Spotify Connect.sh",
+        "librespot"
+      ],
+      "items_opt": null,
+      "name": "librespot.zip",
+      "source": {
+        "date_added": "2024-10-07",
+        "date_updated": "2024-10-07",
+        "md5": "46a838686bf61bf07ef5ba1c4a802087",
+        "release_id": "2024-10-07_1714",
+        "repo": "main",
+        "size": 8346782,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-07_1714/librespot.zip"
+      },
+      "version": 3
+    },
     "lierolibre.zip": {
       "attr": {
         "arch": [
@@ -23504,6 +23650,83 @@
         "repo": "main",
         "size": 5113915,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/magnibox.zip"
+      },
+      "version": 3
+    },
+    "mago.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A classic magical adventure with beautiful pixel art and intuitive controls. Travel a vast world with many levels, mini-games, and secret locations!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install portfiles. Download the windows version of the game on Steam. Copy all gamefiles to the mago portfolder.",
+        "inst_md": "- Install portfiles.\n- Download the windows version of the game on Steam.\n- Copy all gamefiles to the mago portfolder.",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Mago"
+      },
+      "items": [
+        "Mago.sh",
+        "mago"
+      ],
+      "items_opt": null,
+      "name": "mago.zip",
+      "source": {
+        "date_added": "2024-10-07",
+        "date_updated": "2024-10-07",
+        "md5": "e260ecf94b9ccd5d5420af707d518da6",
+        "release_id": "2024-10-07_1714",
+        "repo": "main",
+        "size": 25709444,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-07_1714/mago.zip"
       },
       "version": 3
     },
@@ -31645,6 +31868,79 @@
       },
       "version": 3
     },
+    "psrl.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A love letter to a classic RPG title from Master System with a roguelike twist! Recruit a party of up to four characters, choosing from a variety of race and class options, and make your way through twenty procedurally generated first person dungeons. Developed by Requinnzious for the Seven Day Roguelike Challenge 2024. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the PSRL_1.13.zip from itch https://requinnzious.itch.io/phantasy-star-rl and extract the data.win file into the port folder. ",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Phantasy Star RL"
+      },
+      "items": [
+        "Phantasy Star RL.sh",
+        "psrl"
+      ],
+      "items_opt": null,
+      "name": "psrl.zip",
+      "source": {
+        "date_added": "2024-10-07",
+        "date_updated": "2024-10-07",
+        "md5": "3face1e5c88a0c9cee7e8042160564e7",
+        "release_id": "2024-10-07_1714",
+        "repo": "main",
+        "size": 9811111,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-07_1714/psrl.zip"
+      },
+      "version": 3
+    },
     "pulstario.zip": {
       "attr": {
         "arch": [
@@ -33526,12 +33822,12 @@
       "name": "restore.portmaster.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-10-06",
-        "md5": "b4ae9c5ec250ffeb2c89a859dc1ffc07",
-        "release_id": "2024-10-06_1931",
+        "date_updated": "2024-10-07",
+        "md5": "0eaf6f585648ba52ca9aeb67f7e955bc",
+        "release_id": "2024-10-07_1714",
         "repo": "main",
-        "size": 17040011,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-06_1931/restore.portmaster.zip"
+        "size": 17040068,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-07_1714/restore.portmaster.zip"
       },
       "version": 3
     },
@@ -43995,7 +44291,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "UFO 50 is a collection of 50 single and multiplayer games that span a variety of genres, from platformers and shoot 'em ups to puzzle games, roguelites, and RPGs. Our goal is to combine a familiar 8-bit aesthetic with new ideas and modern game design.",
+        "desc": "From the developer, Mossmouth: \"UFO 50 is a collection of 50 single and multiplayer games that span a variety of genres, from platformers and shoot 'em ups to puzzle games, roguelites, and RPGs. Our goal is to combine a familiar 8-bit aesthetic with new ideas and modern game design.\"",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -44027,12 +44323,12 @@
       "name": "ufo50.zip",
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2024-10-06",
-        "md5": "6723e25005b00c762108241f4675d3d5",
-        "release_id": "2024-10-06_1931",
+        "date_updated": "2024-10-07",
+        "md5": "cc89bb102bc0458d17cd1cf11e8e146f",
+        "release_id": "2024-10-07_1714",
         "repo": "main",
-        "size": 32256258,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-06_1931/ufo50.zip"
+        "size": 32256672,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-07_1714/ufo50.zip"
       },
       "version": 3
     },
