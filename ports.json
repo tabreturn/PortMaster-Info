@@ -1988,6 +1988,79 @@
       },
       "version": 3
     },
+    "assaultshell.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Engage in an action packed shoot em' up adventure! Choose from 4 powerful fighters and fight through 5 intense stages!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase from itch.io https://overloadedstudios.itch.io/assault-shell or Steam https://store.steampowered.com/app/1432970/ASSAULT_SHELL/ and place data.win, each audiogroup.dat file, and each .csv file into gamedata folder.",
+        "inst_md": "Purchase from [itch.io](https://overloadedstudios.itch.io/assault-shell) or [Steam](https://store.steampowered.com/app/1432970/ASSAULT_SHELL/) and place data.win, each audiogroup.dat file, and each .csv file into gamedata folder.",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "ASSAULT SHELL"
+      },
+      "items": [
+        "ASSAULT SHELL.sh",
+        "assaultshell/"
+      ],
+      "items_opt": null,
+      "name": "assaultshell.zip",
+      "source": {
+        "date_added": "2024-10-09",
+        "date_updated": "2024-10-09",
+        "md5": "7d6ca979cff2dc3cff89de1a16aca337",
+        "release_id": "2024-10-09_1802",
+        "repo": "main",
+        "size": 11374167,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/assaultshell.zip"
+      },
+      "version": 3
+    },
     "asylum.zip": {
       "attr": {
         "arch": [
@@ -2215,6 +2288,79 @@
       },
       "version": 3
     },
+    "axecop.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Fight all of the bad guys! Axe Cop and his team of colorful characters must go on an epic adventure, that covers his ten-year comic book history, to rid the world of all bad guys once and for all in this epic turn-based RPG!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from https://redtrianglegames.itch.io/axecop or https://store.steampowered.com/app/1193300/Axe_Cop and download the Windows version (Linux should work fine, too). Copy the file named axecop.rpg to the port directory. Alternatively, you could play the DEMO version (also on the itch page).",
+        "inst_md": "Purchase the game from [itch.io](https://redtrianglegames.itch.io/axecop) or [Steam](https://store.steampowered.com/app/1193300/Axe_Cop) and download the Windows version (Linux should work fine, too). Copy the file named *axecop.rpg* to the port directory. Alternatively, you could play the DEMO version (also on the itch page).",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Axe Cop"
+      },
+      "items": [
+        "Axe Cop.sh",
+        "axecop"
+      ],
+      "items_opt": null,
+      "name": "axecop.zip",
+      "source": {
+        "date_added": "2024-10-09",
+        "date_updated": "2024-10-09",
+        "md5": "2e38295458ffe3b7cc52012fb079f499",
+        "release_id": "2024-10-09_1802",
+        "repo": "main",
+        "size": 2750453,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/axecop.zip"
+      },
+      "version": 3
+    },
     "axiom.verge.zip": {
       "attr": {
         "arch": [],
@@ -2331,6 +2477,7 @@
         "desc_md": null,
         "exp": false,
         "genres": [
+          "casino/card",
           "puzzle"
         ],
         "image": {
@@ -2359,12 +2506,12 @@
       "name": "balatro.zip",
       "source": {
         "date_added": "2024-04-01",
-        "date_updated": "2024-04-11",
-        "md5": "99d7cafeb9b2670c585359d24a0039f1",
-        "release_id": "2024-04-11_1200",
+        "date_updated": "2024-10-09",
+        "md5": "c4d800c022cf103bb5fd465bd529f524",
+        "release_id": "2024-10-09_1802",
         "repo": "main",
-        "size": 6004947,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-11_1200/balatro.zip"
+        "size": 6005052,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/balatro.zip"
       },
       "version": 3
     },
@@ -8753,12 +8900,12 @@
       "name": "cromagrally.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2024-09-26",
-        "md5": "4a006eb4c2f96eafb699aa24d255bf1e",
-        "release_id": "2024-09-26_1748",
+        "date_updated": "2024-10-09",
+        "md5": "43485636315105738bac485332a379fe",
+        "release_id": "2024-10-09_1802",
         "repo": "main",
         "size": 129889773,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-26_1748/cromagrally.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/cromagrally.zip"
       },
       "version": 3
     },
@@ -10144,12 +10291,12 @@
       "name": "descent.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2024-10-01",
-        "md5": "db276649f8aa35be2ec2f120d6937299",
-        "release_id": "2024-10-01_1021",
+        "date_updated": "2024-10-09",
+        "md5": "e67ae03aac71250e06655e524c18aa70",
+        "release_id": "2024-10-09_1802",
         "repo": "main",
-        "size": 15280016,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/descent.zip"
+        "size": 15280044,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/descent.zip"
       },
       "version": 3
     },
@@ -10222,12 +10369,12 @@
       "name": "descent2.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2024-10-01",
-        "md5": "e8bb6906ee4aef5626be55c10e8ce099",
-        "release_id": "2024-10-01_1021",
+        "date_updated": "2024-10-09",
+        "md5": "9c13a760ac07f74b9da5af2d5f16c28e",
+        "release_id": "2024-10-09_1802",
         "repo": "main",
-        "size": 14954194,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/descent2.zip"
+        "size": 14954214,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/descent2.zip"
       },
       "version": 3
     },
@@ -14111,6 +14258,77 @@
       },
       "version": 3
     },
+    "fistbump.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "In this puzzle platformer, help the square and circle unite, so that they can fist bump! This game was made for the GeoJam by FartFish.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game at https://fartfish.itch.io/fist-bump and extract the FistBump.pck into the gamedata folder.",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.2.3.squashfs",
+        "title": "Fist Bump"
+      },
+      "items": [
+        "Fist Bump.sh",
+        "fistbump"
+      ],
+      "items_opt": null,
+      "name": "fistbump.zip",
+      "source": {
+        "date_added": "2024-10-09",
+        "date_updated": "2024-10-09",
+        "md5": "b1ffd420e7b65382e8ce2582ed27053e",
+        "release_id": "2024-10-09_1802",
+        "repo": "main",
+        "size": 15771,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/fistbump.zip"
+      },
+      "version": 3
+    },
     "flare.zip": {
       "attr": {
         "arch": [
@@ -15910,12 +16128,12 @@
       "name": "globeba.zip",
       "source": {
         "date_added": "2024-09-10",
-        "date_updated": "2024-09-10",
-        "md5": "74dc6cdcf18e09b443f367f49a481273",
-        "release_id": "2024-09-10_1619",
+        "date_updated": "2024-10-09",
+        "md5": "adac94869f36f0b58c4c128ea762ddf7",
+        "release_id": "2024-10-09_1802",
         "repo": "main",
-        "size": 44822791,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-10_1619/globeba.zip"
+        "size": 44822937,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/globeba.zip"
       },
       "version": 3
     },
@@ -16064,6 +16282,78 @@
         "repo": "main",
         "size": 4461209,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-27_0224/gnurobbo.zip"
+      },
+      "version": 3
+    },
+    "goblindungeoneer.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Prepare for \"hell in video game form\"! Goblin Dungeoneer is a tough as nails platforming game developed by CrackedGhostGames. Traverse through 50 unique levels, leap over dangerous spike pits, dodge dangerous arrow traps, and much more! Enter the dungeon to save your starving goblin tribe!\nYou are going to die... A lot... What kind of dungeon would this be if it wasn't dangerous? Good luck.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from steam or itch.io.\nCopy over the data.win into ports/goblindungeoneer/gamedata/\n",
+        "inst_md": "Itch: \nDownload the game from https://crackedghostgames.itch.io/goblin-dungeoneer.\nCopy over the data.win into ports/goblindungeoneer/gamedata/\n\nSteam:\nClaim the game from steam: https://store.steampowered.com/app/1527670/Goblin_Dungeoneer/\nDownload the game and copy over the data.win into ports/gamedata/goblindungeoneer",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Goblin Dungeoneer"
+      },
+      "items": [
+        "Goblin Dungeoneer.sh",
+        "goblindungeoneer"
+      ],
+      "items_opt": null,
+      "name": "goblindungeoneer.zip",
+      "source": {
+        "date_added": "2024-10-09",
+        "date_updated": "2024-10-09",
+        "md5": "6a3f102550c3becfc675231b727db5fc",
+        "release_id": "2024-10-09_1802",
+        "repo": "main",
+        "size": 10721380,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/goblindungeoneer.zip"
       },
       "version": 3
     },
@@ -16989,8 +17279,8 @@
         ],
         "image": {
           "covers": [
-            "cover.blueshift.png",
             "cover.png",
+            "cover.blueshift.png",
             "cover.opposingforce.png"
           ],
           "screenshot": "screenshot.jpg",
@@ -17665,8 +17955,8 @@
         ],
         "image": {
           "covers": [
-            "cover.hexen2.png",
-            "cover.hexen2portalofpraevus.png"
+            "cover.hexen2portalofpraevus.png",
+            "cover.hexen2.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -28239,8 +28529,8 @@
         ],
         "image": {
           "covers": [
-            "cover.oddworldabesoddysee.png",
-            "cover.oddworldabesexoddus.png"
+            "cover.oddworldabesexoddus.png",
+            "cover.oddworldabesoddysee.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -32494,10 +32784,12 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "You need to add your own full game pak files to the ports/quake2/baseq2 folder.",
+        "inst": "You need to add your own full game pak files to the ports/quake2/baseq2 folder and for the expansion packs - ports/quake2/rogue and ports/quake2/xatrix.",
         "inst_md": null,
         "porter": [
-          "romadu"
+          "romadu",
+          "Slayer366",
+          "Habbening"
         ],
         "reqs": [],
         "rtr": false,
@@ -32506,18 +32798,21 @@
       },
       "items": [
         "Quake 2.sh",
+        "Quake 2 - Capture The Flag.sh",
+        "Quake 2 - Ground Zero.sh",
+        "Quake 2 - The Reckoning.sh",
         "quake2/"
       ],
       "items_opt": null,
       "name": "quake.2.zip",
       "source": {
         "date_added": "2021-09-14",
-        "date_updated": "2024-04-01",
-        "md5": "533e69d4bfb46476f51e4a0830879dc3",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-10-09",
+        "md5": "9cb9edb093725bb5cc5ff9bbb55d4ef3",
+        "release_id": "2024-10-09_1802",
         "repo": "main",
-        "size": 3621494,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/quake.2.zip"
+        "size": 33885022,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/quake.2.zip"
       },
       "version": 3
     },
@@ -33822,12 +34117,12 @@
       "name": "restore.portmaster.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-10-07",
-        "md5": "0eaf6f585648ba52ca9aeb67f7e955bc",
-        "release_id": "2024-10-07_1714",
+        "date_updated": "2024-10-09",
+        "md5": "3ebfec2cf544a3db5f5544a4ce7bea91",
+        "release_id": "2024-10-09_1802",
         "repo": "main",
-        "size": 17040068,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-07_1714/restore.portmaster.zip"
+        "size": 17040380,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/restore.portmaster.zip"
       },
       "version": 3
     },
@@ -39277,12 +39572,12 @@
       "name": "spookynakki.zip",
       "source": {
         "date_added": "2024-09-14",
-        "date_updated": "2024-10-04",
-        "md5": "a7acc56e7adc111c454a747623ef6cd9",
-        "release_id": "2024-10-04_1330",
+        "date_updated": "2024-10-09",
+        "md5": "25d13e6140aa242313a67b3ede64ab5f",
+        "release_id": "2024-10-09_1802",
         "repo": "main",
-        "size": 21271091,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-04_1330/spookynakki.zip"
+        "size": 21631128,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/spookynakki.zip"
       },
       "version": 3
     },
@@ -41829,6 +42124,72 @@
       },
       "version": 3
     },
+    "tailspin.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL"
+        ],
+        "desc": "Play as a treasure seeking canary and drill through 4 unique worlds of action packed platforming. Can you survive the infested depths below and attain everlasting glory?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Slobters"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": true,
+        "runtime": null,
+        "title": "Tailspin!"
+      },
+      "items": [
+        "Tailspin!.sh",
+        "tailspin"
+      ],
+      "items_opt": null,
+      "name": "tailspin.zip",
+      "source": {
+        "date_added": "2024-10-09",
+        "date_updated": "2024-10-09",
+        "md5": "199ed1b11c30b0d75d6fe8a31a096942",
+        "release_id": "2024-10-09_1802",
+        "repo": "main",
+        "size": 27856036,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/tailspin.zip"
+      },
+      "version": 3
+    },
     "tamatool.zip": {
       "attr": {
         "arch": [
@@ -41974,6 +42335,77 @@
         "repo": "main",
         "size": 238597,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-01_1058/templeofkashteki.zip"
+      },
+      "version": 3
+    },
+    "tempuslocus.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "What if you could replay the past?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle",
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Game files are included and ready to run.",
+        "inst_md": null,
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Tempus Locus"
+      },
+      "items": [
+        "Tempus Locus.sh",
+        "tempuslocus"
+      ],
+      "items_opt": null,
+      "name": "tempuslocus.zip",
+      "source": {
+        "date_added": "2024-10-09",
+        "date_updated": "2024-10-09",
+        "md5": "e21870726f91e8710f4b5975121eba02",
+        "release_id": "2024-10-09_1802",
+        "repo": "main",
+        "size": 19175080,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/tempuslocus.zip"
       },
       "version": 3
     },
@@ -44323,12 +44755,12 @@
       "name": "ufo50.zip",
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2024-10-07",
-        "md5": "cc89bb102bc0458d17cd1cf11e8e146f",
-        "release_id": "2024-10-07_1714",
+        "date_updated": "2024-10-09",
+        "md5": "515bb5341dc92d978e659f40bc518701",
+        "release_id": "2024-10-09_1802",
         "repo": "main",
-        "size": 32256672,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-07_1714/ufo50.zip"
+        "size": 32237747,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/ufo50.zip"
       },
       "version": 3
     },
