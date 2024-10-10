@@ -11170,6 +11170,79 @@
       },
       "version": 3
     },
+    "doomrpg.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Doom RPG is a mobile phone game developed by Fountainhead Entertainment . It combines the Doom first-person shooter franchise with role-playing video game elements. The storyline incorporates many similar events of Doom 3, but involves different characters than those in the third game.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Search for Doom RPG BREW on archive.org to get the original mobile game assets file: doomrpg.bar (CRC32: d7cf11c5) and copy the doomrpg.bar file into the gamedata folder.",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Doom RPG"
+      },
+      "items": [
+        "Doom RPG.sh",
+        "doomrpg"
+      ],
+      "items_opt": null,
+      "name": "doomrpg.zip",
+      "source": {
+        "date_added": "2024-10-10",
+        "date_updated": "2024-10-10",
+        "md5": "a2ea46a0866068ab1e6136365e8c1f90",
+        "release_id": "2024-10-10_2118",
+        "repo": "main",
+        "size": 4218469,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-10_2118/doomrpg.zip"
+      },
+      "version": 3
+    },
     "downwell.zip": {
       "attr": {
         "arch": [
@@ -14824,6 +14897,79 @@
       },
       "version": 3
     },
+    "franken.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "In FRANKEN, a hero fights monsters to become stronger so they can save the world.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Game files are included and ready to run. Thanks, splendidland https://www.splendid.land",
+        "inst_md": "Game files are included and ready to run. Thanks, [splendidland](https://www.splendid.land)!",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Franken"
+      },
+      "items": [
+        "Franken.sh",
+        "franken"
+      ],
+      "items_opt": null,
+      "name": "franken.zip",
+      "source": {
+        "date_added": "2024-10-10",
+        "date_updated": "2024-10-10",
+        "md5": "0e3d3dcf79093b39b70f4462c6a51a5a",
+        "release_id": "2024-10-10_2118",
+        "repo": "main",
+        "size": 52641577,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-10_2118/franken.zip"
+      },
+      "version": 3
+    },
     "freedink.zip": {
       "attr": {
         "arch": [
@@ -17388,6 +17534,79 @@
         "repo": "main",
         "size": 454008,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/hallowseve.zip"
+      },
+      "version": 3
+    },
+    "hawkisland.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Hawk Island is a short Metroidvania adventure originally created for the Who Killed HawkZombie? Gamejam, and dedicated to the streamer, HawkZombie. Developed by Lumi and Frostnoble.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Hawk Island"
+      },
+      "items": [
+        "Hawk Island.sh",
+        "hawkisland"
+      ],
+      "items_opt": null,
+      "name": "hawkisland.zip",
+      "source": {
+        "date_added": "2024-10-10",
+        "date_updated": "2024-10-10",
+        "md5": "382ee8385759f8978af1e59ba521af49",
+        "release_id": "2024-10-10_2118",
+        "repo": "main",
+        "size": 23898139,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-10_2118/hawkisland.zip"
       },
       "version": 3
     },
@@ -20379,6 +20598,79 @@
         "repo": "main",
         "size": 8746267,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-07_1326/jestershelper.zip"
+      },
+      "version": 3
+    },
+    "jetlancer.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Jet Lancer is a high-velocity aerial combat shooter where you duel enemy aviators, hunt giant robots, and defy death at supersonic speeds as you evolve from an unknown rookie aviator into a once-in-a-generation ACE pilot.",
+        "desc_md": "Jet Lancer is a high-velocity aerial combat shooter where you duel enemy aviators, hunt giant robots, and defy death at supersonic speeds as you evolve from an unknown rookie aviator into a once-in-a-generation ACE pilot.\n\n**Note: This is version 1.0.17!**",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from steam or gog.\nHead to https://portmaster.games/ on the specific game files to place in ports/jetlancer/gamedata",
+        "inst_md": "Purchase the game from https://store.steampowered.com/app/913060/Jet_Lancer/ OR https://www.gog.com/en/game/jet_lancer\n\nSteam: Download the game, copy over all the game file to ports/jetlancer/gamedata\nGOG: Download Version 1.0.17. Do this by going to More > Manage Installation > Configure > Uncheck auto-updates > Show more versions > Select Version 1.0.17. Copy over all the game file to ports/jetlancer/gamedata",
+        "porter": [
+          "Fraxinus88",
+          "kotzebuedog"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Jet Lancer"
+      },
+      "items": [
+        "Jet Lancer.sh",
+        "jetlancer"
+      ],
+      "items_opt": null,
+      "name": "jetlancer.zip",
+      "source": {
+        "date_added": "2024-10-10",
+        "date_updated": "2024-10-10",
+        "md5": "04ea33352160178c97295bf44fde52fe",
+        "release_id": "2024-10-10_2118",
+        "repo": "main",
+        "size": 45255190,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-10_2118/jetlancer.zip"
       },
       "version": 3
     },
@@ -42181,12 +42473,12 @@
       "name": "tailspin.zip",
       "source": {
         "date_added": "2024-10-09",
-        "date_updated": "2024-10-09",
-        "md5": "199ed1b11c30b0d75d6fe8a31a096942",
-        "release_id": "2024-10-09_1802",
+        "date_updated": "2024-10-10",
+        "md5": "c4987e59f88fee45b0d08af58460470c",
+        "release_id": "2024-10-10_2118",
         "repo": "main",
-        "size": 27856036,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/tailspin.zip"
+        "size": 27876539,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-10_2118/tailspin.zip"
       },
       "version": 3
     },
@@ -42262,6 +42554,77 @@
         "repo": "main",
         "size": 1014329,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/tamatool.zip"
+      },
+      "version": 3
+    },
+    "techmaniac.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Techmaniac is a 1-bit style precision platformer made for the thirty-fifth Godot Wild Jam by JohnGabrielUK.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_3.3.4.squashfs",
+        "title": "Techmaniac"
+      },
+      "items": [
+        "Techmaniac.sh",
+        "techmaniac"
+      ],
+      "items_opt": null,
+      "name": "techmaniac.zip",
+      "source": {
+        "date_added": "2024-10-10",
+        "date_updated": "2024-10-10",
+        "md5": "906d34d442533c25d9e38528a5ad7cf7",
+        "release_id": "2024-10-10_2118",
+        "repo": "main",
+        "size": 376968,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-10_2118/techmaniac.zip"
       },
       "version": 3
     },
@@ -43663,6 +44026,77 @@
       },
       "version": 3
     },
+    "towardsthepantheones.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Towards The Pantheon: Escaping Eternity is a prequel mystery game that follows the journey of a soldier before the events of the full-length RPG, Towards The Pantheon. Players must solve puzzles, explore bizarre environments, and make sense of the the soldier's situation.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game (for free) here: https://connorort.itch.io/towards-the-pantheon-escaping-eternity -- extract and copy the data.win file to the port gamedata folder.",
+        "inst_md": "Download the game (for free) here: [https://connorort.itch.io/towards-the-pantheon-escaping-eternity](https://connorort.itch.io/towards-the-pantheon-escaping-eternity) -- extract and copy the *data.win* file to the port *gamedata* folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Towards The Pantheon: Escaping Eternity"
+      },
+      "items": [
+        "Towards the Pantheon - Escaping Eternity.sh",
+        "towardsthepantheones"
+      ],
+      "items_opt": null,
+      "name": "towardsthepantheones.zip",
+      "source": {
+        "date_added": "2024-10-10",
+        "date_updated": "2024-10-10",
+        "md5": "5079acfb4b3a6b9433176f53fde7f471",
+        "release_id": "2024-10-10_2118",
+        "repo": "main",
+        "size": 10852194,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-10_2118/towardsthepantheones.zip"
+      },
+      "version": 3
+    },
     "towerbag.zip": {
       "attr": {
         "arch": [
@@ -44755,12 +45189,12 @@
       "name": "ufo50.zip",
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2024-10-09",
-        "md5": "515bb5341dc92d978e659f40bc518701",
-        "release_id": "2024-10-09_1802",
+        "date_updated": "2024-10-10",
+        "md5": "339914d5867910d982ba0996bbe1ea8e",
+        "release_id": "2024-10-10_2118",
         "repo": "main",
-        "size": 32237747,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/ufo50.zip"
+        "size": 32253364,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-10_2118/ufo50.zip"
       },
       "version": 3
     },
