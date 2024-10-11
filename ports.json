@@ -33709,6 +33709,72 @@
       },
       "version": 3
     },
+    "reborn.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL"
+        ],
+        "desc": "Reborn is a free 3rd-gen style downloadable game featuring all content through Generation 7. Experience a never-before-seen layer of strategy with the all-original Field Effects, using the terrain to outplay and overwhelm your opponent! Collect, train and battle with all 807 species available in-game and take on Gym Leaders of all 18 types as you fight to restore Reborn to prosperity!\n\nAre you ready?",
+        "desc_md": "Reborn is a free 3rd-gen style downloadable game featuring all content through Generation 7. Experience a never-before-seen layer of strategy with the all-original Field Effects, using the terrain to outplay and overwhelm your opponent! Collect, train and battle with all 807 species available in-game and take on Gym Leaders of all 18 types as you fight to restore Reborn to prosperity!\n\n \n*Are you ready?*",
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the legacy Windows version of the game here: https://www.rebornevo.com/pr/download/. Install the game and copy all assets within the \"Pokemon Reborn\" folder to the \"reborn\" portfolder. The version has to be 19.16 or 19.17, this can be checked with the version file included with the game.",
+        "inst_md": "Download the legacy Windows version of the game [here](https://www.rebornevo.com/pr/download/). Install the game and copy all assets within the \"Pokemon Reborn\" folder to the \"reborn\" portfolder. The version has to be 19.16 or 19.17, this can be checked with the version file included with the game.",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Pokemon Reborn"
+      },
+      "items": [
+        "Pokemon Reborn.sh",
+        "reborn"
+      ],
+      "items_opt": null,
+      "name": "reborn.zip",
+      "source": {
+        "date_added": "2024-10-11",
+        "date_updated": "2024-10-11",
+        "md5": "ebc8d78f200c6114c8b21d97fbb4fcb3",
+        "release_id": "2024-10-11_1249",
+        "repo": "multiverse",
+        "size": 12413994,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-11_1249/reborn.zip"
+      },
+      "version": 3
+    },
     "rebound.zip": {
       "attr": {
         "arch": [
@@ -34145,6 +34211,72 @@
         "repo": "main",
         "size": 5156255,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-02_1342/redtrees.zip"
+      },
+      "version": 3
+    },
+    "rejuvenation.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL"
+        ],
+        "desc": "Many decades ago, Aevium was once a united and strong blossoming region. However, the calamity known as Storm-9 tore the region apart.\n\nThe Aevium Region has lived a time of peace since then. People and the creatures inhabiting the lands band together to create a region worth living in. However, the dark and sinister organization, Team Xen, rises from the shadows to destroy what little peace the region has left.\n\nExplore the Aevium Region while also defending the land from Team Xen. Discover the dark secrets this world has kept hidden under the cracks that separate Aevium and shakes it to its very core. \n\nThis world needs you.\n\nWill you lend us your strength?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the Windows version of the game here: https://www.rebornevo.com/rejuvdown/. Install the game and copy all assets within the \"Pokemon Rejuvenation\" folder to the \"rejuvenation\" portfolder. Version 13.5.0 is known to work, future updates may be incompatible.",
+        "inst_md": "Download the Windows version of the game [here](https://www.rebornevo.com/rejuvdown/). Install the game and copy all assets within the \"Pokemon Rejuvenation\" folder to the \"rejuvenation\" portfolder. Version 13.5.0 is known to work, future updates may be incompatible.",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Pokemon Rejuvenation"
+      },
+      "items": [
+        "Pokemon Rejuvenation.sh",
+        "rejuvenation"
+      ],
+      "items_opt": null,
+      "name": "rejuvenation.zip",
+      "source": {
+        "date_added": "2024-10-11",
+        "date_updated": "2024-10-11",
+        "md5": "55f4616196cda8e3d7db9450f21a21b6",
+        "release_id": "2024-10-11_1249",
+        "repo": "multiverse",
+        "size": 20254299,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-11_1249/rejuvenation.zip"
       },
       "version": 3
     },
@@ -37474,8 +37606,8 @@
         ],
         "image": {
           "covers": [
-            "cover.sm.png",
-            "cover.smredux.png"
+            "cover.smredux.png",
+            "cover.sm.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -38087,12 +38219,12 @@
       "name": "soh.zip",
       "source": {
         "date_added": "2024-04-10",
-        "date_updated": "2024-09-27",
-        "md5": "dddc5c3661ff063836f85f961fa90ab7",
-        "release_id": "2024-09-27_1617",
+        "date_updated": "2024-10-11",
+        "md5": "828e0cd84201b9c98d1069fabbbd2c9d",
+        "release_id": "2024-10-11_1249",
         "repo": "multiverse",
-        "size": 25569522,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-09-27_1617/soh.zip"
+        "size": 24853218,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-11_1249/soh.zip"
       },
       "version": 3
     },
@@ -38163,12 +38295,12 @@
       "name": "soh2.zip",
       "source": {
         "date_added": "2024-06-10",
-        "date_updated": "2024-09-27",
-        "md5": "321b0f8e700c4af2036db6038b86cb29",
-        "release_id": "2024-09-27_1617",
+        "date_updated": "2024-10-11",
+        "md5": "0323bd84d2657a4a1969acf73024e216",
+        "release_id": "2024-10-11_1249",
         "repo": "multiverse",
-        "size": 21170947,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-09-27_1617/soh2.zip"
+        "size": 20575167,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-11_1249/soh2.zip"
       },
       "version": 3
     },
@@ -49298,12 +49430,12 @@
       "name": "ziiaol.zip",
       "source": {
         "date_added": "2024-08-06",
-        "date_updated": "2024-10-01",
-        "md5": "c23d59624003955882d286105eed58f5",
-        "release_id": "2024-10-01_1015",
+        "date_updated": "2024-10-11",
+        "md5": "f8ac9a2dbcd899fa0b3b8bc8a6d424c6",
+        "release_id": "2024-10-11_1249",
         "repo": "multiverse",
-        "size": 11110973,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-01_1015/ziiaol.zip"
+        "size": 11468293,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-11_1249/ziiaol.zip"
       },
       "version": 3
     },
