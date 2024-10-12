@@ -3026,6 +3026,76 @@
       },
       "version": 3
     },
+    "beemisthecurseofgod.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Become a real life bee and also fight god himself. Take on many bosses and wacky levels as a young bee whose life has been drastically changed by a curse maniacally concocted by God.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game (for free) here: https://blebgo.itch.io/beemis-the-curse-of-god -- extract and copy the data.win file to the port gamedata folder.",
+        "inst_md": "Download the game (for free) here: [https://blebgo.itch.io/beemis-the-curse-of-god](https://blebgo.itch.io/beemis-the-curse-of-god) -- extract and copy the *data.win* file to the port *gamedata* folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Beemis: The Curse of God"
+      },
+      "items": [
+        "Beemis - The Curse of God.sh",
+        "beemisthecurseofgod"
+      ],
+      "items_opt": null,
+      "name": "beemisthecurseofgod.zip",
+      "source": {
+        "date_added": "2024-10-12",
+        "date_updated": "2024-10-12",
+        "md5": "b7bae6cbf09b808cf92cf3802a945b7a",
+        "release_id": "2024-10-12_1217",
+        "repo": "main",
+        "size": 10846294,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-12_1217/beemisthecurseofgod.zip"
+      },
+      "version": 3
+    },
     "belleboomerang.zip": {
       "attr": {
         "arch": [
@@ -7803,6 +7873,77 @@
       },
       "version": 3
     },
+    "chromavescence.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Chromavescence is a retro puzzle platformer where you need to swap between 2 intertwined worlds to get past obstacles on your way. Created  by Barnes for the Kenney Game Jam. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run. ",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_4.0.4.squashfs",
+        "title": "Chromavescence"
+      },
+      "items": [
+        "Chromavescence.sh",
+        "chromavescence"
+      ],
+      "items_opt": null,
+      "name": "chromavescence.zip",
+      "source": {
+        "date_added": "2024-10-12",
+        "date_updated": "2024-10-12",
+        "md5": "2cfa02e1bbda2fa23a2e4e651c17db02",
+        "release_id": "2024-10-12_1217",
+        "repo": "main",
+        "size": 22575167,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-12_1217/chromavescence.zip"
+      },
+      "version": 3
+    },
     "cityglitch.zip": {
       "attr": {
         "arch": [
@@ -9711,6 +9852,79 @@
         "repo": "main",
         "size": 17751081,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/deadicedeluxe.zip"
+      },
+      "version": 3
+    },
+    "deathchase3d.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "SDL Remake of the ZX Spectrum game Deathchase from 1983",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "fps"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Deathchase 3D"
+      },
+      "items": [
+        "Deathchase 3D.sh",
+        "deathchase3d"
+      ],
+      "items_opt": null,
+      "name": "deathchase3d.zip",
+      "source": {
+        "date_added": "2024-10-12",
+        "date_updated": "2024-10-12",
+        "md5": "9480ea78072cf719faba2bfc577687a6",
+        "release_id": "2024-10-12_1217",
+        "repo": "main",
+        "size": 136123,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-12_1217/deathchase3d.zip"
       },
       "version": 3
     },
@@ -15831,22 +16045,22 @@
         ],
         "rtr": false,
         "runtime": null,
-        "title": "Guage Of Rage"
+        "title": "Gauge Of Rage"
       },
       "items": [
-        "Guage Of Rage.sh",
+        "Gauge Of Rage.sh",
         "gaugeofrage"
       ],
       "items_opt": null,
       "name": "gaugeofrage.zip",
       "source": {
         "date_added": "2024-10-01",
-        "date_updated": "2024-10-01",
-        "md5": "aeb6991ac1433b08e7e6d73ce6f0c10f",
-        "release_id": "2024-10-01_1021",
+        "date_updated": "2024-10-12",
+        "md5": "6f72460e40e9411e9a8b108f8d794ade",
+        "release_id": "2024-10-12_1217",
         "repo": "main",
-        "size": 5951986,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/gaugeofrage.zip"
+        "size": 5951982,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-12_1217/gaugeofrage.zip"
       },
       "version": 3
     },
@@ -23446,6 +23660,80 @@
       },
       "version": 3
     },
+    "lividmeadow.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Livid Meadow is a short, story driven action platformer.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Game files are included and ready to run. Thanks, NoEye-Soft https://noeye-soft.itch.io/livid-meadow",
+        "inst_md": "Game files are included and ready to run. Thanks, [NoEye-Soft](https://noeye-soft.itch.io/livid-meadow)!",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Livid Meadow"
+      },
+      "items": [
+        "Livid Meadow.sh",
+        "lividmeadow"
+      ],
+      "items_opt": null,
+      "name": "lividmeadow.zip",
+      "source": {
+        "date_added": "2024-10-12",
+        "date_updated": "2024-10-12",
+        "md5": "2ff4e0c4c4a34de2fe0efff54ed7c911",
+        "release_id": "2024-10-12_1217",
+        "repo": "main",
+        "size": 18038436,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-12_1217/lividmeadow.zip"
+      },
+      "version": 3
+    },
     "locust.zip": {
       "attr": {
         "arch": [
@@ -28560,6 +28848,79 @@
       },
       "version": 3
     },
+    "nuvie.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A game engine for running Origin's 'Ultima 6' and 'Ultima Worlds of Adventure' games on modern operating systems.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Add your Ultima VI Gamedata to the /nuvie/ultima6/ folder",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Ultima VI (Nuvie Engine)"
+      },
+      "items": [
+        "Ultima VI (Nuvie Engine).sh",
+        "nuvie"
+      ],
+      "items_opt": null,
+      "name": "nuvie.zip",
+      "source": {
+        "date_added": "2024-10-12",
+        "date_updated": "2024-10-12",
+        "md5": "ae478f4feca88838c665025bf0303237",
+        "release_id": "2024-10-12_1217",
+        "repo": "main",
+        "size": 1255367,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-12_1217/nuvie.zip"
+      },
+      "version": 3
+    },
     "nvpw.zip": {
       "attr": {
         "arch": [
@@ -30479,6 +30840,79 @@
         "repo": "main",
         "size": 2589382,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/owlboy.zip"
+      },
+      "version": 3
+    },
+    "pachi.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Pachi el marciano is a platform game inspired by games like Manic Miner and Jet Set Willy from the legend Mathew Smith. The goal of the game is to collect all the objects of each level, when this is met, the exit gate to the next stage will appear and you can pass through.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Pachi el Marciano"
+      },
+      "items": [
+        "Pachi el Marciano.sh",
+        "pachi"
+      ],
+      "items_opt": null,
+      "name": "pachi.zip",
+      "source": {
+        "date_added": "2024-10-12",
+        "date_updated": "2024-10-12",
+        "md5": "b2be276f59953740da2ef7f826fb09cd",
+        "release_id": "2024-10-12_1217",
+        "repo": "main",
+        "size": 3400125,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-12_1217/pachi.zip"
       },
       "version": 3
     },
@@ -35365,6 +35799,80 @@
       },
       "version": 3
     },
+    "rockdodger.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Rock Dodger is a horizontal scrolling action game where you have to navigate your spaceship through a stream of rocks flying in from the right. Your only help is a laser to destroy rocks and a limited amount of shield. This game had once upon in time the 4th place in NoStarch game contest.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Rockdodger"
+      },
+      "items": [
+        "Rockdodger.sh",
+        "rockdodger"
+      ],
+      "items_opt": null,
+      "name": "rockdodger.zip",
+      "source": {
+        "date_added": "2024-10-12",
+        "date_updated": "2024-10-12",
+        "md5": "7a6436f761f390edeef294cb2f102886",
+        "release_id": "2024-10-12_1217",
+        "repo": "main",
+        "size": 1725750,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-12_1217/rockdodger.zip"
+      },
+      "version": 3
+    },
     "rocksndiamonds.zip": {
       "attr": {
         "arch": [
@@ -36236,6 +36744,79 @@
         "repo": "main",
         "size": 7674,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-08_0351/scaletheskulltower.zip"
+      },
+      "version": 3
+    },
+    "sdlbomber.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Dave Ashley's Atomic Bomberman clone",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "SDL Bomber"
+      },
+      "items": [
+        "SDL Bomber.sh",
+        "sdlbomber"
+      ],
+      "items_opt": null,
+      "name": "sdlbomber.zip",
+      "source": {
+        "date_added": "2024-10-12",
+        "date_updated": "2024-10-12",
+        "md5": "d7fe3a9b1793ea3d969a6d1a08370dcf",
+        "release_id": "2024-10-12_1217",
+        "repo": "main",
+        "size": 904002,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-12_1217/sdlbomber.zip"
       },
       "version": 3
     },
@@ -45321,12 +45902,12 @@
       "name": "ufo50.zip",
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2024-10-10",
-        "md5": "339914d5867910d982ba0996bbe1ea8e",
-        "release_id": "2024-10-10_2118",
+        "date_updated": "2024-10-12",
+        "md5": "a1045455d50880b784c32b6724783ebe",
+        "release_id": "2024-10-12_1217",
         "repo": "main",
-        "size": 32253364,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-10_2118/ufo50.zip"
+        "size": 32712576,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-12_1217/ufo50.zip"
       },
       "version": 3
     },
