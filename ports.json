@@ -3468,6 +3468,76 @@
       },
       "version": 3
     },
+    "biomassgrowth.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "BIOMASS: Growth is a scifi horror metroidvania platformer developed by BRAINOS. You wake in a deserted lab with no idea who, what, where or why you are. You have only your senses and the logbooks of deceased crew members to guide you. As you search for ways to expand your arsenal and access to the station, the titular BIOMASS will spread throughout, growing stronger, more aggressive, in a desperate arms race against you. Find out who, what, where and why you are, and uncover the fate of the crew in this doomed lab. Find a way to destroy the BIOMASS and save humanity from certain death.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Go to the game's itch.io page https://brainos.itch.io/biomassgrowth to download the Biomass Growth 20211213.exe and place in into the port's gamedata folder.",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Biomass: Growth"
+      },
+      "items": [
+        "BIOMASS Growth.sh",
+        "biomassgrowth"
+      ],
+      "items_opt": null,
+      "name": "biomassgrowth.zip",
+      "source": {
+        "date_added": "2024-10-14",
+        "date_updated": "2024-10-14",
+        "md5": "c7d3efbc199c36d52c4e31e3bf30fb7e",
+        "release_id": "2024-10-14_0748",
+        "repo": "main",
+        "size": 11715141,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/biomassgrowth.zip"
+      },
+      "version": 3
+    },
     "bitsybox.zip": {
       "attr": {
         "arch": [
@@ -3906,6 +3976,79 @@
         "repo": "main",
         "size": 3521883,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/blobby.volley2.zip"
+      },
+      "version": 3
+    },
+    "bloboats.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Bloboats is an arcade-like boat racing game in the hybrid spirit of Mario-like platform jumpers and elasto mania / xmoto.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "racing"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run! To Start Text-Input mode press Start + Down!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": true,
+        "runtime": null,
+        "title": "Bloboats"
+      },
+      "items": [
+        "Bloboats.sh",
+        "bloboats"
+      ],
+      "items_opt": null,
+      "name": "bloboats.zip",
+      "source": {
+        "date_added": "2024-10-14",
+        "date_updated": "2024-10-14",
+        "md5": "42b7af51da05111e40324e24c6218cd4",
+        "release_id": "2024-10-14_0748",
+        "repo": "main",
+        "size": 9018651,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/bloboats.zip"
       },
       "version": 3
     },
@@ -6058,7 +6201,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Your aura switches between red and blue every few seconds, hit balls the same color as your aura to gain points. The more balls there are on the screen, the more points you get. Game files are already included and ready to go.",
+        "desc": "Your aura switches between red and blue every few seconds, hit balls the same color as your aura to gain points. The more balls there are on the screen, the more points you get.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -6088,12 +6231,12 @@
       "name": "burst.zip",
       "source": {
         "date_added": "2023-09-14",
-        "date_updated": "2024-04-01",
-        "md5": "52a8ff11a762ad7c8c60c266b327186a",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-10-14",
+        "md5": "2bb2b1809b93a008a2094f7cb8e86a04",
+        "release_id": "2024-10-14_0748",
         "repo": "main",
-        "size": 860271,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/burst.zip"
+        "size": 860259,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/burst.zip"
       },
       "version": 3
     },
@@ -10436,6 +10579,76 @@
       },
       "version": 3
     },
+    "derelict.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "The Derelict is a scifi platformer developed by Programmancer for the GBJam5. Navigate the abandoned derelict spacecraft to restore power and stop the evil robot AI, the Master Circuit!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game on https://programancer.itch.io/derelict and place the Derelict.zip to the port's gamedata folder. ",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Derelict"
+      },
+      "items": [
+        "Derelict.sh",
+        "derelict"
+      ],
+      "items_opt": null,
+      "name": "derelict.zip",
+      "source": {
+        "date_added": "2024-10-14",
+        "date_updated": "2024-10-14",
+        "md5": "cd9bae3f2ff48d7a6ed0f122c779e4f9",
+        "release_id": "2024-10-14_0748",
+        "repo": "main",
+        "size": 10939466,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/derelict.zip"
+      },
+      "version": 3
+    },
     "descent.zip": {
       "attr": {
         "arch": [
@@ -12931,6 +13144,77 @@
       },
       "version": 3
     },
+    "entwined.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "In this two time manipulation puzzle game, help Light and Heavy reach and repair the Chrono Station's reactor after a catastrophic failure rends their timelines asunder (and also blows the Station to smithereens, turning it into hundreds of puzzles to traverse)!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run. ",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Entwined Time"
+      },
+      "items": [
+        "Entwined Time.sh",
+        "entwined"
+      ],
+      "items_opt": null,
+      "name": "entwined.zip",
+      "source": {
+        "date_added": "2024-10-14",
+        "date_updated": "2024-10-14",
+        "md5": "2dcd41b679098c2224c2644caa831014",
+        "release_id": "2024-10-14_0748",
+        "repo": "main",
+        "size": 64700147,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/entwined.zip"
+      },
+      "version": 3
+    },
     "escape.zip": {
       "attr": {
         "arch": [
@@ -14067,7 +14351,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Explore an autumn park and play minigames. Make friends and enter the barn.\n\nDPAD = Directional movement\nA = Interact/action\nB = Back/escape\n",
+        "desc": "Explore an autumn park and play minigames. Make friends and enter the barn.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -14097,12 +14381,12 @@
       "name": "feather.park.zip",
       "source": {
         "date_added": "2024-01-02",
-        "date_updated": "2024-04-01",
-        "md5": "e420454edb55521df0778515b2feac98",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-10-14",
+        "md5": "ce02174e0965801528aa3b32af8edd0c",
+        "release_id": "2024-10-14_0748",
         "repo": "main",
-        "size": 15562288,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/feather.park.zip"
+        "size": 15562247,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/feather.park.zip"
       },
       "version": 3
     },
@@ -14725,7 +15009,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Flaskoman is a puzzle platformer in a steampunk laboratory. Use mysterious liquids to activate lab mechanism and your abilities.",
+        "desc": "Flaskoman is a puzzle platformer in a steampunk laboratory. Use mysterious liquids to activate lab mechanisms and your abilities.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -14758,12 +15042,12 @@
       "name": "flaskoman.zip",
       "source": {
         "date_added": "2024-10-05",
-        "date_updated": "2024-10-05",
-        "md5": "480dbefeff6d5f08a145e5ae856cd336",
-        "release_id": "2024-10-05_0853",
+        "date_updated": "2024-10-14",
+        "md5": "5d2413c23358355aba310dec9ddcf1e4",
+        "release_id": "2024-10-14_0748",
         "repo": "main",
-        "size": 8868623,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-05_0853/flaskoman.zip"
+        "size": 8868624,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/flaskoman.zip"
       },
       "version": 3
     },
@@ -22305,7 +22589,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Play as Lawn Buster and trim the grass in randomly generated lawns while following an increasingly complex series of rules and priorities.",
+        "desc": "Play as Lawn Buster and trim the grass in randomly generated lawn levels while following an increasingly complex series of rules and priorities.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -22335,12 +22619,12 @@
       "name": "lawnbusterforhire.zip",
       "source": {
         "date_added": "2024-05-22",
-        "date_updated": "2024-07-18",
-        "md5": "5555bac8b0ea8ac0fe1391e2be2b698a",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-10-14",
+        "md5": "5e2e64d971f70b5ebf528741183b4a8f",
+        "release_id": "2024-10-14_0748",
         "repo": "main",
-        "size": 12428801,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/lawnbusterforhire.zip"
+        "size": 12428805,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/lawnbusterforhire.zip"
       },
       "version": 3
     },
@@ -24196,7 +24480,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Your landlord is knocking on your door. You have one coin left to your name. You insert the coin into your slot machine...and...JACKPOT! Luck be a Landlord, tonight! Luck be a Landlord is a roguelike deck-builder about using a slot machine to earn rent money and defeat capitalism. This game does not contain any real-world currency gambling or microtransactions.",
+        "desc": "Luck be a Landlord is a roguelike deck-builder about using a slot machine to earn rent money and defeat capitalism. This game does not contain any real-world currency gambling or microtransactions.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -24227,12 +24511,12 @@
       "name": "luck.be.a.landlord.zip",
       "source": {
         "date_added": "2024-01-15",
-        "date_updated": "2024-07-18",
-        "md5": "c613e7a688f1e7d0e2d72878bf257218",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-10-14",
+        "md5": "f864376595dc49e9a34bd063973fefbb",
+        "release_id": "2024-10-14_0748",
         "repo": "main",
-        "size": 577810,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/luck.be.a.landlord.zip"
+        "size": 577737,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/luck.be.a.landlord.zip"
       },
       "version": 3
     },
@@ -33350,7 +33634,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Quick abstract arcade game that requires good reflexes and dexterity but sometimes patience and precision. You control a round being that must avoid Bad Red Shapes. Those enemies will try to cut, smash, shoot, crush, wreck, burn, or shatter you -- so be quick and careful. Collect all keys to unlock blockades and find the teleporter to next level.",
+        "desc": "Quick abstract arcade game that requires good reflexes and dexterity, but sometimes patience and precision. You control a round being that must avoid Bad Red Shapes. Those enemies will try to cut, smash, shoot, crush, wreck, burn, or shatter you -- so be quick and careful. Collect all keys to unlock blockades and find the teleporter to next level.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -33380,12 +33664,12 @@
       "name": "pyk.zip",
       "source": {
         "date_added": "2024-02-25",
-        "date_updated": "2024-09-08",
-        "md5": "937efda0c4a341ea8e7a743fde33f1a0",
-        "release_id": "2024-09-08_0351",
+        "date_updated": "2024-10-14",
+        "md5": "4a7ee559d8ab77a76f30bb543b6ce609",
+        "release_id": "2024-10-14_0748",
         "repo": "main",
         "size": 234584,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-08_0351/pyk.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/pyk.zip"
       },
       "version": 3
     },
@@ -42145,7 +42429,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "One day, Simon Pray -- a pest extinguisher living in Mexico, where for some reason pests are nowhere to be found -- receives a call from a luxurious mansion offering him a job. Something doesn't seem right, but Simon doesn't have time to think about it, he needs the money!. Join S.Pray and help him get rid of the pests!",
+        "desc": "One day, Simon Pray -- a pest extinguisher living in Mexico, where for some reason pests are nowhere to be found -- receives a call from a luxurious mansion offering him a job. Something doesn't seem right, but Simon doesn't have time to think about it, he needs the money!",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -42177,12 +42461,12 @@
       "name": "superdrome.bugs.zip",
       "source": {
         "date_added": "2024-01-22",
-        "date_updated": "2024-10-01",
-        "md5": "6148b92fc3f655cfe62483fd8eed7867",
-        "release_id": "2024-10-01_1021",
+        "date_updated": "2024-10-14",
+        "md5": "eb52f907290a3bc1576621b1c0113ea7",
+        "release_id": "2024-10-14_0748",
         "repo": "main",
-        "size": 24046,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/superdrome.bugs.zip"
+        "size": 24018,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/superdrome.bugs.zip"
       },
       "version": 2
     },
@@ -44026,7 +44310,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Funky-legged tennis game. Thwack demo/jam files are already included and ready to go.",
+        "desc": "Funky-legged tennis game. Thwack demo/jam files are already included and ready to go. Optionally, you can purchase the full game and play that instead.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -44058,12 +44342,12 @@
       "name": "thwack.zip",
       "source": {
         "date_added": "2023-09-10",
-        "date_updated": "2024-07-18",
-        "md5": "8366902dbdb6b7f385e7e5181499b570",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-10-14",
+        "md5": "489ec1163139b6be1bc074beef026e46",
+        "release_id": "2024-10-14_0748",
         "repo": "main",
-        "size": 7496734,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/thwack.zip"
+        "size": 7496763,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/thwack.zip"
       },
       "version": 3
     },
@@ -47012,12 +47296,12 @@
       "name": "vitasnake.zip",
       "source": {
         "date_added": "2024-09-24",
-        "date_updated": "2024-10-03",
-        "md5": "b9de72297f6aa3a3749c8ad0aec88045",
-        "release_id": "2024-10-03_1624",
+        "date_updated": "2024-10-14",
+        "md5": "259550d2c01f835fdd96d030683c5897",
+        "release_id": "2024-10-14_0748",
         "repo": "main",
-        "size": 13553971,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-03_1624/vitasnake.zip"
+        "size": 17793329,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/vitasnake.zip"
       },
       "version": 3
     },
@@ -47278,7 +47562,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Make some friends, eat some burgers, and unearth terrible secrets from the depths of space. Frog and Toad Meet Cosmic Horror. A turn-based RPG with a kind-hearted doofus trying to make tough times a little easier.",
+        "desc": "Make some friends, eat some burgers, and unearth terrible secrets from the depths of space. Frog and Toad meet Cosmic Horror. A turn-based RPG with a kind-hearted doofus trying to make tough times a little easier.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -47308,12 +47592,12 @@
       "name": "walthrosrenewal.zip",
       "source": {
         "date_added": "2024-09-29",
-        "date_updated": "2024-09-29",
-        "md5": "2d3917c59a3e913af6a0f864fa489223",
-        "release_id": "2024-09-29_1340",
+        "date_updated": "2024-10-14",
+        "md5": "403b616bdd7050f6d70268a1919a2331",
+        "release_id": "2024-10-14_0748",
         "repo": "main",
-        "size": 2707088,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-29_1340/walthrosrenewal.zip"
+        "size": 2707087,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/walthrosrenewal.zip"
       },
       "version": 3
     },
