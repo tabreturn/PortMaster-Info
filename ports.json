@@ -663,6 +663,78 @@
       },
       "version": 3
     },
+    "akeyspath.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Build your way with your own keys. Your 3 movement keys (Left, Right, Jump) are available at the bottom of the screen; you can drag them in the world to use as platforms. But don't use too many, or you could run out of movement options!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle",
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Game files are included and ready to run. Thanks, Geegaz! https://geegaz.itch.io/out-of-controls",
+        "inst_md": "Game files are included and ready to run. Thanks, [Geegaz](https://geegaz.itch.io/out-of-controls)!",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_3.3.4.squashfs",
+        "title": "A Key(s) Path"
+      },
+      "items": [
+        "A Key(s) Path.sh",
+        "akeyspath"
+      ],
+      "items_opt": null,
+      "name": "akeyspath.zip",
+      "source": {
+        "date_added": "2024-10-15",
+        "date_updated": "2024-10-15",
+        "md5": "8ebb7c678c7aa2b1d21accdb54bde40f",
+        "release_id": "2024-10-15_2128",
+        "repo": "main",
+        "size": 6533273,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/akeyspath.zip"
+      },
+      "version": 3
+    },
     "alchemyquest.zip": {
       "attr": {
         "arch": [
@@ -1688,12 +1760,12 @@
       "name": "apotris.zip",
       "source": {
         "date_added": "2024-02-05",
-        "date_updated": "2024-05-29",
-        "md5": "53fd23e3c64dc870f216ac77c1759e1f",
-        "release_id": "2024-05-29_0749",
+        "date_updated": "2024-10-15",
+        "md5": "ffc0a78a9c4a8135d3f33ece20be33c0",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
-        "size": 7398323,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-29_0749/apotris.zip"
+        "size": 7217184,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/apotris.zip"
       },
       "version": 3
     },
@@ -2052,12 +2124,12 @@
       "name": "assaultshell.zip",
       "source": {
         "date_added": "2024-10-09",
-        "date_updated": "2024-10-09",
-        "md5": "7d6ca979cff2dc3cff89de1a16aca337",
-        "release_id": "2024-10-09_1802",
+        "date_updated": "2024-10-15",
+        "md5": "311ae36ddbbdd62d35a7b2f1d3bacae7",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
-        "size": 11374167,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/assaultshell.zip"
+        "size": 11374165,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/assaultshell.zip"
       },
       "version": 3
     },
@@ -2352,12 +2424,12 @@
       "name": "axecop.zip",
       "source": {
         "date_added": "2024-10-09",
-        "date_updated": "2024-10-09",
-        "md5": "2e38295458ffe3b7cc52012fb079f499",
-        "release_id": "2024-10-09_1802",
+        "date_updated": "2024-10-15",
+        "md5": "2e6932789f5926c36db77163d0609c63",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
-        "size": 2750453,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/axecop.zip"
+        "size": 2750452,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/axecop.zip"
       },
       "version": 3
     },
@@ -3087,12 +3159,12 @@
       "name": "beemisthecurseofgod.zip",
       "source": {
         "date_added": "2024-10-12",
-        "date_updated": "2024-10-12",
-        "md5": "b7bae6cbf09b808cf92cf3802a945b7a",
-        "release_id": "2024-10-12_1217",
+        "date_updated": "2024-10-15",
+        "md5": "843aea81e2dbbee557a348d1cb731f8f",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
-        "size": 10846294,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-12_1217/beemisthecurseofgod.zip"
+        "size": 10846293,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/beemisthecurseofgod.zip"
       },
       "version": 3
     },
@@ -3529,12 +3601,12 @@
       "name": "biomassgrowth.zip",
       "source": {
         "date_added": "2024-10-14",
-        "date_updated": "2024-10-14",
-        "md5": "c7d3efbc199c36d52c4e31e3bf30fb7e",
-        "release_id": "2024-10-14_0748",
+        "date_updated": "2024-10-15",
+        "md5": "f52d2801d49b36f3697c9d714b052408",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
-        "size": 11715141,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/biomassgrowth.zip"
+        "size": 11715143,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/biomassgrowth.zip"
       },
       "version": 3
     },
@@ -4043,12 +4115,12 @@
       "name": "bloboats.zip",
       "source": {
         "date_added": "2024-10-14",
-        "date_updated": "2024-10-14",
-        "md5": "42b7af51da05111e40324e24c6218cd4",
-        "release_id": "2024-10-14_0748",
+        "date_updated": "2024-10-15",
+        "md5": "8b0884147a40a3aa3fbc9da160285d32",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
         "size": 9018651,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/bloboats.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/bloboats.zip"
       },
       "version": 3
     },
@@ -5494,6 +5566,77 @@
         "repo": "main",
         "size": 5685932,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/breaker.zip"
+      },
+      "version": 3
+    },
+    "brittleblade.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "In this game, you've lost your sword, and have to make do with the stalactites that fall from the ceiling. Each stalactite is brittle, so it has only one use. After that, it breaks, and you are missing a weapon until another one falls. Developed by FartFish for the Godot Wild Jam 31.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_3.2.3.squashfs",
+        "title": "Brittle Blade"
+      },
+      "items": [
+        "Brittle Blade.sh",
+        "brittleblade"
+      ],
+      "items_opt": null,
+      "name": "brittleblade.zip",
+      "source": {
+        "date_added": "2024-10-15",
+        "date_updated": "2024-10-15",
+        "md5": "4a50ccfdda517e5c960965e9082a29c0",
+        "release_id": "2024-10-15_2128",
+        "repo": "main",
+        "size": 11677527,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/brittleblade.zip"
       },
       "version": 3
     },
@@ -8078,12 +8221,12 @@
       "name": "chromavescence.zip",
       "source": {
         "date_added": "2024-10-12",
-        "date_updated": "2024-10-12",
-        "md5": "2cfa02e1bbda2fa23a2e4e651c17db02",
-        "release_id": "2024-10-12_1217",
+        "date_updated": "2024-10-15",
+        "md5": "9ddc747f1c0f12e015fb40782381ab98",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
         "size": 22575167,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-12_1217/chromavescence.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/chromavescence.zip"
       },
       "version": 3
     },
@@ -8663,12 +8806,12 @@
       "name": "cmdungeon.zip",
       "source": {
         "date_added": "2024-10-07",
-        "date_updated": "2024-10-07",
-        "md5": "da15a8649bbb3ce568d88eb0ef8ab95f",
-        "release_id": "2024-10-07_1714",
+        "date_updated": "2024-10-15",
+        "md5": "d8c6293de87967da90f706c6e759ca5c",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
         "size": 7444,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-07_1714/cmdungeon.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/cmdungeon.zip"
       },
       "version": 3
     },
@@ -10062,12 +10205,12 @@
       "name": "deathchase3d.zip",
       "source": {
         "date_added": "2024-10-12",
-        "date_updated": "2024-10-12",
-        "md5": "9480ea78072cf719faba2bfc577687a6",
-        "release_id": "2024-10-12_1217",
+        "date_updated": "2024-10-15",
+        "md5": "12286fb55e604ca1a883e4045ddc0080",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
-        "size": 136123,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-12_1217/deathchase3d.zip"
+        "size": 136125,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/deathchase3d.zip"
       },
       "version": 3
     },
@@ -10214,6 +10357,79 @@
         "repo": "main",
         "size": 43398,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/defshot.zip"
+      },
+      "version": 3
+    },
+    "demodome.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "DEMOLITION DOME is basically 1-v-1 volleyball. Except if the ball smacks you on the back of the head too much, you die. And tanks can shoot at you. And the field has human-sized pinball machine parts. Developed by Harley Wilson aka CURSED BOOTLEG INC.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Demolition Dome"
+      },
+      "items": [
+        "Demolition Dome.sh",
+        "demodome"
+      ],
+      "items_opt": null,
+      "name": "demodome.zip",
+      "source": {
+        "date_added": "2024-10-15",
+        "date_updated": "2024-10-15",
+        "md5": "0fa3c67a0614a0eba87425887a4973ab",
+        "release_id": "2024-10-15_2128",
+        "repo": "main",
+        "size": 15384532,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/demodome.zip"
       },
       "version": 3
     },
@@ -10640,12 +10856,12 @@
       "name": "derelict.zip",
       "source": {
         "date_added": "2024-10-14",
-        "date_updated": "2024-10-14",
-        "md5": "cd9bae3f2ff48d7a6ed0f122c779e4f9",
-        "release_id": "2024-10-14_0748",
+        "date_updated": "2024-10-15",
+        "md5": "00cddaf9aaf3290f329d77d30b83ea6f",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
-        "size": 10939466,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/derelict.zip"
+        "size": 10939465,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/derelict.zip"
       },
       "version": 3
     },
@@ -11661,12 +11877,12 @@
       "name": "doomrpg.zip",
       "source": {
         "date_added": "2024-10-10",
-        "date_updated": "2024-10-10",
-        "md5": "a2ea46a0866068ab1e6136365e8c1f90",
-        "release_id": "2024-10-10_2118",
+        "date_updated": "2024-10-15",
+        "md5": "02bf5b8cf50cb08b5a97695722045162",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
-        "size": 4218469,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-10_2118/doomrpg.zip"
+        "size": 4218470,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/doomrpg.zip"
       },
       "version": 3
     },
@@ -13206,12 +13422,12 @@
       "name": "entwined.zip",
       "source": {
         "date_added": "2024-10-14",
-        "date_updated": "2024-10-14",
-        "md5": "2dcd41b679098c2224c2644caa831014",
-        "release_id": "2024-10-14_0748",
+        "date_updated": "2024-10-15",
+        "md5": "0f5eafb7a6b65246ccdaf2de32c15c9a",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
         "size": 64700147,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/entwined.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/entwined.zip"
       },
       "version": 3
     },
@@ -14873,13 +15089,13 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game at https://fartfish.itch.io/fist-bump and extract the FistBump.pck into the gamedata folder.",
+        "inst": "Ready to run.",
         "inst_md": null,
         "porter": [
           "Ganimoth"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": "frt_3.2.3.squashfs",
         "title": "Fist Bump"
       },
@@ -14891,12 +15107,12 @@
       "name": "fistbump.zip",
       "source": {
         "date_added": "2024-10-09",
-        "date_updated": "2024-10-09",
-        "md5": "b1ffd420e7b65382e8ce2582ed27053e",
-        "release_id": "2024-10-09_1802",
+        "date_updated": "2024-10-15",
+        "md5": "e07fe186b1f5b995fd9538dc88922e25",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
-        "size": 15771,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/fistbump.zip"
+        "size": 21135068,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/fistbump.zip"
       },
       "version": 3
     },
@@ -15459,12 +15675,12 @@
       "name": "franken.zip",
       "source": {
         "date_added": "2024-10-10",
-        "date_updated": "2024-10-10",
-        "md5": "0e3d3dcf79093b39b70f4462c6a51a5a",
-        "release_id": "2024-10-10_2118",
+        "date_updated": "2024-10-15",
+        "md5": "f3a3eec741944aa5437424048a7f708b",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
         "size": 52641577,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-10_2118/franken.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/franken.zip"
       },
       "version": 3
     },
@@ -16057,6 +16273,78 @@
         "repo": "main",
         "size": 28557302,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-27_1324/frogfall.zip"
+      },
+      "version": 3
+    },
+    "frogger2.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A full-blown fan remake of the Game Boy Color version of Frogger 2! Play as Frogger or Lillie Frog as they conquer 32 stages to rescue the missing frog children.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download at itch.io https://ryan-silberman.itch.io/frogger2 and place the Frogger 2 (GMS).exe into the gamedata folder.",
+        "inst_md": "Download at [itch.io](https://ryan-silberman.itch.io/frogger2) and place the Frogger 2 (GMS).exe into the gamedata folder.",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Frogger 2"
+      },
+      "items": [
+        "Frogger 2.sh",
+        "frogger2"
+      ],
+      "items_opt": null,
+      "name": "frogger2.zip",
+      "source": {
+        "date_added": "2024-10-15",
+        "date_updated": "2024-10-15",
+        "md5": "12a495abeac9ff3e8965c2b718e70083",
+        "release_id": "2024-10-15_2128",
+        "repo": "main",
+        "size": 7423837,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/frogger2.zip"
       },
       "version": 3
     },
@@ -22840,12 +23128,12 @@
       "name": "librespot.zip",
       "source": {
         "date_added": "2024-10-07",
-        "date_updated": "2024-10-07",
-        "md5": "46a838686bf61bf07ef5ba1c4a802087",
-        "release_id": "2024-10-07_1714",
+        "date_updated": "2024-10-15",
+        "md5": "e966b242e5d75f0a2fa52a0f96520f68",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
         "size": 8346782,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-07_1714/librespot.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/librespot.zip"
       },
       "version": 3
     },
@@ -24009,12 +24297,12 @@
       "name": "lividmeadow.zip",
       "source": {
         "date_added": "2024-10-12",
-        "date_updated": "2024-10-12",
-        "md5": "2ff4e0c4c4a34de2fe0efff54ed7c911",
-        "release_id": "2024-10-12_1217",
+        "date_updated": "2024-10-15",
+        "md5": "7b2acadf20c11606a9bca9598f208fdb",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
-        "size": 18038436,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-12_1217/lividmeadow.zip"
+        "size": 18038435,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/lividmeadow.zip"
       },
       "version": 3
     },
@@ -24875,12 +25163,12 @@
       "name": "mago.zip",
       "source": {
         "date_added": "2024-10-07",
-        "date_updated": "2024-10-07",
-        "md5": "e260ecf94b9ccd5d5420af707d518da6",
-        "release_id": "2024-10-07_1714",
+        "date_updated": "2024-10-15",
+        "md5": "1890c4b4d151998041d7f0b91019b4a5",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
         "size": 25709444,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-07_1714/mago.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/mago.zip"
       },
       "version": 3
     },
@@ -29196,12 +29484,12 @@
       "name": "nuvie.zip",
       "source": {
         "date_added": "2024-10-12",
-        "date_updated": "2024-10-12",
-        "md5": "ae478f4feca88838c665025bf0303237",
-        "release_id": "2024-10-12_1217",
+        "date_updated": "2024-10-15",
+        "md5": "38a66e6ef84018613e7e6984117f48c4",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
-        "size": 1255367,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-12_1217/nuvie.zip"
+        "size": 1255368,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/nuvie.zip"
       },
       "version": 3
     },
@@ -31191,12 +31479,12 @@
       "name": "pachi.zip",
       "source": {
         "date_added": "2024-10-12",
-        "date_updated": "2024-10-12",
-        "md5": "b2be276f59953740da2ef7f826fb09cd",
-        "release_id": "2024-10-12_1217",
+        "date_updated": "2024-10-15",
+        "md5": "85c3211bd5ea70f9ece2641f262d8af1",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
-        "size": 3400125,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-12_1217/pachi.zip"
+        "size": 3400126,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/pachi.zip"
       },
       "version": 3
     },
@@ -32796,6 +33084,81 @@
       },
       "version": 3
     },
+    "powerputtlegend.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "PowerPutt Legend is a unique minigolf game with RPG elements, meant to look and feel like it's straight out of the NES. Slay monsters, level up, and unlock a series of items to improve your strategy.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run! Thanks to Team Bugulon granting us permission to distribute.",
+        "inst_md": null,
+        "porter": [
+          "coolz"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "PowerPutt Legend"
+      },
+      "items": [
+        "powerputtlegend/",
+        "PowerPutt Legend.sh"
+      ],
+      "items_opt": null,
+      "name": "powerputtlegend.zip",
+      "source": {
+        "date_added": "2024-10-15",
+        "date_updated": "2024-10-15",
+        "md5": "c24fe6298e7b2581c1e3c1ce01f65723",
+        "release_id": "2024-10-15_2128",
+        "repo": "main",
+        "size": 26988398,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/powerputtlegend.zip"
+      },
+      "version": 3
+    },
     "ppengui.zip": {
       "attr": {
         "arch": [
@@ -33817,12 +34180,12 @@
       "name": "quake.2.zip",
       "source": {
         "date_added": "2021-09-14",
-        "date_updated": "2024-10-09",
-        "md5": "9cb9edb093725bb5cc5ff9bbb55d4ef3",
-        "release_id": "2024-10-09_1802",
+        "date_updated": "2024-10-15",
+        "md5": "746dc83cbb21ed09773e5ebb1e3afb2b",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
-        "size": 33885022,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/quake.2.zip"
+        "size": 33885026,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/quake.2.zip"
       },
       "version": 3
     },
@@ -34204,6 +34567,80 @@
         "repo": "main",
         "size": 5195997,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/rakuen.zip"
+      },
+      "version": 3
+    },
+    "rambleplanet.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Ramble Planet is an adventure game of exploration and puzzle solving. You have crash landed on Badmark, a hostile frontier planet and tourist hotspot. You must scour the wilderness, ruins, and settlements of this alien world to find replacement parts for your spaceship.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the Windows version of the game (for free) here: https://willyelektrix.itch.io/ramble-planet -- extract, and copy the rambleplanet11.rpg file to the port gamedata folder.",
+        "inst_md": "Download the Windows version of the game (for free) here: [https://willyelektrix.itch.io/ramble-planet](https://willyelektrix.itch.io/ramble-planet) -- extract, and copy the *rambleplanet11.rpg* file to the port *gamedata* folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Ramble Planet"
+      },
+      "items": [
+        "Ramble Planet.sh",
+        "rambleplanet"
+      ],
+      "items_opt": null,
+      "name": "rambleplanet.zip",
+      "source": {
+        "date_added": "2024-10-15",
+        "date_updated": "2024-10-15",
+        "md5": "f81d59d39fcc414f7cb0fa80fc1fd4bb",
+        "release_id": "2024-10-15_2128",
+        "repo": "main",
+        "size": 2701910,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/rambleplanet.zip"
       },
       "version": 3
     },
@@ -35259,12 +35696,12 @@
       "name": "restore.portmaster.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-10-09",
-        "md5": "3ebfec2cf544a3db5f5544a4ce7bea91",
-        "release_id": "2024-10-09_1802",
+        "date_updated": "2024-10-15",
+        "md5": "b91b01299f782dc2fb5ce7a5cbcf7da5",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
-        "size": 17040380,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/restore.portmaster.zip"
+        "size": 17040440,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/restore.portmaster.zip"
       },
       "version": 3
     },
@@ -36148,12 +36585,12 @@
       "name": "rockdodger.zip",
       "source": {
         "date_added": "2024-10-12",
-        "date_updated": "2024-10-12",
-        "md5": "7a6436f761f390edeef294cb2f102886",
-        "release_id": "2024-10-12_1217",
+        "date_updated": "2024-10-15",
+        "md5": "26507833b7e57fae61f594d8b101fa39",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
-        "size": 1725750,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-12_1217/rockdodger.zip"
+        "size": 1725751,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/rockdodger.zip"
       },
       "version": 3
     },
@@ -37095,12 +37532,12 @@
       "name": "sdlbomber.zip",
       "source": {
         "date_added": "2024-10-12",
-        "date_updated": "2024-10-12",
-        "md5": "d7fe3a9b1793ea3d969a6d1a08370dcf",
-        "release_id": "2024-10-12_1217",
+        "date_updated": "2024-10-15",
+        "md5": "39688e4229c81d0a641040231beccd17",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
-        "size": 904002,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-12_1217/sdlbomber.zip"
+        "size": 904004,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/sdlbomber.zip"
       },
       "version": 3
     },
@@ -43470,12 +43907,12 @@
       "name": "tailspin.zip",
       "source": {
         "date_added": "2024-10-09",
-        "date_updated": "2024-10-10",
-        "md5": "c4987e59f88fee45b0d08af58460470c",
-        "release_id": "2024-10-10_2118",
+        "date_updated": "2024-10-15",
+        "md5": "beb5d5af303736f057cdbc98179180aa",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
-        "size": 27876539,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-10_2118/tailspin.zip"
+        "size": 27876540,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/tailspin.zip"
       },
       "version": 3
     },
@@ -43616,12 +44053,12 @@
       "name": "techmaniac.zip",
       "source": {
         "date_added": "2024-10-10",
-        "date_updated": "2024-10-10",
-        "md5": "906d34d442533c25d9e38528a5ad7cf7",
-        "release_id": "2024-10-10_2118",
+        "date_updated": "2024-10-15",
+        "md5": "56e0f03a8bc4c925bc533dc33c8be2c2",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
-        "size": 376968,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-10_2118/techmaniac.zip"
+        "size": 376971,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/techmaniac.zip"
       },
       "version": 3
     },
@@ -43760,12 +44197,12 @@
       "name": "tempuslocus.zip",
       "source": {
         "date_added": "2024-10-09",
-        "date_updated": "2024-10-09",
-        "md5": "e21870726f91e8710f4b5975121eba02",
-        "release_id": "2024-10-09_1802",
+        "date_updated": "2024-10-15",
+        "md5": "d9b054ccabefdc26cbb5cad4ee7d3519",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
-        "size": 19175080,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/tempuslocus.zip"
+        "size": 19175079,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/tempuslocus.zip"
       },
       "version": 3
     },
@@ -45085,12 +45522,12 @@
       "name": "towardsthepantheones.zip",
       "source": {
         "date_added": "2024-10-10",
-        "date_updated": "2024-10-10",
-        "md5": "5079acfb4b3a6b9433176f53fde7f471",
-        "release_id": "2024-10-10_2118",
+        "date_updated": "2024-10-15",
+        "md5": "0a49128e0c4814b6af23aa5776536a37",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
-        "size": 10852194,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-10_2118/towardsthepantheones.zip"
+        "size": 10852193,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/towardsthepantheones.zip"
       },
       "version": 3
     },
@@ -47296,12 +47733,12 @@
       "name": "vitasnake.zip",
       "source": {
         "date_added": "2024-09-24",
-        "date_updated": "2024-10-14",
-        "md5": "259550d2c01f835fdd96d030683c5897",
-        "release_id": "2024-10-14_0748",
+        "date_updated": "2024-10-15",
+        "md5": "81c97462b891d56d6cccba0744149915",
+        "release_id": "2024-10-15_2128",
         "repo": "main",
         "size": 17793329,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/vitasnake.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/vitasnake.zip"
       },
       "version": 3
     },
@@ -48631,6 +49068,80 @@
       },
       "version": 3
     },
+    "xooxenoxafari.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "It's your summer vacation on Xoo Island! This beautiful, deserted island is populated by a surreal menagerie of alien creatures. Can you find them all? While you're at it, you might as well collect a bunch of fossils, gems, eggs, merit badges, video games, and anything else that isn't nailed down. Xoo: Xeno Xafari is a new style of collecting RPG.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "\n\nPaid (new/sequel) version\n\n1.Purchase and download from: https://willyelektrix.itch.io/xoo-xeno-xafari\n2. Extract, and copy xoo.rpg to the xooxenoxafari port folder\n\nFree (old) version\n\n1. Download from: https://willyelektrix.itch.io/1999megallennium\n2. Extract, and copy megadata/xeno.rpg to the xooxenoxafari port folder",
+        "inst_md": "**Paid (new/sequel) version**\n\n1.Purchase and download from: [https://willyelektrix.itch.io/xoo-xeno-xafari](https://willyelektrix.itch.io/xoo-xeno-xafari)\n2. Extract, and copy `xoo.rpg` to the `xooxenoxafari` port folder\n\n**Free (old) version**\n\n1. Download from: [https://willyelektrix.itch.io/1999megallennium](https://willyelektrix.itch.io/1999megallennium)\n2. Extract, and copy `megadata/xeno.rpg` to the `xooxenoxafari` port folder",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Xoo: Xeno Xafari"
+      },
+      "items": [
+        "Xoo - Xeno Xafari.sh",
+        "xooxenoxafari"
+      ],
+      "items_opt": null,
+      "name": "xooxenoxafari.zip",
+      "source": {
+        "date_added": "2024-10-15",
+        "date_updated": "2024-10-15",
+        "md5": "442a563a3a0c0937413954393ac3f8fe",
+        "release_id": "2024-10-15_2128",
+        "repo": "main",
+        "size": 2707934,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/xooxenoxafari.zip"
+      },
+      "version": 3
+    },
     "yarntown.zip": {
       "attr": {
         "arch": [],
@@ -48844,6 +49355,81 @@
         "repo": "main",
         "size": 18938375,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/yellowjacket.zip"
+      },
+      "version": 3
+    },
+    "yolkheroes.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A cute Tamagotchi idle game from 14 Hours Productions.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "simulation"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase game from Steam, rename the main .pck to \"yolkheroes.pck\" and add to the yolkheroes/gamedata/ directory. See https://portmaster.games/gptokeyb-documentation.html for details about Keyboard Text Entry.",
+        "inst_md": null,
+        "porter": [
+          "nate_____"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Yolk Heroes: A Long Tamago"
+      },
+      "items": [
+        "Yolk Heroes.sh",
+        "yolkheroes/"
+      ],
+      "items_opt": null,
+      "name": "yolkheroes.zip",
+      "source": {
+        "date_added": "2024-10-15",
+        "date_updated": "2024-10-15",
+        "md5": "94300a6a76e35f048797ee816c412971",
+        "release_id": "2024-10-15_2128",
+        "repo": "main",
+        "size": 278827,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/yolkheroes.zip"
       },
       "version": 3
     },
