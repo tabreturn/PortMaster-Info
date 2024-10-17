@@ -7195,6 +7195,77 @@
       },
       "version": 3
     },
+    "catsonmars.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Play a dancing space cat in this pixel rhythm RPG!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Game files are included and ready to run. Thanks Jon Topielski and the team who created this https://jontopielski.itch.io",
+        "inst_md": "Game files are included and ready to run. Thanks [Jon Topielski](https://jontopielski.itch.io/cats-on-mars) and the team who created this!",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_3.2.3.squashfs",
+        "title": "Cats on Mars"
+      },
+      "items": [
+        "Cats on Mars.sh",
+        "catsonmars"
+      ],
+      "items_opt": null,
+      "name": "catsonmars.zip",
+      "source": {
+        "date_added": "2024-10-17",
+        "date_updated": "2024-10-17",
+        "md5": "27c4cab0ac0d5ae9d87f03224d449764",
+        "release_id": "2024-10-17_1221",
+        "repo": "main",
+        "size": 41046539,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_1221/catsonmars.zip"
+      },
+      "version": 3
+    },
     "cattactics.zip": {
       "attr": {
         "arch": [],
@@ -10754,6 +10825,76 @@
         "repo": "main",
         "size": 2807786,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/demonkeep.zip"
+      },
+      "version": 3
+    },
+    "demonofsakurapass.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A brutal single-player racing game with simplified driving mechanics that reward a good racing line and savagely punish bad technique. Focus on learning each track's unique challenges to overcome each racer and move on to the next. Unwrap the mystery haunting Sakura Pass in a 7-stage campaign.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "racing"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on itch.io (https://brainos.itch.io/touge), download the The Demon of Sakura Pass.exe version, extract it, and copy the game files to the port's gamedata folder.",
+        "inst_md": "Purchase the game on [itch.io](https://brainos.itch.io/touge), download the *The Demon of Sakura Pass.exe* version, extract it, and copy the game files to the port's *gamedata* folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Demon of Sakura Pass"
+      },
+      "items": [
+        "Demon of Sakura Pass.sh",
+        "demonofsakurapass"
+      ],
+      "items_opt": null,
+      "name": "demonofsakurapass.zip",
+      "source": {
+        "date_added": "2024-10-17",
+        "date_updated": "2024-10-17",
+        "md5": "b1a6b664d7bd1eb05465fad6938995e5",
+        "release_id": "2024-10-17_1221",
+        "repo": "main",
+        "size": 6842399,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_1221/demonofsakurapass.zip"
       },
       "version": 3
     },
@@ -18427,6 +18568,77 @@
       },
       "version": 3
     },
+    "halloweenforever.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Something mysterious is happening in the pumpkin patch this Halloween! You control Pumpkin Man, a humanoid pumpkin thing animated by occult forces on a quest to discover why things are so creepy. And you vomit candy corn.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on itch.io (https://imaginarymonsters.itch.io/halloween-forever), download the Halloween Forever - Modern Edition (2021) version, extract it, and copy the game files to the port's gamedata folder.",
+        "inst_md": "Purchase the game on [itch.io](https://imaginarymonsters.itch.io/halloween-forever), download the *Halloween Forever - Modern Edition (2021)* version, extract it, and copy the game files to the port's *gamedata* folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Halloween Forever"
+      },
+      "items": [
+        "Halloween Forever.sh",
+        "halloweenforever"
+      ],
+      "items_opt": null,
+      "name": "halloweenforever.zip",
+      "source": {
+        "date_added": "2024-10-17",
+        "date_updated": "2024-10-17",
+        "md5": "c1566d994b8abfadd9d1e425ed12b8f8",
+        "release_id": "2024-10-17_1221",
+        "repo": "main",
+        "size": 5361814,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_1221/halloweenforever.zip"
+      },
+      "version": 3
+    },
     "hallowseve.zip": {
       "attr": {
         "arch": [],
@@ -20764,6 +20976,77 @@
         "repo": "main",
         "size": 6169987,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/iichantra_pear.zip"
+      },
+      "version": 3
+    },
+    "iii.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "iii is a little 'catroidvania' about a one-eyed cat leaving his comfort zone. Explore underground caverns, gain vision of other dimensions, help the inhabitants, and expand your horizons.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game (free) on itch.io (https://yukonw.itch.io/iii), extract it, and copy the game files to the port's gamedata folder.",
+        "inst_md": "Download the game (free) on [itch.io](https://yukonw.itch.io/iii), extract it, and copy the game files to the port's *gamedata* folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "iii"
+      },
+      "items": [
+        "iii.sh",
+        "iii"
+      ],
+      "items_opt": null,
+      "name": "iii.zip",
+      "source": {
+        "date_added": "2024-10-17",
+        "date_updated": "2024-10-17",
+        "md5": "b0b2f840eb526a8275497bc033696828",
+        "release_id": "2024-10-17_1221",
+        "repo": "main",
+        "size": 5399343,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_1221/iii.zip"
       },
       "version": 3
     },
@@ -43661,6 +43944,76 @@
         "repo": "main",
         "size": 12082604,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/superrobotninjagirl.zip"
+      },
+      "version": 3
+    },
+    "superskelemania.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Dive into Super Skelemania, a single-sitting metroidvania about an acrobatic skeleton. Jump over a pit of thorns, roll your skull like a bowling ball, or headbutt a spider like any good skeleton would!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on itch.io (https://benal.itch.io/super-skelemania) or Steam (https://store.steampowered.com/app/730920/Super_Skelemania). For itch.io, extract the .exe as if it were a 7-zip archive (which it is) and copy all the games files into the port *gamedata* folder; for Steam, there's no need to extract the game files, just copy them to the *gamedata* folder.",
+        "inst_md": "Purchase the game on [itch.io](https://benal.itch.io/super-skelemania) or [Steam](https://store.steampowered.com/app/730920/Super_Skelemania). For itch.io, extract the .exe as if it were a 7-zip archive (which it is) and copy all the games files into the port *gamedata* folder; for Steam, there's no need to extract the game files, just copy them to the *gamedata* folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Super Skelemania"
+      },
+      "items": [
+        "Super Skelemania.sh",
+        "superskelemania"
+      ],
+      "items_opt": null,
+      "name": "superskelemania.zip",
+      "source": {
+        "date_added": "2024-10-17",
+        "date_updated": "2024-10-17",
+        "md5": "e42c60b6103c8f251f304c803e7c5bdd",
+        "release_id": "2024-10-17_1221",
+        "repo": "main",
+        "size": 5516423,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_1221/superskelemania.zip"
       },
       "version": 3
     },
