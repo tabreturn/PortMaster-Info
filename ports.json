@@ -726,12 +726,12 @@
       "name": "akeyspath.zip",
       "source": {
         "date_added": "2024-10-15",
-        "date_updated": "2024-10-15",
-        "md5": "8ebb7c678c7aa2b1d21accdb54bde40f",
-        "release_id": "2024-10-15_2128",
+        "date_updated": "2024-10-17",
+        "md5": "1afc66e54a7105aeea312ef5b50a3bb6",
+        "release_id": "2024-10-17_0726",
         "repo": "main",
-        "size": 6533273,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/akeyspath.zip"
+        "size": 6533313,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/akeyspath.zip"
       },
       "version": 3
     },
@@ -1172,12 +1172,12 @@
       "name": "alienpogs.zip",
       "source": {
         "date_added": "2024-07-15",
-        "date_updated": "2024-07-15",
-        "md5": "878330fe5c7f2003c292f7b7ecd70a75",
-        "release_id": "2024-07-15_1238",
+        "date_updated": "2024-10-17",
+        "md5": "10a005591ba690c7ed6057ebec438140",
+        "release_id": "2024-10-17_0726",
         "repo": "main",
-        "size": 2761440,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-15_1238/alienpogs.zip"
+        "size": 2761404,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/alienpogs.zip"
       },
       "version": 3
     },
@@ -1245,12 +1245,12 @@
       "name": "aliensquatter.zip",
       "source": {
         "date_added": "2024-07-06",
-        "date_updated": "2024-07-06",
-        "md5": "50230e0145917cd9dd628cb7205b6905",
-        "release_id": "2024-07-06_0646",
+        "date_updated": "2024-10-17",
+        "md5": "0a08d141635758949c84b5710d942fa5",
+        "release_id": "2024-10-17_0726",
         "repo": "main",
-        "size": 2713314,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-06_0646/aliensquatter.zip"
+        "size": 2713276,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/aliensquatter.zip"
       },
       "version": 3
     },
@@ -2424,12 +2424,12 @@
       "name": "axecop.zip",
       "source": {
         "date_added": "2024-10-09",
-        "date_updated": "2024-10-15",
-        "md5": "2e6932789f5926c36db77163d0609c63",
-        "release_id": "2024-10-15_2128",
+        "date_updated": "2024-10-17",
+        "md5": "6a22875ab92cb266b640cc45b08c7e9a",
+        "release_id": "2024-10-17_0726",
         "repo": "main",
-        "size": 2750452,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/axecop.zip"
+        "size": 2750470,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/axecop.zip"
       },
       "version": 3
     },
@@ -2578,12 +2578,12 @@
       "name": "balatro.zip",
       "source": {
         "date_added": "2024-04-01",
-        "date_updated": "2024-10-09",
-        "md5": "c4d800c022cf103bb5fd465bd529f524",
-        "release_id": "2024-10-09_1802",
+        "date_updated": "2024-10-17",
+        "md5": "3a1793cbffd6c1d4825bebe58f367e86",
+        "release_id": "2024-10-17_0726",
         "repo": "main",
-        "size": 6005052,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/balatro.zip"
+        "size": 6005036,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/balatro.zip"
       },
       "version": 3
     },
@@ -3583,13 +3583,13 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Go to the game's itch.io page https://brainos.itch.io/biomassgrowth to download the Biomass Growth 20211213.exe and place in into the port's gamedata folder.",
+        "inst": "Ready to run.",
         "inst_md": null,
         "porter": [
           "Ganimoth"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": null,
         "title": "Biomass: Growth"
       },
@@ -3601,12 +3601,12 @@
       "name": "biomassgrowth.zip",
       "source": {
         "date_added": "2024-10-14",
-        "date_updated": "2024-10-15",
-        "md5": "f52d2801d49b36f3697c9d714b052408",
-        "release_id": "2024-10-15_2128",
+        "date_updated": "2024-10-17",
+        "md5": "65890b4bf3f79a10512f13961e84ab46",
+        "release_id": "2024-10-17_0726",
         "repo": "main",
-        "size": 11715143,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/biomassgrowth.zip"
+        "size": 38993091,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/biomassgrowth.zip"
       },
       "version": 3
     },
@@ -7790,6 +7790,108 @@
       },
       "version": 3
     },
+    "ceferino.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:arkos",
+          "rg353ps:jelos",
+          "rg351mp:ALL",
+          "rg503:arkos",
+          "rg503:jelos",
+          "rg552:amberelec",
+          "rg552:jelos",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:arkos (wummle)",
+          "rg351p:amberelec",
+          "rg351p:jelos",
+          "rg351v:arkos",
+          "rg351v:amberelec",
+          "rg351v:jelos",
+          "rgb10:arkos",
+          "rgb10:jelos",
+          "rgb20s:ALL",
+          "rgb30:arkos",
+          "rgb30:jelos",
+          "rk2023:arkos",
+          "rk2023:jelos",
+          "x55:ALL",
+          "rgb10max3:jelos",
+          "rgb10max3pro:jelos",
+          "oga:arkos",
+          "oga:amberelec",
+          "oga:emuelec",
+          "oga:jelos",
+          "ogs:arkos",
+          "ogs:amberelec",
+          "ogs:emuelec",
+          "ogs:jelos",
+          "ogu:arkos",
+          "ogu:amberelec",
+          "ogu:emuelec",
+          "ogu:jelos",
+          "ace:jelos",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:arkos",
+          "xu10:amberelec",
+          "xu10:jelos",
+          "r33s:arkos",
+          "r33s:amberelec",
+          "r33s:jelos",
+          "r35s:arkos",
+          "r35s:amberelec",
+          "r35s:jelos",
+          "r36s:arkos",
+          "r36s:amberelec",
+          "r36s:jelos"
+        ],
+        "desc": "A game similar to the classic Super Pang. Don Ceferino Haza\u00f1a is a gaucho from Argentina who must rescue his cow from the aliens. In the best Super Pang style, in this game the most important thing is the skill of the player.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run! Main Menu is a tad slow but ingame it works great!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [
+          "!rocknix"
+        ],
+        "rtr": true,
+        "runtime": null,
+        "title": "Don Ceferino Haza\u00f1a"
+      },
+      "items": [
+        "Don Ceferino Haza\u00f1a.sh",
+        "ceferino"
+      ],
+      "items_opt": null,
+      "name": "ceferino.zip",
+      "source": {
+        "date_added": "2024-10-17",
+        "date_updated": "2024-10-17",
+        "md5": "3032fed5da648ad85ccadc99fb0cadae",
+        "release_id": "2024-10-17_0726",
+        "repo": "main",
+        "size": 2696934,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/ceferino.zip"
+      },
+      "version": 3
+    },
     "celeste.zip": {
       "attr": {
         "arch": [
@@ -9033,6 +9135,82 @@
         "repo": "main",
         "size": 3353514,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/commander.genius.zip"
+      },
+      "version": 3
+    },
+    "cookservedelicious.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "One of the few hardcore restaurant sims in existence, Cook, Serve, Delicious! is a deceptively easy game to learn but incredibly challenging to master as you progress through your career from owning a terrible zero star cafe into a five star world famous restaurant.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "simulation"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy the game from: https://store.steampowered.com/app/247020/Cook_Serve_Delicious/ OR https://chubigans.itch.io/cook-serve-delicious\nDownload the game and copy over the game files into ports/cookservedelicious/gamedata/",
+        "inst_md": "Buy the game from: https://store.steampowered.com/app/247020/Cook_Serve_Delicious/ OR https://chubigans.itch.io/cook-serve-delicious\nDownload the game and copy over the game files into ports/cookservedelicious/gamedata/",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Cook, Serve, Delicious!"
+      },
+      "items": [
+        "Cook, Serve, Delicious!.sh",
+        "cookservedelicious"
+      ],
+      "items_opt": null,
+      "name": "cookservedelicious.zip",
+      "source": {
+        "date_added": "2024-10-17",
+        "date_updated": "2024-10-17",
+        "md5": "a29d3f3ac25c67b242a2f3c5f984db0a",
+        "release_id": "2024-10-17_0726",
+        "repo": "main",
+        "size": 36931907,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/cookservedelicious.zip"
       },
       "version": 3
     },
@@ -12010,7 +12188,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "The game needs the original assets, they are freely available. Download the DeathRallyWin_10.exe from https://www.chip.de/downloads/Death-Rally-Vollversion_38550689.html and place it into the ports/drally/ directory and it will be automatically extracted.",
+        "inst": "The game needs the original assets, they are freely available. Download the DeathRallyWin\\_10.exe from https://www.chip.de/downloads/Death-Rally-Vollversion\\_38550689.html and place it into the ports/drally/ directory and it will be automatically extracted.",
         "inst_md": null,
         "porter": [
           "kloptops",
@@ -12029,12 +12207,12 @@
       "name": "drally.zip",
       "source": {
         "date_added": "2023-11-27",
-        "date_updated": "2024-07-18",
-        "md5": "6287b9c354f5621295b4d1c4e232e3db",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-10-17",
+        "md5": "352c576bce2c8323924ff43347142aa1",
+        "release_id": "2024-10-17_0726",
         "repo": "main",
-        "size": 2244496,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/drally.zip"
+        "size": 2244499,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/drally.zip"
       },
       "version": 3
     },
@@ -15675,12 +15853,12 @@
       "name": "franken.zip",
       "source": {
         "date_added": "2024-10-10",
-        "date_updated": "2024-10-15",
-        "md5": "f3a3eec741944aa5437424048a7f708b",
-        "release_id": "2024-10-15_2128",
+        "date_updated": "2024-10-17",
+        "md5": "0fed07d6f6106618f25048ef23d92b1f",
+        "release_id": "2024-10-17_0726",
         "repo": "main",
-        "size": 52641577,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/franken.zip"
+        "size": 52641595,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/franken.zip"
       },
       "version": 3
     },
@@ -21888,12 +22066,12 @@
       "name": "kaijubigbattel.zip",
       "source": {
         "date_added": "2024-10-03",
-        "date_updated": "2024-10-03",
-        "md5": "dfbf0e8af0e4e73fe3d58fd8a30a888c",
-        "release_id": "2024-10-03_1624",
+        "date_updated": "2024-10-17",
+        "md5": "6535b0092769d25ed44d3660e7158f98",
+        "release_id": "2024-10-17_0726",
         "repo": "main",
-        "size": 2710918,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-03_1624/kaijubigbattel.zip"
+        "size": 2710883,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/kaijubigbattel.zip"
       },
       "version": 3
     },
@@ -28620,6 +28798,78 @@
       },
       "version": 3
     },
+    "nightshift.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": " Prevent the walking dead from escaping the graveyard and put them back to rest. Keep the job and save the innocents. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download at itch.io https://icydog.itch.io/the-night-shift and place the NightShift.exe into the gamedata folder.",
+        "inst_md": "Download at [itch.io](https://icydog.itch.io/the-night-shift) and place the NightShift.exe into the gamedata folder.",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "The Night Shift"
+      },
+      "items": [
+        "The Night Shift.sh",
+        "nightshift"
+      ],
+      "items_opt": null,
+      "name": "nightshift.zip",
+      "source": {
+        "date_added": "2024-10-17",
+        "date_updated": "2024-10-17",
+        "md5": "1cfb5b0c0c778c0197ae804433070c05",
+        "release_id": "2024-10-17_0726",
+        "repo": "main",
+        "size": 6818525,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/nightshift.zip"
+      },
+      "version": 3
+    },
     "nikwi.zip": {
       "attr": {
         "arch": [
@@ -33604,6 +33854,81 @@
       },
       "version": 3
     },
+    "pullywog.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Sling yourself through the air by catching flies with your tongue. Eating several things without touching the ground will score you a combo, so try to stay in the air for as long as you can! The timer constantly ticks down; you can eat anything to keep it going a little longer, but watch out for ghosts which are lethal to the touch! You can stop bombs from exploding by eating them before they hit the water.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Slobters"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Pullywog"
+      },
+      "items": [
+        "Pullywog.sh",
+        "pullywog"
+      ],
+      "items_opt": null,
+      "name": "pullywog.zip",
+      "source": {
+        "date_added": "2024-10-17",
+        "date_updated": "2024-10-17",
+        "md5": "6fc6b01ba8a983006cd95f637b966e93",
+        "release_id": "2024-10-17_0726",
+        "repo": "main",
+        "size": 24518288,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/pullywog.zip"
+      },
+      "version": 3
+    },
     "pulstario.zip": {
       "attr": {
         "arch": [
@@ -34635,12 +34960,12 @@
       "name": "rambleplanet.zip",
       "source": {
         "date_added": "2024-10-15",
-        "date_updated": "2024-10-15",
-        "md5": "f81d59d39fcc414f7cb0fa80fc1fd4bb",
-        "release_id": "2024-10-15_2128",
+        "date_updated": "2024-10-17",
+        "md5": "fb49fd4ac4837c5a0309d3b406b25eae",
+        "release_id": "2024-10-17_0726",
         "repo": "main",
-        "size": 2701910,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/rambleplanet.zip"
+        "size": 2701941,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/rambleplanet.zip"
       },
       "version": 3
     },
@@ -35696,12 +36021,12 @@
       "name": "restore.portmaster.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-10-15",
-        "md5": "b91b01299f782dc2fb5ce7a5cbcf7da5",
-        "release_id": "2024-10-15_2128",
+        "date_updated": "2024-10-17",
+        "md5": "450dc7fe20aaaf21b25b5e9cca97ea2c",
+        "release_id": "2024-10-17_0726",
         "repo": "main",
-        "size": 17040440,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/restore.portmaster.zip"
+        "size": 17040612,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/restore.portmaster.zip"
       },
       "version": 3
     },
@@ -47589,12 +47914,12 @@
       "name": "vikingsofmidgard.zip",
       "source": {
         "date_added": "2024-09-29",
-        "date_updated": "2024-09-29",
-        "md5": "ff6c84676698ff429baa8006feaf1300",
-        "release_id": "2024-09-29_1340",
+        "date_updated": "2024-10-17",
+        "md5": "138c1b1fb5ce5e497558a4c5085bfe55",
+        "release_id": "2024-10-17_0726",
         "repo": "main",
-        "size": 50115330,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-29_1340/vikingsofmidgard.zip"
+        "size": 50115296,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/vikingsofmidgard.zip"
       },
       "version": 3
     },
@@ -48029,12 +48354,12 @@
       "name": "walthrosrenewal.zip",
       "source": {
         "date_added": "2024-09-29",
-        "date_updated": "2024-10-14",
-        "md5": "403b616bdd7050f6d70268a1919a2331",
-        "release_id": "2024-10-14_0748",
+        "date_updated": "2024-10-17",
+        "md5": "e8fea9ae54543c31d6461275af109fc0",
+        "release_id": "2024-10-17_0726",
         "repo": "main",
-        "size": 2707087,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/walthrosrenewal.zip"
+        "size": 2707052,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/walthrosrenewal.zip"
       },
       "version": 3
     },
