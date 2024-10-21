@@ -9220,11 +9220,8 @@
           "rg351mp:ALL",
           "rg503:ALL",
           "rg552:ALL",
-          "rg35xx-plus:ALL",
           "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
           "rg351p:ALL",
-          "rg351v:ALL",
           "rgb10:ALL",
           "rgb20s:ALL",
           "rgb30:ALL",
@@ -9232,14 +9229,12 @@
           "x55:ALL",
           "rgb10max3:ALL",
           "rgb10max3pro:ALL",
-          "oga:ALL",
           "ogs:ALL",
           "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
           "trimui-smart-pro:ALL",
           "xu10:ALL",
-          "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
@@ -9258,12 +9253,14 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Buy the game from: https://store.steampowered.com/app/247020/Cook_Serve_Delicious/ OR https://chubigans.itch.io/cook-serve-delicious\nDownload the game and copy over the game files into ports/cookservedelicious/gamedata/",
-        "inst_md": "Buy the game from: https://store.steampowered.com/app/247020/Cook_Serve_Delicious/ OR https://chubigans.itch.io/cook-serve-delicious\nDownload the game and copy over the game files into ports/cookservedelicious/gamedata/",
+        "inst": "Buy the game from steam or itch.io.\n\nDownload the game and copy over the game files into ports/cookservedelicious/gamedata/\"\n\nNote: requires twin sticks!",
+        "inst_md": "Buy the game from: https://store.steampowered.com/app/247020/Cook_Serve_Delicious/ OR https://chubigans.itch.io/cook-serve-delicious\n\nDownload the game and copy over the game files into ports/cookservedelicious/gamedata/\"\n\n**Note: requires twin sticks!**",
         "porter": [
           "Fraxinus88"
         ],
-        "reqs": [],
+        "reqs": [
+          "analog_2"
+        ],
         "rtr": false,
         "runtime": null,
         "title": "Cook, Serve, Delicious!"
@@ -9276,12 +9273,12 @@
       "name": "cookservedelicious.zip",
       "source": {
         "date_added": "2024-10-17",
-        "date_updated": "2024-10-17",
-        "md5": "a29d3f3ac25c67b242a2f3c5f984db0a",
-        "release_id": "2024-10-17_0726",
+        "date_updated": "2024-10-21",
+        "md5": "affb2430c9cb954f4ce7cdb220a2758f",
+        "release_id": "2024-10-21_0653",
         "repo": "main",
-        "size": 36931907,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/cookservedelicious.zip"
+        "size": 36931952,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/cookservedelicious.zip"
       },
       "version": 3
     },
@@ -16886,6 +16883,158 @@
       },
       "version": 3
     },
+    "gardenstory.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Embark on a wholesome adventure to save The Grove! Forage resources, combat the invasive Rot, and restore the community. Relax and enjoy the fruits of your labor in this charming action-RPG starring a grape.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install port. Download the game on Steam. Copy all gamefiles to the gamedata folder.",
+        "inst_md": null,
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Garden Story"
+      },
+      "items": [
+        "Garden Story.sh",
+        "gardenstory"
+      ],
+      "items_opt": null,
+      "name": "gardenstory.zip",
+      "source": {
+        "date_added": "2024-10-21",
+        "date_updated": "2024-10-21",
+        "md5": "82fd6e2a6a42b7f2ce6000a25278e00d",
+        "release_id": "2024-10-21_0653",
+        "repo": "main",
+        "size": 18331100,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/gardenstory.zip"
+      },
+      "version": 3
+    },
+    "gatoroboto.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Pounce inside of your cozy armored mech and set off on a dangerous trek through an alien underworld full of irritable creatures and treacherous obstacles in a valiant effort to save your stranded captain and his crashed spaceship.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install port. Download the windows version of game on Steam or GOG. Copy all gamefiles to the gamedata folder.",
+        "inst_md": null,
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Gato Roboto"
+      },
+      "items": [
+        "Gato Roboto.sh",
+        "gatoroboto"
+      ],
+      "items_opt": null,
+      "name": "gatoroboto.zip",
+      "source": {
+        "date_added": "2024-10-21",
+        "date_updated": "2024-10-21",
+        "md5": "9b6288398d5857cbd6886689cf947a26",
+        "release_id": "2024-10-21_0653",
+        "repo": "main",
+        "size": 16259451,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/gatoroboto.zip"
+      },
+      "version": 3
+    },
     "gaugeofrage.zip": {
       "attr": {
         "arch": [
@@ -18122,6 +18271,69 @@
       },
       "version": 3
     },
+    "guacamelee.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "ace:ALL"
+        ],
+        "desc": "Guacamelee! Gold Edition is a Metroidvania-style action-platformer set in a magical Mexican-inspired world. The game draws its inspiration from traditional Mexican culture and folklore, and features many interesting and unique characters.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Add your Humble Bundle Linux Guacamelee_DRMFREE.sh, or GOGs gog_guacamelee_gold_edition_2.0.0.3.sh to the guacamelee folder and run the game.",
+        "inst_md": null,
+        "porter": [
+          "Cebion",
+          "kotzebuedog"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Guacamelee"
+      },
+      "items": [
+        "Guacamelee.sh",
+        "guacamelee"
+      ],
+      "items_opt": null,
+      "name": "guacamelee.zip",
+      "source": {
+        "date_added": "2024-10-21",
+        "date_updated": "2024-10-21",
+        "md5": "536293fded0491976b652daa9bad56fb",
+        "release_id": "2024-10-21_0653",
+        "repo": "main",
+        "size": 4557157,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/guacamelee.zip"
+      },
+      "version": 3
+    },
     "gumchugirl.zip": {
       "attr": {
         "arch": [
@@ -18710,6 +18922,79 @@
         "repo": "main",
         "size": 454008,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/hallowseve.zip"
+      },
+      "version": 3
+    },
+    "hauntedlandsburial.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Dark and bloody retro inspired action platformer. Slay the grim cultists, the infernal minions and twisted nightmarish creatures that roam the Haunted Lands.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download at itch.io https://alevgor.itch.io/haunted-lands-burial-grounds and copy Haunted Lands Burial Grounds 1.1.0.exe into gamedata folder.",
+        "inst_md": "Download at [itch.io](https://alevgor.itch.io/haunted-lands-burial-grounds) and copy Haunted Lands Burial Grounds 1.1.0.exe into gamedata folder.",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Haunted Lands Burial Grounds"
+      },
+      "items": [
+        "Haunted Lands Burial Grounds.sh",
+        "hauntedlandsburial"
+      ],
+      "items_opt": null,
+      "name": "hauntedlandsburial.zip",
+      "source": {
+        "date_added": "2024-10-21",
+        "date_updated": "2024-10-21",
+        "md5": "2b40d2f91fa5027f0b0ac030a361265c",
+        "release_id": "2024-10-21_0653",
+        "repo": "main",
+        "size": 7354834,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/hauntedlandsburial.zip"
       },
       "version": 3
     },
@@ -21894,7 +22179,7 @@
           "video": null
         },
         "inst": "Purchase the game from steam or gog.\nHead to https://portmaster.games/ on the specific game files to place in ports/jetlancer/gamedata",
-        "inst_md": "Purchase the game from https://store.steampowered.com/app/913060/Jet_Lancer/ OR https://www.gog.com/en/game/jet_lancer\n\nSteam: Download the game, copy over all the game file to ports/jetlancer/gamedata\nGOG: Download Version 1.0.17. Do this by going to More > Manage Installation > Configure > Uncheck auto-updates > Show more versions > Select Version 1.0.17. Copy over all the game file to ports/jetlancer/gamedata",
+        "inst_md": "Purchase the game from [Steam](https://store.steampowered.com/app/913060/Jet_Lancer/) OR [GOG](https://www.gog.com/en/game/jet_lancer)\n\n**Steam**: Download the latest version of the game or use steam console and type download_depot 913060 913061 5560224757383287130, copy over all the game file to ports/jetlancer/gamedata\n\n**GOG**: Download Version 1.0.17. Do this by going to More > Manage Installation > Configure > Uncheck auto-updates > Show more versions > Select Version 1.0.17. Copy over all the game file to ports/jetlancer/gamedata",
         "porter": [
           "Fraxinus88",
           "kotzebuedog"
@@ -21912,12 +22197,12 @@
       "name": "jetlancer.zip",
       "source": {
         "date_added": "2024-10-10",
-        "date_updated": "2024-10-10",
-        "md5": "04ea33352160178c97295bf44fde52fe",
-        "release_id": "2024-10-10_2118",
+        "date_updated": "2024-10-21",
+        "md5": "549d4d1aa4abfe9af18aab08ef70e9c1",
+        "release_id": "2024-10-21_0653",
         "repo": "main",
-        "size": 45255190,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-10_2118/jetlancer.zip"
+        "size": 45255260,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/jetlancer.zip"
       },
       "version": 3
     },
@@ -25052,6 +25337,82 @@
         "repo": "main",
         "size": 31639849,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/loopcat.zip"
+      },
+      "version": 3
+    },
+    "lose95.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Lose95 yourself to the depths of your folders and try to make space for the downloads!\n\nThe download constantly ticks trying to kill your drive; click on files to delete them, but watch out for bugs and errors which can stun you and make you loose precious time! You can collect power ups to click on and hack your way out.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Slobters"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Lose95"
+      },
+      "items": [
+        "Lose95.sh",
+        "lose95"
+      ],
+      "items_opt": null,
+      "name": "lose95.zip",
+      "source": {
+        "date_added": "2024-10-21",
+        "date_updated": "2024-10-21",
+        "md5": "d3b659fc1afd1dcc17c2cdcb11638425",
+        "release_id": "2024-10-21_0653",
+        "repo": "main",
+        "size": 25869426,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/lose95.zip"
       },
       "version": 3
     },
@@ -34788,12 +35149,12 @@
       "name": "quake.2.zip",
       "source": {
         "date_added": "2021-09-14",
-        "date_updated": "2024-10-15",
-        "md5": "746dc83cbb21ed09773e5ebb1e3afb2b",
-        "release_id": "2024-10-15_2128",
+        "date_updated": "2024-10-21",
+        "md5": "f8909755a696174249286bb7aa0abca6",
+        "release_id": "2024-10-21_0653",
         "repo": "main",
-        "size": 33885026,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/quake.2.zip"
+        "size": 33884929,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/quake.2.zip"
       },
       "version": 3
     },
@@ -37789,6 +38150,79 @@
       },
       "version": 3
     },
+    "satlovecake.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "SATAN wields a trident that shoots electric beams, that are able to tramsform his enemies into cake. Meet a host of enemies and bosses - and eat them all!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download from itch.io https://Baku.itch.io/satan-loves-cake and place data.win into the satlovecake folder. ",
+        "inst_md": "Download from [itch.io](https://Baku.itch.io/satan-loves-cake) and place data.win into the satlovecake folder. ",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "SATAN LOVES CAKE"
+      },
+      "items": [
+        "SATAN LOVES CAKE.sh",
+        "satlovecake"
+      ],
+      "items_opt": null,
+      "name": "satlovecake.zip",
+      "source": {
+        "date_added": "2024-10-21",
+        "date_updated": "2024-10-21",
+        "md5": "6f3a97643246e2454bc3fb968511b942",
+        "release_id": "2024-10-21_0653",
+        "repo": "main",
+        "size": 10568181,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/satlovecake.zip"
+      },
+      "version": 3
+    },
     "satryn.zip": {
       "attr": {
         "arch": [],
@@ -38953,6 +39387,79 @@
         "repo": "main",
         "size": 1353369,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/shipwreck.zip"
+      },
+      "version": 3
+    },
+    "shirobimetal.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Old school, 8-bit, Metroidvania. A Robotic Ninja searches an uncharted planet for his long lost father, made in 5 days as part of Global Game Jam 2021",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from gamejolt https://gamejolt.com/games/shirobimetalninja/582435 and extract the data.win and ogg files into the port folder.",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Shirobi: Metal Ninja"
+      },
+      "items": [
+        "Shirobi - Metal Ninja.sh",
+        "shirobimetal"
+      ],
+      "items_opt": null,
+      "name": "shirobimetal.zip",
+      "source": {
+        "date_added": "2024-10-21",
+        "date_updated": "2024-10-21",
+        "md5": "f732cb644f3abbd7b99f5ec55fb9e16f",
+        "release_id": "2024-10-21_0653",
+        "repo": "main",
+        "size": 13952475,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/shirobimetal.zip"
       },
       "version": 3
     },
@@ -41029,7 +41536,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the 32-bit or 64-bit android apk from Gamejolt and put it in `ports/sonictt16b`.",
+        "inst": "Download the 64-bit android apk from Gamejolt and put it in `ports/sonictt16b`.",
         "inst_md": null,
         "porter": [
           "Jeod",
@@ -41050,12 +41557,12 @@
       "name": "sonictt16b.zip",
       "source": {
         "date_added": "2024-07-28",
-        "date_updated": "2024-08-06",
-        "md5": "538bf734c582e0c5198d34afc7358f82",
-        "release_id": "2024-08-06_1441",
+        "date_updated": "2024-10-21",
+        "md5": "fa73d87893a7ad325f04d2b11c2cf60c",
+        "release_id": "2024-10-21_0653",
         "repo": "main",
-        "size": 21165406,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_1441/sonictt16b.zip"
+        "size": 21024268,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/sonictt16b.zip"
       },
       "version": 3
     },
@@ -46572,6 +47079,79 @@
         "repo": "main",
         "size": 25098708,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-17_0840/trickykeys2.zip"
+      },
+      "version": 3
+    },
+    "triggerrally.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Trigger is a free 3D rally car racing game. Fun for all the family!\nTrigger comes with a number of challenges where you have to race several tracks to finish each challenge.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "racing"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!\nMouse is invisible but can be navigate trough hovering over the menu items.",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Trigger Rally"
+      },
+      "items": [
+        "Trigger Rally.sh",
+        "triggerrally"
+      ],
+      "items_opt": null,
+      "name": "triggerrally.zip",
+      "source": {
+        "date_added": "2024-10-21",
+        "date_updated": "2024-10-21",
+        "md5": "ea2811affc04d57046eb0c0895f39c94",
+        "release_id": "2024-10-21_0653",
+        "repo": "main",
+        "size": 370520838,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/triggerrally.zip"
       },
       "version": 3
     },
