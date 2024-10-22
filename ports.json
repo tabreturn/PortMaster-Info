@@ -10868,8 +10868,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game on itch.io (https://brainos.itch.io/touge), download the The Demon of Sakura Pass.exe version, extract it, and copy the game files to the port's gamedata folder.",
-        "inst_md": "Purchase the game on [itch.io](https://brainos.itch.io/touge), download the *The Demon of Sakura Pass.exe* version, extract it, and copy the game files to the port's *gamedata* folder.",
+        "inst": "Purchase the game on itch.io (https://brainos.itch.io/touge), download the The Demon of Sakura Pass.exe version and copy it to the port's gamedata folder.",
+        "inst_md": "Purchase the game on [itch.io](https://brainos.itch.io/touge), download the *The Demon of Sakura Pass.exe* version and copy it to the port's *gamedata* folder.",
         "porter": [
           "tabreturn"
         ],
@@ -10886,12 +10886,12 @@
       "name": "demonofsakurapass.zip",
       "source": {
         "date_added": "2024-10-17",
-        "date_updated": "2024-10-17",
-        "md5": "b1a6b664d7bd1eb05465fad6938995e5",
-        "release_id": "2024-10-17_1221",
+        "date_updated": "2024-10-22",
+        "md5": "8119b585cba637a71f9fb83e16e467cc",
+        "release_id": "2024-10-22_0750",
         "repo": "main",
-        "size": 6842399,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_1221/demonofsakurapass.zip"
+        "size": 6842386,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-22_0750/demonofsakurapass.zip"
       },
       "version": 3
     },
@@ -18304,7 +18304,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Add your Humble Bundle Linux Guacamelee_DRMFREE.sh, or GOGs gog_guacamelee_gold_edition_2.0.0.3.sh to the guacamelee folder and run the game.",
+        "inst": "Add your Humble Bundle Linux Guacamelee\\_DRMFREE.sh, or GOGs gog\\_guacamelee\\_gold\\_edition\\_2.0.0.3.sh to the guacamelee folder and run the game.",
         "inst_md": null,
         "porter": [
           "Cebion",
@@ -18325,12 +18325,12 @@
       "name": "guacamelee.zip",
       "source": {
         "date_added": "2024-10-21",
-        "date_updated": "2024-10-21",
-        "md5": "536293fded0491976b652daa9bad56fb",
-        "release_id": "2024-10-21_0653",
+        "date_updated": "2024-10-22",
+        "md5": "500cc416fdc1fcc027fdc8dbe80811f9",
+        "release_id": "2024-10-22_0750",
         "repo": "main",
-        "size": 4557157,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/guacamelee.zip"
+        "size": 4557161,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-22_0750/guacamelee.zip"
       },
       "version": 3
     },
@@ -18989,12 +18989,12 @@
       "name": "hauntedlandsburial.zip",
       "source": {
         "date_added": "2024-10-21",
-        "date_updated": "2024-10-21",
-        "md5": "2b40d2f91fa5027f0b0ac030a361265c",
-        "release_id": "2024-10-21_0653",
+        "date_updated": "2024-10-22",
+        "md5": "669bb2494b4a43aec1afd4d9421a17ff",
+        "release_id": "2024-10-22_0750",
         "repo": "main",
-        "size": 7354834,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/hauntedlandsburial.zip"
+        "size": 7354835,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-22_0750/hauntedlandsburial.zip"
       },
       "version": 3
     },
@@ -37930,6 +37930,80 @@
       },
       "version": 3
     },
+    "rrootage.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "rRootage is an arcade-style vertical shooting game, with music to match. Avoid the barrage of bullets and destroy the enemy's battle ship with your laser. rRootage has 40 levels, each playable in four different modes.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "rRootage"
+      },
+      "items": [
+        "rRootage.sh",
+        "rrootage"
+      ],
+      "items_opt": null,
+      "name": "rrootage.zip",
+      "source": {
+        "date_added": "2024-10-22",
+        "date_updated": "2024-10-22",
+        "md5": "e2b8e26aef3abdeced70265bfd965898",
+        "release_id": "2024-10-22_0750",
+        "repo": "main",
+        "size": 4947066,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-22_0750/rrootage.zip"
+      },
+      "version": 3
+    },
     "russiansubwaydogs.zip": {
       "attr": {
         "arch": [
@@ -38214,12 +38288,12 @@
       "name": "satlovecake.zip",
       "source": {
         "date_added": "2024-10-21",
-        "date_updated": "2024-10-21",
-        "md5": "6f3a97643246e2454bc3fb968511b942",
-        "release_id": "2024-10-21_0653",
+        "date_updated": "2024-10-22",
+        "md5": "8e7e0932944ceeedf0e9d9e7a55b3527",
+        "release_id": "2024-10-22_0750",
         "repo": "main",
-        "size": 10568181,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/satlovecake.zip"
+        "size": 10568185,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-22_0750/satlovecake.zip"
       },
       "version": 3
     },
@@ -44313,6 +44387,83 @@
       },
       "version": 3
     },
+    "supermethanebros.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A conversion of Super Methane Brothers for the Commodore Amiga.  The gameplay is similar to Taito's Bubble Bobble.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Slayer366"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Super Methane Brothers"
+      },
+      "items": [
+        "Super Methane Brothers.sh",
+        "supermethanebros/"
+      ],
+      "items_opt": null,
+      "name": "supermethanebros.zip",
+      "source": {
+        "date_added": "2024-10-22",
+        "date_updated": "2024-10-22",
+        "md5": "97a2488cb09fc52fd53f3fc002eb0fd4",
+        "release_id": "2024-10-22_0750",
+        "repo": "main",
+        "size": 1194819,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-22_0750/supermethanebros.zip"
+      },
+      "version": 3
+    },
     "superraftboatclassic.zip": {
       "attr": {
         "arch": [
@@ -47590,6 +47741,80 @@
         "repo": "main",
         "size": 132588,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/turbotabletennis.zip"
+      },
+      "version": 3
+    },
+    "tuxpuck.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "TuxPuck is an air hockey game and clone of the Amiga/Atari ST game Shufflepuck Caf\u00e9. The player moves a bat around a table and tries to knock the puck past the opponent's defense. After either party has reached 15 points, the match is over.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "sports"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "TuxPuck"
+      },
+      "items": [
+        "TuxPuck.sh",
+        "tuxpuck"
+      ],
+      "items_opt": null,
+      "name": "tuxpuck.zip",
+      "source": {
+        "date_added": "2024-10-22",
+        "date_updated": "2024-10-22",
+        "md5": "62f7d1f2f5cf1b4fb54df7b667ab5fc8",
+        "release_id": "2024-10-22_0750",
+        "repo": "main",
+        "size": 2374142,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-22_0750/tuxpuck.zip"
       },
       "version": 3
     },
