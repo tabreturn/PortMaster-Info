@@ -12209,6 +12209,82 @@
       },
       "version": 3
     },
+    "doom2d.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Doom 2D is a fan-made DOS-based freeware side-scrolling video game released by Prikol Software in August 1996. It is based upon Doom, similar to Doom 2D - Knee deep in the dead. Doom 2D is essentially the original Doom translated into a two-dimensional arcade or console-like shooter, comparable to the original Duke Nukem. The player resumes their role as Doomguy, who must do battle with various hell-spawn.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run.",
+        "inst_md": null,
+        "porter": [
+          "Slayer366"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Doom 2D"
+      },
+      "items": [
+        "Doom 2D.sh",
+        "doom2d/"
+      ],
+      "items_opt": null,
+      "name": "doom2d.zip",
+      "source": {
+        "date_added": "2024-10-27",
+        "date_updated": "2024-10-27",
+        "md5": "cc8c43975e58292f812ab5f119b95dbe",
+        "release_id": "2024-10-27_1327",
+        "repo": "main",
+        "size": 7514191,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/doom2d.zip"
+      },
+      "version": 3
+    },
     "doom3.zip": {
       "attr": {
         "arch": [
@@ -15802,6 +15878,78 @@
       },
       "version": 3
     },
+    "fnafnes.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "In FNAF NES STYLED, you play as a night security guard at Freddy Fazbear\u2019s Pizza. Your main goal is to survive five nights while being stalked by animatronic characters that come to life at night. You monitor security cameras to track their movements and use limited resources like door controls and lights to protect yourself from being caught. The game is a mix of strategy and horror, requiring you to manage your resources carefully and stay alert to avoid the animatronics.\n ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from https://tai5-5.itch.io/fnafnes extract the downloaded zip. After that put the data.win into fnafnes/gamedata",
+        "inst_md": null,
+        "porter": [
+          "Damian2809"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "FNAF NES STYLED"
+      },
+      "items": [
+        "FNAF NES.sh",
+        "fnafnes"
+      ],
+      "items_opt": null,
+      "name": "fnafnes.zip",
+      "source": {
+        "date_added": "2024-10-27",
+        "date_updated": "2024-10-27",
+        "md5": "2986a5d34009a8d2e13bf46d10a5da53",
+        "release_id": "2024-10-27_1327",
+        "repo": "main",
+        "size": 10574568,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/fnafnes.zip"
+      },
+      "version": 3
+    },
     "forager.zip": {
       "attr": {
         "arch": [
@@ -16284,12 +16432,12 @@
       "name": "freedom.planet.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-06-10",
-        "md5": "da38547690d14d2eb19739c7928d8f88",
-        "release_id": "2024-06-10_2144",
+        "date_updated": "2024-10-27",
+        "md5": "2568c6a87b8b6f52c55c1da6a35482fe",
+        "release_id": "2024-10-27_1327",
         "repo": "main",
-        "size": 3267158,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-10_2144/freedom.planet.zip"
+        "size": 3267085,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/freedom.planet.zip"
       },
       "version": 3
     },
@@ -21843,6 +21991,73 @@
       },
       "version": 3
     },
+    "ionfury.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL"
+        ],
+        "desc": "Ion Fury using the EDuke32 source port.  Ion Fury is a prequel to Bombshell. Shelly \"Bombshell\" Harrison, a bomb disposal expert working for the Global Defense Force (GDF), returns as the game's protagonist, fighting against the cybernetic forces of Dr. Jadus Heskel.",
+        "desc_md": "Ion Fury using the EDuke32 source port.  Ion Fury is a prequel to Bombshell. Shelly \"Bombshell\" Harrison, a bomb disposal expert working for the Global Defense Force (GDF), returns as the game's protagonist, fighting against the cybernetic forces of Dr. Jadus Heskel.\\n\\n**Note: This supports up to v1.10 of Ion Fury!**",
+        "exp": false,
+        "genres": [
+          "action",
+          "fps"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from Steam or GOG.  See instructions for obtaining v1.10 or earlier of Ion Fury from Steam or GOG.  Place the v1.10 (or earlier) game files fury.def, fury.grp, and fury.grpinfo into the ports/ionfury directory.  Ion Fury also works on lower-end devices such as with an RK3326 CPU, but with reduced performance.",
+        "inst_md": "Requires early version of Ion Fury v1.10 or older.\nPurchase the game from [Steam](https://store.steampowered.com/app/562860/Ion_Fury/) OR [GOG](https://www.gog.com/en/game/ion_fury)\\n\\n**Steam**: Download/Install the game using the Steam Console by typing download_depot 562860 562861 8506993987461859820, copy fury.def, fury.grp, and fury.grpinfo into ports/ionfury\\n\\n**GOG**: Download Version 1.10. Do this by first installing Ion Fury using GOG Galaxy, then go to More > Manage Installation > Configure > Uncheck auto-updates > Show more versions > Select Version 1.10. Copy fury.def, fury.grp, and fury.grpinfo into ports/ionfury.  Ion Fury also works on lower-end devices such as with an RK3326 CPU, but with reduced performance.",
+        "porter": [
+          "Slayer366"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Ion Fury"
+      },
+      "items": [
+        "Ion Fury.sh",
+        "ionfury/"
+      ],
+      "items_opt": null,
+      "name": "ionfury.zip",
+      "source": {
+        "date_added": "2024-10-27",
+        "date_updated": "2024-10-27",
+        "md5": "9a7136aa8d67327baa7f9f7d4e563699",
+        "release_id": "2024-10-27_1327",
+        "repo": "main",
+        "size": 1568449,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/ionfury.zip"
+      },
+      "version": 3
+    },
     "iortcw.zip": {
       "attr": {
         "arch": [
@@ -22629,12 +22844,12 @@
       "name": "jumpnbump.zip",
       "source": {
         "date_added": "2024-02-07",
-        "date_updated": "2024-07-18",
-        "md5": "d3b2b98b493674e1cb2419786eae5cda",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-10-27",
+        "md5": "6f81d37b2d5fcbf88a01441e68d029ed",
+        "release_id": "2024-10-27_1327",
         "repo": "main",
-        "size": 1722356,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/jumpnbump.zip"
+        "size": 1722368,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/jumpnbump.zip"
       },
       "version": 3
     },
@@ -22707,6 +22922,78 @@
         "repo": "main",
         "size": 6564219,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/jumpoffthebridge.zip"
+      },
+      "version": 3
+    },
+    "jumponhead.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A platform fighter with one goal: JUMP ON HEAD. Casuals and pros alike can enjoy its fast-paced, responsive gameplay. Play against a friend (local multiplayer only) on six diverse stages, and try to be the last player standing!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on itch.io (https://organzola.itch.io/jumponhead), download the JUMP ON HEAD.exe version and copy this file to the port's gamedata folder.",
+        "inst_md": "Purchase the game on [itch.io](https://organzola.itch.io/jumponhead), download the *JUMP ON HEAD.exe* version and copy this file to the port's *gamedata* folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Jump on Head"
+      },
+      "items": [
+        "Jump on Head.sh",
+        "jumponhead"
+      ],
+      "items_opt": null,
+      "name": "jumponhead.zip",
+      "source": {
+        "date_added": "2024-10-27",
+        "date_updated": "2024-10-27",
+        "md5": "e9c748f849b3a76884588b7cd1a5bd4f",
+        "release_id": "2024-10-27_1327",
+        "repo": "main",
+        "size": 5530850,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/jumponhead.zip"
       },
       "version": 3
     },
@@ -27393,8 +27680,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the windows version of Mini Doom II on https://calaverastudio.itch.io/minidoom2 and copy miniDoom2 v3-1.zip in the minidoom2 port folder",
-        "inst_md": "Download the windows version of Mini Doom II on [itch.io](https://calaverastudio.itch.io/minidoom2) and copy miniDoom2 v3-1.zip in the minidoom2 port folder",
+        "inst": "Download the windows version of Mini Doom II on https://calaverastudio.itch.io/minidoom2 and copy miniDoom2-v3-1.zip in the minidoom2 port folder",
+        "inst_md": "Download the windows version of Mini Doom II on [itch.io](https://calaverastudio.itch.io/minidoom2) and copy miniDoom2-v3-1.zip in the minidoom2 port folder",
         "porter": [
           "kotzebuedog"
         ],
@@ -27411,12 +27698,12 @@
       "name": "minidoom2.zip",
       "source": {
         "date_added": "2024-10-24",
-        "date_updated": "2024-10-24",
-        "md5": "49741dc7806227d10a31e31f299d797c",
-        "release_id": "2024-10-24_1300",
+        "date_updated": "2024-10-27",
+        "md5": "662fe001cf9dac9aef55f33af0a52c1b",
+        "release_id": "2024-10-27_1327",
         "repo": "main",
-        "size": 8630746,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-24_1300/minidoom2.zip"
+        "size": 8567344,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/minidoom2.zip"
       },
       "version": 3
     },
@@ -34759,13 +35046,13 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the PSRL_1.13.zip from itch https://requinnzious.itch.io/phantasy-star-rl and extract the data.win file into the port folder. ",
+        "inst": "Ready to run.",
         "inst_md": null,
         "porter": [
           "Ganimoth"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": null,
         "title": "Phantasy Star RL"
       },
@@ -34777,12 +35064,12 @@
       "name": "psrl.zip",
       "source": {
         "date_added": "2024-10-07",
-        "date_updated": "2024-10-07",
-        "md5": "3face1e5c88a0c9cee7e8042160564e7",
-        "release_id": "2024-10-07_1714",
+        "date_updated": "2024-10-27",
+        "md5": "d5761768f2294f90f4ede59ebdc3d121",
+        "release_id": "2024-10-27_1327",
         "repo": "main",
-        "size": 9811111,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-07_1714/psrl.zip"
+        "size": 48052261,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/psrl.zip"
       },
       "version": 3
     },
@@ -35874,8 +36161,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the Windows version of the game (for free) here: https://willyelektrix.itch.io/ramble-planet -- extract, and copy the rambleplanet11.rpg file to the port gamedata folder.",
-        "inst_md": "Download the Windows version of the game (for free) here: [https://willyelektrix.itch.io/ramble-planet](https://willyelektrix.itch.io/ramble-planet) -- extract, and copy the *rambleplanet11.rpg* file to the port *gamedata* folder.",
+        "inst": "Download the Windows version of the game (for free) here: https://willyelektrix.itch.io/ramble-planet -- extract, and copy the rambleplanet11.rpg file to the port folder.",
+        "inst_md": "Download the Windows version of the game (for free) here: [https://willyelektrix.itch.io/ramble-planet](https://willyelektrix.itch.io/ramble-planet) -- extract, and copy the *rambleplanet11.rpg* file to the port folder.",
         "porter": [
           "tabreturn"
         ],
@@ -35892,12 +36179,12 @@
       "name": "rambleplanet.zip",
       "source": {
         "date_added": "2024-10-15",
-        "date_updated": "2024-10-17",
-        "md5": "fb49fd4ac4837c5a0309d3b406b25eae",
-        "release_id": "2024-10-17_0726",
+        "date_updated": "2024-10-27",
+        "md5": "ca6366f633d051aacd5918f2ac622dcb",
+        "release_id": "2024-10-27_1327",
         "repo": "main",
-        "size": 2701941,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/rambleplanet.zip"
+        "size": 2701932,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/rambleplanet.zip"
       },
       "version": 3
     },
@@ -36953,12 +37240,12 @@
       "name": "restore.portmaster.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-10-24",
-        "md5": "6d1109a0bde532aae3d8daa2ceb6d094",
-        "release_id": "2024-10-24_1300",
+        "date_updated": "2024-10-27",
+        "md5": "0c759cb9863f7f98d97b803134353938",
+        "release_id": "2024-10-27_1327",
         "repo": "main",
-        "size": 17040439,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-24_1300/restore.portmaster.zip"
+        "size": 17040472,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/restore.portmaster.zip"
       },
       "version": 3
     },
@@ -37774,6 +38061,76 @@
         "repo": "main",
         "size": 6814545,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/road.invaders.zip"
+      },
+      "version": 3
+    },
+    "roadwarriors2.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Road Warriors 2 is a vertical, arcade-style shmup inspired by titles like Giga Wing and Ikaruga, with tight, fast-paced gameplay with a focus on getting the highest possible score through a limited number of stages",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the Compressed application ZIP from the itch.io https://yaru.itch.io/road-warriors-2 and place it in port's gamedata folder.",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Road Warriors 2"
+      },
+      "items": [
+        "Road Warriors 2.sh",
+        "roadwarriors2"
+      ],
+      "items_opt": null,
+      "name": "roadwarriors2.zip",
+      "source": {
+        "date_added": "2024-10-27",
+        "date_updated": "2024-10-27",
+        "md5": "9b067d2dc2ebfb39739408fe1931bbd7",
+        "release_id": "2024-10-27_1327",
+        "repo": "main",
+        "size": 10869900,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/roadwarriors2.zip"
       },
       "version": 3
     },
@@ -40190,6 +40547,78 @@
       },
       "version": 3
     },
+    "skeletonboomerang.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Skeleton Boomerang is a platformer where the hero, Hunter, must use an enchanted boomerang to put an end to an army of bony soldiers led by the voodoo master Mr. Saturday. Get high scores, collect upgrades, find secrets, and overcome many skeletal challenges!\n\nAs you progress through the game, your total score can unlock new boomerangs, new abilities, and health boosts. Your score is tied to performing combos by defeating multiple enemies in a single throw of your boomerang. The world is also full of secrets. Finding hidden items can unlock new stages and bosses.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from Steam. Download the game and place the game files in ports/skeletonboomerang/gamedata\nWorks with the prevamped version as well(better performance)!",
+        "inst_md": "Purchase the game from [**Steam**](https://store.steampowered.com/app/658150/Skeleton_Boomerang/)\n\n**Latest version(compatible with expansion):**\nDownload the game and from your Steam library,  right click on Skeleton Boomerang >  Manage > Browse local files. Copy all the files from the folder to /ports/skeletonboomerang/gamedata\n\n**Prevamped version(better performance):**\nFrom your Steam Library, Right-Click Skeleton Boomerang and select Properties. Go to Betas and select \"prevamped- The pre-reVamped build of the game\" Download and install the prevamped version. Copy all the files from the folder to /ports/skeletonboomerang/gamedata",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Skeleton Boomerang"
+      },
+      "items": [
+        "Skeleton Boomerang",
+        "skeletonboomerang"
+      ],
+      "items_opt": null,
+      "name": "skeletonboomerang.zip",
+      "source": {
+        "date_added": "2024-10-27",
+        "date_updated": "2024-10-27",
+        "md5": "1843bcba0ad38a615be8e0d2c047d170",
+        "release_id": "2024-10-27_1327",
+        "repo": "main",
+        "size": 19830237,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/skeletonboomerang.zip"
+      },
+      "version": 3
+    },
     "skifree.zip": {
       "attr": {
         "arch": [
@@ -42143,12 +42572,12 @@
       "name": "space.cadet.pinball.zip",
       "source": {
         "date_added": "2021-10-31",
-        "date_updated": "2024-04-01",
-        "md5": "f67559029b9cb00520ab96541ba98167",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-10-27",
+        "md5": "8998abd23e0b07d8c864c8ea2931c4ca",
+        "release_id": "2024-10-27_1327",
         "repo": "main",
-        "size": 746885,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/space.cadet.pinball.zip"
+        "size": 853169,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/space.cadet.pinball.zip"
       },
       "version": 3
     },
@@ -42221,6 +42650,80 @@
         "repo": "main",
         "size": 115030960,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-11_1523/spacegladiators.zip"
+      },
+      "version": 3
+    },
+    "spacemothdx.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Fact: everything is better with lasers. So we put lasers on over 30 angry giant insects who want to stop you, Space Moth, from escaping Earth and going to the Moon. Show them who's boss and blast your way into space!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase at Steam https://store.steampowered.com/app/425340/Space_Moth_DX/ and copy Space Moth DX.exe into the gamedata folder.",
+        "inst_md": "Purchase at [Steam](https://store.steampowered.com/app/425340/Space_Moth_DX/) and copy your Space Moth DX.exe into the gamedata folder.",
+        "porter": [
+          "MadShmupper",
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Space Moth DX"
+      },
+      "items": [
+        "Space Moth DX.sh",
+        "spacemothdx"
+      ],
+      "items_opt": null,
+      "name": "spacemothdx.zip",
+      "source": {
+        "date_added": "2024-10-27",
+        "date_updated": "2024-10-27",
+        "md5": "806834ed6660513ecd6d622e7ae1812f",
+        "release_id": "2024-10-27_1327",
+        "repo": "main",
+        "size": 4768340,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/spacemothdx.zip"
       },
       "version": 3
     },
@@ -42708,6 +43211,79 @@
         "repo": "main",
         "size": 16371876,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/spinch.zip"
+      },
+      "version": 3
+    },
+    "splinterzone.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Run, jump and shoot everything that stands in your way. Then you die and try again. Maybe a bit more wiser about what challenges lie ahead, maybe with an idea on how to escape this situation, or maybe not.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on itch.io (https://mokka.itch.io/splinter-zone) or Steam (https://store.steampowered.com/app/612160/Splinter_Zone), download and copy the files to the port's gamedata folder.",
+        "inst_md": "Purchase the game on [itch.io](https://mokka.itch.io/splinter-zone) or [Steam](https://store.steampowered.com/app/612160/Splinter_Zone), download and copy the files to the port's *gamedata* folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Splinter Zone"
+      },
+      "items": [
+        "Splinter Zone.sh",
+        "splinterzone"
+      ],
+      "items_opt": null,
+      "name": "splinterzone.zip",
+      "source": {
+        "date_added": "2024-10-27",
+        "date_updated": "2024-10-27",
+        "md5": "77a231d8fe4ab8f1a94b21bf885532ae",
+        "release_id": "2024-10-27_1327",
+        "repo": "main",
+        "size": 10288177,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/splinterzone.zip"
       },
       "version": 3
     },
@@ -47738,12 +48314,12 @@
       "name": "trickykeys2.zip",
       "source": {
         "date_added": "2024-04-17",
-        "date_updated": "2024-04-17",
-        "md5": "1d1fa3253ddf29b2718a566d63b217df",
-        "release_id": "2024-04-17_0840",
+        "date_updated": "2024-10-27",
+        "md5": "0cbbe4d3d53348bc9919f4eb4293e839",
+        "release_id": "2024-10-27_1327",
         "repo": "main",
-        "size": 25098708,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-17_0840/trickykeys2.zip"
+        "size": 25098725,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/trickykeys2.zip"
       },
       "version": 3
     },
@@ -51357,6 +51933,81 @@
         "repo": "main",
         "size": 482572,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/yarntown.zip"
+      },
+      "version": 3
+    },
+    "yarsrevenge.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A quick remake of the Atari 2600/VCS Game created by Howard Scott Warshaw.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Move your Yar around with the DPAD, fire chunks out of the shield with your fire key\n(A/B). You can't shoot anything else. You can also eat bits of the shield by ramming it.\nWhen you've done this enough the cannon appears at the left side and can be used to aim at the\nquotile (the triangular thing on the right) to destroy it to end the game.",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Yar's Revenge"
+      },
+      "items": [
+        "Yar's Revenge.sh",
+        "yarsrevenge"
+      ],
+      "items_opt": null,
+      "name": "yarsrevenge.zip",
+      "source": {
+        "date_added": "2024-10-27",
+        "date_updated": "2024-10-27",
+        "md5": "22bfebaac01417e83ce3943a6dfd7b3c",
+        "release_id": "2024-10-27_1327",
+        "repo": "main",
+        "size": 163379,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/yarsrevenge.zip"
       },
       "version": 3
     },
