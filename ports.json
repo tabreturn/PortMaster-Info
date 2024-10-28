@@ -49265,12 +49265,12 @@
       "name": "ufo50.zip",
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2024-10-12",
-        "md5": "a1045455d50880b784c32b6724783ebe",
-        "release_id": "2024-10-12_1217",
+        "date_updated": "2024-10-28",
+        "md5": "3f15b5eb60e54335c48a25b6f584f9c8",
+        "release_id": "2024-10-28_1442",
         "repo": "main",
-        "size": 32712576,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-12_1217/ufo50.zip"
+        "size": 33880916,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-28_1442/ufo50.zip"
       },
       "version": 3
     },
