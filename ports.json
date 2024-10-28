@@ -17686,6 +17686,78 @@
       },
       "version": 3
     },
+    "ghostris.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Ghostris is a puzzle game where the blocks you place down are haunted and will do stuff behind your back as you try to clear lines. You need to think not just about how to match up blocks, but also how to deal with the blocks' movement patterns, and react to ghosts showing up to interfere with your puzzling. Can you survive the Ghostris?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Go to the game's itch.io page at https://yaru.itch.io/ghostris to download Ghostris_2020HalloweenUpdate.zip and place it into gamedata folder",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Ghostris"
+      },
+      "items": [
+        "Ghostris.sh",
+        "ghostris"
+      ],
+      "items_opt": null,
+      "name": "ghostris.zip",
+      "source": {
+        "date_added": "2024-10-28",
+        "date_updated": "2024-10-28",
+        "md5": "67418bddc242564e7dd0ae63a8a8c37a",
+        "release_id": "2024-10-28_0902",
+        "repo": "main",
+        "size": 6657307,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-28_0902/ghostris.zip"
+      },
+      "version": 3
+    },
     "gigalomania.zip": {
       "attr": {
         "arch": [
@@ -22015,7 +22087,7 @@
           "trimui-smart-pro:ALL"
         ],
         "desc": "Ion Fury using the EDuke32 source port.  Ion Fury is a prequel to Bombshell. Shelly \"Bombshell\" Harrison, a bomb disposal expert working for the Global Defense Force (GDF), returns as the game's protagonist, fighting against the cybernetic forces of Dr. Jadus Heskel.",
-        "desc_md": "Ion Fury using the EDuke32 source port.  Ion Fury is a prequel to Bombshell. Shelly \"Bombshell\" Harrison, a bomb disposal expert working for the Global Defense Force (GDF), returns as the game's protagonist, fighting against the cybernetic forces of Dr. Jadus Heskel.\\n\\n**Note: This supports up to v1.10 of Ion Fury!**",
+        "desc_md": "Ion Fury using the EDuke32 source port.  Ion Fury is a prequel to Bombshell. Shelly \"Bombshell\" Harrison, a bomb disposal expert working for the Global Defense Force (GDF), returns as the game's protagonist, fighting against the cybernetic forces of Dr. Jadus Heskel. **Note: This supports up to v1.10 of Ion Fury!**",
         "exp": false,
         "genres": [
           "action",
@@ -22030,7 +22102,7 @@
           "video": null
         },
         "inst": "Purchase the game from Steam or GOG.  See instructions for obtaining v1.10 or earlier of Ion Fury from Steam or GOG.  Place the v1.10 (or earlier) game files fury.def, fury.grp, and fury.grpinfo into the ports/ionfury directory.  Ion Fury also works on lower-end devices such as with an RK3326 CPU, but with reduced performance.",
-        "inst_md": "Requires early version of Ion Fury v1.10 or older.\nPurchase the game from [Steam](https://store.steampowered.com/app/562860/Ion_Fury/) OR [GOG](https://www.gog.com/en/game/ion_fury)\\n\\n**Steam**: Download/Install the game using the Steam Console by typing download_depot 562860 562861 8506993987461859820, copy fury.def, fury.grp, and fury.grpinfo into ports/ionfury\\n\\n**GOG**: Download Version 1.10. Do this by first installing Ion Fury using GOG Galaxy, then go to More > Manage Installation > Configure > Uncheck auto-updates > Show more versions > Select Version 1.10. Copy fury.def, fury.grp, and fury.grpinfo into ports/ionfury.  Ion Fury also works on lower-end devices such as with an RK3326 CPU, but with reduced performance.",
+        "inst_md": "Requires early version of Ion Fury v1.10 or older. Purchase the game from [Steam](https://store.steampowered.com/app/562860/Ion_Fury/) OR [GOG](https://www.gog.com/en/game/ion_fury) **Steam**: Download/Install the game using the Steam Console by typing download_depot 562860 562861 8506993987461859820, copy fury.def, fury.grp, and fury.grpinfo into ports/ionfury **GOG**: Download Version 1.10. Do this by first installing Ion Fury using GOG Galaxy, then go to More > Manage Installation > Configure > Uncheck auto-updates > Show more versions > Select Version 1.10. Copy fury.def, fury.grp, and fury.grpinfo into ports/ionfury.  Ion Fury also works on lower-end devices such as with an RK3326 CPU, but with reduced performance.",
         "porter": [
           "Slayer366"
         ],
@@ -22049,12 +22121,12 @@
       "name": "ionfury.zip",
       "source": {
         "date_added": "2024-10-27",
-        "date_updated": "2024-10-27",
-        "md5": "9a7136aa8d67327baa7f9f7d4e563699",
-        "release_id": "2024-10-27_1327",
+        "date_updated": "2024-10-28",
+        "md5": "5035baae96248a0721b029ee49f7ea6f",
+        "release_id": "2024-10-28_0902",
         "repo": "main",
-        "size": 1568449,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/ionfury.zip"
+        "size": 1568443,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-28_0902/ionfury.zip"
       },
       "version": 3
     },
@@ -25481,7 +25553,7 @@
     "lividmeadow.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "armhf"
         ],
         "avail": [
           "rg353m:ALL",
@@ -25500,13 +25572,10 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
-          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
-          "trimui-smart-pro:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -25543,12 +25612,12 @@
       "name": "lividmeadow.zip",
       "source": {
         "date_added": "2024-10-12",
-        "date_updated": "2024-10-15",
-        "md5": "7b2acadf20c11606a9bca9598f208fdb",
-        "release_id": "2024-10-15_2128",
+        "date_updated": "2024-10-28",
+        "md5": "78990055b53e8e0055497885d824b4eb",
+        "release_id": "2024-10-28_0902",
         "repo": "main",
-        "size": 18038435,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/lividmeadow.zip"
+        "size": 18038433,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-28_0902/lividmeadow.zip"
       },
       "version": 3
     },
@@ -50460,6 +50529,80 @@
         "repo": "main",
         "size": 1728425,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-24_1300/vodovod.zip"
+      },
+      "version": 3
+    },
+    "voidpyramid.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Void Pyramid is a post-apocalyptic RPG set in the space-faring Egyptian empire. In the far future, the maniacal Prime Pharaoh rules the wastelands of Earth. Any who oppose him are exiled to the Void Pyramid. This outer space prison is populated by criminals, beasts, and mutants.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the Windows version of the game (for free) here: https://willyelektrix.itch.io/void-pyramid -- extract it, and copy the voidpyramid.rpg file to the port folder.",
+        "inst_md": "Download the Windows version of the game (for free) here: [https://willyelektrix.itch.io/void-pyramid](https://willyelektrix.itch.io/void-pyramid) -- extract it, and copy the *voidpyramid.rpg* file to the port folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Void Pyramid"
+      },
+      "items": [
+        "Void Pyramid.sh",
+        "voidpyramid"
+      ],
+      "items_opt": null,
+      "name": "voidpyramid.zip",
+      "source": {
+        "date_added": "2024-10-28",
+        "date_updated": "2024-10-28",
+        "md5": "6193221cc348fa2878cee8d82043df3b",
+        "release_id": "2024-10-28_0902",
+        "repo": "main",
+        "size": 2705427,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-28_0902/voidpyramid.zip"
       },
       "version": 3
     },
