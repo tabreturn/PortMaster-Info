@@ -3756,6 +3756,77 @@
       },
       "version": 3
     },
+    "blackout.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A witch on the roof of a scary old house. Black cats, cobwebs, and a crescent moon -- all too creepy! In this point-and-click adventure, your task is to guide the main character, Marilyn, as she ventures deeper and deeper into a mysterious house in the middle of the night.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the Blackout-1.0.2-win.zip version for free at itch.io (https://freshgames.itch.io/blackout). Extract the .zip, and copy the .exe file to the port's gamedata folder.",
+        "inst_md": "Download the *Blackout-1.0.2-win.zip* version for free at [itch.io](https://freshgames.itch.io/blackout). Extract the *.zip*, and copy the *.exe* file to the port's *gamedata* folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Blackout"
+      },
+      "items": [
+        "Blackout.sh",
+        "blackout"
+      ],
+      "items_opt": null,
+      "name": "blackout.zip",
+      "source": {
+        "date_added": "2024-10-30",
+        "date_updated": "2024-10-30",
+        "md5": "be31a34f7a41dc788439b7e8b5db9a63",
+        "release_id": "2024-10-30_1349",
+        "repo": "main",
+        "size": 850058,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-30_1349/blackout.zip"
+      },
+      "version": 3
+    },
     "blastius.zip": {
       "attr": {
         "arch": [
@@ -16589,6 +16660,83 @@
       },
       "version": 3
     },
+    "freegish.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Freegish is a 2D platform game, where the player maneuvers character of a ball of tar. Character may become sticky, slick, heavy and can jump.\nThe game contains only first seven levels of the single player campaign and few multiplayer levels for mini games like sumo or football.\nFreegish is based on open sourced code of the famous game called Gish with added free art assets.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Gish"
+      },
+      "items": [
+        "Free Gish.sh",
+        "freegish"
+      ],
+      "items_opt": null,
+      "name": "freegish.zip",
+      "source": {
+        "date_added": "2024-10-30",
+        "date_updated": "2024-10-30",
+        "md5": "4b4f97db484cd574c07db471d6d455c8",
+        "release_id": "2024-10-30_1349",
+        "repo": "main",
+        "size": 14051877,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-30_1349/freegish.zip"
+      },
+      "version": 3
+    },
     "freeserf.zip": {
       "attr": {
         "arch": [
@@ -18266,6 +18414,79 @@
         "repo": "main",
         "size": 11355808,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-15_1157/goldenhornet.zip"
+      },
+      "version": 3
+    },
+    "goldminer.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "In this timeless adventure, you'll seek to collect gold, stones, and minerals to reach your daily goal and amass wealth beyond your wildest dreams.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Gold Miner"
+      },
+      "items": [
+        "Gold Miner.sh",
+        "goldminer"
+      ],
+      "items_opt": null,
+      "name": "goldminer.zip",
+      "source": {
+        "date_added": "2024-10-30",
+        "date_updated": "2024-10-30",
+        "md5": "0e96cccffd8aa04431cf9ff65d7868fb",
+        "release_id": "2024-10-30_1349",
+        "repo": "main",
+        "size": 1644875,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-30_1349/goldminer.zip"
       },
       "version": 3
     },
@@ -22102,7 +22323,7 @@
           "video": null
         },
         "inst": "Purchase the game from Steam or GOG.  See instructions for obtaining v1.10 or earlier of Ion Fury from Steam or GOG.  Place the v1.10 (or earlier) game files fury.def, fury.grp, and fury.grpinfo into the ports/ionfury directory.  Ion Fury also works on lower-end devices such as with an RK3326 CPU, but with reduced performance.",
-        "inst_md": "Requires early version of Ion Fury v1.10 or older. Purchase the game from [Steam](https://store.steampowered.com/app/562860/Ion_Fury/) OR [GOG](https://www.gog.com/en/game/ion_fury) **Steam**: Download/Install the game using the Steam Console by typing download_depot 562860 562861 8506993987461859820, copy fury.def, fury.grp, and fury.grpinfo into ports/ionfury **GOG**: Download Version 1.10. Do this by first installing Ion Fury using GOG Galaxy, then go to More > Manage Installation > Configure > Uncheck auto-updates > Show more versions > Select Version 1.10. Copy fury.def, fury.grp, and fury.grpinfo into ports/ionfury.  Ion Fury also works on lower-end devices such as with an RK3326 CPU, but with reduced performance.",
+        "inst_md": "Requires early version of Ion Fury v1.10 or older. Purchase the game from [Steam](https://store.steampowered.com/app/562860/Ion_Fury/) OR [GOG](https://www.gog.com/en/game/ion_fury) **Steam**: Download/Install the game using the Steam Console by typing download_depot 562860 562861 189007903929408028, copy fury.def, fury.grp, and fury.grpinfo into ports/ionfury **GOG**: Download Version 1.10. Do this by first installing Ion Fury using GOG Galaxy, then go to More > Manage Installation > Configure > Uncheck auto-updates > Show more versions > Select Version 1.10. Copy fury.def, fury.grp, and fury.grpinfo into ports/ionfury.  Ion Fury also works on lower-end devices such as with an RK3326 CPU, but with reduced performance.",
         "porter": [
           "Slayer366"
         ],
@@ -22121,12 +22342,12 @@
       "name": "ionfury.zip",
       "source": {
         "date_added": "2024-10-27",
-        "date_updated": "2024-10-28",
-        "md5": "5035baae96248a0721b029ee49f7ea6f",
-        "release_id": "2024-10-28_0902",
+        "date_updated": "2024-10-30",
+        "md5": "dcdda97c9a08a7c2c06aabaabee9618b",
+        "release_id": "2024-10-30_1349",
         "repo": "main",
-        "size": 1568443,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-28_0902/ionfury.zip"
+        "size": 1568440,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-30_1349/ionfury.zip"
       },
       "version": 3
     },
@@ -22351,6 +22572,79 @@
         "repo": "main",
         "size": 14901524,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/ironferret.zip"
+      },
+      "version": 3
+    },
+    "itcamefromtheforest.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A 2D dungeon crawler inspired by old classics and made using similar techniques as back then. No 3D here, just simple 2D graphics painted back to front (Painter's Algorithm).",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "It Came from the Forest"
+      },
+      "items": [
+        "It Came from the Forest.sh",
+        "itcamefromtheforest"
+      ],
+      "items_opt": null,
+      "name": "itcamefromtheforest.zip",
+      "source": {
+        "date_added": "2024-10-30",
+        "date_updated": "2024-10-30",
+        "md5": "b703bf0221d690b54e1d2d3ee92cfb74",
+        "release_id": "2024-10-30_1349",
+        "repo": "main",
+        "size": 28605789,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-30_1349/itcamefromtheforest.zip"
       },
       "version": 3
     },
@@ -25982,6 +26276,78 @@
         "repo": "main",
         "size": 25869426,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/lose95.zip"
+      },
+      "version": 3
+    },
+    "lostethereal.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Save your dead family from the spirit world. A pressureless and puzzling romp through the spirit world.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download Lost Ethereal.exe for free at https://lucregames.itch.io/lost-ethereal -- simply drop the Lost Ethereal.exe file straight into the port's gamedata folder.",
+        "inst_md": "Download Lost Ethereal.exe for free at [https://lucregames.itch.io/lost-ethereal](https://lucregames.itch.io/lost-ethereal) -- simply drop the *Lost Ethereal.exe* file straight into the port's *gamedata* folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Lost Ethereal"
+      },
+      "items": [
+        "Lost Ethereal.sh",
+        "lostethereal"
+      ],
+      "items_opt": null,
+      "name": "lostethereal.zip",
+      "source": {
+        "date_added": "2024-10-30",
+        "date_updated": "2024-10-30",
+        "md5": "6bba22ec7234d791ca7e7064bcef9041",
+        "release_id": "2024-10-30_1349",
+        "repo": "main",
+        "size": 10902664,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-30_1349/lostethereal.zip"
       },
       "version": 3
     },
@@ -47066,6 +47432,78 @@
       },
       "version": 3
     },
+    "thewind.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "THE WIND tells the story of Lizzy, a tough and resourceful plainswoman, and her struggle against supernatural forces around her isolated home. It's a short retro-inspired pixel horror game based on THE WIND (2019) directed by Emma Tammi.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download THEWIND_v1-0.zip free on itch.io (https://airdorf.itch.io/thewind), extract it, and copy THEWIND_v1-0.exe to the port's gamedata folder.",
+        "inst_md": "Download *THEWIND_v1-0.zip* free on itch.io (https://airdorf.itch.io/thewind), extract it, and copy *THEWIND_v1-0.exe* to the port's *gamedata* folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "The Wind"
+      },
+      "items": [
+        "The Wind.sh",
+        "thewind"
+      ],
+      "items_opt": null,
+      "name": "thewind.zip",
+      "source": {
+        "date_added": "2024-10-30",
+        "date_updated": "2024-10-30",
+        "md5": "0b1b2b9836b5eff04f6260ededdcb564",
+        "release_id": "2024-10-30_1349",
+        "repo": "main",
+        "size": 11546541,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-30_1349/thewind.zip"
+      },
+      "version": 3
+    },
     "thextech.zip": {
       "attr": {
         "arch": [
@@ -52079,81 +52517,6 @@
       },
       "version": 3
     },
-    "yarsrevenge.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "desc": "A quick remake of the Atari 2600/VCS Game created by Howard Scott Warshaw.",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "arcade"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Move your Yar around with the DPAD, fire chunks out of the shield with your fire key\n(A/B). You can't shoot anything else. You can also eat bits of the shield by ramming it.\nWhen you've done this enough the cannon appears at the left side and can be used to aim at the\nquotile (the triangular thing on the right) to destroy it to end the game.",
-        "inst_md": null,
-        "porter": [
-          "Cebion"
-        ],
-        "reqs": [],
-        "rtr": true,
-        "runtime": null,
-        "title": "Yar's Revenge"
-      },
-      "items": [
-        "Yar's Revenge.sh",
-        "yarsrevenge"
-      ],
-      "items_opt": null,
-      "name": "yarsrevenge.zip",
-      "source": {
-        "date_added": "2024-10-27",
-        "date_updated": "2024-10-27",
-        "md5": "22bfebaac01417e83ce3943a6dfd7b3c",
-        "release_id": "2024-10-27_1327",
-        "repo": "main",
-        "size": 163379,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/yarsrevenge.zip"
-      },
-      "version": 3
-    },
     "yatka.zip": {
       "attr": {
         "arch": [
@@ -53532,6 +53895,82 @@
         "repo": "multiverse",
         "size": 773251,
         "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-01_1015/zeldoschallenge2.zip"
+      },
+      "version": 3
+    },
+    "zeroptianinvasion.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Zeroptian Invasion is a classic shoot 'em up with mechanics from other arcades of the 80s. Travel back in time with this unique pixelated experience featuring an incredible soundtrack in chiptune.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on itch.io (https://josyan.itch.io/zeroptian-invasion) or Steam (https://store.steampowered.com/app/974110/Zeroptian_Invasion). For itch.io, download the ZeroptianInvasion_itchio.zip version, extract it and copy the game files to the port's gamedata folder. For Steam, there's no need to extract any files, just copy them across.",
+        "inst_md": "Purchase the game on [itch.io](https://josyan.itch.io/zeroptian-invasion) or [Steam](https://store.steampowered.com/app/974110/Zeroptian_Invasion). For itch.io, download the *ZeroptianInvasion\\_itchio.zip* version, extract it and copy the game files to the port's *gamedata* folder. For Steam, there's no need to extract any files, just copy them across.",
+        "porter": [
+          "tabreturn",
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Zeroptian Invasion"
+      },
+      "items": [
+        "Zeroptian Invasion.sh",
+        "zeroptianinvasion"
+      ],
+      "items_opt": null,
+      "name": "zeroptianinvasion.zip",
+      "source": {
+        "date_added": "2024-10-30",
+        "date_updated": "2024-10-30",
+        "md5": "d782623edbf9ffe84582092d15aef9f4",
+        "release_id": "2024-10-30_1349",
+        "repo": "main",
+        "size": 14528390,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-30_1349/zeroptianinvasion.zip"
       },
       "version": 3
     },
