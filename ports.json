@@ -3465,6 +3465,81 @@
       },
       "version": 3
     },
+    "binarystarinfinity.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Binarystar Infinity is a 1-Bit Shoot \u2018Em Up with a challenging experience reminding of the traditional Arcade Shmup classics, that can be experienced alone or with a friend, and with the particularity of being playable in vertical or horizontal scrolling mode.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from Steam. Download the game and copy over the game files into ports/binarystarinfinity/gamedata/",
+        "inst_md": "Purchase the game from [Steam](https://store.steampowered.com/app/1491040/Binarystar_Infinity/)\nDownload the game and copy over the game files into ports/binarystarinfinity/gamedata/",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Binarystar Infinity"
+      },
+      "items": [
+        "Binarystar Infinity.sh",
+        "binarystarinfinity"
+      ],
+      "items_opt": null,
+      "name": "binarystarinfinity.zip",
+      "source": {
+        "date_added": "2024-10-31",
+        "date_updated": "2024-10-31",
+        "md5": "89786640cdbe09848bc43e117d409b3b",
+        "release_id": "2024-10-31_1458",
+        "repo": "main",
+        "size": 12322020,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-31_1458/binarystarinfinity.zip"
+      },
+      "version": 3
+    },
     "biolab.zip": {
       "attr": {
         "arch": [
@@ -10821,6 +10896,78 @@
         "repo": "main",
         "size": 43398,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/defshot.zip"
+      },
+      "version": 3
+    },
+    "deltarune.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "In this sequel to Undertale, Kris and Susie are drawn into a mysterious Dark World, where they join forces with Ralsei to close the Dark Fountains and restore balance. Along the way, they encounter strange foes, form unlikely friendships, and uncover new mysteries tied to the world of monsters.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the Windows version from https://tobyfox.itch.io/deltarune and unzip to `ports/deltarune/gamedata`.",
+        "inst_md": null,
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Deltarune"
+      },
+      "items": [
+        "Deltarune.sh",
+        "deltarune"
+      ],
+      "items_opt": null,
+      "name": "deltarune.zip",
+      "source": {
+        "date_added": "2024-10-31",
+        "date_updated": "2024-10-31",
+        "md5": "fbdc40adbbae4c3482545de4668b2895",
+        "release_id": "2024-10-31_1458",
+        "repo": "main",
+        "size": 30124539,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-31_1458/deltarune.zip"
       },
       "version": 3
     },
@@ -32581,6 +32728,82 @@
       },
       "version": 3
     },
+    "opentyrian2000.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "OpenTyrian2000 is an open-source port of the DOS game Tyrian. It is a fork of OpenTyrian, with the end goal being to replicate the experience of Tyrian 2000 as closely as possible.\n\nTyrian is an arcade-style vertical scrolling shooter.  The story is set in 20,031 where you play as Trent Hawkins, a skilled fighter-pilot employed to fight MicroSol and save the galaxy.\n\nTyrian features a story mode, one- and two-player arcade modes, and networked multiplayer.",
+        "desc_md": "**OpenTyrian2000** is an *open-source port* of the DOS game Tyrian. It is a fork of OpenTyrian, with the end goal being to replicate the experience of Tyrian 2000 as closely as possible.\n\n**Tyrian** is an arcade-style vertical scrolling shooter.  The story is set in 20,031 where you play as *Trent Hawkins*, a skilled fighter-pilot employed to fight *MicroSol* and save the galaxy.\n\nTyrian features a story mode, one and two-player arcade modes, and networked multiplayer.",
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "OpenTyrian2000 requires the Tyrian 2000 data files, which have been released as freeware (https://www.camanis.net/tyrian/tyrian2000.zip). Alternatively, the game is also available free of charge on GOG (https://www.gog.com/en/game/tyrian_2000). Game data is placed in the 'tyrian2000' subdirectory.",
+        "inst_md": "**OpenTyrian2000** uses the **Tyrian 2000** data files, which have been [**released as freeware**](https://www.camanis.net/tyrian/tyrian2000.zip). Alternatively, the game is also available *free of charge* on [**GOG**](https://www.gog.com/en/game/tyrian_2000). Game data is placed in the `gamedata` subdirectory.",
+        "porter": [
+          "t0b10"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Open Tyrian 2000"
+      },
+      "items": [
+        "Open Tyrian 2000.sh",
+        "opentyrian2000"
+      ],
+      "items_opt": null,
+      "name": "opentyrian2000.zip",
+      "source": {
+        "date_added": "2024-10-31",
+        "date_updated": "2024-10-31",
+        "md5": "5f2d9a7fcdbf51d4ddc990d89da2230a",
+        "release_id": "2024-10-31_1458",
+        "repo": "main",
+        "size": 5716686,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-31_1458/opentyrian2000.zip"
+      },
+      "version": 3
+    },
     "openxcom.zip": {
       "attr": {
         "arch": [
@@ -47790,12 +48013,12 @@
       "name": "tileworld.zip",
       "source": {
         "date_added": "2022-06-03",
-        "date_updated": "2024-04-17",
-        "md5": "1dfe0cb96ca703af54f283f30c1df7a4",
-        "release_id": "2024-04-17_0840",
+        "date_updated": "2024-10-31",
+        "md5": "a91f96283fdc27ee5de90943af095f33",
+        "release_id": "2024-10-31_1458",
         "repo": "main",
-        "size": 28768280,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-17_0840/tileworld.zip"
+        "size": 28852939,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-31_1458/tileworld.zip"
       },
       "version": 3
     },
@@ -49412,6 +49635,82 @@
         "repo": "main",
         "size": 2374142,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-22_0750/tuxpuck.zip"
+      },
+      "version": 3
+    },
+    "tvruhh.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Help her heart battle tough bosses in this Boss Rush, Bullet-hell with rogue-like elements. Fight through several randomly chosen boss battles leading up to a final battle. Each defeated monster will give her random gifts that power up her heart. Don't let her heart break!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install portfiles. Download this specific version of the game with the steam console: \"download_depot 790060 790061 7858860086893173396\". Copy all gamefiles to the gamedata folder.",
+        "inst_md": "- Install portfiles.\n- Download this specific version of the game with the steam console: \"download_depot 790060 790061 7858860086893173396\"\n- Copy all gamefiles to the gamedata folder.",
+        "porter": [
+          "Fraxinus88",
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "The Void Rains Upon Her Heart"
+      },
+      "items": [
+        "The Void Rains Upon Her Heart.sh",
+        "tvruhh"
+      ],
+      "items_opt": null,
+      "name": "tvruhh.zip",
+      "source": {
+        "date_added": "2024-10-31",
+        "date_updated": "2024-10-31",
+        "md5": "30df98328ebdfd65549532ce1be4fe34",
+        "release_id": "2024-10-31_1458",
+        "repo": "main",
+        "size": 10459115,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-31_1458/tvruhh.zip"
       },
       "version": 3
     },
