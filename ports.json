@@ -9388,23 +9388,25 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Commander Genius is an open-source clone of Commander Keen (Episodes 1-6, Dreams) which allows you to play these episodes and some of the mods and additional community content made for them. Developed by Gerstrong and originally ported by Christian Haitian.",
-        "desc_md": null,
+        "desc": "Commander Genius is an open-source clone of Commander Keen, originally developed by Id Software.\n\nPlay as Billy Blaze, an eight-year-old genius who becomes Commander Keen to save the galaxy! Grab your pogo stick, neural stunner, and blast off in your homemade Megarocket to stop deadly foes and dodge cosmic dangers\u2014or risk becoming space toast!\n\nIncludes episodes 1, 4, 6, and Keen Dreams. Supports additional official/community-made content.",
+        "desc_md": "[**Commander Genius**](https://gitlab.com/Dringgstein/Commander-Genius) is an open-source clone of [**Commander Keen**](https://en.wikipedia.org/wiki/Commander_Keen), originally developed by [**Id Software**](https://idsoftware.com).\n\n*You are eight-year-old Billy Blaze, boy genius to your neighborhood. Commander Keen to the rest of the universe. It's time to grab your trusty pogo stick and neural stunner, climb into the cockpit of your homemade Megarocket and blast off for adventure. To prevent the obliteration of life as we know it, you'll have to battle your way past deadly hazards and devious creatures, or end up as space toast.*\n\nSupports addition of [official](https://en.wikipedia.org/wiki/Commander_Keen#Titles)/[community-made](https://keenwiki.shikadi.net/wiki/Main_Page) content",
         "exp": false,
         "genres": [
           "action",
-          "platformer"
+          "arcade",
+          "platformer",
+          "puzzle"
         ],
         "image": {
           "covers": [
             "cover.png"
           ],
-          "screenshot": "screenshot.jpg",
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
-        "inst": "Includes all of the officially released free content for Commander Keen: the shareware versions (Episodes 1 and 4), and the demo versions (Episode 6 and Keen Dreams). You can add load your own game file directories into the ports/cgenius/games folder or, if you have an internet connection on-device, you can download directly from the launcher (bottom left link) to access additional community created content.",
-        "inst_md": null,
+        "inst": "Includes all of the officially released free content for the Commander Keen series, such as, the shareware episodes (1,4), demo episode (6), and the lost episode: Keen Dreams.\n\nYou can add additional content to this port manually or, if you have an internet connected device, through the launcher. Please the Portmaster website for more detailed instructions.",
+        "inst_md": "Includes all of the **officially released** free content for the [**Commander Keen**](https://en.wikipedia.org/wiki/Commander_Keen) series, such as, the **shareware episodes** ([1](https://keenwiki.shikadi.net/wiki/Keen_1:_Marooned_on_Mars), [4](https://keenwiki.shikadi.net/wiki/Keen_4:_Secret_of_the_Oracle)), the **demo episode** ([6](https://keenwiki.shikadi.net/wiki/Keen_6:_Aliens_Ate_My_Baby_Sitter!)), and the **lost episode**: [Keen Dreams](https://keenwiki.shikadi.net/wiki/Keen_Dreams).\n\nYou can add additional content to this port manually (check `gamedata/instructions.txt`) or, if you have an internet connected device, directly through the launcher itself (button is bottom-left).",
         "porter": [
           "t0b10",
           "Christian_Haitian"
@@ -9422,12 +9424,12 @@
       "name": "commander.genius.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "33cb00a0b5b2e3603db11d3474ffff7a",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-11-02",
+        "md5": "335254333750f42fd86086a73c9a1744",
+        "release_id": "2024-11-02_0839",
         "repo": "main",
-        "size": 3353514,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/commander.genius.zip"
+        "size": 3348505,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-02_0839/commander.genius.zip"
       },
       "version": 3
     },
@@ -12500,6 +12502,81 @@
         "repo": "main",
         "size": 7514191,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/doom2d.zip"
+      },
+      "version": 3
+    },
+    "doom2rpg.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "DOOM II RPG is a follow-up in the style of the Wolfenstein RPG, chronologically set before the events in DOOM RPG. Thanks to secret experiments, the various UAC Bases on Mars, the Moon, Earth and wherever else the cooperation has set foot have experienced incidents involving demons. A team of soldiers including a scientist are sent to Tycho Station on the Moon to investigate.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Search for \"Doom 2 RPG.ipa\" on archive.org to get the original mobile game assets file: and copy the \"Doom 2 RPG.ipa\" file into the doom2rpg folder.",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Doom II RPG"
+      },
+      "items": [
+        "Doom II RPG.sh",
+        "doom2rpg"
+      ],
+      "items_opt": null,
+      "name": "doom2rpg.zip",
+      "source": {
+        "date_added": "2024-11-02",
+        "date_updated": "2024-11-02",
+        "md5": "65ef3258afc268c2df3b65d950b18fa0",
+        "release_id": "2024-11-02_0839",
+        "repo": "main",
+        "size": 1105778,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-02_0839/doom2rpg.zip"
       },
       "version": 3
     },
@@ -26855,6 +26932,81 @@
       },
       "version": 3
     },
+    "magicalbroom.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Magical Broom Extreme is a freeware horizontal shooter from Japan, where the player controls a witch flying on a broom.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Magical Broom Extreme"
+      },
+      "items": [
+        "Magical Broom Extreme.sh",
+        "magicalbroom"
+      ],
+      "items_opt": null,
+      "name": "magicalbroom.zip",
+      "source": {
+        "date_added": "2024-11-02",
+        "date_updated": "2024-11-02",
+        "md5": "08d0987eab98f1247887a490dca92cc4",
+        "release_id": "2024-11-02_0839",
+        "repo": "main",
+        "size": 6948036,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-02_0839/magicalbroom.zip"
+      },
+      "version": 3
+    },
     "magicvigilante.zip": {
       "attr": {
         "arch": [
@@ -30454,6 +30606,81 @@
         "repo": "main",
         "size": 74786910,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-27_0224/neverball.zip"
+      },
+      "version": 3
+    },
+    "nextdoor.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Short cinematic pixel horror game inspired by Junji Ito's manga.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install port then download NextDoor_v1.00.exe from [here](https://broelbrak.itch.io/nextdoor) and place it in nextdoor/gamedata folder.",
+        "inst_md": "Install port then download NextDoor_v1.00.exe from [here](https://broelbrak.itch.io/nextdoor) and place it in nextdoor/gamedata folder.",
+        "porter": [
+          "Slobters"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Next Door"
+      },
+      "items": [
+        "Next Door.sh",
+        "nextdoor"
+      ],
+      "items_opt": null,
+      "name": "nextdoor.zip",
+      "source": {
+        "date_added": "2024-11-02",
+        "date_updated": "2024-11-02",
+        "md5": "27797b20162758ad55d48113099a54c9",
+        "release_id": "2024-11-02_0839",
+        "repo": "main",
+        "size": 12174055,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-02_0839/nextdoor.zip"
       },
       "version": 3
     },
@@ -54264,12 +54491,12 @@
       "name": "zeroptianinvasion.zip",
       "source": {
         "date_added": "2024-10-30",
-        "date_updated": "2024-10-30",
-        "md5": "d782623edbf9ffe84582092d15aef9f4",
-        "release_id": "2024-10-30_1349",
+        "date_updated": "2024-11-02",
+        "md5": "174eef04ddef8d23aa2195ee67beed77",
+        "release_id": "2024-11-02_0839",
         "repo": "main",
-        "size": 14528390,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-30_1349/zeroptianinvasion.zip"
+        "size": 14528392,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-02_0839/zeroptianinvasion.zip"
       },
       "version": 3
     },
