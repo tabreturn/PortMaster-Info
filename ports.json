@@ -2868,12 +2868,12 @@
       "name": "barbarian.zip",
       "source": {
         "date_added": "2024-06-29",
-        "date_updated": "2024-06-29",
-        "md5": "db9436b07a7a4d0a7120a239c04e332e",
-        "release_id": "2024-06-29_0905",
+        "date_updated": "2024-11-03",
+        "md5": "364f43567a4b51fe83941f01e81ef70a",
+        "release_id": "2024-11-03_1903",
         "repo": "main",
-        "size": 3230847,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_0905/barbarian.zip"
+        "size": 3230773,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-03_1903/barbarian.zip"
       },
       "version": 3
     },
@@ -3306,12 +3306,12 @@
       "name": "benboquest.zip",
       "source": {
         "date_added": "2024-07-29",
-        "date_updated": "2024-07-29",
-        "md5": "a6af458cd609de710262cb9575970461",
-        "release_id": "2024-07-29_1123",
+        "date_updated": "2024-11-03",
+        "md5": "799c8b924fcec8f374a82d444a1db0b1",
+        "release_id": "2024-11-03_1903",
         "repo": "main",
-        "size": 286439946,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-29_1123/benboquest.zip"
+        "size": 36185287,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-03_1903/benboquest.zip"
       },
       "version": 3
     },
@@ -5046,7 +5046,7 @@
           "video": null
         },
         "inst": "Purchase the game from https://store.steampowered.com/app/1944570/Boneraiser_Minions/\nRun steam console via Windows+R: Type: steam://open/console, download version 3.1 by typing: download_depot 1944570 1944571 6000190403203003495 in the console, when the download is complete, it will tell you the location of the folder,  copy the data.win, audiogroup1.dat, audiogroup2.dat and options.ini from the folder to /ports/boneraiserminions/gamedata",
-        "inst_md": null,
+        "inst_md": "Purchase the game from https://store.steampowered.com/app/1944570/Boneraiser\\_Minions/\nRun steam console via Windows+R: Type: steam://open/console, download version 3.1 by typing: download\\_depot 1944570 1944571 6000190403203003495 in the console, when the download is complete, it will tell you the location of the folder,  copy the data.win, audiogroup1.dat, audiogroup2.dat and options.ini from the folder to /ports/boneraiserminions/gamedata",
         "porter": [
           "Fraxinus88"
         ],
@@ -5063,12 +5063,12 @@
       "name": "boneraiserminions.zip",
       "source": {
         "date_added": "2024-04-24",
-        "date_updated": "2024-07-18",
-        "md5": "94ee9fa0a2e6803cca6ab848e503c60a",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-11-03",
+        "md5": "8591b1d5e685d2bf5420e61e1f7d5ef3",
+        "release_id": "2024-11-03_1903",
         "repo": "main",
-        "size": 11655187,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/boneraiserminions.zip"
+        "size": 11655205,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-03_1903/boneraiserminions.zip"
       },
       "version": 3
     },
@@ -6751,6 +6751,78 @@
       },
       "version": 3
     },
+    "candybag.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "You have until midnight to gather as much candy as you can. Maximize flavor in order to get the highest score! Some candies are better at giving you energy, others taste great but take up lots of space!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy",
+          "simulation"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Game files are included and ready to run. Thanks Jon Topielski who created this (https://jontopielski.itch.io)",
+        "inst_md": "Game files are included and ready to run. Thanks [Jon Topielski](https://jontopielski.itch.io/cats-on-mars) who created this!",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Candy Bag"
+      },
+      "items": [
+        "Candy Bag.sh",
+        "candybag"
+      ],
+      "items_opt": null,
+      "name": "candybag.zip",
+      "source": {
+        "date_added": "2024-11-03",
+        "date_updated": "2024-11-03",
+        "md5": "51d37fde54b9feb115e6e8d3eb338cdf",
+        "release_id": "2024-11-03_1903",
+        "repo": "main",
+        "size": 354636,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-03_1903/candybag.zip"
+      },
+      "version": 3
+    },
     "cannonball-lr.zip": {
       "attr": {
         "arch": [
@@ -7556,6 +7628,80 @@
         "repo": "main",
         "size": 93957063,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/cattactics.zip"
+      },
+      "version": 3
+    },
+    "catwarrior.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Cat Warrior is an action-platformer of retro and cute style about a cat knight on his way to recapture his stolen treasure. Deep into the dangerous fantasy world,defeat the challenging big boss with your slash, dash, jump, walljump and other skills to find the treasure back!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install portfiles. Buy game on Steam and download windows (and/or linux) version. Copy all files from the \"catwarrior\" folder to \"gamedata\" folder.",
+        "inst_md": null,
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "mono-6.12.0.122-aarch64.squashfs",
+        "title": "Cat Warrior"
+      },
+      "items": [
+        "Cat Warrior.sh",
+        "catwarrior"
+      ],
+      "items_opt": null,
+      "name": "catwarrior.zip",
+      "source": {
+        "date_added": "2024-11-03",
+        "date_updated": "2024-11-03",
+        "md5": "944ea8242f0b5cec81fb1707b33d9075",
+        "release_id": "2024-11-03_1903",
+        "repo": "main",
+        "size": 5327855,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-03_1903/catwarrior.zip"
       },
       "version": 3
     },
@@ -9868,12 +10014,12 @@
       "name": "cromagrally.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2024-10-09",
-        "md5": "43485636315105738bac485332a379fe",
-        "release_id": "2024-10-09_1802",
+        "date_updated": "2024-11-03",
+        "md5": "2dc512011d73b33786f9a88dacdf5f5f",
+        "release_id": "2024-11-03_1903",
         "repo": "main",
         "size": 129889773,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/cromagrally.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-03_1903/cromagrally.zip"
       },
       "version": 3
     },
@@ -19554,9 +19700,9 @@
         ],
         "image": {
           "covers": [
+            "cover.opposingforce.png",
             "cover.png",
-            "cover.blueshift.png",
-            "cover.opposingforce.png"
+            "cover.blueshift.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -30675,12 +30821,12 @@
       "name": "nextdoor.zip",
       "source": {
         "date_added": "2024-11-02",
-        "date_updated": "2024-11-02",
-        "md5": "27797b20162758ad55d48113099a54c9",
-        "release_id": "2024-11-02_0839",
+        "date_updated": "2024-11-03",
+        "md5": "1503f974e2026feaf18544bf7fdf865e",
+        "release_id": "2024-11-03_1903",
         "repo": "main",
-        "size": 12174055,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-02_0839/nextdoor.zip"
+        "size": 12174052,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-03_1903/nextdoor.zip"
       },
       "version": 3
     },
@@ -35265,7 +35411,7 @@
           "video": null
         },
         "inst": "Purchase the game from: https://store.steampowered.com/app/1285670/Post_Void/\nRun steam console via Windows+R: Type: steam://open/console. \nDownload the 1.1.0 version by typing: download_depot 1285670 1285671 8969891914873217769 in the console, when the download is complete, it will tell you the location of the folder,  copy data.win and options.ini from the download folder to /ports/postvoid/gamedata",
-        "inst_md": null,
+        "inst_md": "Purchase the game from: https://store.steampowered.com/app/1285670/Post\\_Void/\nRun steam console via Windows+R: Type: steam://open/console. \nDownload the 1.1.0 version by typing: download\\_depot 1285670 1285671 8969891914873217769 in the console, when the download is complete, it will tell you the location of the folder,  copy data.win and options.ini from the download folder to /ports/postvoid/gamedata",
         "porter": [
           "Fraxinus88"
         ],
@@ -35286,12 +35432,12 @@
       "name": "postvoid.zip",
       "source": {
         "date_added": "2024-03-09",
-        "date_updated": "2024-09-29",
-        "md5": "23e0b67a77cea05224645bd57cbb0333",
-        "release_id": "2024-09-29_1340",
+        "date_updated": "2024-11-03",
+        "md5": "068cfbc3cd977297cb7cc93410c15f03",
+        "release_id": "2024-11-03_1903",
         "repo": "main",
-        "size": 7162034,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-29_1340/postvoid.zip"
+        "size": 7162051,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-03_1903/postvoid.zip"
       },
       "version": 3
     },
@@ -47928,7 +48074,7 @@
           "video": null
         },
         "inst": "Download THEWIND_v1-0.zip free on itch.io (https://airdorf.itch.io/thewind), extract it, and copy THEWIND_v1-0.exe to the port's gamedata folder.",
-        "inst_md": "Download *THEWIND_v1-0.zip* free on itch.io (https://airdorf.itch.io/thewind), extract it, and copy *THEWIND_v1-0.exe* to the port's *gamedata* folder.",
+        "inst_md": "Download *THEWIND\\_v1-0.zip* free on itch.io (https://airdorf.itch.io/thewind), extract it, and copy *THEWIND\\_v1-0.exe* to the port's *gamedata* folder.",
         "porter": [
           "tabreturn"
         ],
@@ -47945,12 +48091,12 @@
       "name": "thewind.zip",
       "source": {
         "date_added": "2024-10-30",
-        "date_updated": "2024-10-30",
-        "md5": "0b1b2b9836b5eff04f6260ededdcb564",
-        "release_id": "2024-10-30_1349",
+        "date_updated": "2024-11-03",
+        "md5": "ac2bd5dd7d3beb6763f2c4a5cedd176e",
+        "release_id": "2024-11-03_1903",
         "repo": "main",
-        "size": 11546541,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-30_1349/thewind.zip"
+        "size": 11546546,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-03_1903/thewind.zip"
       },
       "version": 3
     },
@@ -50229,12 +50375,12 @@
       "name": "ufo50.zip",
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2024-10-28",
-        "md5": "3f15b5eb60e54335c48a25b6f584f9c8",
-        "release_id": "2024-10-28_1442",
+        "date_updated": "2024-11-03",
+        "md5": "b1404094324cf874c7e141cde84d7b45",
+        "release_id": "2024-11-03_1903",
         "repo": "main",
-        "size": 33880916,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-28_1442/ufo50.zip"
+        "size": 32289497,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-03_1903/ufo50.zip"
       },
       "version": 3
     },
