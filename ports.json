@@ -10014,12 +10014,12 @@
       "name": "cromagrally.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2024-11-04",
-        "md5": "897af0cad6dd95c7af009d70778b7756",
-        "release_id": "2024-11-04_1645",
+        "date_updated": "2024-11-07",
+        "md5": "f06a28cca739dc29efb967ffd3fd8b1a",
+        "release_id": "2024-11-07_1955",
         "repo": "main",
         "size": 129889773,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-04_1645/cromagrally.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-07_1955/cromagrally.zip"
       },
       "version": 3
     },
@@ -19009,6 +19009,81 @@
       },
       "version": 3
     },
+    "grielsquest.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "\"Griel's Quest for the Sangraal\" is a game released for MSX2 systems\nin the year 1990 (only on Japan). In 2005 was ported to MSX1 systems\nby Karoshi Corp.\n\nThis version is a port of MSX1 version of the game to the GNU/Linux\nsystems. Featuring all the levels, objects and enemies. The program\nis written in C language with the help of SDL 1.2 libraries.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Griel's Quest for the Sangraal"
+      },
+      "items": [
+        "Griel's Quest for the Sangraal.sh",
+        "grielsquest"
+      ],
+      "items_opt": null,
+      "name": "grielsquest.zip",
+      "source": {
+        "date_added": "2024-11-07",
+        "date_updated": "2024-11-07",
+        "md5": "9cc44a2849b81ba9a1cf542d85affda5",
+        "release_id": "2024-11-07_1955",
+        "repo": "main",
+        "size": 6534217,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-07_1955/grielsquest.zip"
+      },
+      "version": 3
+    },
     "grimstorm.zip": {
       "attr": {
         "arch": [
@@ -19700,9 +19775,9 @@
         ],
         "image": {
           "covers": [
+            "cover.opposingforce.png",
             "cover.png",
-            "cover.blueshift.png",
-            "cover.opposingforce.png"
+            "cover.blueshift.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -19735,6 +19810,79 @@
         "repo": "main",
         "size": 29474558,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-17_0840/half-life.zip"
+      },
+      "version": 3
+    },
+    "hallowe_en.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "The player controls a magician that must collect a number of green pumpkins from a series of platforms. The character can move left and right, and can jump over enemies. They are also able to shoot a magical bolt which can erode a hole in the platform's floor blocking enemies. The player must climb up a number of ladders, and must avoid enemies including: spiders, choppers, bolts, skulls, bolts, and duplicators.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run",
+        "inst_md": null,
+        "porter": [
+          "Slayer366"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Hallowe'en"
+      },
+      "items": [
+        "Hallowe'en (Apple II).sh",
+        "hallowe_en/"
+      ],
+      "items_opt": null,
+      "name": "hallowe_en.zip",
+      "source": {
+        "date_added": "2024-11-07",
+        "date_updated": "2024-11-07",
+        "md5": "9cb5c10349e6a28dc81a0e6742a6a7f1",
+        "release_id": "2024-11-07_1955",
+        "repo": "main",
+        "size": 3230980,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-07_1955/hallowe_en.zip"
       },
       "version": 3
     },
@@ -27954,12 +28102,12 @@
       "name": "megamanx816-bit.zip",
       "source": {
         "date_added": "2024-08-24",
-        "date_updated": "2024-09-11",
-        "md5": "f7b16540515e3e9a98023bed0f56db13",
-        "release_id": "2024-09-11_1523",
+        "date_updated": "2024-11-07",
+        "md5": "575bec2f4ac9d6b6e77ec13af610fe5e",
+        "release_id": "2024-11-07_1955",
         "repo": "main",
-        "size": 133227,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-11_1523/megamanx816-bit.zip"
+        "size": 133241,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-07_1955/megamanx816-bit.zip"
       },
       "version": 3
     },
@@ -38342,12 +38490,12 @@
       "name": "restore.portmaster.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-10-27",
-        "md5": "0c759cb9863f7f98d97b803134353938",
-        "release_id": "2024-10-27_1327",
+        "date_updated": "2024-11-07",
+        "md5": "f7ec22ba90035d10bca16f3bf90b7522",
+        "release_id": "2024-11-07_1955",
         "repo": "main",
-        "size": 17040472,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/restore.portmaster.zip"
+        "size": 20187445,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-07_1955/restore.portmaster.zip"
       },
       "version": 3
     },
@@ -47734,6 +47882,77 @@
       },
       "version": 3
     },
+    "terminus.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Terminus is a short-session coffee break roguelike game with pixel-art graphics and turn-based combat. Ascend into the depths, while fighting through hordes of alien creatures, both in melee and range combat.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Terminus"
+      },
+      "items": [
+        "Terminus.sh",
+        "terminus"
+      ],
+      "items_opt": null,
+      "name": "terminus.zip",
+      "source": {
+        "date_added": "2024-11-07",
+        "date_updated": "2024-11-07",
+        "md5": "ccd264b245bf39f7ed0c78f1773d4ac0",
+        "release_id": "2024-11-07_1955",
+        "repo": "main",
+        "size": 16236178,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-07_1955/terminus.zip"
+      },
+      "version": 3
+    },
     "thecurseofissyos.zip": {
       "attr": {
         "arch": [
@@ -49057,6 +49276,81 @@
         "repo": "main",
         "size": 541302,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-12_1115/tomoyo_after.zip"
+      },
+      "version": 3
+    },
+    "topnep.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Guide Older Neptune as she takes to the skies with the help of her state-of-the-art Generator Unit! Combat through five unique stages and bosses based on the Gamindustri Nations. Blast through fast-moving obstacles and even fight some familiar Neptunia enemies and bosses! And if you gather enough coins on each stage, a friend will assist you on attacks. Challenge yourself and see what your highest score can be! Now, put on your gaming goggles, Maverick, and ready up for the wildest Neptunia ride of your life!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from steam. Download the game and copy over the game files to ports/topnep/gamedata.",
+        "inst_md": "Purchase the game from [steam](https://store.steampowered.com/app/1798780/Dimension_Tripper_Neptune_TOP_NEP/)\nFrom your Steam Library, Dimension Tripper Neptune: TOP NEP> Manage > Browse local files\nCopy the files into ports/topnep/gamedata. The game will patch on first startup.",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Dimension Tripper Neptune TOP NEP"
+      },
+      "items": [
+        "Dimension Tripper Neptune TOP NEP.sh",
+        "topnep"
+      ],
+      "items_opt": null,
+      "name": "topnep.zip",
+      "source": {
+        "date_added": "2024-11-07",
+        "date_updated": "2024-11-07",
+        "md5": "ee2c70f23e11c2ba886d4bd86c121939",
+        "release_id": "2024-11-07_1955",
+        "repo": "main",
+        "size": 12267768,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-07_1955/topnep.zip"
       },
       "version": 3
     },
@@ -51423,6 +51717,72 @@
       },
       "version": 3
     },
+    "vhr.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL"
+        ],
+        "desc": "Welcome to VHR! Unlock the secrets of speed in this turbocharged neo super scaler arcade racing experience. Dominate the track & drift your way to the finish line on the road to becoming the VHRC champion.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "racing"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and add the game data to `ports/vhr/gamedata`.",
+        "inst_md": null,
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Victory Heat Rally"
+      },
+      "items": [
+        "Victory Heat Rally.sh",
+        "vhr"
+      ],
+      "items_opt": null,
+      "name": "vhr.zip",
+      "source": {
+        "date_added": "2024-11-07",
+        "date_updated": "2024-11-07",
+        "md5": "8bb744772b8a02b90f840e972370de96",
+        "release_id": "2024-11-07_1955",
+        "repo": "main",
+        "size": 22476572,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-07_1955/vhr.zip"
+      },
+      "version": 3
+    },
     "vikingsofmidgard.zip": {
       "attr": {
         "arch": [
@@ -52296,12 +52656,12 @@
       "name": "widelands.zip",
       "source": {
         "date_added": "2023-12-06",
-        "date_updated": "2024-05-09",
-        "md5": "9356ff94beec7f5e1cd460f77230a8f1",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-11-07",
+        "md5": "2b443acbff9ba8a5aeb88b964b897361",
+        "release_id": "2024-11-07_1955",
         "repo": "main",
-        "size": 465802678,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/widelands.zip"
+        "size": 465802648,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-07_1955/widelands.zip"
       },
       "version": 3
     },
