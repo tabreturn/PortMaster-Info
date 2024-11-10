@@ -22352,12 +22352,12 @@
       "name": "icytower.zip",
       "source": {
         "date_added": "2024-09-20",
-        "date_updated": "2024-09-20",
-        "md5": "2305d34c5eb927758c53932595c6195d",
-        "release_id": "2024-09-20_1106",
+        "date_updated": "2024-11-10",
+        "md5": "a2c3a13c1f6e4ba28878bf8e48c906ce",
+        "release_id": "2024-11-10_1313",
         "repo": "main",
-        "size": 6556564,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-20_1106/icytower.zip"
+        "size": 6674569,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-10_1313/icytower.zip"
       },
       "version": 3
     },
@@ -34869,6 +34869,79 @@
       },
       "version": 3
     },
+    "pingus.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Pingus is a free clone of the popular Lemmings game.\nYour goal is to guide a horde of penguins through a world full of obstacles and penguin traps to safety. Although penguins (unlike lemmings) are rather smart, they sometimes lack the necessary overview and now rely on you to save them.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Pingus"
+      },
+      "items": [
+        "Pingus.sh",
+        "pingus"
+      ],
+      "items_opt": null,
+      "name": "pingus.zip",
+      "source": {
+        "date_added": "2024-11-10",
+        "date_updated": "2024-11-10",
+        "md5": "e21f4cecd9ba5546acc8deceb1551db8",
+        "release_id": "2024-11-10_1313",
+        "repo": "main",
+        "size": 15472339,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-10_1313/pingus.zip"
+      },
+      "version": 3
+    },
     "pixelheat.zip": {
       "attr": {
         "arch": [],
@@ -39602,6 +39675,80 @@
         "repo": "main",
         "size": 10984916,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/roguelight.zip"
+      },
+      "version": 3
+    },
+    "roswyn.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Roswyn and The Dragons is an exciting Action-RPG game (with direct combat). As Roswyn, your goal (you don't know exactly why, but it's not important :) ) will be to defeat the 9 dragons to save the world (once again...).\n\nIn your quest, you'll travel through 500 levels(screens) including plains, marshes, dungeons, caves, mountains and much more. You'll get more and more powerful by finding new heart-pieces, or by upgrading your sword to crush pots and rocks or even throw fireballs !!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "1-2-3 are mapped to Y-X-A and attack on B!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Roswyn & The Dragons"
+      },
+      "items": [
+        "Roswyn & The Dragons.sh",
+        "roswyn"
+      ],
+      "items_opt": null,
+      "name": "roswyn.zip",
+      "source": {
+        "date_added": "2024-11-10",
+        "date_updated": "2024-11-10",
+        "md5": "9f69866899afe66b8b0fb94314dec74e",
+        "release_id": "2024-11-10_1313",
+        "repo": "main",
+        "size": 18056880,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-10_1313/roswyn.zip"
       },
       "version": 3
     },
@@ -49425,6 +49572,77 @@
       },
       "version": 3
     },
+    "towerbabe.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "The evil wizard, Doodldorf, has taken your hot girlfriend and trapped her at the top of his tower. Run and jump to the top to save her! Developed by Keyslam and poltergasm for the 1-BIT JAM #4.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Tower Babe"
+      },
+      "items": [
+        "Tower Babe.sh",
+        "towerbabe"
+      ],
+      "items_opt": null,
+      "name": "towerbabe.zip",
+      "source": {
+        "date_added": "2024-11-10",
+        "date_updated": "2024-11-10",
+        "md5": "f0b7caf37c60b3397d8a6977a630910c",
+        "release_id": "2024-11-10_1313",
+        "repo": "main",
+        "size": 3210425,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-10_1313/towerbabe.zip"
+      },
+      "version": 3
+    },
     "towerbag.zip": {
       "attr": {
         "arch": [
@@ -50010,6 +50228,81 @@
       },
       "version": 3
     },
+    "tsunderswap.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "TS!Underswap is an unofficial fan-made reimagining of Toby Fox's UNDERTALE, made by Team Switched (TS).\n\nThe official DEMO features the first two areas, Ruined Home and Starlight Isles!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the Windows version from https://gamejolt.com/games/tsunderswap/160094 and unzip to `ports/tsunderswap/gamedata`",
+        "inst_md": null,
+        "porter": [
+          "Vector580"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "TS Underswap"
+      },
+      "items": [
+        "TS Underswap.sh",
+        "tsunderswap/"
+      ],
+      "items_opt": null,
+      "name": "tsunderswap.zip",
+      "source": {
+        "date_added": "2024-11-10",
+        "date_updated": "2024-11-10",
+        "md5": "8f953f5119f297b73b2844305a91b096",
+        "release_id": "2024-11-10_1313",
+        "repo": "main",
+        "size": 14506056,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-10_1313/tsunderswap.zip"
+      },
+      "version": 3
+    },
     "tube64.zip": {
       "attr": {
         "arch": [
@@ -50299,6 +50592,79 @@
         "repo": "main",
         "size": 132588,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/turbotabletennis.zip"
+      },
+      "version": 3
+    },
+    "tuxfootball.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Tux Football is a great 2D soccer (sometimes called football) game. It's bringing old style gameplay from DOS times back to your handheld with up to date graphics! It's gameplay is similar to old classics such as Amco's Kick Off and Sensible Software's Sensible Soccer.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "sports"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Tux Football"
+      },
+      "items": [
+        "Tux Football.sh",
+        "tuxfootball"
+      ],
+      "items_opt": null,
+      "name": "tuxfootball.zip",
+      "source": {
+        "date_added": "2024-11-10",
+        "date_updated": "2024-11-10",
+        "md5": "a570f847276e7f28869311d62b4c328e",
+        "release_id": "2024-11-10_1313",
+        "repo": "main",
+        "size": 19039262,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-10_1313/tuxfootball.zip"
       },
       "version": 3
     },
