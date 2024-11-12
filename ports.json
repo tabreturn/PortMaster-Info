@@ -654,12 +654,12 @@
       "name": "air.zip",
       "source": {
         "date_added": "2024-07-21",
-        "date_updated": "2024-07-21",
-        "md5": "3bf6415f7bb7266011f2661041df2522",
-        "release_id": "2024-07-21_2233",
+        "date_updated": "2024-11-12",
+        "md5": "52e58fbb354cf07d823a549686d8b2a3",
+        "release_id": "2024-11-12_1249",
         "repo": "main",
-        "size": 729953,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-21_2233/air.zip"
+        "size": 729972,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-12_1249/air.zip"
       },
       "version": 3
     },
@@ -2701,8 +2701,10 @@
           "platformer"
         ],
         "image": {
-          "covers": [],
-          "screenshot": "screenshot.jpg",
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -2724,12 +2726,12 @@
       "name": "bananaguy2.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-09-20",
-        "md5": "54da093413720791c9c30292df337666",
-        "release_id": "2024-09-20_1106",
+        "date_updated": "2024-11-12",
+        "md5": "e513bbaef0cf1eccafbb9a8f21ffeca5",
+        "release_id": "2024-11-12_1249",
         "repo": "main",
-        "size": 99906504,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-20_1106/bananaguy2.zip"
+        "size": 122306158,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-12_1249/bananaguy2.zip"
       },
       "version": 3
     },
@@ -8911,12 +8913,12 @@
       "name": "clannad.zip",
       "source": {
         "date_added": "2024-07-21",
-        "date_updated": "2024-07-21",
-        "md5": "b715aab39180411bfdd7a2c70cf97564",
-        "release_id": "2024-07-21_2233",
+        "date_updated": "2024-11-12",
+        "md5": "a34965608077afad7ff34f66c1b7c834",
+        "release_id": "2024-11-12_1249",
         "repo": "main",
-        "size": 616576,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-21_2233/clannad.zip"
+        "size": 616597,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-12_1249/clannad.zip"
       },
       "version": 3
     },
@@ -10014,12 +10016,12 @@
       "name": "cromagrally.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2024-11-07",
-        "md5": "f06a28cca739dc29efb967ffd3fd8b1a",
-        "release_id": "2024-11-07_1955",
+        "date_updated": "2024-11-12",
+        "md5": "6b49dc5def25461875c63c2816f6fd69",
+        "release_id": "2024-11-12_1249",
         "repo": "main",
         "size": 129889773,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-07_1955/cromagrally.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-12_1249/cromagrally.zip"
       },
       "version": 3
     },
@@ -19877,12 +19879,12 @@
       "name": "hallowe_en.zip",
       "source": {
         "date_added": "2024-11-07",
-        "date_updated": "2024-11-07",
-        "md5": "9cb5c10349e6a28dc81a0e6742a6a7f1",
-        "release_id": "2024-11-07_1955",
+        "date_updated": "2024-11-12",
+        "md5": "e273e9b698fff1dfb51963b0cc9c14fd",
+        "release_id": "2024-11-12_1249",
         "repo": "main",
-        "size": 3230980,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-07_1955/hallowe_en.zip"
+        "size": 3457345,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-12_1249/hallowe_en.zip"
       },
       "version": 3
     },
@@ -24157,12 +24159,12 @@
       "name": "kanon.zip",
       "source": {
         "date_added": "2024-07-21",
-        "date_updated": "2024-08-12",
-        "md5": "1768190d2b81bfb1ef28b898be7a5bb0",
-        "release_id": "2024-08-12_1115",
+        "date_updated": "2024-11-12",
+        "md5": "61db01ec491ce5ec1a82574be36e7bec",
+        "release_id": "2024-11-12_1249",
         "repo": "main",
-        "size": 317516,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-12_1115/kanon.zip"
+        "size": 317538,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-12_1249/kanon.zip"
       },
       "version": 3
     },
@@ -26136,12 +26138,12 @@
       "name": "littlebusters.zip",
       "source": {
         "date_added": "2024-07-21",
-        "date_updated": "2024-07-21",
-        "md5": "81aff187de281366163f16ad99cd1537",
-        "release_id": "2024-07-21_2233",
+        "date_updated": "2024-11-12",
+        "md5": "4a7ba645f270dbe766c0da0c9b77f0b2",
+        "release_id": "2024-11-12_1249",
         "repo": "main",
-        "size": 684492,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-21_2233/littlebusters.zip"
+        "size": 684515,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-12_1249/littlebusters.zip"
       },
       "version": 3
     },
@@ -35151,12 +35153,12 @@
       "name": "planetarian.zip",
       "source": {
         "date_added": "2024-07-21",
-        "date_updated": "2024-07-21",
-        "md5": "35a4038af85e5db0c87be2760eaca20d",
-        "release_id": "2024-07-21_2233",
+        "date_updated": "2024-11-12",
+        "md5": "fef5d8b01bee65897d80db417884ef37",
+        "release_id": "2024-11-12_1249",
         "repo": "main",
-        "size": 608647,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-21_2233/planetarian.zip"
+        "size": 608656,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-12_1249/planetarian.zip"
       },
       "version": 3
     },
@@ -38563,12 +38565,12 @@
       "name": "restore.portmaster.zip",
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-11-07",
-        "md5": "f7ec22ba90035d10bca16f3bf90b7522",
-        "release_id": "2024-11-07_1955",
+        "date_updated": "2024-11-12",
+        "md5": "5d2fafbc97efef554de2affc86d99ca0",
+        "release_id": "2024-11-12_1249",
         "repo": "main",
-        "size": 20187445,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-07_1955/restore.portmaster.zip"
+        "size": 11768129,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-12_1249/restore.portmaster.zip"
       },
       "version": 3
     },
@@ -49417,12 +49419,12 @@
       "name": "tomoyo_after.zip",
       "source": {
         "date_added": "2024-07-21",
-        "date_updated": "2024-08-12",
-        "md5": "64e09f0ab89b7ebf40c61a757c10f298",
-        "release_id": "2024-08-12_1115",
+        "date_updated": "2024-11-12",
+        "md5": "b547481aec91f8d0898440444336b923",
+        "release_id": "2024-11-12_1249",
         "repo": "main",
-        "size": 541302,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-12_1115/tomoyo_after.zip"
+        "size": 541321,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-12_1249/tomoyo_after.zip"
       },
       "version": 3
     },
