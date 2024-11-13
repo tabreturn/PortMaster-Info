@@ -31267,6 +31267,79 @@
       },
       "version": 3
     },
+    "njam.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "THE MOST ADDICTIVE FREE PACMAN GAME",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "NjAM"
+      },
+      "items": [
+        "NjAM.sh",
+        "njam"
+      ],
+      "items_opt": null,
+      "name": "njam.zip",
+      "source": {
+        "date_added": "2024-11-13",
+        "date_updated": "2024-11-13",
+        "md5": "2eca42e7a7278d1fca89f40d6229c00d",
+        "release_id": "2024-11-13_1319",
+        "repo": "main",
+        "size": 1914059,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-13_1319/njam.zip"
+      },
+      "version": 3
+    },
     "nkaruga.zip": {
       "attr": {
         "arch": [
@@ -32360,6 +32433,76 @@
         "repo": "main",
         "size": 3058023,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/oddworld.zip"
+      },
+      "version": 3
+    },
+    "ohmygodlookatthisknight.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Grab your shiny helmet and trusty sword, gather all the valor and honor you have, and show everyone what being the true knight actually means!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Claim free on Steam (https://store.steampowered.com/app/781440/OH_MY_GOD_LOOK_AT_THIS_KNIGHT), download, and copy the game files to the ohmygodlookatthisknight/gamedata folder.",
+        "inst_md": "Claim free on [Steam](https://store.steampowered.com/app/781440/OH_MY_GOD_LOOK_AT_THIS_KNIGHT), download, and copy the game files to the `ohmygodlookatthisknight/gamedata` folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "OH MY GOD, look at this knight"
+      },
+      "items": [
+        "OH MY GOD, look at this knight.sh",
+        "ohmygodlookatthisknight"
+      ],
+      "items_opt": null,
+      "name": "ohmygodlookatthisknight.zip",
+      "source": {
+        "date_added": "2024-11-13",
+        "date_updated": "2024-11-13",
+        "md5": "274dcfa21a36a1f169f10d4e99393fe3",
+        "release_id": "2024-11-13_1319",
+        "repo": "main",
+        "size": 10593691,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-13_1319/ohmygodlookatthisknight.zip"
       },
       "version": 3
     },
@@ -38238,6 +38381,79 @@
       },
       "version": 3
     },
+    "redtrianglesc.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Red Triangle Games' collection of short OHR.RPG.CE games all in one place! With nine great games, there's something for everyone in this collection!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run! Thanks to Red Triangle Games (https://www.redtrianglegames.com) for granting permission to distribute the game files.",
+        "inst_md": "Ready to run! Thanks to [Red Triangle Games](https://www.redtrianglegames.com) for granting permission to distribute the game files.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Red Triangle Super Collection"
+      },
+      "items": [
+        "Red Triangle Super Collection.sh",
+        "redtrianglesc"
+      ],
+      "items_opt": null,
+      "name": "redtrianglesc.zip",
+      "source": {
+        "date_added": "2024-11-13",
+        "date_updated": "2024-11-13",
+        "md5": "adee543f075438c109abdb841c3a99ff",
+        "release_id": "2024-11-13_1319",
+        "repo": "main",
+        "size": 219572861,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-13_1319/redtrianglesc.zip"
+      },
+      "version": 3
+    },
     "rejuvenation.zip": {
       "attr": {
         "arch": [
@@ -43574,11 +43790,11 @@
       "source": {
         "date_added": "2024-09-10",
         "date_updated": "2024-11-13",
-        "md5": "5dc23d1d79160b1a27fff3c83eed0fb6",
-        "release_id": "2024-11-13_0956",
+        "md5": "2616bf361ef17408d6a2e40a05189e80",
+        "release_id": "2024-11-13_1319",
         "repo": "main",
         "size": 138365917,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-13_0956/sonic3air.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-13_1319/sonic3air.zip"
       },
       "version": 3
     },
