@@ -9481,7 +9481,7 @@
           "Bamboozler"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": null,
         "title": "ColorLines"
       },
@@ -9493,12 +9493,12 @@
       "name": "colorlines.zip",
       "source": {
         "date_added": "2023-09-14",
-        "date_updated": "2024-07-27",
-        "md5": "869e9639f7d973cff401bba798e45bff",
-        "release_id": "2024-07-27_0224",
+        "date_updated": "2024-11-13",
+        "md5": "28ce89ffeb327bb70a8384bcbeeaefa6",
+        "release_id": "2024-11-13_0956",
         "repo": "main",
-        "size": 4179840,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-27_0224/colorlines.zip"
+        "size": 4179841,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-13_0956/colorlines.zip"
       },
       "version": 3
     },
@@ -43544,7 +43544,9 @@
         "desc": "A fan-made widescreen remaster of Sonic 3 & Knuckles.",
         "desc_md": null,
         "exp": false,
-        "genres": [],
+        "genres": [
+          "platformer"
+        ],
         "image": {
           "covers": [
             "cover.png"
@@ -43571,12 +43573,12 @@
       "name": "sonic3air.zip",
       "source": {
         "date_added": "2024-09-10",
-        "date_updated": "2024-09-11",
-        "md5": "3d4a33eccf9833ca5809a44495e73997",
-        "release_id": "2024-09-11_1523",
+        "date_updated": "2024-11-13",
+        "md5": "5dc23d1d79160b1a27fff3c83eed0fb6",
+        "release_id": "2024-11-13_0956",
         "repo": "main",
-        "size": 138365908,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-11_1523/sonic3air.zip"
+        "size": 138365917,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-13_0956/sonic3air.zip"
       },
       "version": 3
     },
@@ -51338,6 +51340,79 @@
       },
       "version": 3
     },
+    "ungratefulbirdsngd.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Late one night, you walk through a forest and hear the distressed cries of caged birds echoing around you. Someone must set them free, and you're the only one there. But be warned: when freed, these confused and angry birds will turn on you. Journey through five environments, rescuing ten types of birds across over three dozen stages.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on itch.io (https://jdmgames.itch.io/ungrateful-birds-no-good-deed), download the Windows version, extract it and copy the game files to the ungratefulbirdsngd/gamedata folder.",
+        "inst_md": "Purchase the game on [itch.io](https://jdmgames.itch.io/ungrateful-birds-no-good-deed), download the Windows version, extract it and copy the game files to the `ungratefulbirdsngd/gamedata` folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Ungrateful Birds: No Good Deed"
+      },
+      "items": [
+        "Ungrateful Birds - No Good Deed.sh",
+        "ungratefulbirdsngd"
+      ],
+      "items_opt": null,
+      "name": "ungratefulbirdsngd.zip",
+      "source": {
+        "date_added": "2024-11-13",
+        "date_updated": "2024-11-13",
+        "md5": "6ce6148e7fce983707ecf0c919a2078b",
+        "release_id": "2024-11-13_0956",
+        "repo": "main",
+        "size": 29302551,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-13_0956/ungratefulbirdsngd.zip"
+      },
+      "version": 3
+    },
     "unlikely.zip": {
       "attr": {
         "arch": [],
@@ -51628,12 +51703,12 @@
       "name": "utyellow.zip",
       "source": {
         "date_added": "2024-08-06",
-        "date_updated": "2024-08-24",
-        "md5": "3ad234e1577c670f09010cda0fe15b22",
-        "release_id": "2024-08-24_0238",
+        "date_updated": "2024-11-13",
+        "md5": "54f2910b354c0c579a4b5b522b6bb66e",
+        "release_id": "2024-11-13_0956",
         "repo": "main",
-        "size": 14191994,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-24_0238/utyellow.zip"
+        "size": 60678006,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-13_0956/utyellow.zip"
       },
       "version": 3
     },
