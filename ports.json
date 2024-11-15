@@ -16027,6 +16027,79 @@
       },
       "version": 3
     },
+    "fishfillets.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Fish Fillets is strictly a puzzle game. The goal in every of the seventy levels is always the same: find a safe way out. The fish utter witty remarks about their surroundings, the various inhabitants of their underwater realm quarrel among themselves or comment on the efforts of your fish. The whole game is accompanied by quiet, comforting music.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Fish Fillets NG"
+      },
+      "items": [
+        "Fish Fillets NG.sh",
+        "fishfillets"
+      ],
+      "items_opt": null,
+      "name": "fishfillets.zip",
+      "source": {
+        "date_added": "2024-11-15",
+        "date_updated": "2024-11-15",
+        "md5": "cdd41d8a8938520d5580fc3f75bde81b",
+        "release_id": "2024-11-15_1632",
+        "repo": "main",
+        "size": 73645534,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-15_1632/fishfillets.zip"
+      },
+      "version": 3
+    },
     "fistbump.zip": {
       "attr": {
         "arch": [],
@@ -16735,6 +16808,80 @@
         "repo": "main",
         "size": 52641595,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/franken.zip"
+      },
+      "version": 3
+    },
+    "freeciv.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion",
+          "kloptops"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "FreeCiv"
+      },
+      "items": [
+        "FreeCiv.sh",
+        "freeciv"
+      ],
+      "items_opt": null,
+      "name": "freeciv.zip",
+      "source": {
+        "date_added": "2024-11-15",
+        "date_updated": "2024-11-15",
+        "md5": "a16fa18c481067fe45077c18b32c4215",
+        "release_id": "2024-11-15_1632",
+        "repo": "main",
+        "size": 46086775,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-15_1632/freeciv.zip"
       },
       "version": 3
     },
@@ -28581,12 +28728,12 @@
       "name": "minetest.zip",
       "source": {
         "date_added": "2024-04-24",
-        "date_updated": "2024-08-30",
-        "md5": "ee219afe8b0d2fb250345347baed07d1",
-        "release_id": "2024-08-30_0721",
+        "date_updated": "2024-11-15",
+        "md5": "89c15ca018422576ad8d45a389609859",
+        "release_id": "2024-11-15_1632",
         "repo": "main",
-        "size": 44310574,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-30_0721/minetest.zip"
+        "size": 44403867,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-15_1632/minetest.zip"
       },
       "version": 3
     },
@@ -41140,6 +41287,79 @@
       },
       "version": 3
     },
+    "sdlzombies.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Linux clone of zombie game. You are penguin and zombies want to catch you. There is only one way how to survive - they must fall into a pit.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "SDLZombies"
+      },
+      "items": [
+        "SDLZombies.sh",
+        "sdlzombies"
+      ],
+      "items_opt": null,
+      "name": "sdlzombies.zip",
+      "source": {
+        "date_added": "2024-11-15",
+        "date_updated": "2024-11-15",
+        "md5": "8a368e8202374432d28c775cf2a7d402",
+        "release_id": "2024-11-15_1632",
+        "repo": "main",
+        "size": 3044900,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-15_1632/sdlzombies.zip"
+      },
+      "version": 3
+    },
     "secretteagarden.zip": {
       "attr": {
         "arch": [
@@ -48588,13 +48808,13 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download game (windows ver) from https://xjackfox.itch.io/the-starlit-escape,  copy all filles except the .exe to /ports/thestarlitescape/gamedata",
+        "inst": "Ready to Run!",
         "inst_md": null,
         "porter": [
           "Fraxinus88"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": null,
         "title": "The Starlit Escape"
       },
@@ -48606,12 +48826,12 @@
       "name": "thestarlitescape.zip",
       "source": {
         "date_added": "2024-02-07",
-        "date_updated": "2024-07-18",
-        "md5": "ea7f33a0e48162d4113e17938357b19c",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-11-15",
+        "md5": "2b9064643cc2bfd67cf798656fdb46ad",
+        "release_id": "2024-11-15_1632",
         "repo": "main",
-        "size": 10900461,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/thestarlitescape.zip"
+        "size": 210635795,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-15_1632/thestarlitescape.zip"
       },
       "version": 3
     },
@@ -49718,6 +49938,79 @@
         "repo": "main",
         "size": 12267768,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-07_1955/topnep.zip"
+      },
+      "version": 3
+    },
+    "touhoucirno.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Yokai Mountain Megacity is under attack by the criminal Frog Syndicate, and it's up to the strongest undercover fairy police officer to stop it! Punch, kick and parry your way through an onslaught of pizza-throwing knights, pop culture references, frogs and breakable crates in this smash hit that'll make your fingers bleed! Battle your way through 10 stages of frogs, fairies and ghost cosplayers in this frantic arcade action game!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Go to the game's page https://yaru.itch.io/touhou-streets-of-frog, download the game and place the zip file into gamedata folder.",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Touhou: Cirno in Streets of Frog"
+      },
+      "items": [
+        "Touhou - Cirno in Streets of Frog.sh",
+        "touhoucirno"
+      ],
+      "items_opt": null,
+      "name": "touhoucirno.zip",
+      "source": {
+        "date_added": "2024-11-15",
+        "date_updated": "2024-11-15",
+        "md5": "1caad993e8a79b13c70b43de9e78a848",
+        "release_id": "2024-11-15_1632",
+        "repo": "main",
+        "size": 15379048,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-15_1632/touhoucirno.zip"
       },
       "version": 3
     },
@@ -51326,12 +51619,12 @@
       "name": "ufo50.zip",
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2024-11-03",
-        "md5": "b1404094324cf874c7e141cde84d7b45",
-        "release_id": "2024-11-03_1903",
+        "date_updated": "2024-11-15",
+        "md5": "3461054cb712ffee998cd108a78ada93",
+        "release_id": "2024-11-15_1632",
         "repo": "main",
-        "size": 32289497,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-03_1903/ufo50.zip"
+        "size": 32288721,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-15_1632/ufo50.zip"
       },
       "version": 3
     },
@@ -51620,12 +51913,12 @@
       "name": "ungratefulbirdsngd.zip",
       "source": {
         "date_added": "2024-11-13",
-        "date_updated": "2024-11-13",
-        "md5": "6ce6148e7fce983707ecf0c919a2078b",
-        "release_id": "2024-11-13_0956",
+        "date_updated": "2024-11-15",
+        "md5": "d8ed8ccbcd41f6e9c085f7590403e3b7",
+        "release_id": "2024-11-15_1632",
         "repo": "main",
-        "size": 29302551,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-13_0956/ungratefulbirdsngd.zip"
+        "size": 29302546,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-15_1632/ungratefulbirdsngd.zip"
       },
       "version": 3
     },
