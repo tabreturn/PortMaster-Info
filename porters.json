@@ -288,5 +288,12 @@
     "support": "",
     "webpage": "https://github.com/slobters",
     "image": "https://avatars.githubusercontent.com/u/132939843"
-  }
+  },
+  "kotzebuedog": {
+   "name": "kotzebuedog",
+   "social": "https://octodon.social/@cde",
+   "support": "https://ko-fi.com/kotzebuedog",
+   "webpage": "https://github.com/cdeletre",
+   "image": "https://filedn.com/lBqXsBfh35Xfmc9Q2rYVePY/PortMaster/kotzebuedog.png"
+ }
 }
