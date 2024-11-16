@@ -38862,7 +38862,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Super Mario 64 rom must be present in the render96ex folder during first launch to install the assets.",
+        "inst": "Copy your Super Mario 64 USA rom the render96ex folder and rename it to baserom.us.z64 (md5sum 20b854b239203baf6c961b850a4a51a2)",
         "inst_md": null,
         "porter": [
           "kotzebuedog"
@@ -38882,12 +38882,12 @@
       "name": "render96ex.zip",
       "source": {
         "date_added": "2024-07-01",
-        "date_updated": "2024-10-16",
-        "md5": "2cf2c16048b33138bd0f2a3841fba618",
-        "release_id": "2024-10-16_0826",
+        "date_updated": "2024-11-16",
+        "md5": "0cfc8b46ee36601134c0100c8e8a075a",
+        "release_id": "2024-11-16_0559",
         "repo": "multiverse",
-        "size": 153478213,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-16_0826/render96ex.zip"
+        "size": 153555293,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-11-16_0559/render96ex.zip"
       },
       "version": 3
     },
@@ -42649,8 +42649,8 @@
         ],
         "image": {
           "covers": [
-            "cover.smredux.png",
-            "cover.sm.png"
+            "cover.sm.png",
+            "cover.smredux.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -42797,8 +42797,8 @@
         ],
         "image": {
           "covers": [
-            "cover.smb1.png",
-            "cover.smbll.png"
+            "cover.smbll.png",
+            "cover.smb1.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -52588,12 +52588,12 @@
       "name": "vdrift.zip",
       "source": {
         "date_added": "2024-10-25",
-        "date_updated": "2024-10-25",
-        "md5": "44158c81bd6141e4342b7e7c19af7153",
-        "release_id": "2024-10-25_1456",
+        "date_updated": "2024-11-16",
+        "md5": "53065d590fb5f722aa327773c0f55c36",
+        "release_id": "2024-11-16_0559",
         "repo": "multiverse",
-        "size": 1802704269,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-25_1456/vdrift.zip"
+        "size": 1802704078,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-11-16_0559/vdrift.zip"
       },
       "version": 3
     },
