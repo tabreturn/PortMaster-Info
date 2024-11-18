@@ -22364,6 +22364,81 @@
       },
       "version": 3
     },
+    "ichorous.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A long-imprisoned God of Blood has made you their disciple. Kill their monstrosities still roaming the land and return the godly blood, Ichor, to restore your Patron to their full power.\nMaster the Offerings of The Patron and combine them for crazy synergies and boosts!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from itch.io and place the data.win in ports/ichorous/gamedata",
+        "inst_md": "Download the game (Ichorous.zip) from https://mattstov.itch.io/ichorousand place the data.win in ports/ichorous/gamedata",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Ichorous"
+      },
+      "items": [
+        "Ichorous.sh",
+        "ichorous"
+      ],
+      "items_opt": null,
+      "name": "ichorous.zip",
+      "source": {
+        "date_added": "2024-11-18",
+        "date_updated": "2024-11-18",
+        "md5": "442d452ab0b79e39a24a6c5d7884e068",
+        "release_id": "2024-11-18_0913",
+        "repo": "main",
+        "size": 14535428,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-18_0913/ichorous.zip"
+      },
+      "version": 3
+    },
     "iconoclasts.zip": {
       "attr": {
         "arch": [
@@ -26356,12 +26431,12 @@
       "name": "littlefroggame.zip",
       "source": {
         "date_added": "2024-02-12",
-        "date_updated": "2024-09-08",
-        "md5": "dd7ec123aa9c05ccc1d58d0c45e44489",
-        "release_id": "2024-09-08_0351",
+        "date_updated": "2024-11-18",
+        "md5": "40b966c7c5fd6b4db8f6fc93dbd11860",
+        "release_id": "2024-11-18_0913",
         "repo": "main",
-        "size": 8151,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-08_0351/littlefroggame.zip"
+        "size": 8054,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-18_0913/littlefroggame.zip"
       },
       "version": 3
     },
@@ -35585,12 +35660,12 @@
       "name": "planetwaves.zip",
       "source": {
         "date_added": "2023-06-09",
-        "date_updated": "2024-04-01",
-        "md5": "507257ecd2d92b7b819b46e70e7affc0",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-11-18",
+        "md5": "261cac3e7b3f3c3a4685fb2f5432a724",
+        "release_id": "2024-11-18_0913",
         "repo": "main",
-        "size": 19423458,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/planetwaves.zip"
+        "size": 19423827,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-18_0913/planetwaves.zip"
       },
       "version": 3
     },
@@ -53977,12 +54052,12 @@
       "name": "wolf3d.zip",
       "source": {
         "date_added": "2024-09-27",
-        "date_updated": "2024-09-27",
-        "md5": "f09698db8bf2cc0fcf154f2316dbda5c",
-        "release_id": "2024-09-27_1324",
+        "date_updated": "2024-11-18",
+        "md5": "6cd84fbb993225cf5077d08f0fc10df2",
+        "release_id": "2024-11-18_0913",
         "repo": "main",
-        "size": 7196097,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-27_1324/wolf3d.zip"
+        "size": 7196096,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-18_0913/wolf3d.zip"
       },
       "version": 3
     },
