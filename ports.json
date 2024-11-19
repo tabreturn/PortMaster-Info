@@ -12795,6 +12795,79 @@
       },
       "version": 3
     },
+    "doomrl.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "DRL (D**m, the Roguelike) is a fast and furious coffee-break Roguelike game, that is heavily inspired by the popular FPS game Doom by ID Software.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Game files are already included. Controls are rather complex, make sure to read the control sheet carefully.",
+        "inst_md": null,
+        "porter": [
+          "ohol-vitaliy"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": true,
+        "runtime": null,
+        "title": "DoomRL"
+      },
+      "items": [
+        "DoomRL.sh",
+        "doomrl"
+      ],
+      "items_opt": null,
+      "name": "doomrl.zip",
+      "source": {
+        "date_added": "2024-11-19",
+        "date_updated": "2024-11-19",
+        "md5": "ec9db82957cf5cf1c750bf7577533536",
+        "release_id": "2024-11-19_0913",
+        "repo": "main",
+        "size": 10568030,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-19_0913/doomrl.zip"
+      },
+      "version": 3
+    },
     "doomrpg.zip": {
       "attr": {
         "arch": [
@@ -16091,12 +16164,12 @@
       "name": "fishfillets.zip",
       "source": {
         "date_added": "2024-11-15",
-        "date_updated": "2024-11-15",
-        "md5": "cdd41d8a8938520d5580fc3f75bde81b",
-        "release_id": "2024-11-15_1632",
+        "date_updated": "2024-11-19",
+        "md5": "b43050828f0445c62335337dc8374a91",
+        "release_id": "2024-11-19_0913",
         "repo": "main",
-        "size": 73645534,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-15_1632/fishfillets.zip"
+        "size": 73645900,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-19_0913/fishfillets.zip"
       },
       "version": 3
     },
@@ -51247,12 +51320,12 @@
       "name": "tuxfootball.zip",
       "source": {
         "date_added": "2024-11-10",
-        "date_updated": "2024-11-10",
-        "md5": "a570f847276e7f28869311d62b4c328e",
-        "release_id": "2024-11-10_1313",
+        "date_updated": "2024-11-19",
+        "md5": "bafd2a421793bbd03acf86fd5c1f7ded",
+        "release_id": "2024-11-19_0913",
         "repo": "main",
-        "size": 19039262,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-10_1313/tuxfootball.zip"
+        "size": 19038184,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-19_0913/tuxfootball.zip"
       },
       "version": 3
     },
@@ -56168,12 +56241,12 @@
       "name": "zeroptianinvasion.zip",
       "source": {
         "date_added": "2024-10-30",
-        "date_updated": "2024-11-04",
-        "md5": "281c85946d0d5953bdbfb25eb28b0d66",
-        "release_id": "2024-11-04_1645",
+        "date_updated": "2024-11-19",
+        "md5": "88c1567f6d559886f7482dadc4ac5100",
+        "release_id": "2024-11-19_0913",
         "repo": "main",
-        "size": 14528391,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-04_1645/zeroptianinvasion.zip"
+        "size": 14528389,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-19_0913/zeroptianinvasion.zip"
       },
       "version": 3
     },
