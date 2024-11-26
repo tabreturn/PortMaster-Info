@@ -39030,12 +39030,12 @@
       "name": "render96ex.zip",
       "source": {
         "date_added": "2024-07-01",
-        "date_updated": "2024-11-18",
-        "md5": "2ace60045bc6b31975840c50eb223ea5",
-        "release_id": "2024-11-18_2227",
+        "date_updated": "2024-11-26",
+        "md5": "439eec1626c3a9794ba4e396a3d79c4c",
+        "release_id": "2024-11-26_1506",
         "repo": "multiverse",
-        "size": 153555370,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-11-18_2227/render96ex.zip"
+        "size": 153555372,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-11-26_1506/render96ex.zip"
       },
       "version": 3
     },
@@ -43468,8 +43468,9 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Follow the guide in the readme to generate your mm.o2r file. Once created put in the ports/soh2 folder.",
+        "inst": "Follow the guide in the readme to generate your mm.o2r file.",
         "inst_md": null,
+        "min_glibc": "2.36",
         "porter": [
           "Jeod"
         ],
@@ -43486,12 +43487,12 @@
       "name": "soh2.zip",
       "source": {
         "date_added": "2024-06-10",
-        "date_updated": "2024-10-23",
-        "md5": "666b55c1a14917bb9f30947019780722",
-        "release_id": "2024-10-23_0518",
+        "date_updated": "2024-11-26",
+        "md5": "ecde88400ab1d0402b0829921aa3bb71",
+        "release_id": "2024-11-26_1506",
         "repo": "multiverse",
-        "size": 20575537,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-23_0518/soh2.zip"
+        "size": 11550218,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-11-26_1506/soh2.zip"
       },
       "version": 3
     },
@@ -56533,12 +56534,12 @@
       "name": "ziiaol.zip",
       "source": {
         "date_added": "2024-08-06",
-        "date_updated": "2024-11-21",
-        "md5": "77ffe643aa777a477053412c7eff91ea",
-        "release_id": "2024-11-21_1538",
+        "date_updated": "2024-11-26",
+        "md5": "cca19c5230e59e0e75f8e4bbe132be36",
+        "release_id": "2024-11-26_1506",
         "repo": "multiverse",
-        "size": 14775921,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-11-21_1538/ziiaol.zip"
+        "size": 14775929,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-11-26_1506/ziiaol.zip"
       },
       "version": 3
     },
