@@ -43470,7 +43470,7 @@
         },
         "inst": "Follow the guide in the readme to generate your mm.o2r file.",
         "inst_md": null,
-        "min_glibc": "2.36",
+        "min_glibc": "2.38",
         "porter": [
           "Jeod"
         ],
@@ -43487,12 +43487,12 @@
       "name": "soh2.zip",
       "source": {
         "date_added": "2024-06-10",
-        "date_updated": "2024-11-26",
-        "md5": "ecde88400ab1d0402b0829921aa3bb71",
-        "release_id": "2024-11-26_1506",
+        "date_updated": "2024-11-27",
+        "md5": "713f70958e70a78f60224ddc305fb198",
+        "release_id": "2024-11-27_0140",
         "repo": "multiverse",
         "size": 11550218,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-11-26_1506/soh2.zip"
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-11-27_0140/soh2.zip"
       },
       "version": 3
     },
