@@ -2882,7 +2882,7 @@
     "barbarian.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "armhf"
         ],
         "avail": [
           "rg353m:ALL",
@@ -2901,13 +2901,10 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
-          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
-          "trimui-smart-pro:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -2944,11 +2941,11 @@
       "source": {
         "date_added": "2024-06-29",
         "date_updated": "2024-11-28",
-        "md5": "12ea101ad5d6edf74a8f2db0cc284480",
-        "release_id": "2024-11-28_0901",
+        "md5": "34cbfd4873aadd0ec3accf0b0af29575",
+        "release_id": "2024-11-28_1344",
         "repo": "main",
-        "size": 3230761,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/barbarian.zip"
+        "size": 3230758,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_1344/barbarian.zip"
       },
       "version": 3
     },
@@ -11798,7 +11795,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "A cleverly built strategy/puzzle game where you are a Knight who must cleverly traverse each dungeon without being caught in the enemies path. One hit kill. ",
+        "desc": "A one hit strategy game where you must move through each room, timing your attacks and dodging guards. Can you conquer Castle Demonstone?",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -11814,15 +11811,16 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download game at itch.io, extract and place Demonstone64.pck into gamedata folder. ",
+        "inst": "Ready to Run",
         "inst_md": null,
+        "min_glibc": "",
         "porter": [
           "MadShmupper",
           "JanTrueno"
         ],
         "reqs": [],
-        "rtr": false,
-        "runtime": "frt_3.3.4.squashfs",
+        "rtr": true,
+        "runtime": null,
         "title": "Demonstone64"
       },
       "items": [
@@ -11833,12 +11831,12 @@
       "name": "demonstone64.zip",
       "source": {
         "date_added": "2024-05-02",
-        "date_updated": "2024-05-02",
-        "md5": "d8885f305f14e22c9f2c1c4213390169",
-        "release_id": "2024-05-02_0733",
+        "date_updated": "2024-11-28",
+        "md5": "4282f28781d41aa6dcbd0ccf70b34754",
+        "release_id": "2024-11-28_1344",
         "repo": "main",
-        "size": 61861,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-02_0733/demonstone64.zip"
+        "size": 31952245,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_1344/demonstone64.zip"
       },
       "version": 3
     },
@@ -19071,6 +19069,76 @@
         "repo": "main",
         "size": 44822937,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/globeba.zip"
+      },
+      "version": 3
+    },
+    "gloomreducer.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A wandering game with two endings. This game contains discomforting images.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on itch.io (https://owch.itch.io/gloom-reducer), download gloom_reducer.zip (Windows) version, extract and copy the game files to the gloomreducer/gamedata folder.",
+        "inst_md": "Purchase the game on [https://owch.itch.io/gloom-reducer](https://owch.itch.io/gloom-reducer), download *gloom_reducer.zip* (Windows) version, extract and copy the game files to the `gloomreducer/gamedata` folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Gloom Reducer"
+      },
+      "items": [
+        "Gloom Reducer.sh",
+        "gloomreducer"
+      ],
+      "items_opt": null,
+      "name": "gloomreducer.zip",
+      "source": {
+        "date_added": "2024-11-28",
+        "date_updated": "2024-11-28",
+        "md5": "3e6909af44a2d9bee0803d8d5168bf55",
+        "release_id": "2024-11-28_1344",
+        "repo": "main",
+        "size": 10827411,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_1344/gloomreducer.zip"
       },
       "version": 3
     },
