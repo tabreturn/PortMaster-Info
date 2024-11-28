@@ -2510,6 +2510,79 @@
       },
       "version": 3
     },
+    "baconthulhu.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "At a picnic with friends, Bob the Hamster eats so much bacon that he blacks out. When he wakes up, he finds himself in a mysterious crypt filled with dangerous monsters, ominous cultists, and whispers of the dreaded BACONTHULHU!\nIf you love bacon and you love mazes, this is the game for you! ... If you HATE bacon but love mazes, this is probably still the game for you.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Crypt of Baconthulhu"
+      },
+      "items": [
+        "Crypt of Baconthulhu.sh",
+        "baconthulhu"
+      ],
+      "items_opt": null,
+      "name": "baconthulhu.zip",
+      "source": {
+        "date_added": "2024-11-28",
+        "date_updated": "2024-11-28",
+        "md5": "834bd637c0928ae4271361db2ebdc41c",
+        "release_id": "2024-11-28_0901",
+        "repo": "main",
+        "size": 7469746,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/baconthulhu.zip"
+      },
+      "version": 3
+    },
     "balatro.zip": {
       "attr": {
         "arch": [
@@ -2870,12 +2943,12 @@
       "name": "barbarian.zip",
       "source": {
         "date_added": "2024-06-29",
-        "date_updated": "2024-11-03",
-        "md5": "364f43567a4b51fe83941f01e81ef70a",
-        "release_id": "2024-11-03_1903",
+        "date_updated": "2024-11-28",
+        "md5": "12ea101ad5d6edf74a8f2db0cc284480",
+        "release_id": "2024-11-28_0901",
         "repo": "main",
-        "size": 3230773,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-03_1903/barbarian.zip"
+        "size": 3230761,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/barbarian.zip"
       },
       "version": 3
     },
@@ -6669,12 +6742,12 @@
       "name": "bzflag.zip",
       "source": {
         "date_added": "2023-10-26",
-        "date_updated": "2024-07-18",
-        "md5": "4446527f001baf09930a90b1dbdc6e21",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-11-28",
+        "md5": "a0b56ce490c684b40311cd5e48fc531d",
+        "release_id": "2024-11-28_0901",
         "repo": "main",
-        "size": 12237013,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/bzflag.zip"
+        "size": 11934836,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/bzflag.zip"
       },
       "version": 3
     },
@@ -6750,6 +6823,80 @@
         "repo": "main",
         "size": 26748723,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/c-dogs.zip"
+      },
+      "version": 3
+    },
+    "callystrials.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Cally's Trials is a roguelike action-platformer with a weapon-levelling system that lets you evolve weapons as you use them. Cally must save her parents from the maniacal Herbert, who has laid waste to the Caves and built a massive new base.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase at Steam https://store.steampowered.com/app/476510/Callys_Trials/ and place data.win and .ogg's into gamedata folder.",
+        "inst_md": "Purchase at [Steam](https://store.steampowered.com/app/476510/Callys_Trials/) and place data.win and .ogg's into gamedata folder.",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Cally's Trials"
+      },
+      "items": [
+        "Cally's Trials.sh",
+        "callystrials"
+      ],
+      "items_opt": null,
+      "name": "callystrials.zip",
+      "source": {
+        "date_added": "2024-11-28",
+        "date_updated": "2024-11-28",
+        "md5": "9248001354e66295d4d47c8a9d276bdd",
+        "release_id": "2024-11-28_0901",
+        "repo": "main",
+        "size": 5624820,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/callystrials.zip"
       },
       "version": 3
     },
@@ -8702,6 +8849,79 @@
       },
       "version": 3
     },
+    "chroma.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Chroma is an abstract puzzle game. A variety of colourful shapes are arranged in a series of increasingly complex patterns, forming fiendish traps that must be disarmed and mysterious puzzles that must be manipulated in order to give up their subtle secrets. Initially so straightforward that anyone can pick it up and begin to play, yet gradually becoming difficult enough to tax even the brightest of minds.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Chroma"
+      },
+      "items": [
+        "Chroma.sh",
+        "chroma"
+      ],
+      "items_opt": null,
+      "name": "chroma.zip",
+      "source": {
+        "date_added": "2024-11-28",
+        "date_updated": "2024-11-28",
+        "md5": "114b69aa92ae58d76c20a4ba1221d8ef",
+        "release_id": "2024-11-28_0901",
+        "repo": "main",
+        "size": 3163645,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/chroma.zip"
+      },
+      "version": 3
+    },
     "chromavescence.zip": {
       "attr": {
         "arch": [],
@@ -8919,6 +9139,77 @@
         "repo": "main",
         "size": 616597,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-12_1249/clannad.zip"
+      },
+      "version": 3
+    },
+    "clashmastery.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "This boss fight is too hard. You'll need some practice. Master each attack pattern, one-by-one. Practice makes you tough!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run. Thanks to Abhi Sundu (https://abhimonk.itch.io/) for creating this great game and kindly granting PortMaster permission to distribute the game files.",
+        "inst_md": "Ready to run. Thanks to [Abhi Sundu](https://abhimonk.itch.io/) for creating this great game and kindly granting PortMaster permission to distribute the game files.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Clash Mastery"
+      },
+      "items": [
+        "Clash Mastery.sh",
+        "clashmastery"
+      ],
+      "items_opt": null,
+      "name": "clashmastery.zip",
+      "source": {
+        "date_added": "2024-11-28",
+        "date_updated": "2024-11-28",
+        "md5": "ba3f76d511403fe94bd20851e36fbbf6",
+        "release_id": "2024-11-28_0901",
+        "repo": "main",
+        "size": 3791633,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/clashmastery.zip"
       },
       "version": 3
     },
@@ -10976,6 +11267,71 @@
       },
       "version": 3
     },
+    "deeprune.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL"
+        ],
+        "desc": "A side-scrolling adventure game that seamlessly blends RPG mechanics and puzzle solving, all set in a mysterious world rooted in Norse mythology. Inspired by King's Field, Tower of the Sorcerer, and DROD RPG.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game for free at https://jc-bailey.itch.io/deep-rune, extract it, and copy the game files to the deeprune/gamedata folder.",
+        "inst_md": "Download the game for free at [https://jc-bailey.itch.io/deep-rune](https://jc-bailey.itch.io/deep-rune), extract it, and copy the game files to the `deeprune/gamedata` folder.",
+        "porter": [
+          "tabreturn",
+          "Ganimoth"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Deep Rune"
+      },
+      "items": [
+        "Deep Rune.sh",
+        "deeprune"
+      ],
+      "items_opt": null,
+      "name": "deeprune.zip",
+      "source": {
+        "date_added": "2024-11-28",
+        "date_updated": "2024-11-28",
+        "md5": "e7739bb1bdb49c523275285f8c481d29",
+        "release_id": "2024-11-28_0901",
+        "repo": "main",
+        "size": 14158796,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/deeprune.zip"
+      },
+      "version": 3
+    },
     "defshot.zip": {
       "attr": {
         "arch": [],
@@ -11401,12 +11757,12 @@
       "name": "demonofsakurapass.zip",
       "source": {
         "date_added": "2024-10-17",
-        "date_updated": "2024-10-22",
-        "md5": "8119b585cba637a71f9fb83e16e467cc",
-        "release_id": "2024-10-22_0750",
+        "date_updated": "2024-11-28",
+        "md5": "4d46092b84e869c95362d082835023c1",
+        "release_id": "2024-11-28_0901",
         "repo": "main",
-        "size": 6842386,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-22_0750/demonofsakurapass.zip"
+        "size": 6842530,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/demonofsakurapass.zip"
       },
       "version": 3
     },
@@ -14559,6 +14915,80 @@
       },
       "version": 3
     },
+    "estigma.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Classic 80's arcade ESTIGMA is back (and finally finished)! Estigma is a mix between Q-bert and Pacman! ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "strategy",
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run",
+        "inst_md": null,
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "ESTIGMA"
+      },
+      "items": [
+        "ESTIGMA.sh",
+        "estigma"
+      ],
+      "items_opt": null,
+      "name": "estigma.zip",
+      "source": {
+        "date_added": "2024-11-28",
+        "date_updated": "2024-11-28",
+        "md5": "4a203e6875aef5344ae86362999f03df",
+        "release_id": "2024-11-28_0901",
+        "repo": "main",
+        "size": 55072607,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/estigma.zip"
+      },
+      "version": 3
+    },
     "everpatch.zip": {
       "attr": {
         "arch": [
@@ -15431,12 +15861,12 @@
       "name": "fallout1.zip",
       "source": {
         "date_added": "2023-02-16",
-        "date_updated": "2024-05-21",
-        "md5": "73bf571c3a1cdc75171fef816fda9702",
-        "release_id": "2024-05-21_1211",
+        "date_updated": "2024-11-28",
+        "md5": "f392a7a002fff2217e45b6456c21a688",
+        "release_id": "2024-11-28_0901",
         "repo": "main",
-        "size": 719334,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-21_1211/fallout1.zip"
+        "size": 719782,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/fallout1.zip"
       },
       "version": 3
     },
@@ -15507,12 +15937,12 @@
       "name": "fallout2.zip",
       "source": {
         "date_added": "2023-01-26",
-        "date_updated": "2024-05-21",
-        "md5": "149e9b55ef4fe841f8deee3989607aae",
-        "release_id": "2024-05-21_1211",
+        "date_updated": "2024-11-28",
+        "md5": "82c6c8f030d18dbb7ee2c3092a672607",
+        "release_id": "2024-11-28_0901",
         "repo": "main",
-        "size": 717144,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-21_1211/fallout2.zip"
+        "size": 717610,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/fallout2.zip"
       },
       "version": 3
     },
@@ -18696,7 +19126,7 @@
           "Slayer366"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": null,
         "title": "Gmu Music Player"
       },
@@ -18708,12 +19138,12 @@
       "name": "gmu.music.player.zip",
       "source": {
         "date_added": "2023-07-23",
-        "date_updated": "2024-09-04",
-        "md5": "4cf391f2ebb54a3f6fa86cbfdd7fb464",
-        "release_id": "2024-09-04_2145",
+        "date_updated": "2024-11-28",
+        "md5": "f90c13a5ee1945a0f2898227209dd072",
+        "release_id": "2024-11-28_0901",
         "repo": "main",
-        "size": 1439312,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_2145/gmu.music.player.zip"
+        "size": 1439314,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/gmu.music.player.zip"
       },
       "version": 3
     },
@@ -19231,6 +19661,80 @@
       },
       "version": 3
     },
+    "gravitydefied.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Gravity Defied is an iconic trial racing mobile game. It was originally developed by Codebrew Software in 2004 for the J2ME platform.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "racing"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Game files are already included.",
+        "inst_md": null,
+        "porter": [
+          "ohol-vitaliy",
+          "Bamboozler"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Gravity Defied"
+      },
+      "items": [
+        "Gravity Defied.sh",
+        "gravitydefied"
+      ],
+      "items_opt": null,
+      "name": "gravitydefied.zip",
+      "source": {
+        "date_added": "2024-11-28",
+        "date_updated": "2024-11-28",
+        "md5": "8885b122a78cab97015b21b3ae8d4bc5",
+        "release_id": "2024-11-28_0901",
+        "repo": "main",
+        "size": 1521781,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/gravitydefied.zip"
+      },
+      "version": 3
+    },
     "grielsquest.zip": {
       "attr": {
         "arch": [
@@ -19580,12 +20084,12 @@
       "name": "guacamelee.zip",
       "source": {
         "date_added": "2024-10-21",
-        "date_updated": "2024-10-22",
-        "md5": "500cc416fdc1fcc027fdc8dbe80811f9",
-        "release_id": "2024-10-22_0750",
+        "date_updated": "2024-11-28",
+        "md5": "2f401bc80e05709234aa2b8c4163c4da",
+        "release_id": "2024-11-28_0901",
         "repo": "main",
-        "size": 4557161,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-22_0750/guacamelee.zip"
+        "size": 4557149,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/guacamelee.zip"
       },
       "version": 3
     },
@@ -20250,6 +20754,76 @@
         "repo": "main",
         "size": 454021,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-04_1645/hallowseve.zip"
+      },
+      "version": 3
+    },
+    "happyhills.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Welcome to Happyhills, the town where you can indulge your deepest desires, make your wildest dreams come true, and slaughter anyone in your path. In this case, all three of these are the same. Play as a stylish 80's style slasher and kill your way through different levels. The game offers 20 completely varied levels, each with an entirely different playstyle and way of killing. Do you like a challenge? Don't worry. The game will increase in difficulty with every level, not every victim is as easy as the other. From a simple sleeping man in his armchair to fighting off a gang of bikers in a bar. And don't think for a minute you can carry out these heinous acts without an ambitious detective on your back.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from Steam https://store.steampowered.com/app/3278760/The_Happyhills_Homicide/ or Game Jolt https://gamejolt.com/games/thehappyhillshomicide/570127 and place the game files into the gamedata folder.",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "The Happyhills Homicide"
+      },
+      "items": [
+        "The Happyhills Homicide.sh",
+        "happyhills"
+      ],
+      "items_opt": null,
+      "name": "happyhills.zip",
+      "source": {
+        "date_added": "2024-11-28",
+        "date_updated": "2024-11-28",
+        "md5": "73021babbc853281f72c9bce2dab658d",
+        "release_id": "2024-11-28_0901",
+        "repo": "main",
+        "size": 10882570,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/happyhills.zip"
       },
       "version": 3
     },
@@ -23460,6 +24034,75 @@
         "repo": "main",
         "size": 28605789,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-30_1349/itcamefromtheforest.zip"
+      },
+      "version": 3
+    },
+    "itta.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "ITTA is a bullet-hell adventure set in a world filled with monstrous bosses. When Itta wakes up and finds herself surrounded by her dead family, her only guide is a strange spirit that takes the form of the family cat who gifts her a glowing revolver for protection.",
+        "desc_md": "ITTA is a bullet-hell adventure set in a world filled with monstrous bosses. When Itta wakes up and finds herself surrounded by her dead family, her only guide is a strange spirit that takes the form of the family cat who gifts her a glowing revolver for protection.\n\nNote: Slowdowns occur during bossfights when there are many particles on the screen! Requires Twin Sticks!",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the latest version of the game from Steam OR GOG\nCopy all the game files over to ports/itta/gamedata",
+        "inst_md": "Download the latest version of the game from [Steam](https://store.steampowered.com/app/775580/ITTA/) OR [GOG](https://www.gog.com/en/game/itta)\nCopy all the game files over to ports/itta/gamedata",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [
+          "analog_2"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "ITTA"
+      },
+      "items": [
+        "ITTA.sh",
+        "itta"
+      ],
+      "items_opt": null,
+      "name": "itta.zip",
+      "source": {
+        "date_added": "2024-11-28",
+        "date_updated": "2024-11-28",
+        "md5": "af215c188a132d5581a9eb5e0f6e46fc",
+        "release_id": "2024-11-28_0901",
+        "repo": "main",
+        "size": 68185178,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/itta.zip"
       },
       "version": 3
     },
@@ -32703,7 +33346,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "You need to copy all .lvl and .ddv files (and sound.dat for Exoddus) from the original game(s) to either ports/oddysee or ports/exoddus directory.",
+        "inst": "You need to copy all .lvl and .ddv files (and sound.dat for Exoddus) from the original game(s) to ports/relive/oddysee or ports/relive/exoddus directory.",
         "inst_md": null,
         "porter": [
           "Orson"
@@ -32722,12 +33365,12 @@
       "name": "oddworld.zip",
       "source": {
         "date_added": "2023-02-28",
-        "date_updated": "2024-07-18",
-        "md5": "ffbb4095635a3b213e96ca59984b13d5",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-11-28",
+        "md5": "f7683cf5ffef57fba75a890a9be247c3",
+        "release_id": "2024-11-28_0901",
         "repo": "main",
         "size": 3058023,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/oddworld.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/oddworld.zip"
       },
       "version": 3
     },
@@ -33012,12 +33655,12 @@
       "name": "openclaw.zip",
       "source": {
         "date_added": "2021-11-19",
-        "date_updated": "2024-07-18",
-        "md5": "e5c9f8f758e74465d34a16a7637ab7ac",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-11-28",
+        "md5": "fb3f48ce794c2e03d7c50bccc5f76357",
+        "release_id": "2024-11-28_0901",
         "repo": "main",
-        "size": 88375622,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/openclaw.zip"
+        "size": 117380142,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/openclaw.zip"
       },
       "version": 3
     },
@@ -34494,12 +35137,12 @@
       "name": "owlboy.zip",
       "source": {
         "date_added": "2022-03-18",
-        "date_updated": "2024-07-18",
-        "md5": "2f9c09fd99325c162008167a35dbd6cd",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-11-28",
+        "md5": "6237e0437ba5020ba7e30292c847ff62",
+        "release_id": "2024-11-28_0901",
         "repo": "main",
-        "size": 2589382,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/owlboy.zip"
+        "size": 2589378,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/owlboy.zip"
       },
       "version": 3
     },
@@ -39039,6 +39682,69 @@
       },
       "version": 3
     },
+    "residentvania.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "ace:ALL"
+        ],
+        "desc": "\"Residentvania\" is a fan-made demake of \"Resident Evil 8\" that reimagines the game in the style of the classic \"Castlevania\" series. Players control Ethan Winters as he navigates through the castle, battling monsters with gameplay mechanics reminiscent of the NES \"Castlevania\" games",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game of Itch.io https://oco.itch.io/residentvania . After that extract it and put the data.win into the re8/gamedata folder",
+        "inst_md": null,
+        "porter": [
+          "Damian2809"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Residentvania"
+      },
+      "items": [
+        "Residentvania.sh",
+        "residentvania"
+      ],
+      "items_opt": null,
+      "name": "residentvania.zip",
+      "source": {
+        "date_added": "2024-11-28",
+        "date_updated": "2024-11-28",
+        "md5": "0cf2bed40a9b2278b837a743c44dac68",
+        "release_id": "2024-11-28_0901",
+        "repo": "main",
+        "size": 6978567,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/residentvania.zip"
+      },
+      "version": 3
+    },
     "restore.portmaster.zip": {
       "attr": {
         "arch": [],
@@ -41937,12 +42643,12 @@
       "name": "shadow.warrior.zip",
       "source": {
         "date_added": "2021-09-14",
-        "date_updated": "2024-04-01",
-        "md5": "58da40f0e9b5d7f954b985c6ad39d6eb",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-11-28",
+        "md5": "19f1e957867c31507ce68e09e036e094",
+        "release_id": "2024-11-28_0901",
         "repo": "main",
-        "size": 1665419,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/shadow.warrior.zip"
+        "size": 1665426,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/shadow.warrior.zip"
       },
       "version": 3
     },
@@ -42670,12 +43376,12 @@
       "name": "skifree.zip",
       "source": {
         "date_added": "2024-01-22",
-        "date_updated": "2024-04-26",
-        "md5": "2d2ad2e9fe1e57da1d10903012ae7587",
-        "release_id": "2024-04-26_2100",
+        "date_updated": "2024-11-28",
+        "md5": "2a5b9e434fb2f5976b72d5b4982bcf99",
+        "release_id": "2024-11-28_0901",
         "repo": "main",
-        "size": 14100636,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-26_2100/skifree.zip"
+        "size": 9518975,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/skifree.zip"
       },
       "version": 3
     },
@@ -45858,12 +46564,12 @@
       "name": "stardewvalley.zip",
       "source": {
         "date_added": "2022-07-03",
-        "date_updated": "2024-11-13",
-        "md5": "189db3d5f9e1f2c3618f9f49609d4034",
-        "release_id": "2024-11-13_2313",
+        "date_updated": "2024-11-28",
+        "md5": "5a9cc13e58da4148fd3426f983657bf3",
+        "release_id": "2024-11-28_0901",
         "repo": "main",
-        "size": 3930595,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-13_2313/stardewvalley.zip"
+        "size": 3930588,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/stardewvalley.zip"
       },
       "version": 3
     },
@@ -48253,6 +48959,79 @@
       },
       "version": 3
     },
+    "tamashii.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": " An ancient entity seeking help, a Witch, an unnamed soul and a Twisted Temple. A dark tale about inner discoveries set in a distorted and perverted world.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase at Steam https://store.steampowered.com/app/1026400/TAMASHII/ and copy game.exe into gamedata folder.",
+        "inst_md": "Purchase at [Steam](https://store.steampowered.com/app/1026400/TAMASHII/) and copy game.exe into gamedata folder.",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Tamashii"
+      },
+      "items": [
+        "Tamashii.sh",
+        "tamashii"
+      ],
+      "items_opt": null,
+      "name": "tamashii.zip",
+      "source": {
+        "date_added": "2024-11-28",
+        "date_updated": "2024-11-28",
+        "md5": "c2a07598d8d2eaf3f972b9a45ec44489",
+        "release_id": "2024-11-28_0901",
+        "repo": "main",
+        "size": 7074279,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/tamashii.zip"
+      },
+      "version": 3
+    },
     "tamatool.zip": {
       "attr": {
         "arch": [
@@ -49780,12 +50559,12 @@
       "name": "tmntsr.zip",
       "source": {
         "date_added": "2024-03-08",
-        "date_updated": "2024-07-17",
-        "md5": "b4504cff97ed3cf26df0528bb2aef009",
-        "release_id": "2024-07-17_1729",
+        "date_updated": "2024-11-28",
+        "md5": "701334f0803e0c756adb54c15e34e594",
+        "release_id": "2024-11-28_0901",
         "repo": "main",
-        "size": 10574808,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-17_1729/tmntsr.zip"
+        "size": 10574798,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/tmntsr.zip"
       },
       "version": 3
     },
@@ -50522,6 +51301,78 @@
         "repo": "main",
         "size": 3824757,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/towerfortress.zip"
+      },
+      "version": 3
+    },
+    "toziuha.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Toziuha Night Dracula's Revenge is a 2D side-scrolling action platformer with classicvania style. Travel through different linear maps set in a dark fantasy world; such as a gloomy forest and  Count Dracula's castle. Play as Xandria, a beautiful and skilled alchemist who, using an iron whip, fights against the most fearsome demons and other alchemists. Find out more about this tragic story of a girl who fights with a whip of iron chains, a cruel reminder of a tragic past. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Itch.io https://dannygaray60.itch.io/toziuha-night-draculas-revenge, download the linux version and extract the toziuha.pck into the gamedata folder. \nAlternatively you can also buy it on Steam, both Windows and Linux version are compatible. Install the game and copy the toziuha_night_dracula's_revenge.pck into the gamedata folder. ",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Toziuha Night: Dracula's Revenge"
+      },
+      "items": [
+        "Toziuha Night - Dracula's Revenge.sh",
+        "toziuha"
+      ],
+      "items_opt": null,
+      "name": "toziuha.zip",
+      "source": {
+        "date_added": "2024-11-28",
+        "date_updated": "2024-11-28",
+        "md5": "4f1cc8e330882d7d0835751dbac97fa0",
+        "release_id": "2024-11-28_0901",
+        "repo": "main",
+        "size": 519858,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/toziuha.zip"
       },
       "version": 3
     },
@@ -51922,6 +52773,79 @@
         "repo": "main",
         "size": 6211993,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/ultimatetapankaikki.zip"
+      },
+      "version": 3
+    },
+    "undergrave.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Undergrave is a tactical roguelike in which every try will challenge you with a new adventure, where moving, jumping, managing your stamina, dashing and throwing your sword away strategically is vital for success.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam https://store.steampowered.com/app/1776930/Undergrave/ and place all game files into the gamedata folder. You can also use the demo version from Itch, download the Undergrave.apk from https://wired-dreams-studio.itch.io/undergrave and place it in the gamedata folder. ",
+        "inst_md": null,
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Undergrave"
+      },
+      "items": [
+        "Undergrave.sh",
+        "undergrave"
+      ],
+      "items_opt": null,
+      "name": "undergrave.zip",
+      "source": {
+        "date_added": "2024-11-28",
+        "date_updated": "2024-11-28",
+        "md5": "9a08d12604360f392fdb38f21a73a6b5",
+        "release_id": "2024-11-28_0901",
+        "repo": "main",
+        "size": 11194006,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/undergrave.zip"
       },
       "version": 3
     },
