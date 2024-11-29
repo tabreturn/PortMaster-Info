@@ -20380,6 +20380,80 @@
       },
       "version": 3
     },
+    "gunroar.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Guns, Guns, Guns!\n\n360-degree gunboat shooter, Gunroar.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Make sure to start the game in standard mode!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Gunroar"
+      },
+      "items": [
+        "Gunroar.sh",
+        "gunroar"
+      ],
+      "items_opt": null,
+      "name": "gunroar.zip",
+      "source": {
+        "date_added": "2024-11-29",
+        "date_updated": "2024-11-29",
+        "md5": "ef1496ec728a35d74439df433e5178a3",
+        "release_id": "2024-11-29_1007",
+        "repo": "main",
+        "size": 6394809,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-29_1007/gunroar.zip"
+      },
+      "version": 3
+    },
     "gunsandguns.zip": {
       "attr": {
         "arch": [
@@ -36379,6 +36453,81 @@
         "repo": "main",
         "size": 7329002,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-04_1645/planetd4rk.zip"
+      },
+      "version": 3
+    },
+    "planetmerge.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Suika game with celestial bodies! Merge planets, moons, and more to create massive cosmic objects and rack up high scores.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "porter": [
+          "Peter_Siroki"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Planet Merge"
+      },
+      "items": [
+        "Planet Merge.sh",
+        "planetmerge"
+      ],
+      "items_opt": null,
+      "name": "planetmerge.zip",
+      "source": {
+        "date_added": "2024-11-29",
+        "date_updated": "2024-11-29",
+        "md5": "28452432b0a30b433a61845c0aaa7595",
+        "release_id": "2024-11-29_1007",
+        "repo": "main",
+        "size": 12939494,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-29_1007/planetmerge.zip"
       },
       "version": 3
     },
