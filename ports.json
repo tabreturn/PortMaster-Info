@@ -39870,7 +39870,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Copy your Super Mario 64 USA rom the render96ex folder and rename it to baserom.us.z64 (md5sum 20b854b239203baf6c961b850a4a51a2)",
+        "inst": "Copy your Super Mario 64 USA rom in the render96ex folder and rename it to baserom.us.z64 (md5sum 20b854b239203baf6c961b850a4a51a2)",
         "inst_md": null,
         "porter": [
           "kotzebuedog"
@@ -39890,12 +39890,12 @@
       "name": "render96ex.zip",
       "source": {
         "date_added": "2024-07-01",
-        "date_updated": "2024-11-26",
-        "md5": "439eec1626c3a9794ba4e396a3d79c4c",
-        "release_id": "2024-11-26_1506",
+        "date_updated": "2024-11-30",
+        "md5": "af4379ca49561c997a67850f7c861d61",
+        "release_id": "2024-11-30_2323",
         "repo": "multiverse",
-        "size": 153555372,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-11-26_1506/render96ex.zip"
+        "size": 153579601,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-11-30_2323/render96ex.zip"
       },
       "version": 3
     },
