@@ -50168,7 +50168,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download assets from https://github.com/TheXTech/TheXTech and unpack them to ./thextech/assets/<asset_pack_name>.\nCheck README for more details!",
+        "inst": "Download assets from https://github.com/TheXTech/TheXTech/releases, file thextech-smbx13-assets-full.7z, unpack it to ./thextech/assets/smbx.\nCheck README for more details!",
         "inst_md": null,
         "porter": [
           "ddrsoul"
@@ -50186,12 +50186,12 @@
       "name": "thextech.zip",
       "source": {
         "date_added": "2024-09-08",
-        "date_updated": "2024-09-21",
-        "md5": "ee488ed4b59c17132ea81d6fb8355e02",
-        "release_id": "2024-09-21_1909",
+        "date_updated": "2024-12-01",
+        "md5": "f7f0b3b8d887da7e252c106e370fb355",
+        "release_id": "2024-12-01_1428",
         "repo": "multiverse",
-        "size": 4109591,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-09-21_1909/thextech.zip"
+        "size": 3909210,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-12-01_1428/thextech.zip"
       },
       "version": 3
     },
