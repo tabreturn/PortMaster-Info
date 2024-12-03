@@ -1625,7 +1625,7 @@
     "apocrunner.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg353m:ALL",
@@ -1644,20 +1644,25 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
         "desc": "As the world burns, as the streets crumble, you cling to one thing: Survival. An unstoppable alien blight has taken hold of the earth, and there's no fighting it. Escape is the only option. Run, jump, and slide your way through urban destruction in this intense runner!",
-        "desc_md": null,
+        "desc_md": "As the world burns, as the streets crumble, you cling to one thing: **Survival.** An unstoppable alien blight has taken hold of the earth, and there's no fighting it. **Escape** is the **only option**. Run, jump, and slide your way through urban destruction in this intense runner!",
         "exp": false,
         "genres": [
-          "arcade"
+          "action",
+          "arcade",
+          "platformer"
         ],
         "image": {
           "covers": [
@@ -1667,13 +1672,15 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download game from https://omnitron-studios.itch.io/apoc-runner, place data.win in /ports/apocrunner/gamedata",
-        "inst_md": null,
+        "inst": "Thanks to Omnitron Studios, there is no need to download the game from itch.io to obtain the game files. This port is 'Ready to Run' as soon as it's been installed on your device.",
+        "inst_md": "Thanks to [**Omnitron Studios**](https://omnitron-studios.itch.io), there is no need to download the game from [itch.io](https://omnitron-studios.itch.io/apoc-runner) to obtain the game files. This port is now *Ready to Run* as soon as it's been installed on your device.",
+        "min_glibc": "",
         "porter": [
-          "mattyj513"
+          "mattyj513",
+          "t0b10"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": null,
         "title": "Apoc Runner"
       },
@@ -1685,12 +1692,12 @@
       "name": "apocrunner.zip",
       "source": {
         "date_added": "2023-10-19",
-        "date_updated": "2024-07-18",
-        "md5": "c5d8a3be1a00f12e58e5e5810576f138",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-12-03",
+        "md5": "eca03febf7321f5f0eb37e2eb87ff298",
+        "release_id": "2024-12-03_1159",
         "repo": "main",
-        "size": 11766161,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/apocrunner.zip"
+        "size": 24780440,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/apocrunner.zip"
       },
       "version": 3
     },
@@ -10142,7 +10149,8 @@
         "inst": "Episode 1 is included and you can add Episode 2 and 3 gamefiles to the data folder.",
         "inst_md": null,
         "porter": [
-          "Bamboozler"
+          "Bamboozler",
+          "Slayer366"
         ],
         "reqs": [],
         "rtr": true,
@@ -10151,18 +10159,20 @@
       },
       "items": [
         "cosmo-engine/",
-        "Cosmos Cosmic Adventure.sh"
+        "Cosmo's Cosmic Adventure 1.sh",
+        "Cosmo's Cosmic Adventure 2.sh",
+        "Cosmo's Cosmic Adventure 3.sh"
       ],
       "items_opt": null,
       "name": "cosmo-engine.zip",
       "source": {
         "date_added": "2023-04-12",
-        "date_updated": "2024-07-27",
-        "md5": "3f191a8cc50326d55e73093c904b31f1",
-        "release_id": "2024-07-27_0224",
+        "date_updated": "2024-12-03",
+        "md5": "85c3349b9ceb410fae4cfe50ca0728ec",
+        "release_id": "2024-12-03_1159",
         "repo": "main",
-        "size": 596730,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-27_0224/cosmo-engine.zip"
+        "size": 1010141,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/cosmo-engine.zip"
       },
       "version": 3
     },
@@ -10826,6 +10836,79 @@
       },
       "version": 3
     },
+    "darkmoon.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Dark Moon is a single-player horror survival arcade shooter. Styled on classic retro titles from the Atari days, you'll be trudging across the surface of an alien world, collecting your equipment from scattered containers, looking for any way out. A test of endurance, can you escape the horrors of Dark Moon?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run. Thanks to Project Level studios (https://projectlevel.itch.io) for creating this great game, and kindly granting permission for PortMaster to distribute the game files.",
+        "inst_md": "Ready to run. Thanks to [Project Level studios](https://projectlevel.itch.io) for creating this great game, and kindly granting permission for PortMaster to distribute the game files.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Dark Moon"
+      },
+      "items": [
+        "Dark Moon.sh",
+        "darkmoon"
+      ],
+      "items_opt": null,
+      "name": "darkmoon.zip",
+      "source": {
+        "date_added": "2024-12-03",
+        "date_updated": "2024-12-03",
+        "md5": "1fab05f68e5372e2115a04d4925d9895",
+        "release_id": "2024-12-03_1159",
+        "repo": "main",
+        "size": 47391689,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/darkmoon.zip"
+      },
+      "version": 3
+    },
     "darksheep.zip": {
       "attr": {
         "arch": [],
@@ -11447,7 +11530,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the Windows version from https://tobyfox.itch.io/deltarune and unzip to `ports/deltarune/gamedata`.",
+        "inst": "Download Deltarune v1.10 from https://archive.org/download/dr-ver-archive (official Toby Fox archive) and unzip to `ports/deltarune/gamedata`.",
         "inst_md": null,
         "porter": [
           "Jeod"
@@ -11465,12 +11548,12 @@
       "name": "deltarune.zip",
       "source": {
         "date_added": "2024-10-31",
-        "date_updated": "2024-10-31",
-        "md5": "fbdc40adbbae4c3482545de4668b2895",
-        "release_id": "2024-10-31_1458",
+        "date_updated": "2024-12-03",
+        "md5": "b7a23cd8b00b3a69a4c3ff7a31d67a81",
+        "release_id": "2024-12-03_1159",
         "repo": "main",
-        "size": 30124539,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-31_1458/deltarune.zip"
+        "size": 30124582,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/deltarune.zip"
       },
       "version": 3
     },
@@ -20152,12 +20235,12 @@
       "name": "guacamelee.zip",
       "source": {
         "date_added": "2024-10-21",
-        "date_updated": "2024-11-28",
-        "md5": "2f401bc80e05709234aa2b8c4163c4da",
-        "release_id": "2024-11-28_0901",
+        "date_updated": "2024-12-03",
+        "md5": "a514ca224b6e89ae07b3f390ba87a71c",
+        "release_id": "2024-12-03_1159",
         "repo": "main",
-        "size": 4557149,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/guacamelee.zip"
+        "size": 4557146,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/guacamelee.zip"
       },
       "version": 3
     },
@@ -20754,6 +20837,76 @@
       },
       "version": 3
     },
+    "hallowedcandy.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Hallowed Candy is an old-school arcade one-screen point-em-up. Emphasis is on skill and beating your friend's high score with a cute seasonal Halloween setting.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run. Thanks to Project Level studios (https://projectlevel.itch.io) for creating this great game and kindly granting permission for PortMaster to distribute the game files.",
+        "inst_md": "Ready to run. Thanks to [Project Level studios](https://projectlevel.itch.io) for creating this great game and kindly granting permission for PortMaster to distribute the game files.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Hallowed Candy"
+      },
+      "items": [
+        "Hallowed Candy.sh",
+        "hallowedcandy"
+      ],
+      "items_opt": null,
+      "name": "hallowedcandy.zip",
+      "source": {
+        "date_added": "2024-12-03",
+        "date_updated": "2024-12-03",
+        "md5": "b9023db58ed9b46713c2ee26a7820552",
+        "release_id": "2024-12-03_1159",
+        "repo": "main",
+        "size": 37869645,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/hallowedcandy.zip"
+      },
+      "version": 3
+    },
     "halloweenforever.zip": {
       "attr": {
         "arch": [
@@ -20960,12 +21113,12 @@
       "name": "happyhills.zip",
       "source": {
         "date_added": "2024-11-28",
-        "date_updated": "2024-11-28",
-        "md5": "73021babbc853281f72c9bce2dab658d",
-        "release_id": "2024-11-28_0901",
+        "date_updated": "2024-12-03",
+        "md5": "40239c60a0eaf690a75cbbd2878aa32c",
+        "release_id": "2024-12-03_1159",
         "repo": "main",
-        "size": 10882570,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/happyhills.zip"
+        "size": 10882589,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/happyhills.zip"
       },
       "version": 3
     },
@@ -28825,6 +28978,80 @@
       },
       "version": 3
     },
+    "maskless.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Maskless is a surreal, atmospheric adventure with evocative art, sound, and an open-ended exploration of identity and self-expression.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "other"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run. Thanks to Kultisti (https://kultisti.itch.io) for creating this great game and kindly granting PortMaster permission to distribute the game files.",
+        "inst_md": "Ready to run. Thanks to [Kultisti](https://kultisti.itch.io) for creating this great game and kindly granting PortMaster permission to distribute the game files.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Maskless"
+      },
+      "items": [
+        "Maskless.sh",
+        "maskless"
+      ],
+      "items_opt": null,
+      "name": "maskless.zip",
+      "source": {
+        "date_added": "2024-12-03",
+        "date_updated": "2024-12-03",
+        "md5": "0255020b2b1b275022edad70d0d9aedf",
+        "release_id": "2024-12-03_1159",
+        "repo": "main",
+        "size": 71962759,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/maskless.zip"
+      },
+      "version": 3
+    },
     "maxdownforce.zip": {
       "attr": {
         "arch": [
@@ -30318,6 +30545,74 @@
         "repo": "main",
         "size": 2423531,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/mojotron.zip"
+      },
+      "version": 3
+    },
+    "monolith.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Descending in the darkness of a long-abandoned facility, a lone ship searches for wealth, power, and the scattered pieces of the past.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "FOR ITCH\n\nPurchase the game from itch.io (https://team-d-13.itch.io/monolith), grab the Windows version (Monolith.exe), and and copy it into ports/monolith/monolith_itch folder.\n\nFOR STEAM\n\nPurchase the game from Steam (https://store.steampowered.com/app/603960/Star_of_Providence), download using download_depot 603960 603961 7781865563262412532, and copy all the game files from /assets into ports/monolith/monolith_steam",
+        "inst_md": "FOR ITCH\n\nPurchase the game from [itch.io](https://team-d-13.itch.io/monolith), grab the Windows version (*Monolith.exe*), and and copy it into `ports/monolith/monolith_itch` folder.\n\nFOR STEAM\n\nPurchase the game from [Steam](https://store.steampowered.com/app/603960/Star_of_Providence), download using `download_depot 603960 603961 7781865563262412532`, and copy all the game files from `/assets` into `ports/monolith/monolith_steam`",
+        "porter": [
+          "tabreturn",
+          "Fraxinus88"
+        ],
+        "reqs": [
+          "analog_2"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Monolith / Star of Providence"
+      },
+      "items": [
+        "Monolith.sh",
+        "monolith"
+      ],
+      "items_opt": null,
+      "name": "monolith.zip",
+      "source": {
+        "date_added": "2024-12-03",
+        "date_updated": "2024-12-03",
+        "md5": "2d2b2aaa981f484806bcfb451c4ad071",
+        "release_id": "2024-12-03_1159",
+        "repo": "main",
+        "size": 11832411,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/monolith.zip"
       },
       "version": 3
     },
@@ -38592,6 +38887,80 @@
       },
       "version": 3
     },
+    "qyoblaster.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Q-YO Blaster is a shooting game, with peculiar characters, strange enemies, weapons, and many explosions. Enter the miniature world and stop the threat.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on itch.io: https://teamblackhatrobot.itch.io/q-yo-blastergame -- download the Q-YO BLASTER 1.6.1.1.exe version, install/extract it and copy the game files to the qyoblaster/gamedata folder",
+        "inst_md": "Purchase the game on itch.io: [https://teamblackhatrobot.itch.io/q-yo-blastergame](https://teamblackhatrobot.itch.io/q-yo-blastergame) -- download the *Q-YO BLASTER 1.6.1.1.exe* version, install/extract it and copy the game files to the `qyoblaster/gamedata` folder",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Q-YO Blaster"
+      },
+      "items": [
+        "Q-YO Blaster.sh",
+        "qyoblaster"
+      ],
+      "items_opt": null,
+      "name": "qyoblaster.zip",
+      "source": {
+        "date_added": "2024-12-03",
+        "date_updated": "2024-12-03",
+        "md5": "468872764f7169d4eeb8d5ad08ee9e0e",
+        "release_id": "2024-12-03_1159",
+        "repo": "main",
+        "size": 16033305,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/qyoblaster.zip"
+      },
+      "version": 3
+    },
     "ragingblasters.zip": {
       "attr": {
         "arch": [
@@ -38952,6 +39321,80 @@
         "repo": "main",
         "size": 2240626,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-27_0224/raptor.zip"
+      },
+      "version": 3
+    },
+    "ravenshike.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Help Raven reach the top of the tower, restoring equilibrium and saving the world from oblivion. Trust on your reflexes or find the safest way through every room, collect all the gems and get out. Who knows what to expect in the next trial? 60+ handcrafted open-ended levels spread through 4 stages filled with puzzles, combat with a dynamic soundtrack by Vincent Colavita.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam https://store.steampowered.com/app/1689270/Ravens_Hike and copy the game files into the gamedata folder. ",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Raven's Hike"
+      },
+      "items": [
+        "Raven's Hike.sh",
+        "ravenshike"
+      ],
+      "items_opt": null,
+      "name": "ravenshike.zip",
+      "source": {
+        "date_added": "2024-12-03",
+        "date_updated": "2024-12-03",
+        "md5": "c7b969b9b3cfc8cd6491c4b0a7b3e364",
+        "release_id": "2024-12-03_1159",
+        "repo": "main",
+        "size": 12705303,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/ravenshike.zip"
       },
       "version": 3
     },
@@ -41990,6 +42433,81 @@
       },
       "version": 3
     },
+    "sawa.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Super Amazing Wagon Adventure is a fast-paced 2d shooting game with a random story. You control a group of three migrants traveling west along a wagon trail. The game consists of short scenes that are sequenced together in a semi-random way to tell a crazy adventure story.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install portfiles with PM autoinstaller. Buy and install Super Amazing Wagon Adventure. Copy all files to  the \"sawa/gamedata\" folder.",
+        "inst_md": "- Install portfiles with PM autoinstaller.\n- Buy and install [Super Amazing Wagon Adventure](https://store.steampowered.com/app/250500/Super_Amazing_Wagon_Adventure/).\n- Copy all files to  the \"sawa/gamedata\" folder.",
+        "min_glibc": "",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "mono-6.12.0.122-aarch64.squashfs",
+        "title": "Super Amazing Wagon Adventure"
+      },
+      "items": [
+        "Super Amazing Wagon Adventure.sh",
+        "sawa"
+      ],
+      "items_opt": null,
+      "name": "sawa.zip",
+      "source": {
+        "date_added": "2024-12-03",
+        "date_updated": "2024-12-03",
+        "md5": "91165d117b20b7f0013145257c16e1dd",
+        "release_id": "2024-12-03_1159",
+        "repo": "main",
+        "size": 5361641,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/sawa.zip"
+      },
+      "version": 3
+    },
     "scaletheskulltower.zip": {
       "attr": {
         "arch": [],
@@ -43499,7 +44017,7 @@
           "video": null
         },
         "inst": "Purchase the game from Steam. Download the game and place the game files in ports/skeletonboomerang/gamedata\nWorks with the prevamped version as well(better performance)!",
-        "inst_md": "Purchase the game from [**Steam**](https://store.steampowered.com/app/658150/Skeleton_Boomerang/)\n\n**Latest version(compatible with expansion):**\nDownload the game and from your Steam library,  right click on Skeleton Boomerang >  Manage > Browse local files. Copy all the files from the folder to /ports/skeletonboomerang/gamedata\n\n**Prevamped version(better performance):**\nFrom your Steam Library, Right-Click Skeleton Boomerang and select Properties. Go to Betas and select \"prevamped- The pre-reVamped build of the game\" Download and install the prevamped version. Copy all the files from the folder to /ports/skeletonboomerang/gamedata",
+        "inst_md": "Purchase the game from [**Steam**](https://store.steampowered.com/app/658150/Skeleton_Boomerang/)\n\n**Latest version (NOT compatible with expansion):**\nDownload the game from your Steam library. Right-click on Skeleton Boomerang > Manage > Browse local files. Copy all the files from the folder to /ports/skeletonboomerang/gamedata\n\n**Prevamped version (better performance):**\nFrom your Steam library, right-click Skeleton Boomerang and select Properties. Go to Betas and select \"prevamped - The pre-reVamped build of the game.\" Download and install the prevamped version. Copy all the files from the folder to /ports/skeletonboomerang/gamedata.\n\n**Note:** This package is not compatible with the expansion. :(",
         "porter": [
           "Fraxinus88"
         ],
@@ -43516,12 +44034,12 @@
       "name": "skeletonboomerang.zip",
       "source": {
         "date_added": "2024-10-27",
-        "date_updated": "2024-10-27",
-        "md5": "1843bcba0ad38a615be8e0d2c047d170",
-        "release_id": "2024-10-27_1327",
+        "date_updated": "2024-12-03",
+        "md5": "bb7aeeb8f8b2351f4ab26226057aeffb",
+        "release_id": "2024-12-03_1159",
         "repo": "main",
-        "size": 19830237,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/skeletonboomerang.zip"
+        "size": 19830268,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/skeletonboomerang.zip"
       },
       "version": 3
     },
@@ -44263,6 +44781,78 @@
         "repo": "main",
         "size": 42110548,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/snout.zip"
+      },
+      "version": 3
+    },
+    "snowyland.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Snowyland is a pixel art platformer where the player must eat to survive on an empty, barren island. You should freeze family members to create ice platforms that help you reach your dinner. Choose where these ice platforms are placed, and create solutions that even the developers have not seen yet! ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam https://store.steampowered.com/app/1731730/Snowyland/ and copy the Snowyland.pck into the gamedata folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Snowyland"
+      },
+      "items": [
+        "Snowyland.sh",
+        "snowyland"
+      ],
+      "items_opt": null,
+      "name": "snowyland.zip",
+      "source": {
+        "date_added": "2024-12-03",
+        "date_updated": "2024-12-03",
+        "md5": "8b3e91c511f5f111bc1a26da85b72eb5",
+        "release_id": "2024-12-03_1159",
+        "repo": "main",
+        "size": 11369,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/snowyland.zip"
       },
       "version": 3
     },
@@ -50708,6 +51298,71 @@
         "repo": "main",
         "size": 40291983,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/titan_tactics.zip"
+      },
+      "version": 3
+    },
+    "titanion.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL"
+        ],
+        "desc": "Strike down super high-velocity swooping insects.\n\nFixed shooter in the good old days, 'Titanion'.\n\nAvoid incoming bullets and strike down all enemies. At the title screen, you can select a game mode (CLASSIC, BASIC, MODERN).",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": true,
+        "runtime": null,
+        "title": "Titanion"
+      },
+      "items": [
+        "Titanion.sh",
+        "titanion"
+      ],
+      "items_opt": null,
+      "name": "titanion.zip",
+      "source": {
+        "date_added": "2024-12-03",
+        "date_updated": "2024-12-03",
+        "md5": "70c85264246c211a9b5b6074970383b5",
+        "release_id": "2024-12-03_1159",
+        "repo": "main",
+        "size": 6455543,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/titanion.zip"
       },
       "version": 3
     },
