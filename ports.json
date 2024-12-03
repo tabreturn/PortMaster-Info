@@ -57607,6 +57607,64 @@
       },
       "version": 3
     },
+    "zeldadoi.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg552:ALL",
+          "ace:ALL"
+        ],
+        "desc": "This game is a procedurally-generated rogue-like 'Link to the Past' dungeon crawler. It's not a rom hack, it was created in Gamemaker Studio from scratch using the original assets. Many new features and assets were added to this game, but special care was put in to ensure it still looks, feels, and plays like the original game.\nThe goal of the game is to descend through the many enemy-infested dungeons to defeat Link's nemesis, Aghanim. Along the way you will find many weapons, items, and treasures that will help you along your quest.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure",
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run",
+        "inst_md": null,
+        "porter": [
+          "t0b10",
+          "Shallow",
+          "JanTrueno",
+          "Jeod"
+        ],
+        "reqs": [
+          "4gb",
+          "power"
+        ],
+        "rtr": true,
+        "runtime": null,
+        "title": "The Legend of Zelda: Dungeons of Infinity"
+      },
+      "items": [
+        "Zelda Dungeons of Infinity.sh",
+        "zeldadoi"
+      ],
+      "items_opt": null,
+      "name": "zeldadoi.zip",
+      "source": {
+        "date_added": "2024-12-03",
+        "date_updated": "2024-12-03",
+        "md5": "8d419a438201ab6521c46605b75f86ea",
+        "release_id": "2024-12-03_1532",
+        "repo": "multiverse",
+        "size": 45939526,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-12-03_1532/zeldadoi.zip"
+      },
+      "version": 3
+    },
     "zeldansq.zip": {
       "attr": {
         "arch": [
