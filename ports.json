@@ -18356,6 +18356,76 @@
       },
       "version": 3
     },
+    "galaxychampionstv.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Galaxy Champions TV is a super-intense, top-down, closed-arena shooter game inspired by the classic arcade game Smash TV. Get powerful weapons and power-ups, kill huge amounts of enemies, level up, unlock upgrades and beat all the bosses to become the champion of the most violent TV show of all time!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game at Steam (https://store.steampowered.com/app/842750/Galaxy_Champions_TV) and download using download_depot 842750 842751 9184074893661984887, then copy the game files into the galaxychampionstv/gamedata folder.",
+        "inst_md": "Purchase the game at [Steam](https://store.steampowered.com/app/842750/Galaxy_Champions_TV) and download using `download_depot 842750 842751 9184074893661984887`, then copy the game files into the `galaxychampionstv/gamedata` folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Galaxy Champions TV"
+      },
+      "items": [
+        "Galaxy Champions TV.sh",
+        "galaxychampionstv"
+      ],
+      "items_opt": null,
+      "name": "galaxychampionstv.zip",
+      "source": {
+        "date_added": "2024-12-05",
+        "date_updated": "2024-12-05",
+        "md5": "97eace9f3cca85a498869690f94dfaf5",
+        "release_id": "2024-12-05_0844",
+        "repo": "main",
+        "size": 7143800,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-05_0844/galaxychampionstv.zip"
+      },
+      "version": 3
+    },
     "galaxyforcesv2.zip": {
       "attr": {
         "arch": [
@@ -30586,8 +30656,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "FOR ITCH\n\nPurchase the game from itch.io (https://team-d-13.itch.io/monolith), grab the Windows version (Monolith.exe), and and copy it into ports/monolith/monolith_itch folder.\n\nFOR STEAM\n\nPurchase the game from Steam (https://store.steampowered.com/app/603960/Star_of_Providence), download using download_depot 603960 603961 7781865563262412532, and copy all the game files from /assets into ports/monolith/monolith_steam",
-        "inst_md": "FOR ITCH\n\nPurchase the game from [itch.io](https://team-d-13.itch.io/monolith), grab the Windows version (*Monolith.exe*), and and copy it into `ports/monolith/monolith_itch` folder.\n\nFOR STEAM\n\nPurchase the game from [Steam](https://store.steampowered.com/app/603960/Star_of_Providence), download using `download_depot 603960 603961 7781865563262412532`, and copy all the game files from `/assets` into `ports/monolith/monolith_steam`",
+        "inst": "FOR ITCH\n\nPurchase the game from itch.io (https://team-d-13.itch.io/monolith), grab the Windows version (Monolith.exe), and copy it into ports/monolith folder.\n\nFOR STEAM\n\nPurchase the game from Steam (https://store.steampowered.com/app/603960/Star_of_Providence), download using download_depot 603960 603961 7781865563262412532, and copy all the game files from /assets into ports/monolith/gamedata",
+        "inst_md": "FOR ITCH\n\nPurchase the game from [itch.io](https://team-d-13.itch.io/monolith), grab the Windows version (*Monolith.exe*), and and copy it into `ports/monolith` folder.\n\nFOR STEAM\n\nPurchase the game from [Steam](https://store.steampowered.com/app/603960/Star_of_Providence), download using `download_depot 603960 603961 7781865563262412532`, and copy all the game files from `/assets` into `ports/monolith/gamedata`",
         "porter": [
           "tabreturn",
           "Fraxinus88"
@@ -30607,12 +30677,12 @@
       "name": "monolith.zip",
       "source": {
         "date_added": "2024-12-03",
-        "date_updated": "2024-12-03",
-        "md5": "2d2b2aaa981f484806bcfb451c4ad071",
-        "release_id": "2024-12-03_1159",
+        "date_updated": "2024-12-05",
+        "md5": "63b0eebc54afd28f336550d29fb0a730",
+        "release_id": "2024-12-05_0844",
         "repo": "main",
-        "size": 11832411,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/monolith.zip"
+        "size": 11832406,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-05_0844/monolith.zip"
       },
       "version": 3
     },
@@ -36462,6 +36532,71 @@
       },
       "version": 3
     },
+    "pixeldescent.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL"
+        ],
+        "desc": "Pixel Descent is an action rogue-lite in which you navigate a series of complex dungeons packed to the brim with monsters that want you dead. Sign the contract and descend into the deepest depths of the abyss knowing full well that you will definitely die there, it's just a matter of when.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game at https://jc-bailey.itch.io/pixel-descent, download and extract it, and copy the game files to the pixeldescent/gamedata folder.",
+        "inst_md": "Purchase the game at [https://jc-bailey.itch.io/pixel-descent](https://jc-bailey.itch.io/pixel-descent), download and extract it, and copy the game files to the `pixeldescent/gamedata` folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Pixel Descent"
+      },
+      "items": [
+        "Pixel Descent.sh",
+        "pixeldescent"
+      ],
+      "items_opt": null,
+      "name": "pixeldescent.zip",
+      "source": {
+        "date_added": "2024-12-05",
+        "date_updated": "2024-12-05",
+        "md5": "32ef12fccb51497eb2480b249cd4cac6",
+        "release_id": "2024-12-05_0844",
+        "repo": "main",
+        "size": 8722642,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-05_0844/pixeldescent.zip"
+      },
+      "version": 3
+    },
     "pixelheat.zip": {
       "attr": {
         "arch": [],
@@ -37044,6 +37179,78 @@
         "repo": "main",
         "size": 1029338,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/plumberssdl.zip"
+      },
+      "version": 3
+    },
+    "plunderislands.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A fast paced 2D platformer, Plunder Islands has you running, jumping and climbing for treasure. Are you ready for the challenges the islands reveal? ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam https://store.steampowered.com/app/2279370/Plunder_Islands/ and copy the Plunder Islands.pck into the gamedata folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Plunder Islands"
+      },
+      "items": [
+        "Plunder Islands.sh",
+        "plunderislands"
+      ],
+      "items_opt": null,
+      "name": "plunderislands.zip",
+      "source": {
+        "date_added": "2024-12-05",
+        "date_updated": "2024-12-05",
+        "md5": "b80943755b5ce7930692dae2c2031996",
+        "release_id": "2024-12-05_0844",
+        "repo": "main",
+        "size": 40438,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-05_0844/plunderislands.zip"
       },
       "version": 3
     },
@@ -38952,12 +39159,12 @@
       "name": "qyoblaster.zip",
       "source": {
         "date_added": "2024-12-03",
-        "date_updated": "2024-12-03",
-        "md5": "468872764f7169d4eeb8d5ad08ee9e0e",
-        "release_id": "2024-12-03_1159",
+        "date_updated": "2024-12-05",
+        "md5": "ba60c8530a7d91fadf196fd534e89d00",
+        "release_id": "2024-12-05_0844",
         "repo": "main",
-        "size": 16033305,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/qyoblaster.zip"
+        "size": 16033439,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-05_0844/qyoblaster.zip"
       },
       "version": 3
     },
@@ -50275,6 +50482,79 @@
       },
       "version": 3
     },
+    "thecorruptionwithin.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A psychological thriller first-person point-and-click adventure game set in the Victorian era, with an emphasis on strong narrative, intriguing characters, and puzzle-solving.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game at itch.io (https://cosmicvoid.itch.io/the-corruption-within), grab the Windows version (The Corruption Within Itch version.zip), extract and copy the game files into thecorruptionwithin/gamedata folder.",
+        "inst_md": "Purchase the game at [itch.io](https://cosmicvoid.itch.io/the-corruption-within), grab the Windows version (*The Corruption Within Itch version.zip*), extract and copy the game files into `thecorruptionwithin/gamedata` folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "The Curruption Within"
+      },
+      "items": [
+        "The Curruption Within.sh",
+        "thecorruptionwithin"
+      ],
+      "items_opt": null,
+      "name": "thecorruptionwithin.zip",
+      "source": {
+        "date_added": "2024-12-05",
+        "date_updated": "2024-12-05",
+        "md5": "b87a962300e6ec9c9a47e0e787da78a4",
+        "release_id": "2024-12-05_0844",
+        "repo": "main",
+        "size": 13940770,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-05_0844/thecorruptionwithin.zip"
+      },
+      "version": 3
+    },
     "thecurseofissyos.zip": {
       "attr": {
         "arch": [
@@ -50965,7 +51245,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Tile World is a source port clone of Chip's Challenge.\n\nHandheld edition based on: https://github.com/senquack/tileworld-for-handhelds",
+        "desc": "Tile World is a source port clone of Chip's Challenge.\n\nHandheld edition based on: https://github.com/senquack/tileworld-for-handhelds \nUpdated to use 640x480: https://github.com/Slayer366/tileworld-for-handhelds",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -50992,18 +51272,19 @@
         "Tile World (Atari Lynx Theme Mod).sh",
         "Tile World (Natural Theme Mod).sh",
         "Tile World (Stadia Theme Mod).sh",
+        "Tile World (Microsoft Theme Mod).sh",
         "tileworld/"
       ],
       "items_opt": null,
       "name": "tileworld.zip",
       "source": {
         "date_added": "2022-06-03",
-        "date_updated": "2024-10-31",
-        "md5": "a91f96283fdc27ee5de90943af095f33",
-        "release_id": "2024-10-31_1458",
+        "date_updated": "2024-12-05",
+        "md5": "00ae2d501bd55b5cbf9340c7d395001e",
+        "release_id": "2024-12-05_0844",
         "repo": "main",
-        "size": 28852939,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-31_1458/tileworld.zip"
+        "size": 29453764,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-05_0844/tileworld.zip"
       },
       "version": 3
     },
