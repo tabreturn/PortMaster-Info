@@ -8997,6 +8997,77 @@
       },
       "version": 3
     },
+    "circainfinity.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Circa Infinity is a brain-melting circular platformer by Kenny Sun, with a pulse-pounding soundtrack by Jack + Jim Fay.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam https://store.steampowered.com/app/390610/Circa_Infinity/ and place the CircaInfinity.exe into the gamedata folder.\nIt is also available on Itch.io https://kennysun.itch.io/circa-infinity and it comes with a Steam key.\nYou can also use the free demo, download it from  https://kennysun.itch.io/circa-infinity-demo and place the CircaInfinityDemo.exe into the gamedata folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Circa Infinity"
+      },
+      "items": [
+        "Circa Infinity.sh",
+        "circainfinity"
+      ],
+      "items_opt": null,
+      "name": "circainfinity.zip",
+      "source": {
+        "date_added": "2024-12-07",
+        "date_updated": "2024-12-07",
+        "md5": "b3ddeb7f65bb783fc11e959a86d78cd9",
+        "release_id": "2024-12-07_0044",
+        "repo": "main",
+        "size": 11968653,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/circainfinity.zip"
+      },
+      "version": 3
+    },
     "cityglitch.zip": {
       "attr": {
         "arch": [
@@ -10836,6 +10907,55 @@
       },
       "version": 3
     },
+    "darkdeity.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [],
+        "desc": "Step into the world of Terrazael and lead soon-to-be legendary heroes in a quest to restore a land fractured by broken oaths, reckless wars, and untamed magic. Fight back in turn-based battles, manage character relationships, collect dangerous artifacts, and hopefully restore the world...",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy all game assets to `darkdeity/assets`.",
+        "inst_md": null,
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [
+          "ultra"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Dark Deity"
+      },
+      "items": [
+        "Dark Deity.sh",
+        "darkdeity"
+      ],
+      "items_opt": null,
+      "name": "darkdeity.zip",
+      "source": {
+        "date_added": "2024-12-07",
+        "date_updated": "2024-12-07",
+        "md5": "7d42cba51c4090971b01345add5331c5",
+        "release_id": "2024-12-07_0044",
+        "repo": "main",
+        "size": 1076740670,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/darkdeity.zip"
+      },
+      "version": 3
+    },
     "darkmoon.zip": {
       "attr": {
         "arch": [
@@ -11530,7 +11650,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download Deltarune v1.10 from https://archive.org/download/dr-ver-archive (official Toby Fox archive) and unzip to `ports/deltarune/gamedata`.",
+        "inst": "Download Deltarune v1.10 from https://archive.org/download/dr-ver-archive (official Toby Fox archive) and unzip to `ports/deltarune/assets`.",
         "inst_md": null,
         "porter": [
           "Jeod"
@@ -11548,12 +11668,12 @@
       "name": "deltarune.zip",
       "source": {
         "date_added": "2024-10-31",
-        "date_updated": "2024-12-03",
-        "md5": "b7a23cd8b00b3a69a4c3ff7a31d67a81",
-        "release_id": "2024-12-03_1159",
+        "date_updated": "2024-12-07",
+        "md5": "a4836559456f14284aa4595d42e3f09c",
+        "release_id": "2024-12-07_0044",
         "repo": "main",
-        "size": 30124582,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/deltarune.zip"
+        "size": 29322507,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/deltarune.zip"
       },
       "version": 3
     },
@@ -12719,6 +12839,82 @@
         "repo": "main",
         "size": 2940215,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-29_0749/dfencervstheorb.zip"
+      },
+      "version": 3
+    },
+    "digger.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Digger port based on the DOS version (remastered)",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.\nSource: https://github.com/sobomax/digger",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "EvilLurker",
+          "Slayer366"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Digger"
+      },
+      "items": [
+        "Digger.sh",
+        "digger/"
+      ],
+      "items_opt": null,
+      "name": "digger.zip",
+      "source": {
+        "date_added": "2024-12-07",
+        "date_updated": "2024-12-07",
+        "md5": "cad80b894f8c24a2eea14c073f56e9cb",
+        "release_id": "2024-12-07_0044",
+        "repo": "main",
+        "size": 170709,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/digger.zip"
       },
       "version": 3
     },
@@ -18642,12 +18838,12 @@
       "name": "gatoroboto.zip",
       "source": {
         "date_added": "2024-10-21",
-        "date_updated": "2024-10-21",
-        "md5": "9b6288398d5857cbd6886689cf947a26",
-        "release_id": "2024-10-21_0653",
+        "date_updated": "2024-12-07",
+        "md5": "7bc4a2bf9be1ff57bbf966c4ecab3944",
+        "release_id": "2024-12-07_0044",
         "repo": "main",
-        "size": 16259451,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/gatoroboto.zip"
+        "size": 20424082,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/gatoroboto.zip"
       },
       "version": 3
     },
@@ -29639,6 +29835,78 @@
       },
       "version": 3
     },
+    "mezzer.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "MEZZER is a brutal and bloody game about slicing your foes in half. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download Mezzer.exe from https://danieldavis.itch.io/mezzer and place it in /ports/mezzer",
+        "inst_md": null,
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "MEZZER"
+      },
+      "items": [
+        "MEZZER.sh",
+        "mezzer"
+      ],
+      "items_opt": null,
+      "name": "mezzer.zip",
+      "source": {
+        "date_added": "2024-12-07",
+        "date_updated": "2024-12-07",
+        "md5": "31257f928e4f259b8590bbfb9db74edd",
+        "release_id": "2024-12-07_0044",
+        "repo": "main",
+        "size": 11792813,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/mezzer.zip"
+      },
+      "version": 3
+    },
     "mightymike.zip": {
       "attr": {
         "arch": [
@@ -30656,8 +30924,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "FOR ITCH\n\nPurchase the game from itch.io (https://team-d-13.itch.io/monolith), grab the Windows version (Monolith.exe), and copy it into ports/monolith folder.\n\nFOR STEAM\n\nPurchase the game from Steam (https://store.steampowered.com/app/603960/Star_of_Providence), download using download_depot 603960 603961 7781865563262412532, and copy all the game files from /assets into ports/monolith/gamedata",
-        "inst_md": "FOR ITCH\n\nPurchase the game from [itch.io](https://team-d-13.itch.io/monolith), grab the Windows version (*Monolith.exe*), and and copy it into `ports/monolith` folder.\n\nFOR STEAM\n\nPurchase the game from [Steam](https://store.steampowered.com/app/603960/Star_of_Providence), download using `download_depot 603960 603961 7781865563262412532`, and copy all the game files from `/assets` into `ports/monolith/gamedata`",
+        "inst": "FOR ITCH\n\nPurchase the game from itch.io (https://team-d-13.itch.io/monolith), grab the Windows version (Monolith.exe), and copy it into ports/monolith folder.\n\nFOR STEAM\n\nPurchase the game from Steam (https://store.steampowered.com/app/603960/Star_of_Providence), download using download_depot 603960 603961 7781865563262412532, and copy Monolith.exe into ports/monolith folder",
+        "inst_md": "FOR ITCH\n\nPurchase the game from [itch.io](https://team-d-13.itch.io/monolith), grab the Windows version (*Monolith.exe*), and and copy it into `ports/monolith` folder.\n\nFOR STEAM\n\nPurchase the game from [Steam](https://store.steampowered.com/app/603960/Star_of_Providence), download using `download_depot 603960 603961 7781865563262412532`, and copy Monolith.exe into ports/monolith folder",
         "porter": [
           "tabreturn",
           "Fraxinus88"
@@ -30677,12 +30945,12 @@
       "name": "monolith.zip",
       "source": {
         "date_added": "2024-12-03",
-        "date_updated": "2024-12-05",
-        "md5": "63b0eebc54afd28f336550d29fb0a730",
-        "release_id": "2024-12-05_0844",
+        "date_updated": "2024-12-07",
+        "md5": "c5aa4beffb98def5df8263093cfd542d",
+        "release_id": "2024-12-07_0044",
         "repo": "main",
-        "size": 11832406,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-05_0844/monolith.zip"
+        "size": 11832379,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/monolith.zip"
       },
       "version": 3
     },
@@ -31426,17 +31694,28 @@
         "avail": [
           "rg353m:ALL",
           "rg353ps:ALL",
+          "rg351mp:ALL",
           "rg503:ALL",
           "rg552:ALL",
           "rg35xx-plus:ALL",
           "rg35xx-h:ALL",
           "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
           "rgb10:ALL",
+          "rgb20s:ALL",
           "rgb30:ALL",
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
-          "ace:ALL"
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
         ],
         "desc": "A Metroidvania with Point and Click style elements like Psychonauts.\nHelp Belle fix the mystic Walpurgisnacht Brew by finding three rare magical ingredients in order to clear her name.",
         "desc_md": null,
@@ -31446,20 +31725,21 @@
           "platformer"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
-        "inst": "[INSTRUCTIONS]\n\n1)Download Linux Version of Mystik Belle through Steam.(Please Note that only the Steam Version of Mystik Belle will work)\n2)Copy \"runner\" and \"assets\" folder from your purchased copy of Mystik Belle.\n3)Move \".sh\" file to Ports folder.\n4)ENJOY!!! :)\n\n{Reccommended Settings}\n[RK3566 Devices]\nVsync=off\nFramerate=30fps\nViewport=16:9\nGamespeed=Turbo",
+        "inst": "Download the Linux version through Steam with `download_depot 332610 332613 3942707501747355559` and add the contents of the `assets` folder to `mystikbelle/assets`.",
         "inst_md": null,
         "porter": [
           "Pridetoons",
+          "Jeod",
           "Cebion"
         ],
-        "reqs": [
-          "power"
-        ],
+        "reqs": [],
         "rtr": false,
         "runtime": null,
         "title": "Mystik Belle"
@@ -31472,12 +31752,12 @@
       "name": "mystikbelle.zip",
       "source": {
         "date_added": "2024-02-03",
-        "date_updated": "2024-07-28",
-        "md5": "5d29960cc16a20fa76bd7944936ac730",
-        "release_id": "2024-07-28_0519",
+        "date_updated": "2024-12-07",
+        "md5": "7af4c5929b539f4be58fcb50c48f7a29",
+        "release_id": "2024-12-07_0044",
         "repo": "main",
-        "size": 8858648,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-28_0519/mystikbelle.zip"
+        "size": 9233685,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/mystikbelle.zip"
       },
       "version": 3
     },
@@ -33878,6 +34158,77 @@
         "repo": "main",
         "size": 3058023,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/oddworld.zip"
+      },
+      "version": 3
+    },
+    "ofmiceandmoggies.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Of Mice and Moggies is a smart puzzle game, where you play a cat that tries to catch various animals. The levels can look simple at first, but require you to constantly find new ways of combining the animals and objects.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game at https://bippinbits.itch.io/of-mice-and-moggies -- download the Windows version, extract it, and place the game files in ofmiceandmoggies/gamedata",
+        "inst_md": "Purchase the game at [https://bippinbits.itch.io/of-mice-and-moggies](https://bippinbits.itch.io/of-mice-and-moggies) -- download the Windows version, extract it, and place the game files in `ofmiceandmoggies/gamedata`",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.3.4.squashfs",
+        "title": "Of Mice and Moggies"
+      },
+      "items": [
+        "Of Mice and Moggies.sh",
+        "ofmiceandmoggies"
+      ],
+      "items_opt": null,
+      "name": "ofmiceandmoggies.zip",
+      "source": {
+        "date_added": "2024-12-07",
+        "date_updated": "2024-12-07",
+        "md5": "e5f1896311bd786a0800254344e2cacd",
+        "release_id": "2024-12-07_0044",
+        "repo": "main",
+        "size": 50078,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/ofmiceandmoggies.zip"
       },
       "version": 3
     },
@@ -41151,10 +41502,11 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Buy the game on Steam and place all windows assets in the \"riskofrain\" portfolder.",
+        "inst": "Buy the game on Steam and place all windows assets in \"riskofrain/gamedata\" folder.",
         "inst_md": null,
         "porter": [
-          "JanTrueno"
+          "JanTrueno",
+          "kotzebuedog"
         ],
         "reqs": [],
         "rtr": false,
@@ -41169,12 +41521,12 @@
       "name": "riskofrain.zip",
       "source": {
         "date_added": "2024-08-06",
-        "date_updated": "2024-08-06",
-        "md5": "3fbd63c50455d80ab341197d3d13db88",
-        "release_id": "2024-08-06_0203",
+        "date_updated": "2024-12-07",
+        "md5": "efd13685d19e7a91b17a621a034d2591",
+        "release_id": "2024-12-07_0044",
         "repo": "main",
-        "size": 7559174,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/riskofrain.zip"
+        "size": 6093776,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/riskofrain.zip"
       },
       "version": 3
     },
@@ -42349,6 +42701,81 @@
         "repo": "main",
         "size": 11544199,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/rwatch.zip"
+      },
+      "version": 3
+    },
+    "santassurprise.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "'Twas the morning of Christmas Eve. The whole North Pole was preparing for the big night of present delivering and joy giving. Only Santa was nowhere to be seen... He was out in the forest on a very important mission - to get a present for Mrs. Claus. She had always wanted a cute little puppy, but there was only one problem - the workshop didn't make any puppies! So this year Santa ventured deep into the woods to meet with a local sled owner and adopt one of his adorable little huskies. It won't be easy, but it will be worth it to make the one he loves happy.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Santa's Surprise"
+      },
+      "items": [
+        "Santa's Surprise.sh",
+        "santassurprise"
+      ],
+      "items_opt": null,
+      "name": "santassurprise.zip",
+      "source": {
+        "date_added": "2024-12-07",
+        "date_updated": "2024-12-07",
+        "md5": "a6a94269fa1b0e380eb2b1ef9e622136",
+        "release_id": "2024-12-07_0044",
+        "repo": "main",
+        "size": 103369429,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/santassurprise.zip"
       },
       "version": 3
     },
@@ -53754,7 +54181,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game on Steam and add the game data to `ports/ufo50/gamedata`.",
+        "inst": "Purchase the game on Steam and add the game data to `ports/ufo50/assets`.",
         "inst_md": null,
         "porter": [
           "Jeod"
@@ -53772,12 +54199,12 @@
       "name": "ufo50.zip",
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2024-11-15",
-        "md5": "3461054cb712ffee998cd108a78ada93",
-        "release_id": "2024-11-15_1632",
+        "date_updated": "2024-12-07",
+        "md5": "d00fc54959f1b885927e07c1797f2853",
+        "release_id": "2024-12-07_0044",
         "repo": "main",
-        "size": 32288721,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-15_1632/ufo50.zip"
+        "size": 31982213,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/ufo50.zip"
       },
       "version": 3
     },
@@ -54952,12 +55379,12 @@
       "name": "vhr.zip",
       "source": {
         "date_added": "2024-11-07",
-        "date_updated": "2024-11-07",
-        "md5": "8bb744772b8a02b90f840e972370de96",
-        "release_id": "2024-11-07_1955",
+        "date_updated": "2024-12-07",
+        "md5": "2040c2f4a57107ab279d55a799a069ab",
+        "release_id": "2024-12-07_0044",
         "repo": "main",
-        "size": 22476572,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-07_1955/vhr.zip"
+        "size": 22562669,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/vhr.zip"
       },
       "version": 3
     },
@@ -57151,12 +57578,12 @@
       "name": "youdiedbanry.zip",
       "source": {
         "date_added": "2024-05-02",
-        "date_updated": "2024-07-18",
-        "md5": "ce9e8cce289389a26547c5a72bc29f65",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-12-07",
+        "md5": "f07be5ea7f31f0f9527b395631074237",
+        "release_id": "2024-12-07_0044",
         "repo": "main",
-        "size": 5195503,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/youdiedbanry.zip"
+        "size": 5286185,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/youdiedbanry.zip"
       },
       "version": 3
     },
