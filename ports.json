@@ -10990,7 +10990,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Dark Moon is a single-player horror survival arcade shooter. Styled on classic retro titles from the Atari days, you'll be trudging across the surface of an alien world, collecting your equipment from scattered containers, looking for any way out. A test of endurance, can you escape the horrors of Dark Moon?",
+        "desc": "A single-player horror survival arcade shooter. Styled on classic retro titles from the Atari days, you'll be trudging across the surface of an alien world, collecting your equipment from scattered containers, looking for any way out. A test of endurance, can you escape the horrors of Dark Moon?",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -11020,12 +11020,12 @@
       "name": "darkmoon.zip",
       "source": {
         "date_added": "2024-12-03",
-        "date_updated": "2024-12-03",
-        "md5": "1fab05f68e5372e2115a04d4925d9895",
-        "release_id": "2024-12-03_1159",
+        "date_updated": "2024-12-09",
+        "md5": "cd0a88af901da7291feca5a0cc165ec1",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 47391689,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/darkmoon.zip"
+        "size": 47391687,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/darkmoon.zip"
       },
       "version": 3
     },
@@ -17060,7 +17060,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Flaskoman is a puzzle platformer in a steampunk laboratory. Use mysterious liquids to activate lab mechanisms and your abilities.",
+        "desc": "A puzzle platformer in a steampunk laboratory. Use mysterious liquids to activate lab mechanisms and your abilities.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -17093,12 +17093,12 @@
       "name": "flaskoman.zip",
       "source": {
         "date_added": "2024-10-05",
-        "date_updated": "2024-10-14",
-        "md5": "5d2413c23358355aba310dec9ddcf1e4",
-        "release_id": "2024-10-14_0748",
+        "date_updated": "2024-12-09",
+        "md5": "63b2b8413d4ba4cc4bea6e1d6163c717",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 8868624,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/flaskoman.zip"
+        "size": 8868623,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/flaskoman.zip"
       },
       "version": 3
     },
@@ -17552,7 +17552,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "In FRANKEN, a hero fights monsters to become stronger so they can save the world.",
+        "desc": "A hero fights monsters to become stronger so they can save the world.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -17582,12 +17582,12 @@
       "name": "franken.zip",
       "source": {
         "date_added": "2024-10-10",
-        "date_updated": "2024-10-17",
-        "md5": "0fed07d6f6106618f25048ef23d92b1f",
-        "release_id": "2024-10-17_0726",
+        "date_updated": "2024-12-09",
+        "md5": "b453fb211d7fe741167249ffe0626a9e",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 52641595,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/franken.zip"
+        "size": 52641580,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/franken.zip"
       },
       "version": 3
     },
@@ -18583,7 +18583,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Galaxy Champions TV is a super-intense, top-down, closed-arena shooter game inspired by the classic arcade game Smash TV. Get powerful weapons and power-ups, kill huge amounts of enemies, level up, unlock upgrades and beat all the bosses to become the champion of the most violent TV show of all time!",
+        "desc": "A super-intense, top-down, closed-arena shooter game inspired by the classic arcade game Smash TV. Get powerful weapons and power-ups, kill huge amounts of enemies, level up, unlock upgrades and beat all the bosses to become the champion of the most violent TV show of all time!",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -18613,12 +18613,12 @@
       "name": "galaxychampionstv.zip",
       "source": {
         "date_added": "2024-12-05",
-        "date_updated": "2024-12-05",
-        "md5": "97eace9f3cca85a498869690f94dfaf5",
-        "release_id": "2024-12-05_0844",
+        "date_updated": "2024-12-09",
+        "md5": "e664a18ffc28517f77b9524fcd936665",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 7143800,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-05_0844/galaxychampionstv.zip"
+        "size": 7143799,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/galaxychampionstv.zip"
       },
       "version": 3
     },
@@ -21134,7 +21134,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Hallowed Candy is an old-school arcade one-screen point-em-up. Emphasis is on skill and beating your friend's high score with a cute seasonal Halloween setting.",
+        "desc": "An old-school arcade one-screen point-em-up. Emphasis is on skill and beating your friend's high score with a cute seasonal Halloween setting.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -21164,12 +21164,12 @@
       "name": "hallowedcandy.zip",
       "source": {
         "date_added": "2024-12-03",
-        "date_updated": "2024-12-03",
-        "md5": "b9023db58ed9b46713c2ee26a7820552",
-        "release_id": "2024-12-03_1159",
+        "date_updated": "2024-12-09",
+        "md5": "f5f1117136ef28ef51d2f981f06d8ba3",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 37869645,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/hallowedcandy.zip"
+        "size": 37869643,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/hallowedcandy.zip"
       },
       "version": 3
     },
@@ -23899,7 +23899,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "iii is a little 'catroidvania' about a one-eyed cat leaving his comfort zone. Explore underground caverns, gain vision of other dimensions, help the inhabitants, and expand your horizons.",
+        "desc": "A little 'catroidvania' about a one-eyed cat leaving his comfort zone. Explore underground caverns, gain vision of other dimensions, help the inhabitants, and expand your horizons.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -23930,12 +23930,12 @@
       "name": "iii.zip",
       "source": {
         "date_added": "2024-10-17",
-        "date_updated": "2024-10-17",
-        "md5": "b0b2f840eb526a8275497bc033696828",
-        "release_id": "2024-10-17_1221",
+        "date_updated": "2024-12-09",
+        "md5": "d5dd0ce61e74d1536f8859b6e6629c6e",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 5399343,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_1221/iii.zip"
+        "size": 5399344,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/iii.zip"
       },
       "version": 3
     },
@@ -27678,7 +27678,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Little Frog Game is... a little game, about a little frog! Jump around through 3 varied stages to collect flies and beetles, while avoiding enemies and hazards along the way!",
+        "desc": "A little game, about a little frog! Jump around through 3 varied stages to collect flies and beetles, while avoiding enemies and hazards along the way!",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -27708,12 +27708,12 @@
       "name": "littlefroggame.zip",
       "source": {
         "date_added": "2024-02-12",
-        "date_updated": "2024-11-18",
-        "md5": "40b966c7c5fd6b4db8f6fc93dbd11860",
-        "release_id": "2024-11-18_0913",
+        "date_updated": "2024-12-09",
+        "md5": "c84e885e72c13029044d059971566dc9",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 8054,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-18_0913/littlefroggame.zip"
+        "size": 8052,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/littlefroggame.zip"
       },
       "version": 3
     },
@@ -27894,7 +27894,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Livid Meadow is a short, story driven action platformer.",
+        "desc": "A short, story driven action platformer.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -27925,12 +27925,12 @@
       "name": "lividmeadow.zip",
       "source": {
         "date_added": "2024-10-12",
-        "date_updated": "2024-10-28",
-        "md5": "78990055b53e8e0055497885d824b4eb",
-        "release_id": "2024-10-28_0902",
+        "date_updated": "2024-12-09",
+        "md5": "fc5404788ebf3171c421fb19a4e5e4bd",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 18038433,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-28_0902/lividmeadow.zip"
+        "size": 18038432,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/lividmeadow.zip"
       },
       "version": 3
     },
@@ -28544,7 +28544,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Luck be a Landlord is a roguelike deck-builder about using a slot machine to earn rent money and defeat capitalism. This game does not contain any real-world currency gambling or microtransactions.",
+        "desc": "A roguelike deck-builder about using a slot machine to earn rent money and defeat capitalism. This game does not contain any real-world currency gambling or microtransactions.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -28575,12 +28575,12 @@
       "name": "luck.be.a.landlord.zip",
       "source": {
         "date_added": "2024-01-15",
-        "date_updated": "2024-10-14",
-        "md5": "f864376595dc49e9a34bd063973fefbb",
-        "release_id": "2024-10-14_0748",
+        "date_updated": "2024-12-09",
+        "md5": "64887e4107127c0ef64c27072049f4df",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 577737,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/luck.be.a.landlord.zip"
+        "size": 577735,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/luck.be.a.landlord.zip"
       },
       "version": 3
     },
@@ -28687,7 +28687,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Mable and the Wood is a Metroidvania where you can take the form of the bosses you kill, changing how you're able to explore the interconnected world. It's also a Metroidvania where you don't have to kill anyone.",
+        "desc": "A Metroidvania where you can take the form of the bosses you kill, changing how you're able to explore the interconnected world. It's also a Metroidvania where you don't have to kill anyone.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -28718,12 +28718,12 @@
       "name": "mableandthewood.zip",
       "source": {
         "date_added": "2024-05-17",
-        "date_updated": "2024-10-01",
-        "md5": "6eab6aa25d461331af097178d0dc61cd",
-        "release_id": "2024-10-01_1021",
+        "date_updated": "2024-12-09",
+        "md5": "b1ce0af462b8bd13b3762106ce7bcc62",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
         "size": 31402689,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/mableandthewood.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/mableandthewood.zip"
       },
       "version": 3
     },
@@ -29278,7 +29278,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Maskless is a surreal, atmospheric adventure with evocative art, sound, and an open-ended exploration of identity and self-expression.",
+        "desc": "A surreal, atmospheric adventure with evocative art, sound, and an open-ended exploration of identity and self-expression.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -29309,12 +29309,12 @@
       "name": "maskless.zip",
       "source": {
         "date_added": "2024-12-03",
-        "date_updated": "2024-12-03",
-        "md5": "0255020b2b1b275022edad70d0d9aedf",
-        "release_id": "2024-12-03_1159",
+        "date_updated": "2024-12-09",
+        "md5": "874359544d8e80ec1784599d50bbd71e",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 71962759,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/maskless.zip"
+        "size": 71962758,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/maskless.zip"
       },
       "version": 3
     },
@@ -34193,7 +34193,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Of Mice and Moggies is a smart puzzle game, where you play a cat that tries to catch various animals. The levels can look simple at first, but require you to constantly find new ways of combining the animals and objects.",
+        "desc": "A smart puzzle game, where you play a cat that tries to catch various animals. The levels can look simple at first, but require you to constantly find new ways of combining the animals and objects.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -34223,12 +34223,12 @@
       "name": "ofmiceandmoggies.zip",
       "source": {
         "date_added": "2024-12-07",
-        "date_updated": "2024-12-07",
-        "md5": "e5f1896311bd786a0800254344e2cacd",
-        "release_id": "2024-12-07_0044",
+        "date_updated": "2024-12-09",
+        "md5": "fd1b7a8a23d3942aa9da9dc6ee6bcaa0",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 50078,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/ofmiceandmoggies.zip"
+        "size": 50077,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/ofmiceandmoggies.zip"
       },
       "version": 3
     },
@@ -35115,6 +35115,80 @@
       },
       "version": 3
     },
+    "openttd.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe which was originally released in November of 1994.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "simulation"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Everything is included and ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Slayer366"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "OpenTTD"
+      },
+      "items": [
+        "OpenTTD.sh",
+        "openttd/"
+      ],
+      "items_opt": null,
+      "name": "openttd.zip",
+      "source": {
+        "date_added": "2022-02-12",
+        "date_updated": "2024-12-09",
+        "md5": "52fdbdfe7ab9a8733450b858b86336b0",
+        "release_id": "2024-12-09_2009",
+        "repo": "main",
+        "size": 49371725,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/openttd.zip"
+      },
+      "version": 3
+    },
     "opentyrian.zip": {
       "attr": {
         "arch": [
@@ -35520,7 +35594,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Oquonie is a textless isometric puzzle game.\n\nYou must make your way through a seemingly endless succession of rooms. You will not be alone. Your incarnations will have the help of bizaroid characters that speak an obscure language.",
+        "desc": "A textless isometric puzzle game.\n\nYou must make your way through a seemingly endless succession of rooms. You will not be alone. Your incarnations will have the help of bizaroid characters that speak an obscure language.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -35552,12 +35626,12 @@
       "name": "oquonie.zip",
       "source": {
         "date_added": "2024-02-03",
-        "date_updated": "2024-08-06",
-        "md5": "1528bad08197a0d6275302a651edcffe",
-        "release_id": "2024-08-06_0203",
+        "date_updated": "2024-12-09",
+        "md5": "5f0f21c2b13f496c41b8292da482970b",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 55124,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/oquonie.zip"
+        "size": 55123,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/oquonie.zip"
       },
       "version": 3
     },
@@ -36906,7 +36980,7 @@
           "ace:ALL",
           "trimui-smart-pro:ALL"
         ],
-        "desc": "Pixel Descent is an action rogue-lite in which you navigate a series of complex dungeons packed to the brim with monsters that want you dead. Sign the contract and descend into the deepest depths of the abyss knowing full well that you will definitely die there, it's just a matter of when.",
+        "desc": "An action rogue-lite in which you navigate a series of complex dungeons packed to the brim with monsters that want you dead. Sign the contract and descend into the deepest depths of the abyss knowing full well that you will definitely die there, it's just a matter of when.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -36939,12 +37013,12 @@
       "name": "pixeldescent.zip",
       "source": {
         "date_added": "2024-12-05",
-        "date_updated": "2024-12-05",
-        "md5": "32ef12fccb51497eb2480b249cd4cac6",
-        "release_id": "2024-12-05_0844",
+        "date_updated": "2024-12-09",
+        "md5": "249d38cad6bd53e9bc3de61aae0c4100",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 8722642,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-05_0844/pixeldescent.zip"
+        "size": 8722640,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/pixeldescent.zip"
       },
       "version": 3
     },
@@ -39479,7 +39553,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Q-YO Blaster is a shooting game, with peculiar characters, strange enemies, weapons, and many explosions. Enter the miniature world and stop the threat.",
+        "desc": "A shooting game, with peculiar characters, strange enemies, weapons, and many explosions. Enter the miniature world and stop the threat.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -39510,12 +39584,12 @@
       "name": "qyoblaster.zip",
       "source": {
         "date_added": "2024-12-03",
-        "date_updated": "2024-12-05",
-        "md5": "ba60c8530a7d91fadf196fd534e89d00",
-        "release_id": "2024-12-05_0844",
+        "date_updated": "2024-12-09",
+        "md5": "e4b77d8812b69cba0c3fdfe7e81100c9",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 16033439,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-05_0844/qyoblaster.zip"
+        "size": 16033438,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/qyoblaster.zip"
       },
       "version": 3
     },
@@ -39698,7 +39772,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Ramble Planet is an adventure game of exploration and puzzle solving. You have crash landed on Badmark, a hostile frontier planet and tourist hotspot. You must scour the wilderness, ruins, and settlements of this alien world to find replacement parts for your spaceship.",
+        "desc": "An adventure game of exploration and puzzle solving. You have crash landed on Badmark, a hostile frontier planet and tourist hotspot. You must scour the wilderness, ruins, and settlements of this alien world to find replacement parts for your spaceship.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -39729,12 +39803,12 @@
       "name": "rambleplanet.zip",
       "source": {
         "date_added": "2024-10-15",
-        "date_updated": "2024-10-27",
-        "md5": "ca6366f633d051aacd5918f2ac622dcb",
-        "release_id": "2024-10-27_1327",
+        "date_updated": "2024-12-09",
+        "md5": "25fa3ea2fd9bda1bee5e37121bc22b20",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 2701932,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/rambleplanet.zip"
+        "size": 2701931,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/rambleplanet.zip"
       },
       "version": 3
     },
@@ -42770,12 +42844,12 @@
       "name": "santassurprise.zip",
       "source": {
         "date_added": "2024-12-07",
-        "date_updated": "2024-12-07",
-        "md5": "a6a94269fa1b0e380eb2b1ef9e622136",
-        "release_id": "2024-12-07_0044",
+        "date_updated": "2024-12-09",
+        "md5": "aac12fc1befdc5a1ff19732539c8ef8b",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 103369429,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/santassurprise.zip"
+        "size": 103183564,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/santassurprise.zip"
       },
       "version": 3
     },
@@ -51378,7 +51452,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "THE WIND tells the story of Lizzy, a tough and resourceful plainswoman, and her struggle against supernatural forces around her isolated home. It's a short retro-inspired pixel horror game based on THE WIND (2019) directed by Emma Tammi.",
+        "desc": "The story of Lizzy, a tough and resourceful plainswoman, and her struggle against supernatural forces around her isolated home. It's a short retro-inspired pixel horror game based on THE WIND (2019) directed by Emma Tammi.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -51410,12 +51484,12 @@
       "name": "thewind.zip",
       "source": {
         "date_added": "2024-10-30",
-        "date_updated": "2024-11-03",
-        "md5": "ac2bd5dd7d3beb6763f2c4a5cedd176e",
-        "release_id": "2024-11-03_1903",
+        "date_updated": "2024-12-09",
+        "md5": "06ffdf5723c5e0725bc46b9d9dfb0ace",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 11546546,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-03_1903/thewind.zip"
+        "size": 11546539,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/thewind.zip"
       },
       "version": 3
     },
@@ -52553,7 +52627,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Towards The Pantheon: Escaping Eternity is a prequel mystery game that follows the journey of a soldier before the events of the full-length RPG, Towards The Pantheon. Players must solve puzzles, explore bizarre environments, and make sense of the the soldier's situation.",
+        "desc": "A prequel mystery game that follows the journey of a soldier before the events of the full-length RPG, Towards The Pantheon. Players must solve puzzles, explore bizarre environments, and make sense of the the soldier's situation.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -52584,12 +52658,12 @@
       "name": "towardsthepantheones.zip",
       "source": {
         "date_added": "2024-10-10",
-        "date_updated": "2024-10-15",
-        "md5": "0a49128e0c4814b6af23aa5776536a37",
-        "release_id": "2024-10-15_2128",
+        "date_updated": "2024-12-09",
+        "md5": "366686e322186074ffbfbba2f590269f",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 10852193,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/towardsthepantheones.zip"
+        "size": 10852192,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/towardsthepantheones.zip"
       },
       "version": 3
     },
@@ -53282,7 +53356,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Trolley Delayma is a tiny puzzle game where you move around manipulating the tracks to save the victims and delay the inevitable fate forever. A combination of puzzle solving and fast reaction to save everyone, including you!",
+        "desc": "A tiny puzzle game where you move around manipulating the tracks to save the victims and delay the inevitable fate forever. A combination of puzzle solving and fast reaction to save everyone, including you!",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -53312,12 +53386,12 @@
       "name": "trolley.delayma.zip",
       "source": {
         "date_added": "2024-01-22",
-        "date_updated": "2024-10-01",
-        "md5": "f3b1663cc9f18d8bc71b33a60841d61c",
-        "release_id": "2024-10-01_1021",
+        "date_updated": "2024-12-09",
+        "md5": "27e552dab4ed62ab01115605ebc64b40",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 10543991,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/trolley.delayma.zip"
+        "size": 10543990,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/trolley.delayma.zip"
       },
       "version": 3
     },
@@ -55422,7 +55496,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Vikings of Midgard is a hybrid of modern and retro-styled RPGs based on those released on the Super Nintendo, created using the OHRRPGCE engine.",
+        "desc": "A hybrid of modern and retro-styled RPGs based on those released on the Super Nintendo, created using the OHRRPGCE engine.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -55452,12 +55526,12 @@
       "name": "vikingsofmidgard.zip",
       "source": {
         "date_added": "2024-09-29",
-        "date_updated": "2024-10-17",
-        "md5": "138c1b1fb5ce5e497558a4c5085bfe55",
-        "release_id": "2024-10-17_0726",
+        "date_updated": "2024-12-09",
+        "md5": "ee8f74eb9c317a23fb928bb0d8da4e9b",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 50115296,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/vikingsofmidgard.zip"
+        "size": 50115292,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/vikingsofmidgard.zip"
       },
       "version": 3
     },
@@ -55493,7 +55567,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Viral Reload is an infinite wave-based shoot-em-up with a unique dash mechanic. Blast away at deadly viruses, mechanical hybrids, and two unique bosses. Dash through bullets, lasers, and enemies to stay alive and score!",
+        "desc": "An infinite wave-based shoot-em-up with a unique dash mechanic. Blast away at deadly viruses, mechanical hybrids, and two unique bosses. Dash through bullets, lasers, and enemies to stay alive and score!",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -55523,12 +55597,12 @@
       "name": "viralreload.zip",
       "source": {
         "date_added": "2024-05-22",
-        "date_updated": "2024-09-29",
-        "md5": "69ddfee12012adb772801656cde07842",
-        "release_id": "2024-09-29_1340",
+        "date_updated": "2024-12-09",
+        "md5": "08ec853140c8ccb423cb0c0587500817",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 518147,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-29_1340/viralreload.zip"
+        "size": 518146,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/viralreload.zip"
       },
       "version": 3
     },
@@ -55712,7 +55786,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Void Pyramid is a post-apocalyptic RPG set in the space-faring Egyptian empire. In the far future, the maniacal Prime Pharaoh rules the wastelands of Earth. Any who oppose him are exiled to the Void Pyramid. This outer space prison is populated by criminals, beasts, and mutants.",
+        "desc": "A post-apocalyptic RPG set in the space-faring Egyptian empire. In the far future, the maniacal Prime Pharaoh rules the wastelands of Earth. Any who oppose him are exiled to the Void Pyramid. This outer space prison is populated by criminals, beasts, and mutants.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -55743,12 +55817,12 @@
       "name": "voidpyramid.zip",
       "source": {
         "date_added": "2024-10-28",
-        "date_updated": "2024-10-28",
-        "md5": "6193221cc348fa2878cee8d82043df3b",
-        "release_id": "2024-10-28_0902",
+        "date_updated": "2024-12-09",
+        "md5": "e0dd9d2f40812b7932ae6c1cf2cc37c6",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 2705427,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-28_0902/voidpyramid.zip"
+        "size": 2705424,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/voidpyramid.zip"
       },
       "version": 3
     },
@@ -58771,7 +58845,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Zeroptian Invasion is a classic shoot 'em up with mechanics from other arcades of the 80s. Travel back in time with this unique pixelated experience featuring an incredible soundtrack in chiptune.",
+        "desc": "A classic shoot 'em up with mechanics from other arcades of the 80s. Travel back in time with this unique pixelated experience featuring an incredible soundtrack in chiptune.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -58804,12 +58878,12 @@
       "name": "zeroptianinvasion.zip",
       "source": {
         "date_added": "2024-10-30",
-        "date_updated": "2024-11-19",
-        "md5": "88c1567f6d559886f7482dadc4ac5100",
-        "release_id": "2024-11-19_0913",
+        "date_updated": "2024-12-09",
+        "md5": "e8451adef95d308daa81ed68fa0fd8ea",
+        "release_id": "2024-12-09_2009",
         "repo": "main",
-        "size": 14528389,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-19_0913/zeroptianinvasion.zip"
+        "size": 14528388,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/zeroptianinvasion.zip"
       },
       "version": 3
     },
